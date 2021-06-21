@@ -1,5 +1,5 @@
 # EvoPlan
-This folder contains the replication package for EvoPlan - EASE 2021 conference.
+This folder contains the replication package for EvoPlan - APIN (Applied Intelligence) journal 2021.
 
 ## Usage Step 1
 ```
