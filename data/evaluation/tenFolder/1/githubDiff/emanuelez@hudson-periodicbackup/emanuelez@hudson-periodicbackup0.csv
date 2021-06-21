@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.7,+,2011-01-13
+junit,4.7,-,2011-02-17
+junit,4.7,+,2011-02-17
+plexus-archiver,1.0-alpha-11,-,2011-02-17
+plexus-archiver,1.0-alpha-11,+,2011-02-17
+plexus-archiver,1.0-alpha-11,+,2011-01-05
+plexus-archiver,1.0-alpha-11,+,2011-02-04
+plexus-archiver,1.0-alpha-11,-,2011-01-19
+guava,r05,-,2011-02-17
+guava,r05,+,2011-01-13
+guava,r05,+,2011-02-17

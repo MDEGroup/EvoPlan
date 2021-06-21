@@ -1,0 +1,9 @@
+library,version,sign,date
+jinterface,1.5.3.1,+,2012-11-26
+jinterface,1.5.3.1,-,2012-11-23
+junit,4.8.2,-,2013-02-08
+junit,4.8.2,+,2013-02-08
+support-v4,r7,+,2012-11-26
+support-v4,r7,-,2012-11-23
+lightcouch,0.0.4,-,2012-11-23
+lightcouch,0.0.4,+,2012-11-23

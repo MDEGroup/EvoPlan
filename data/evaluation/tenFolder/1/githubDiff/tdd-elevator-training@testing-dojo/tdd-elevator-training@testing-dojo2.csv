@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.8.2,+,2012-03-08
+junit,4.8.2,-,2012-03-08
+fest-assert,1.4,-,2012-03-08
+fest-assert,1.4,+,2012-03-08
+java-client,1.0,-,2012-03-08
+java-client,1.0,-,2012-03-09
+java-client,1.0,+,2012-03-08
+java-client,1.0,+,2012-03-09
+selenium-java,2.16.0,-,2012-03-09
+selenium-java,2.20.0,-,2012-03-09
+selenium-java,2.16.0,+,2012-03-08

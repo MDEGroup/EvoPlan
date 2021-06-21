@@ -1,0 +1,13 @@
+library,version,sign,date
+slf4j-api,1.7.28,+,2013-01-26
+junit,4.8.2,+,2013-01-26
+junit,4.7,-,2013-01-26
+logback-classic,1.2.3,+,2013-01-26
+commons-codec,1.13,+,2019-08-31
+rdf4j-runtime-osgi,3.0.0,+,2013-01-26
+logback-core,1.2.3,+,2013-01-26
+commons-collections4,4.4,+,2013-01-26
+commons-beanutils,1.9.4,+,2013-01-26
+commons-lang3,3.9,+,2013-01-26
+com.springsource.org.antlr.runtime,3.1.3,+,2013-01-26
+com.springsource.org.antlr.runtime,3.1.3,-,2013-01-26

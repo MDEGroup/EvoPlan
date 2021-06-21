@@ -1,0 +1,14 @@
+library,version,sign,date
+cglib,2.2,+,2013-07-01
+cglib,2.2,-,2013-06-18
+cglib,2.2,+,2013-06-21
+cglib,2.2,-,2013-06-21
+cglib,2.2,+,2013-06-17
+cglib,2.2,+,2013-06-18
+cglib,2.2,-,2013-07-01
+spring-data-mongodb,1.2.1.RELEASE,-,2013-06-17
+fongo,1.1.1,+,2013-07-13
+commons,0.0.1-SNAPSHOT,-,2013-07-01
+commons,0.0.1-SNAPSHOT,+,2013-07-01
+commons,0.0.1-SNAPSHOT,+,2013-06-21
+commons,0.0.1-SNAPSHOT,+,2013-06-17

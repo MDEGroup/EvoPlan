@@ -1,0 +1,13 @@
+library,version,sign,date
+logback-jackson,0.1.5,+,2019-10-25
+logback-jackson,0.1.5,+,2020-03-04
+logback-json-classic,0.1.5,+,2019-10-25
+logback-json-classic,0.1.5,+,2020-03-04
+jackson-databind,2.9.8,-,2020-03-25
+jackson-core,2.9.8,-,2020-03-25
+lombok,1.18.10,+,2019-11-07
+lombok,1.18.4,-,2019-11-07
+lombok,1.18.6,-,2019-11-07
+ep-restclient,0.0.1-SNAPSHOT,-,2019-11-07
+ep-restclient,0.0.1-SNAPSHOT,-,2019-10-25
+ep-restclient,0.0.1-SNAPSHOT,+,2019-10-25

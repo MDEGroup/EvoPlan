@@ -1,0 +1,17 @@
+library,version,sign,date
+jcr,1.0,+,2009-06-29
+jcr,1.0,-,2009-06-29
+sakai-component-manager,1.0RC2-SNAPSHOT,+,2009-06-29
+sakai-component-manager,1.0.10-SNAPSHOT,-,2009-06-29
+sakai-component-manager,1.0.10,-,2009-06-29
+sakai-component-manager,1.0.10,+,2009-06-29
+commons-logging,1.0.4,-,2009-06-29
+commons-logging,1.0.4,+,2009-06-29
+sakai-kernel-api,1.0RC2-SNAPSHOT,+,2009-06-29
+sakai-kernel-api,1.0.10-SNAPSHOT,-,2009-06-29
+sakai-kernel-api,1.0.10,-,2009-06-29
+sakai-kernel-api,1.0.10,+,2009-06-29
+sakai-kernel-util,1.0.10-SNAPSHOT,-,2009-06-29
+sakai-kernel-util,1.0.10,-,2009-06-29
+sakai-kernel-util,1.0.10,+,2009-06-29
+sakai-db-storage,1.0RC2-SNAPSHOT,+,2009-06-29

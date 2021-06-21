@@ -1,0 +1,4 @@
+library,version,sign,date
+mail,1.4.3,+,2012-12-11
+mail,1.4.3,-,2012-12-11
+mail,1.4.3,-,2012-12-20

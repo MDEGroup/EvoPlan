@@ -1,0 +1,11 @@
+library,version,sign,date
+cilia-core,1.5.0,+,2012-04-27
+cilia-core,1.2.2-SNAPSHOT,-,2012-04-27
+cilia-core,1.5.0,-,2012-09-20
+cilia-runtime,1.5.0,+,2012-04-27
+cilia-runtime,1.2.2-SNAPSHOT,-,2012-04-27
+cilia-runtime,1.5.0,-,2012-09-20
+servlet-api,2.5,-,2012-09-21
+servlet-api,2.5,+,2013-12-31
+servlet-api,2.5,-,2012-09-17
+servlet-api,2.5,-,2013-12-31

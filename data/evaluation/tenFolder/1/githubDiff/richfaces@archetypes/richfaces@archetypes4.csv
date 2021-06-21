@@ -1,0 +1,9 @@
+library,version,sign,date
+rewrite-servlet,1.0.3.Final,+,2012-03-26
+rewrite-servlet,1.0.3.Final,-,2012-04-10
+hibernate-validator,4.2.0.Final,+,2012-03-12
+hibernate-validator,4.2.0.Final,-,2012-05-08
+rewrite-integration-cdi,1.0.3.Final,+,2012-03-26
+rewrite-integration-cdi,1.0.3.Final,-,2012-04-10
+hibernate-jpamodelgen,1.1.1.Final,+,2012-03-12
+hibernate-jpamodelgen,1.1.1.Final,-,2012-05-08

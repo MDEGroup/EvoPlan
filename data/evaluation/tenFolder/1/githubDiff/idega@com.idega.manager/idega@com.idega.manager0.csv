@@ -1,0 +1,14 @@
+library,version,sign,date
+maven-repository-metadata,2.0.8,+,2008-01-29
+com.idega.core,4.0.0,-,2008-01-20
+com.idega.core,3.5.0,-,2006-11-21
+com.idega.core,3.1.0,-,2006-06-20
+com.idega.core,4.0-SNAPSHOT,-,2007-04-18
+com.idega.core,4.0.0,+,2007-10-09
+maven-model,2.0.8,+,2008-01-29
+maven,2.0.8,+,2008-01-29
+wagon,1.0-beta-2,+,2008-01-29
+wagon-http-lightweight,1.0-beta-2,+,2008-01-29
+wagon-http-lightweight,20040714.210443,-,2006-06-20
+wagon-http-lightweight,1.0-alpha-3,-,2007-04-18
+jug,1.1,-,2007-09-26

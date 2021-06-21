@@ -1,0 +1,6 @@
+library,version,sign,date
+spring-boot-starter-web,1.2.5.RELEASE,-,2015-11-29
+spring-boot-starter-web,1.2.0.RELEASE,-,2015-08-04
+spring-boot-configuration-processor,1.2.5.RELEASE,-,2015-11-29
+spring-boot-configuration-processor,1.2.0.RELEASE,-,2015-08-04
+spring-boot-configuration-processor,1.2.0.RELEASE,+,2015-01-28

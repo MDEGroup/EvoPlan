@@ -1,0 +1,4 @@
+library,version,sign,date
+jetty-schemas,4.0-SNAPSHOT,-,2020-03-04
+jetty-schemas,4.0.3,-,2020-03-04
+jetty-schemas,5.0-SNAPSHOT,-,2020-03-20

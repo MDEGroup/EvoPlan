@@ -1,0 +1,6 @@
+library,version,sign,date
+jabm,0.6,-,2013-07-02
+ta-lib,0.4.0,+,2013-07-02
+investovator-core,0.1,+,2013-08-25
+investovator-core,0.1,+,2013-10-04
+investovator-core,0.1,-,2013-10-04

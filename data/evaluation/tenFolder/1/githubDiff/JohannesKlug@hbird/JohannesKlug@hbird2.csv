@@ -1,0 +1,4 @@
+library,version,sign,date
+cs2,1.0.0,-,2013-11-21
+cs2,1.0.0,+,2013-11-21
+joda-time,2.2,-,2013-11-21

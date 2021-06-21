@@ -1,0 +1,14 @@
+library,version,sign,date
+framework,1.6.1,-,2013-02-21
+framework,1.6.1-SNAPSHOT,-,2012-05-03
+framework,1.4.1-SNAPSHOT,-,2010-10-28
+framework,1.5.1-SNAPSHOT,-,2012-04-26
+framework,1.6.0,-,2012-05-03
+framework,1.5.0,-,2010-11-04
+util,1.6.1,-,2013-02-21
+util,1.6.1,+,2012-05-03
+commons-cli,1.2,-,2013-02-22
+commons-cli,1.2,+,2013-02-22
+commons-cli,1.2,+,2012-05-03
+commons-cli,1.2,+,2012-02-01
+commons-cli,1.2,-,2012-04-26

@@ -1,0 +1,7 @@
+library,version,sign,date
+maven-core,3.5.2,-,2018-01-30
+maven-core,3.6.0,-,2018-11-21
+maven-core,3.5.4,-,2018-08-08
+maven-core,3.6.0,+,2018-11-21
+junit,4.12,-,2018-11-21
+junit,4.12,+,2018-11-21

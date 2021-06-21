@@ -1,0 +1,7 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2012-03-21
+junit,4.10,-,2012-03-21
+logback-classic,1.0.1,-,2012-03-21
+logback-classic,1.0.0,-,2012-03-20
+maven-shared-utils,0.4,-,2014-02-25
+maven-shared-utils,0.4,+,2013-03-01

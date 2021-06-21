@@ -1,0 +1,6 @@
+library,version,sign,date
+logback-classic,0.9.15,+,2012-03-08
+salat_${scala.version},1.9.1,+,2012-03-08
+bson4jackson,1.3.0,+,2012-02-22
+casbah_${scala.version},2.4.1,+,2012-03-08
+testng,6.2,+,2012-03-08

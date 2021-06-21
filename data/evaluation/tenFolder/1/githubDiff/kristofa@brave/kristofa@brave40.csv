@@ -1,0 +1,12 @@
+library,version,sign,date
+jaxb-api,2.3.0,-,2018-10-18
+jaxb-api,2.3.0,+,2018-09-30
+jaxb-api,2.3.0,+,2018-10-18
+brave-instrumentation-http-tests,@project.version@,+,2020-02-25
+brave-instrumentation-http-tests,@project.version@,+,2020-01-22
+activation,1.1.1,+,2018-09-30
+guice,4.2.1,-,2019-05-21
+guice,4.2.0,-,2018-09-30
+guice,4.1.0,-,2019-05-21
+guice,4.1.0,-,2018-07-24
+guice,4.2.2,-,2020-04-06

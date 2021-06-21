@@ -1,0 +1,8 @@
+library,version,sign,date
+jackson-databind,2.8.8,-,2018-10-15
+jackson-databind,2.8.11.2,-,2019-03-28
+jackson-databind,2.9.9.1,-,2019-09-02
+jackson-databind,2.9.5,+,2019-08-07
+jackson-databind,[2.9.9,),-,2019-06-06
+jackson-databind,2.9.5,-,2019-10-28
+jackson-databind,[2.9.10,),-,2019-10-28

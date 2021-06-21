@@ -1,0 +1,16 @@
+library,version,sign,date
+junit-dep,4.10,+,2011-10-24
+junit-dep,4.10,-,2012-01-15
+hamcrest-integration,1.3.RC2,-,2012-01-15
+hamcrest-integration,1.3.RC2,+,2011-10-24
+lambdaj,2.3.1,+,2011-10-24
+lambdaj,2.3.1,-,2012-01-15
+jmock-junit4,2.5.1,+,2011-10-24
+jmock-junit4,2.5.1,-,2012-03-30
+jmock-junit4,2.5.1,-,2012-01-15
+commons-lang3,3.0.1,-,2012-01-15
+commons-lang3,3.0.1,+,2011-10-24
+guava,10.0,-,2012-01-15
+guava,10.0,+,2011-10-24
+guice,3.0,-,2012-01-15
+guice,3.0,+,2011-10-24

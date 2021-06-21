@@ -1,0 +1,11 @@
+library,version,sign,date
+metrics-core,3.1.2,-,2017-06-07
+metrics-core,3.2.1,-,2018-03-20
+metrics-core,3.2.1,+,2017-06-07
+metrics-core,3.2.6,+,2018-03-20
+junit,4.13,+,2019-05-21
+junit,4.12,-,2019-05-21
+mockito-core,2.1.0,+,2017-08-19
+mockito-core,2.1.0,-,2019-05-21
+mockito-core,2.28.2,+,2019-05-21
+log4j,1.2.16,-,2017-02-02

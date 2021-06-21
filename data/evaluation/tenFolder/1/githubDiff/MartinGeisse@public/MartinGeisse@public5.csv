@@ -1,0 +1,11 @@
+library,version,sign,date
+commons-codec,1.9,+,2014-05-29
+jsr305,2.0.3,+,2014-05-29
+joda-time,2.3,+,2014-05-29
+commons-compress,1.8.1,+,2014-05-29
+commons-beanutils,1.9.1,+,2014-05-29
+commons-lang3,3.3.2,+,2014-05-29
+guava,17.0,+,2014-05-29
+commons-io,2.4,+,2014-05-29
+commons-exec,1.2,+,2014-10-02
+log4j,1.2.17,+,2014-05-29

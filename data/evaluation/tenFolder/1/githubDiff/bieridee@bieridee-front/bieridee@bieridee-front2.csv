@@ -1,0 +1,8 @@
+library,version,sign,date
+android-test,2.2.1,+,2012-03-19
+android-test,2.2.1,-,2012-03-19
+android,2.2.1,+,2012-03-19
+android,2.2.1,-,2012-03-19
+bieridee-front,1.0-SNAPSHOT,+,2012-03-19
+bieridee-front,1.0-SNAPSHOT,-,2012-03-19
+robotium-solo,3.1,+,2012-05-04

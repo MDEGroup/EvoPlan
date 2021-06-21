@@ -1,0 +1,11 @@
+library,version,sign,date
+dime-semantic,0.0.1-SNAPSHOT,-,2013-07-21
+dime-semantic,0.0.1-SNAPSHOT,+,2013-07-21
+dime-semantic,0.0.1-SNAPSHOT,+,2013-06-26
+joda-time,1.6,+,2013-07-21
+joda-time,1.6,-,2013-07-21
+gson,2.2.2,+,2013-06-26
+commons-lang3,3.1,+,2013-06-26
+dime-common,0.0.1-SNAPSHOT,-,2013-07-21
+dime-common,0.0.1-SNAPSHOT,+,2013-07-21
+jsonld-java-rdf2go,0.3,+,2013-07-21

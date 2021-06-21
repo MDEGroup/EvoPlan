@@ -1,0 +1,5 @@
+library,version,sign,date
+heartbeat-api,11.0.0-SNAPSHOT,-,2017-09-08
+heartbeat-api,10.1.0-SNAPSHOT,-,2017-06-13
+heartbeat-api,9.0.0-SNAPSHOT,-,2017-04-13
+heartbeat-api,10.0.0-SNAPSHOT,-,2017-05-22

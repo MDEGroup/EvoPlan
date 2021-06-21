@@ -1,0 +1,9 @@
+library,version,sign,date
+deltaspike-core-impl,0.7,+,2014-05-31
+deltaspike-core-impl,0.7,-,2014-09-15
+deltaspike-security-module-api,0.7,+,2014-05-31
+deltaspike-security-module-api,0.7,-,2014-09-15
+deltaspike-core-api,0.7,+,2014-05-31
+deltaspike-core-api,0.7,-,2014-09-15
+deltaspike-security-module-impl,0.7,+,2014-05-31
+deltaspike-security-module-impl,0.7,-,2014-09-15

@@ -1,0 +1,7 @@
+library,version,sign,date
+protobuf-java,2.5.0,+,2013-11-17
+protobuf-java,2.4.0a,-,2013-11-17
+guava,11.0.2,-,2015-09-09
+guava,14.0.1,+,2015-09-09
+guava,14.0.1,+,2014-06-03
+guava,14.0.1,-,2015-09-09

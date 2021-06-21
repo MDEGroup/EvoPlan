@@ -1,0 +1,9 @@
+library,version,sign,date
+mockito-all,1.8.4,+,2013-10-03
+junit,3.8.1,-,2013-09-30
+mongo-java-driver,2.11.3,+,2013-09-30
+wiremock,1.33,+,2013-09-30
+jackson-mapper-asl,1.9.3,+,2013-09-30
+commons-lang3,3.2.1,+,2013-11-22
+guava,15.0,+,2013-11-12
+httpclient,4.1.2,+,2013-09-30

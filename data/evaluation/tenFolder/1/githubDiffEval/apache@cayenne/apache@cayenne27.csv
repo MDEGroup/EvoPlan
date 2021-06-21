@@ -1,0 +1,17 @@
+library,version,sign,date
+maven-core,3.3.9,-,2017-06-05
+junit,4.11,-,2017-06-05
+maven-plugin-api,3.3.9,-,2017-06-05
+slf4j-simple,1.7.7,-,2017-02-24
+slf4j-simple,1.7.25,+,2017-10-06
+plexus-container-default,1.6,-,2017-06-05
+derby,10.13.1.1,+,2017-10-06
+derby,10.12.1.1,-,2018-07-11
+maven-compat,3.3.9,-,2017-06-05
+maven-artifact,3.3.9,-,2017-06-05
+mockito-core,2.8.9,-,2018-04-11
+mockito-core,2.23.4,-,2019-05-21
+mockito-core,2.8.9,+,2017-06-05
+mockito-core,2.18.3,-,2018-07-11
+xmlunit,1.5,-,2017-06-05
+plexus-interpolation,1.21,-,2017-06-05

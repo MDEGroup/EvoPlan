@@ -1,0 +1,8 @@
+library,version,sign,date
+easymock,3.0,+,2012-02-24
+jopt-simple,3.2,-,2012-03-06
+jopt-simple,3.2,+,2012-02-20
+commons-collections,2.1.1,+,2012-02-20
+testng,6.1.1,+,2012-02-20
+commons-lang,2.4,+,2012-02-20
+picard,1.54,+,2012-07-17

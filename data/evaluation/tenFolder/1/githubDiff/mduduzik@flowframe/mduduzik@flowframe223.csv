@@ -1,0 +1,6 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2012-12-17
+slf4j-api,1.6.4,+,2012-12-30
+org.flowframe.bpm.jbpm.services,0.0.1,+,2012-12-17
+org.flowframe.bpm.jbpm.services,0.0.1,+,2012-12-30
+org.flowframe.portal.remote.services,0.0.1,+,2012-12-27

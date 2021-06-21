@@ -1,0 +1,6 @@
+library,version,sign,date
+cglib,2.2.2,+,2012-02-05
+jen-api,4.x.p,+,2011-12-30
+jen-api,4.x.p,-,2012-06-08
+jen-api,4.x.p,+,2012-06-08
+commons-logging,1.0.4,+,2012-06-08

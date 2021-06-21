@@ -1,0 +1,16 @@
+library,version,sign,date
+preon-binding,1.0,+,2009-10-13
+preon-binding,1.0,+,2010-03-25
+preon-binding,1.1-SNAPSHOT,+,2010-08-06
+preon-binding,1.0,-,2010-08-06
+preon-binding,1.0,-,2010-03-25
+preon-binding,1.0,-,2009-10-13
+junit,4.7,-,2009-10-13
+junit,4.8.1,+,2010-08-06
+junit,4.7,-,2010-03-25
+junit,4.7,+,2010-03-25
+junit,4.7,+,2009-10-13
+hamcrest-all,1.1,+,2009-10-13
+hamcrest-all,1.1,+,2010-03-25
+hamcrest-all,1.1,-,2010-03-25
+hamcrest-all,1.1,-,2009-10-13

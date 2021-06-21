@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,3.8.1,-,2012-08-03
+junit,4.10,+,2012-08-06
+hibernate-core,4.1.6.Final,+,2012-08-28
+hibernate-core,4.1.5.Final,-,2012-08-28
+simple-odf,0.7-incubating,+,2012-09-04
+log4j,1.2.17,+,2012-08-06

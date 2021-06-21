@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.7,-,2011-04-25
+junit,4.8.2,-,2011-06-28
+junit,4.6,-,2009-10-07
+junit,4.8.2,-,2011-09-01
+junit,4.8.2,+,2011-06-28
+rhino,1.7R3,+,2011-09-01
+rhino,1.7R3,-,2012-05-03
+commons-cli,1.2,+,2011-09-01
+commons-logging,1.1,-,2010-06-25
+commons-logging,1.1.1,-,2011-06-28
+commons-logging,1.1.1,+,2011-06-28

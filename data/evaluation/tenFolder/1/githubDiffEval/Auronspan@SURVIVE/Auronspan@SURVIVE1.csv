@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,3.8.1,+,2013-12-12
+junit,3.8.1,+,2013-11-27
+junit,3.8.1,-,2013-12-12
+spring-security-taglibs,3.2.0.RELEASE,+,2013-12-12
+spring-security-config,3.2.0.RELEASE,+,2013-12-12
+aspectjrt,1.6.12,+,2013-11-26
+spring-aspects,3.1.2.RELEASE,+,2013-11-26
+spring-aspects,3.2.6.RELEASE,+,2013-12-12
+spring-security-web,3.2.0.RELEASE,+,2013-12-12
+javax.inject,1,+,2013-11-26
+javax.inject,1,-,2013-11-26

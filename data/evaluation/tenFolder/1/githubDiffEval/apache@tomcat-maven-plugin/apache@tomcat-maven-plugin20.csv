@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.9,+,2013-01-07
+junit,4.9,-,2016-08-16
+junit,4.10,-,2013-01-07
+log4j,1.2.12,-,2012-08-05
+cxf-bundle-jaxrs,2.6.4,-,2013-01-07
+cxf-bundle-jaxrs,2.5.1,-,2012-08-05

@@ -1,0 +1,12 @@
+library,version,sign,date
+cassandra-unit,2.2.2.0-SNAPSHOT,-,2015-10-14
+cassandra-unit,2.1.3.2-SNAPSHOT,-,2015-09-01
+cassandra-unit,2.2.2.0,-,2015-12-16
+cassandra-unit,2.1.9.1-SNAPSHOT,-,2015-09-08
+cassandra-unit,2.2.2.1-SNAPSHOT,-,2015-12-16
+cassandra-unit,2.2.0-SNAPSHOT,-,2015-10-13
+cassandra-unit,2.1.9.1,-,2015-09-08
+cassandra-unit,2.1.9.3-SNAPSHOT,-,2015-09-08
+cassandra-unit,2.1.9.2,-,2015-09-08
+cassandra-unit,2.1.9.2-SNAPSHOT,-,2015-09-08
+cassandra-unit,2.1.8.1-SNAPSHOT,-,2015-09-02

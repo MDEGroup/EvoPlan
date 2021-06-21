@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.11,-,2014-05-19
+test,2.0.0-SNAPSHOT,-,2014-10-11
+test,2.0.0,+,2014-10-01
+test,2.0.1-SNAPSHOT,-,2014-11-26
+test,2.0.1-SNAPSHOT,-,2014-10-11
+test,2.0.0,-,2014-10-11
+joda-time,2.2,+,2014-04-25
+joda-time,2.2,-,2014-05-19
+joda-time,2.2,+,2014-04-29
+joda-time,2.2,+,2014-05-09
+joda-time,2.2,-,2014-04-25

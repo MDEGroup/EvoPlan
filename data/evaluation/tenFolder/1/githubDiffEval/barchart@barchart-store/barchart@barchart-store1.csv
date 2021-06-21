@@ -1,0 +1,7 @@
+library,version,sign,date
+store-api,4.0.40-SNAPSHOT,-,2014-11-14
+store-api,4.0.41-SNAPSHOT,-,2014-11-20
+store-api,[4.0-SNAPSHOT,4.1-SNAPSHOT),-,2014-11-13
+store-util,3.0.16-SNAPSHOT,-,2014-11-20
+store-util,3.0.15-SNAPSHOT,-,2014-11-14
+store-util,[3-SNAPSHOT,4-SNAPSHOT),-,2014-11-13

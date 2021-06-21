@@ -1,0 +1,9 @@
+library,version,sign,date
+org.apache.sling.launchpad.base,2.2.0,-,2011-03-23
+org.apache.sling.launchpad.base,2.2.0,-,2011-04-12
+org.apache.sling.launchpad.base,2.1.1-20100322,+,2010-05-28
+org.apache.sling.launchpad.base,2.1.1-20100322,-,2010-07-08
+org.apache.sling.launchpad.base,2.1.1-20100322,-,2010-05-28
+org.apache.sling.launchpad.base,2.2.0,-,2011-04-28
+org.apache.sling.launchpad.base,2.2.0,+,2011-04-12
+org.apache.sling.launchpad.base,2.2.0,+,2011-03-23

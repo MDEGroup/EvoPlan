@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.12,+,2018-12-26
+junit,4.12,-,2018-12-26
+commons-lang3,3.8.1,-,2018-12-26
+commons-lang3,3.7,-,2018-07-06
+commons-lang3,3.9,+,2018-12-26
+commons-csv,1.6,-,2018-12-26
+commons-csv,1.6,+,2018-12-26
+commons-csv,1.5,-,2018-07-06

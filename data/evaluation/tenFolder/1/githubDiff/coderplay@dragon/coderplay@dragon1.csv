@@ -1,0 +1,13 @@
+library,version,sign,date
+mockito-all,1.8.5,+,2012-05-22
+junit,3.8.1,-,2012-01-22
+hadoop-yarn-api,0.23.1-SNAPSHOT,-,2012-01-22
+hessian,4.0.7,+,2012-05-22
+curator-recipes,1.1.15,+,2012-07-18
+curator-test,1.1.15,+,2012-08-15
+hadoop-yarn-common,0.23.1-SNAPSHOT,-,2012-01-22
+curator-framework,1.1.15,+,2012-07-18
+guava,11.0.2,+,2012-01-22
+hadoop-common,0.23.1,+,2012-01-22
+hadoop-common,0.23.1,+,2012-05-24
+kryo,2.16,+,2012-06-19

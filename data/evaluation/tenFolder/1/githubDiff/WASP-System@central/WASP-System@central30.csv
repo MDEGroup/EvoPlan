@@ -1,0 +1,8 @@
+library,version,sign,date
+wasp-core,0.1.0-SNAPSHOT,-,2013-01-16
+wasp-interface,0.1.0-SNAPSHOT,-,2012-11-05
+springockito,1.0.5,+,2012-12-12
+springockito,1.0.4,-,2012-12-12
+springockito,1.0.4,+,2012-11-07
+springockito,1.0.5,-,2013-10-18
+wasp-daemon,0.1.0-SNAPSHOT,-,2012-11-05

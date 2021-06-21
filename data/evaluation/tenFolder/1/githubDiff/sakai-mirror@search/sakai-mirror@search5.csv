@@ -1,0 +1,15 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2013-01-16
+junit,4.10,+,2013-01-16
+junit,4.10,-,2013-09-10
+javafaker,0.2,+,2013-01-16
+elasticsearch,1.1.2,+,2014-02-18
+elasticsearch,0.90.7,+,2013-11-15
+elasticsearch,0.20.0.RC1,-,2013-01-16
+elasticsearch,0.90.7,-,2014-02-18
+elasticsearch,0.20.2,+,2013-01-16
+elasticsearch,0.20.5,-,2013-11-15
+elasticsearch,0.20.5,+,2013-01-24
+elasticsearch,0.20.2,-,2013-01-24
+guava,11.0.2,-,2014-02-18
+mockito-core,1.9.5,+,2013-01-16

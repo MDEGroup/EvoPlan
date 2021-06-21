@@ -1,0 +1,4 @@
+library,version,sign,date
+slf4j-api,1.6.4,+,2013-07-24
+gson,2.1,+,2013-07-24
+gson,2.1,-,2013-07-24

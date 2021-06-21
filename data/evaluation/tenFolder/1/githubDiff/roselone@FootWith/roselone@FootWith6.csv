@@ -1,0 +1,15 @@
+library,version,sign,date
+mysql-connector-java,5.1.6,+,2013-04-17
+mysql-connector-java,5.1.6,+,2013-03-15
+aspectjtools,1.7.2,-,2013-04-17
+aspectjtools,1.7.2,+,2013-03-15
+aspectjtools,1.7.2,+,2013-04-17
+aspectjrt,1.7.2,-,2013-04-17
+aspectjrt,1.7.2,+,2013-03-15
+aspectjrt,1.7.2,+,2013-04-17
+json,20090211,+,2013-04-17
+json,20090211,+,2013-03-15
+log4j-core,2.0-beta4,+,2013-03-24
+log4j-core,2.0-beta4,+,2013-04-17
+log4j-api,2.0-beta4,+,2013-03-24
+log4j-api,2.0-beta4,+,2013-04-17

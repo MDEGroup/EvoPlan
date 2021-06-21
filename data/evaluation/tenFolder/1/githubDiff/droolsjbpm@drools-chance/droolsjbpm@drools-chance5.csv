@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,4.8.1,-,2013-02-09
+junit,4.8.1,-,2012-04-12
+junit,4.8.1,+,2012-03-29
+junit,4.8.1,+,2012-01-04
+drools-compiler,5.5.0-SNAPSHOT,-,2012-04-12
+drools-compiler,5.5.0.Final,-,2013-02-05
+drools-compiler,5.5.0.Final,+,2012-04-12
+drools-compiler,5.5.1-SNAPSHOT,-,2013-02-09
+drools-compiler,5.4.0-SNAPSHOT,-,2012-03-29
+human-task-helpers,5.5.0-SNAPSHOT,-,2013-02-05
+human-task-helpers,0.5.6.Final,+,2013-02-09
+human-task-helpers,5.4.0-SNAPSHOT,-,2012-03-29
+human-task-helpers,5.4.0-SNAPSHOT,+,2012-02-25
+human-task-helpers,0.5.6.Final,-,2013-02-09
+drools-informer-core,5.5.0-SNAPSHOT,-,2012-04-12
+drools-informer-core,5.4.0-SNAPSHOT,-,2012-03-29

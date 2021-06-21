@@ -1,0 +1,4 @@
+library,version,sign,date
+org.restlet,2.0.13,-,2012-10-22
+org.restlet,2.0.13,+,2012-10-19
+org.restlet,2.0.13,-,2012-10-19

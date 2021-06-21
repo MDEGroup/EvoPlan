@@ -1,0 +1,15 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,-,2012-09-07
+javax.servlet-api,3.0.1,+,2012-06-07
+shrinkwrap-impl-base,1.0.0-cr-1,-,2012-09-19
+shrinkwrap-impl-base,1.0.0-cr-1,+,2012-06-07
+arquillian-junit-container,1.0.0.CR7,-,2012-09-19
+arquillian-junit-container,1.0.0.CR7,+,2012-06-07
+shrinkwrap-resolver-api-maven,2.0.0-alpha-1,-,2012-09-19
+shrinkwrap-resolver-api-maven,2.0.0-alpha-1,+,2012-06-07
+shrinkwrap-resolver-impl-maven,2.0.0-alpha-1,-,2012-09-19
+shrinkwrap-resolver-impl-maven,2.0.0-alpha-1,+,2012-06-07
+shrinkwrap-api,1.0.0-cr-1,-,2012-09-19
+shrinkwrap-api,1.0.0-cr-1,+,2012-06-07
+arquillian-container-spi,1.0.0.CR7,-,2012-09-19
+arquillian-container-spi,1.0.0.CR7,+,2012-06-07

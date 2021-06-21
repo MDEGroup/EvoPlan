@@ -1,0 +1,5 @@
+library,version,sign,date
+sql2o,2.0.0-SNAPSHOT,+,2014-04-03
+sql2o,2.0.0-SNAPSHOT,-,2014-05-01
+sql2o,1.4.1-SNAPSHOT,-,2014-05-01
+sql2o,1.4.1-SNAPSHOT,+,2014-04-03

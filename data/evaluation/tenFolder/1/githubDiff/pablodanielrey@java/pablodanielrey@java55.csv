@@ -1,0 +1,8 @@
+library,version,sign,date
+dcsysUtils,1.0-SNAPSHOT,+,2013-11-28
+dcsysUtils,1.0-SNAPSHOT,+,2013-12-21
+postgresql,1.0-SNAPSHOT,+,2013-11-28
+postgresql,1.0-SNAPSHOT,+,2013-12-21
+cdiConfig,1.0-SNAPSHOT,+,2013-12-21
+javax.inject,1,+,2013-12-21
+javax.inject,1,+,2013-11-28

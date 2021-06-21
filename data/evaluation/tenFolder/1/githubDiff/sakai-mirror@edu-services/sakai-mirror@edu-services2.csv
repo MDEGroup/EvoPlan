@@ -1,0 +1,8 @@
+library,version,sign,date
+commons-logging,1.0.4,-,2009-10-03
+commons-logging,1.0.4,+,2010-02-19
+quartz,1.5.2,-,2010-01-23
+quartz,1.6.6,+,2010-02-19
+quartz,1.6.6,-,2010-02-19
+quartz,1.5.2,-,2009-10-03
+quartz,1.5.2,+,2009-10-03

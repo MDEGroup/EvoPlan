@@ -1,0 +1,9 @@
+library,version,sign,date
+sections-api,1.0.0-beta01,-,2009-10-15
+sections-api,1.0.0-beta01,+,2009-10-03
+sections-api,1.0.0-beta02-SNAPSHOT,-,2009-10-15
+commons-logging,1.0.4,-,2009-10-03
+commons-logging,1.0.4,+,2013-11-15
+gradebook-service-api,1.0.0-beta01,-,2009-10-15
+gradebook-service-api,1.0.0-beta01,+,2009-10-03
+gradebook-service-api,1.0.0-beta02-SNAPSHOT,-,2009-10-15

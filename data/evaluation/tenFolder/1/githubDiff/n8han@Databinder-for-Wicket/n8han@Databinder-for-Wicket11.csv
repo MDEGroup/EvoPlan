@@ -1,0 +1,6 @@
+library,version,sign,date
+jetty-ajp,[7.0, 7.1),-,2008-05-27
+jetty-ajp,[7.0, 7.1),+,2008-05-06
+jetty-ajp,6.1.7,-,2008-05-06
+jetty-ajp,6.1.7,+,2008-01-21
+jetty-ajp,6.1.7,-,2008-01-21

@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,4.11,-,2013-11-19
+kafka-clients,2.3.0,+,2018-10-31
+kafka-clients,2.3.0,-,2019-11-08
+mail,1.4,-,2018-10-31
+mail,1.4,+,2015-08-11
+mail,1.4,-,2018-07-23
+mail,1.4,+,2013-07-16
+mail,1.4,+,2018-07-23
+mail,1.4,-,2015-08-11
+jackson-databind,2.9.9.1,-,2019-11-08
+httpclient,4.5.6,+,2018-07-24
+httpclient,4.2.5,-,2018-07-24
+httpclient,4.5.6,-,2019-11-08
+httpclient,4.2.5,-,2013-06-26
+httpclient,4.5.6,+,2019-09-12
+httpclient,4.2.5,+,2013-06-26

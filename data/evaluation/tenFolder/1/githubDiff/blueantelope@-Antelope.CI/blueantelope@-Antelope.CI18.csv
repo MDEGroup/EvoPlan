@@ -1,0 +1,16 @@
+library,version,sign,date
+com.antelope.ci.bus.server,0.1.0,-,2014-12-14
+com.antelope.ci.bus.server,0.1.0,+,2014-12-14
+com.antelope.ci.bus.server,0.1.0,+,2015-03-06
+junit,4.11,+,2014-12-14
+com.antelope.ci.bus.server.shell,0.1.0,+,2014-12-14
+com.antelope.ci.bus.osgi,0.1.0,-,2014-12-14
+com.antelope.ci.bus.osgi,0.1.0,+,2014-12-14
+com.antelope.ci.bus.framework,0.1.0,-,2014-12-14
+com.antelope.ci.bus.framework,0.1.0,+,2014-12-14
+com.antelope.ci.bus.server.api,0.1.0,+,2014-12-14
+com.antelope.ci.bus.server.api,0.1.0,+,2015-03-06
+com.antelope.ci.bus.logger,0.1.0,-,2014-12-14
+com.antelope.ci.bus.logger,0.1.0,+,2014-12-14
+com.antelope.ci.bus.common,0.1.0,-,2014-12-14
+com.antelope.ci.bus.common,0.1.0,+,2014-12-14

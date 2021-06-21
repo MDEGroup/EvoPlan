@@ -1,0 +1,3 @@
+library,version,sign,date
+jetty,6.1.26,+,2012-10-28
+httpclient,4.1.3,+,2012-10-28

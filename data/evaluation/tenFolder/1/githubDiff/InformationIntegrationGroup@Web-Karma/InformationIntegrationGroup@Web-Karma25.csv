@@ -1,0 +1,6 @@
+library,version,sign,date
+commands-python,0.0.1-SNAPSHOT,+,2014-07-08
+commands-alignment,0.0.1-SNAPSHOT,-,2014-03-11
+commands-alignment,0.0.1-SNAPSHOT,+,2014-05-04
+commands-alignment,0.0.1-SNAPSHOT,+,2014-07-08
+commands-alignment-openrdf,0.0.1-SNAPSHOT,+,2014-07-08

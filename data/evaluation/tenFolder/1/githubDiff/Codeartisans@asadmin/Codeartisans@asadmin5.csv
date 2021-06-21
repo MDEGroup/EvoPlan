@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,3.8.1,+,2010-10-18
+junit,3.8.1,-,2010-05-31
+junit,3.8.1,-,2010-10-24
+junit,3.8.1,+,2008-08-03
+junit,3.8.1,+,2008-04-07
+junit,3.8.1,-,2008-08-03
+war-example,0.1-SNAPSHOT,-,2010-05-31
+ejb-example,0.1-SNAPSHOT,-,2010-05-31
+ejb-example,0.1-SNAPSHOT,+,2008-04-07
+ejb-example,0.1-SNAPSHOT,+,2008-07-20

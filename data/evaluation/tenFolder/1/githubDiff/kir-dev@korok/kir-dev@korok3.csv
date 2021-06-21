@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.5.8,-,2013-03-17
+junit,4.11,-,2013-07-09
+junit,4.11,+,2013-07-09
+junit,4.7,-,2013-07-06
+hibernate-validator,5.0.1.Final,-,2013-07-29
+hibernate-validator,5.0.1.Final,+,2013-07-09
+validation-api,1.1.0.Final,-,2013-07-29
+validation-api,1.0.0.GA,-,2013-07-11
+validation-api,1.0.0.GA,+,2013-07-09
+commons-lang3,3.1,+,2013-06-28
+hibernate-jpamodelgen,1.2.0.Final,+,2013-07-22
+hibernate-jpamodelgen,1.2.0.Final,+,2013-07-11
+hibernate-jpamodelgen,1.2.0.Final,-,2013-07-22

@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.8.2,+,2012-04-12
+junit,4.10,-,2012-04-12
+lwjgl,2.8.3,-,2012-09-09
+lwjgl,2.8.4,+,2012-09-09
+slick-util,1.0,+,2012-04-13

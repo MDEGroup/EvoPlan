@@ -1,0 +1,3 @@
+library,version,sign,date
+org.xkonnex.repo.generator.basedsl,2.0.0-SNAPSHOT,+,2014-10-02
+org.xkonnex.repo.dsl.businessdsl,2.0.0-SNAPSHOT,+,2014-10-02

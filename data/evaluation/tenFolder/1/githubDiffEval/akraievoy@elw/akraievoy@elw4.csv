@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,3.8.2,+,2011-10-03
+junit,3.8.2,-,2011-10-03
+junit,3.8.2,+,2010-02-16
+slf4j-simple,1.4.3,+,2011-10-03
+slf4j-simple,1.4.3,+,2011-03-02
+slf4j-simple,1.4.3,-,2011-10-03
+log4j-over-slf4j,1.4.3,+,2011-10-03
+log4j-over-slf4j,1.4.3,-,2011-10-03

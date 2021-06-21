@@ -1,0 +1,15 @@
+library,version,sign,date
+hibernate-validator,4.3.0.Final,+,2013-02-10
+hibernate-validator,4.3.0.Final,-,2013-02-10
+hibernate-validator,4.3.0.Final,+,2012-06-30
+joda-time,2.1,+,2012-03-09
+spring-tx,3.1.1.RELEASE,+,2012-06-24
+spring-tx,3.1.1.RELEASE,+,2012-06-30
+spring-tx,3.1.1.RELEASE,-,2013-02-10
+spring-aspects,3.1.1.RELEASE,+,2012-10-10
+spring-aop,3.1.1.RELEASE,+,2012-10-10
+commons-lang3,3.1,+,2013-02-10
+modelmapper,0.5.4,+,2012-10-10
+modelmapper,0.5.4,+,2013-02-10
+cloning,1.7.9,+,2012-06-03
+aspectjweaver,1.7.1,+,2012-10-10

@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.11,-,2014-11-26
+junit,4.11,+,2014-11-26
+im4java,1.4.0,+,2014-11-26
+im4java,1.4.0,-,2014-11-26

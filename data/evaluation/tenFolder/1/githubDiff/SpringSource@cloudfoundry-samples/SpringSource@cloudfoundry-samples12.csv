@@ -1,0 +1,5 @@
+library,version,sign,date
+jstl,1.2,+,2011-09-10
+jstl,1.2,-,2011-09-10
+servlet-api,2.5,+,2011-09-10
+servlet-api,2.5,-,2011-09-10

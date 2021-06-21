@@ -1,0 +1,9 @@
+library,version,sign,date
+jogl-all,2.0-rc11,-,2012-12-20
+jogl-all,2.0-rc11post03,-,2013-01-07
+jogl-all-android,2.0-rc11,-,2012-12-20
+jogl-all-android,2.0-rc11post03,-,2013-01-07
+gluegen-rt-android,2.0-rc11,-,2012-12-20
+gluegen-rt-android,2.0-rc11post03,-,2013-01-07
+gluegen-rt,2.0-rc11,-,2012-12-20
+gluegen-rt,2.0-rc11post03,-,2013-01-07

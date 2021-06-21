@@ -1,0 +1,10 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,+,2013-07-22
+javax.servlet-api,3.0.1,-,2013-07-22
+play-commons-constants,1.0-SNAPSHOT,-,2013-01-18
+play-commons-constants,1.1-SNAPSHOT,-,2013-01-18
+twitter4j-stream,2.2.6,-,2013-07-15
+twitter4j-stream,3.0.3,-,2014-05-22
+rdf2go.impl.sesame,4.8.4-SNAPSHOT,+,2013-07-15
+rdf2go.impl.sesame,4.8.4-SNAPSHOT,-,2014-04-04
+rdf2go.impl.sesame,5.0.1-SNAPSHOT,-,2014-04-04

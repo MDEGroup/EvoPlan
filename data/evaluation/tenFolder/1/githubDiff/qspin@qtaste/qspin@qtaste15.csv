@@ -1,0 +1,8 @@
+library,version,sign,date
+qtaste-kernel,2.3.0-SNAPSHOT,-,2015-10-22
+qtaste-kernel,2.3.1-SNAPSHOT,-,2016-12-06
+qtaste-kernel,3.0.1-SNAPSHOT,-,2016-12-06
+qtaste-kernel,3.0.0,-,2016-12-06
+commons-io,2.5,+,2016-06-06
+commons-io,2.5,-,2016-06-06
+commons-io,2.4,-,2015-10-22

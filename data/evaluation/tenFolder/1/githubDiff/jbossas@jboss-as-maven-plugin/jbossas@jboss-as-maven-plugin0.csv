@@ -1,0 +1,14 @@
+library,version,sign,date
+maven-plugin-api,3.0,-,2012-06-16
+jboss-as-controller-client,7.0.0.Beta4-SNAPSHOT,-,2011-05-25
+jboss-as-controller-client,7.0.0.Beta4-SNAPSHOT,+,2011-03-13
+maven-plugin-annotations,3.0,-,2012-06-16
+maven-plugin-annotations,3.0,+,2012-05-09
+aether-util,1.8,+,2012-03-12
+aether-util,1.8,-,2012-06-16
+plexus-utils,3.0.1,+,2012-05-09
+plexus-utils,3.0.1,-,2012-06-16
+aether-api,1.8,+,2012-03-12
+aether-api,1.8,-,2012-06-16
+maven-project,2.2.1,-,2012-06-16
+maven-project,2.2.1,+,2011-07-20

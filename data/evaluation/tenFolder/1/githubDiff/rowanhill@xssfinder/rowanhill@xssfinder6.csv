@@ -1,0 +1,11 @@
+library,version,sign,date
+libthrift,0.8.0,-,2013-08-04
+spring-webmvc,3.1.0.RELEASE,+,2013-08-04
+spring-webmvc,3.1.0.RELEASE,-,2013-08-04
+xssfinder-testwebapp,1.0-SNAPSHOT,+,2013-10-20
+xssfinder-testwebapp,1.0-SNAPSHOT,+,2013-08-04
+jetty-runner,7.6.10.v20130312,+,2013-08-04
+jetty-runner,7.6.10.v20130312,-,2013-10-20
+xssfinder-core,1.0-SNAPSHOT,+,2013-10-20
+xssfinder-core,1.0-SNAPSHOT,+,2013-08-04
+xssfinder-core,1.0-SNAPSHOT,-,2013-08-04

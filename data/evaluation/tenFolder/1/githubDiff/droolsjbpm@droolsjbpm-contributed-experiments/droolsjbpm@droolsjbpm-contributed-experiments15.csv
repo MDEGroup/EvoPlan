@@ -1,0 +1,5 @@
+library,version,sign,date
+jbpm-persistence-mapdb,7.1.0-SNAPSHOT,-,2017-07-18
+jbpm-persistence-mapdb,7.1.0-SNAPSHOT,+,2017-04-08
+drools-persistence-mapdb,7.1.0-SNAPSHOT,-,2017-07-18
+drools-persistence-mapdb,7.1.0-SNAPSHOT,+,2017-04-08

@@ -1,0 +1,11 @@
+library,version,sign,date
+org.apache.felix.ipojo,1.6.2,-,2011-11-04
+org.apache.felix.ipojo,1.6.2,+,2011-11-04
+org.osgi.compendium,4.2.0,-,2011-11-04
+org.osgi.compendium,4.2.0,+,2011-11-04
+servlet-api,2.5,-,2012-03-26
+servlet-api,2.5,+,2011-11-04
+servlet-api,2.3,-,2011-11-04
+servlet-api,2.5,+,2012-02-06
+servlet-api,2.5,-,2011-11-04
+servlet-api,2.3,+,2011-11-04

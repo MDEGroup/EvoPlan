@@ -1,0 +1,9 @@
+library,version,sign,date
+jericho-html,3.2,-,2012-08-14
+jericho-html,3.2,+,2012-07-31
+jericho-html,3.2,+,2012-08-14
+hadoop-core,0.20.2,+,2012-08-14
+hadoop-core,0.20.2,-,2012-08-14
+junit,3.8.1,+,2012-08-14
+junit,3.8.1,-,2012-08-14
+mrunit,0.9.0-incubating,+,2012-08-20

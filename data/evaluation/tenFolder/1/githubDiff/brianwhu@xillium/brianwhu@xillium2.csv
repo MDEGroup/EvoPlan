@@ -1,0 +1,16 @@
+library,version,sign,date
+xillium-base,1.0-SNAPSHOT,-,2012-12-23
+xillium-base,1.0-SNAPSHOT,-,2014-03-01
+xillium-base,1.1-SNAPSHOT,-,2015-05-21
+xillium-base,1.1.0,-,2015-12-30
+xillium-core,1.0-SNAPSHOT,-,2012-12-23
+xillium-core,1.0-SNAPSHOT,-,2014-03-01
+xillium-core,1.1-SNAPSHOT,-,2015-05-21
+xillium-core,1.1.0,-,2015-12-30
+testng,6.8,-,2014-01-08
+testng,6.8,-,2013-09-04
+testng,6.1.1,-,2012-12-23
+xillium-data,1.0-SNAPSHOT,-,2012-12-23
+xillium-data,1.0-SNAPSHOT,-,2014-03-01
+xillium-data,1.1-SNAPSHOT,-,2015-05-21
+xillium-data,1.1.0,-,2015-12-30

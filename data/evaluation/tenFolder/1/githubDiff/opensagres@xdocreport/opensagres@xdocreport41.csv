@@ -1,0 +1,7 @@
+library,version,sign,date
+geronimo-jaxb_2.1_spec,1.0,+,2012-04-03
+geronimo-jaxb_2.1_spec,1.0,-,2012-04-03
+geronimo-jaxb_2.1_spec,1.0,-,2012-07-19
+geronimo-jaxrs_1.1_spec,1.0,-,2016-11-28
+geronimo-jaxrs_1.1_spec,1.0,+,2012-04-03
+geronimo-jaxrs_1.1_spec,1.0,-,2012-04-03

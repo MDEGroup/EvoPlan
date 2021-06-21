@@ -1,0 +1,4 @@
+library,version,sign,date
+groovy,1.8.3,+,2012-07-31
+groovy,1.8.3,+,2012-07-27
+groovy,1.8.3,-,2012-07-31

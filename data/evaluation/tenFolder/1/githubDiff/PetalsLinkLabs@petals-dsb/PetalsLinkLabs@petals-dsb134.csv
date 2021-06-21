@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,3.8.1,-,2012-03-27
+junit,3.8.1,+,2012-03-27
+guava,11.0.1,+,2012-03-27

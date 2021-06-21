@@ -1,0 +1,15 @@
+library,version,sign,date
+cling-support,2.0.0,-,2014-11-05
+cling-support,2.0.1,-,2015-04-07
+cling-support,1.0.5,-,2014-11-05
+cling-support,2.1.0,-,2015-12-09
+cling-support,2.1.0-SNAPSHOT,-,2015-09-16
+cling-support,2.1.1-SNAPSHOT,-,2015-12-09
+cling-support,2.1.1,-,2016-07-06
+cling-support,2.1.2-SNAPSHOT,-,2017-05-07
+args4j,2.33,+,2017-05-07
+args4j,2.0.12,-,2017-05-07
+javassist,3.19.0-GA,-,2017-05-07
+javassist,3.22.0-GA,+,2017-05-07
+javassist,3.19.0-GA,+,2014-11-06
+javassist,3.14.0-GA,-,2014-11-06

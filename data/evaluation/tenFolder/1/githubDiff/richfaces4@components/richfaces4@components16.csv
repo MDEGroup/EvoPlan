@@ -1,0 +1,13 @@
+library,version,sign,date
+jsf-test-stage,1.0.6,-,2010-12-13
+jsf-test-stage,1.0.6,+,2010-12-09
+jsf-test-stage,1.0.6,+,2010-12-13
+jsf-test-stage,1.0.6,-,2010-12-20
+jsf-mock,1.0.6,-,2010-12-13
+jsf-mock,1.0.6,+,2010-12-09
+jsf-mock,1.0.6,+,2010-12-13
+jsf-mock,1.0.6,-,2010-12-20
+htmlunit-client,1.0.6,-,2010-12-13
+htmlunit-client,1.0.6,+,2010-12-09
+htmlunit-client,1.0.6,+,2010-12-13
+htmlunit-client,1.0.6,-,2010-12-20

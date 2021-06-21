@@ -1,0 +1,7 @@
+library,version,sign,date
+browserify,2.34.0,-,2013-11-02
+browserify,2.34.0,+,2013-10-02
+sweetjs,0.2.5,+,2013-10-16
+ant,1.8.3,+,2013-10-18
+guava,14.0.1,+,2013-08-14
+svgo,0.3.7,+,2013-10-02

@@ -1,0 +1,10 @@
+library,version,sign,date
+commons-codec,1.6,+,2012-04-19
+commons-logging-api,1.1,+,2012-04-19
+commons-logging-api,1.1,+,2012-04-17
+protobuf-java,2.4.1,-,2012-04-17
+protobuf-java,2.4.1,+,2012-04-17
+commons-logging,1.1.1,+,2012-04-17
+je,5.0.34,+,2012-04-19
+google-collections,1.0,+,2012-04-17
+google-collections,1.0,-,2012-04-17

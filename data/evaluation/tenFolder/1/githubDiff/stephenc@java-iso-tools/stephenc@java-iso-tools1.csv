@@ -1,0 +1,15 @@
+library,version,sign,date
+loop-fs-spi,2.0.1-SNAPSHOT,-,2013-01-29
+loop-fs-spi,1.2.3-SNAPSHOT,-,2010-10-05
+loop-fs-spi,2.0.0-SNAPSHOT,-,2010-10-06
+loop-fs-spi,2.0.0,-,2013-01-29
+loop-fs-spi,2.0.1,-,2015-09-30
+loop-fs-spi,1.2.3-SNAPSHOT,+,2010-10-05
+junit,4.8.1,+,2010-10-05
+junit,3.8.2,-,2010-10-05
+hadoop-hdfs,2.6.0,+,2015-09-30
+plexus-utils,2.0.5,+,2010-10-05
+commons-logging,1.0.4,+,2010-10-05
+commons-logging,1.0.4,-,2010-10-05
+hadoop-common,2.6.0,+,2015-09-30
+commons-io,2.1,+,2015-09-30

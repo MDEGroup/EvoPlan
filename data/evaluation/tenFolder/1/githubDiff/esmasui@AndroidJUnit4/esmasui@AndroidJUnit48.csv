@@ -1,0 +1,21 @@
+library,version,sign,date
+junit,4.10,+,2012-09-24
+android-test,4.1.1.4,+,2012-09-24
+android-test,4.1.1.4,+,2012-09-21
+android,4.1.1.4,+,2012-09-24
+android,4.1.1.4,+,2012-09-21
+android-junit3-extension-support-v4,0.2-SNAPSHOT,-,2013-01-25
+android-junit3-extension-support-v4,0.1,-,2013-01-25
+android-junit3-extension-support-v4,0.1-SNAPSHOT,-,2013-01-25
+android-junit3-extension-support-v4,0.5,-,2014-07-06
+android-junit3-extension-support-v4,0.5-SNAPSHOT,-,2014-07-06
+android-junit3-extension-support-v4,0.1-SNAPSHOT,+,2012-09-21
+support-v4,r7,+,2012-09-21
+android-junit4,0.3,-,2013-01-25
+android-junit4,(insert latest version),+,2013-01-25
+android-junit4,0.5,-,2014-07-06
+android-junit4,0.5-SNAPSHOT,-,2014-07-06
+android-junit4,0.1-SNAPSHOT,-,2014-07-06
+android-junit4,0.4-SNAPSHOT,-,2013-01-25
+android-junit4,0.3-SNAPSHOT,-,2013-01-25
+android-junit4,0.1-SNAPSHOT,-,2012-09-24

@@ -1,0 +1,5 @@
+library,version,sign,date
+freemarker,2.3.19,-,2014-02-18
+commons-cli,1.2,-,2014-02-18
+commons-lang3,3.1,-,2014-02-18
+commons-math3,3.1,-,2014-02-18

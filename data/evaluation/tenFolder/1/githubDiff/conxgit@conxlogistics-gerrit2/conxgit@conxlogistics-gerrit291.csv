@@ -1,0 +1,7 @@
+library,version,sign,date
+com.conx.logistics.distribution.common,1.0.0,+,2012-06-11
+com.springsource.org.objectweb.asm,1.5.3,+,2012-06-11
+com.conx.logistics.kernel.persistence.tm.jta,1.0.0,+,2012-06-11
+btm,2.1.2,+,2012-06-11
+com.conx.logistics.thirdparty.hibernate.core,3.6.0.Final,+,2012-06-11
+com.conx.logistics.thirdparty.hibernate.entitymanager,3.6.0.Final,+,2012-06-11

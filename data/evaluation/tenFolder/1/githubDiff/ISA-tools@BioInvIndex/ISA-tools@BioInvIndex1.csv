@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.8.2,-,2011-06-16
+junit,4.8.2,+,2011-03-10
+hibernate-validator,4.0.2.GA,+,2011-06-16
+hibernate-validator,4.0.2.GA,-,2011-06-16

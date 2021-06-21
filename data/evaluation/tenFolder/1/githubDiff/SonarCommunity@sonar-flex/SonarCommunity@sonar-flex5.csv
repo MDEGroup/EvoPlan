@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.12,+,2016-03-22
+junit,4.10,-,2016-03-22
+junit,4.11,-,2016-03-22
+assertj-core,3.9.0,+,2016-07-26
+sonar-orchestrator,3.7,-,2015-12-14
+sonar-orchestrator,3.10.1,-,2016-03-22
+sonar-orchestrator,3.3,-,2015-09-01

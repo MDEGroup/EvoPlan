@@ -1,0 +1,11 @@
+library,version,sign,date
+spring-boot-starter,2.0.1.RELEASE,+,2018-10-19
+assertj-core,3.11.1,+,2018-10-19
+mvvmfx,1.8.0-SNAPSHOT,-,2019-03-08
+mvvmfx,1.8.0,+,2019-03-08
+mvvmfx,1.8.0-SNAPSHOT,+,2018-10-19
+mvvmfx,${mvvmfx.version},+,2019-03-08
+mvvmfx,1.7.1-SNAPSHOT,-,2019-03-08
+mvvmfx,1.9.0-SNAPSHOT,+,2019-03-08
+mvvmfx,1.7.0,-,2019-03-08
+mvvmfx,1.8.0,-,2019-03-08

@@ -1,0 +1,10 @@
+library,version,sign,date
+SimpleClansAPI,1.0.1,-,2013-04-19
+SimpleClansAPI,1.0.1,+,2013-02-27
+SimpleClansAPI,1.0,-,2013-02-26
+guava,14.0-rc3,-,2013-02-27
+guava,14.0-rc1,+,2013-02-27
+guava,14.0-rc1,-,2013-02-27
+guava,10.0.1,-,2013-03-16
+SQLDatabaseAPI,1.0,+,2013-02-26
+SQLDatabaseAPI,1.0,-,2013-04-11

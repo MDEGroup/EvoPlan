@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,3.8.1,+,2014-10-12
+OSGIComponentLibrary,2.0.1,+,2014-10-05
+OSGIComponentLibrary,2.0.1,+,2014-10-12
+javahelp,2.0.05,+,2014-10-12

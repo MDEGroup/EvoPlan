@@ -1,0 +1,6 @@
+library,version,sign,date
+assertj-core,1.4.0,+,2014-06-11
+assertj-core,1.4.0,-,2014-06-11
+shiro,1.2.2,-,2014-06-11
+shiro,1.2.2,+,2014-06-11
+btm,3.0.0-SNAPSHOT,+,2014-10-12

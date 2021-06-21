@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.8.2,-,2012-01-12
+junit,4.8.2,+,2012-01-12
+junit,4.10,+,2012-01-12
+ols-v_1_2_0-schema,1.0.3,+,2012-01-12
+ols-v_1_2_0-schema,1.0.3,-,2012-01-12
+jts,1.12,-,2012-01-12
+ogc-tools-gml-jts,1.0.3,+,2012-01-12
+ogc-tools-gml-jts,1.0.3,-,2012-01-12

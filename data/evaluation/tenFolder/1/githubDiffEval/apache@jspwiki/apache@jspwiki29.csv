@@ -1,0 +1,5 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,+,2018-09-29
+javax.servlet-api,3.1.0,-,2018-10-26
+javax.servlet.jsp-api,2.3.0,-,2018-10-26
+javax.servlet.jsp-api,2.3.0,+,2018-09-29

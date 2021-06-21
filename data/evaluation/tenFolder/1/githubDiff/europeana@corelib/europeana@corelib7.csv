@@ -1,0 +1,6 @@
+library,version,sign,date
+corelib-storage,2.9.3-SNAPSHOT,-,2019-10-02
+corelib-storage,2.9.4-SNAPSHOT,-,2020-04-06
+corelib-storage,2.9.4-SNAPSHOT,+,2019-10-02
+corelib-definitions,2.9.3-SNAPSHOT,-,2019-10-02
+corelib-definitions,2.9.4-SNAPSHOT,-,2020-04-06

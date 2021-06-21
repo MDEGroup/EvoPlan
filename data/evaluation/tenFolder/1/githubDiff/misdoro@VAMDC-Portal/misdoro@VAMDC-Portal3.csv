@@ -1,0 +1,8 @@
+library,version,sign,date
+Dictionaries,11.12-SNAPSHOT,+,2012-03-12
+Dictionaries,11.12-SNAPSHOT,-,2012-03-16
+Dictionaries,11.12-r1-SNAPSHOT,-,2012-03-16
+junit,4.10,-,2012-08-30
+junit,4.12,+,2012-08-30
+registry-client-light,11.12-SNAPSHOT,-,2012-03-12
+persistence-api,1.0,-,2012-03-15

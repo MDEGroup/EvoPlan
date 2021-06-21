@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,3.8.1,-,2013-09-22
+junit,4.11,-,2017-07-05
+junit,4.12,+,2017-07-05
+junit,4.11,-,2013-09-22
+junit,4.11,+,2013-09-22
+poly2tri-core,0.1.1-SNAPSHOT,-,2014-01-21
+poly2tri-core,0.1.1-SNAPSHOT,-,2014-01-26
+poly2tri-core,0.1.1-SNAPSHOT,-,2014-01-25
+poly2tri-core,0.1.1-SNAPSHOT,-,2014-01-29
+poly2tri-core,0.1.1-SNAPSHOT,+,2013-09-22
+poly2tri-core,0.1.1-SNAPSHOT,+,2014-01-21
+poly2tri-core,0.1.1-SNAPSHOT,+,2014-01-25
+poly2tri-core,0.1.1-SNAPSHOT,+,2014-01-26
+poly2tri-core,0.1.1-SNAPSHOT,-,2013-09-22

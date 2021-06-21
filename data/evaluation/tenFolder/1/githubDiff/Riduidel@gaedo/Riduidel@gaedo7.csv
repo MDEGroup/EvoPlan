@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.7,-,2012-10-04
+junit,4.7,-,2013-07-29
+junit,4.7,+,2012-10-04
+contiperf,2.0.0,+,2013-02-15
+contiperf,2.0.0,-,2013-03-27
+commons-lang,2.6,+,2012-10-04
+commons-lang,2.6,-,2012-10-04

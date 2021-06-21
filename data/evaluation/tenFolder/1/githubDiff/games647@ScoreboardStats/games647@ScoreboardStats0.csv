@@ -1,0 +1,8 @@
+library,version,sign,date
+spigot-api,1.8.8-R0.1-SNAPSHOT,+,2015-12-15
+spigot-api,1.9-R0.1-SNAPSHOT,-,2017-04-15
+spigot-api,1.8.8-R0.1-SNAPSHOT,-,2016-02-13
+spigot-api,1.12-R0.1-SNAPSHOT,-,2017-09-16
+slf4j-jdk14,1.7.21,+,2016-12-16
+slf4j-jdk14,1.7.22,-,2017-09-10
+slf4j-jdk14,1.7.21,-,2017-01-07

@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.12,+,2015-07-13
+junit,4.11,+,2013-06-11
+junit,4.11,-,2015-07-13
+junit,4.8.1,-,2013-06-11
+junit,4.11,-,2013-06-11
+jetty-nosql-memcached,0.4.0,-,2013-06-12
+jetty-nosql-memcached,0.4.1-SNAPSHOT,-,2013-06-12
+jetty-nosql-memcached,0.5.1-SNAPSHOT,-,2015-07-13
+jetty-nosql-memcached,0.5.0,-,2015-07-13
+jetty-nosql-memcached,0.5.0-SNAPSHOT,-,2015-07-13

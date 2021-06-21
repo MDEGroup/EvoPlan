@@ -1,0 +1,7 @@
+library,version,sign,date
+commons-configuration,1.6,+,2012-02-03
+commons-configuration,1.6,+,2011-11-22
+commons-configuration,1.6,-,2012-02-03
+grizzly-servlet-webserver,1.9.8,+,2011-11-22
+commons-httpclient,3.1,+,2011-11-22
+asm,3.1,+,2011-11-22

@@ -1,0 +1,12 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,-,2019-01-06
+javax.servlet-api,4.0.1,-,2019-11-25
+javax.servlet-api,3.0.1,-,2015-11-28
+javax.servlet-api,4.0.1,+,2019-11-25
+jersey-server,2.9.1,-,2015-01-10
+jersey-media-json-jackson,2.9.1,-,2015-01-10
+javax.el,3.0.1-b09,-,2019-05-07
+javax.el,3.0.1-b09,+,2019-04-23
+jersey-client,2.9.1,-,2015-01-10
+spring-web,4.0.3.RELEASE,-,2015-01-10
+spring-context,4.0.3.RELEASE,-,2015-01-10

@@ -1,0 +1,7 @@
+library,version,sign,date
+javassist,3.12.1.GA,+,2013-09-28
+javassist,3.12.1.GA,-,2013-09-28
+javassist,3.12.1.GA,-,2014-09-25
+javassist,3.12.1.GA,+,2014-09-25
+javassist,3.12.1.GA,-,2015-08-03
+javassist,3.12.1.GA,+,2013-09-24

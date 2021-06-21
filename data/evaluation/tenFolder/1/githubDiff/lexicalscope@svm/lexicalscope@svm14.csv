@@ -1,0 +1,6 @@
+library,version,sign,date
+junit-autocloseable,1.0,-,2014-01-21
+junit-autocloseable,1.0,+,2014-01-21
+junit,4.11,-,2014-01-21
+junit,3.8.1,-,2014-01-21
+svm-jvm-conc,0.0.1-SNAPSHOT,-,2014-01-21

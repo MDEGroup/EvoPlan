@@ -1,0 +1,5 @@
+library,version,sign,date
+jetty-websocket,8.1.0.RC5,+,2012-02-10
+mysql-connector-java,5.1.14,+,2012-02-06
+mysql-connector-java,5.1.14,-,2012-02-06
+jetty-server,8.1.0.RC5,+,2012-02-10

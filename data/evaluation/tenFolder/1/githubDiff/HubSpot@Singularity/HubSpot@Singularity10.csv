@@ -1,0 +1,6 @@
+library,version,sign,date
+HorizonCore,0.0.5,-,2014-09-30
+HorizonCore,0.0.5,+,2014-09-03
+HorizonNing,0.0.5,-,2014-09-30
+HorizonNing,0.0.5,+,2014-09-03
+guice,3.0,-,2014-09-02

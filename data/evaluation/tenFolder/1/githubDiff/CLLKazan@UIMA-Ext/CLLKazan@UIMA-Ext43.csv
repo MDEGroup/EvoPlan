@@ -1,0 +1,5 @@
+library,version,sign,date
+logback-classic,1.0.9,-,2015-01-28
+scalatest_2.11,2.1.5,-,2015-01-28
+scalatest_2.11,2.1.5,+,2015-01-28
+scala-csv_2.11,1.1.2,+,2015-01-26

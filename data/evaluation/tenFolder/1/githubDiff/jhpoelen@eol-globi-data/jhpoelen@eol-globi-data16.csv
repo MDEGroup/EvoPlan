@@ -1,0 +1,7 @@
+library,version,sign,date
+commons-validator,1.4.0,+,2015-02-03
+hibernate-validator,4.1.0.Final,-,2014-06-05
+hibernate-validator,4.1.0.Final,+,2014-06-05
+hibernate-validator,4.1.0.Final,+,2013-05-14
+log4j,1.2.16,+,2014-10-17
+log4j,1.2.16,-,2014-10-17

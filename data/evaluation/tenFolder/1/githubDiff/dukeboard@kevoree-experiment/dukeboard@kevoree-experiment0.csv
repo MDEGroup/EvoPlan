@@ -1,0 +1,15 @@
+library,version,sign,date
+appframework,1.0.3,+,2012-03-22
+org.kevoree.tools.ui.editor,1.1.0-RC2,-,2011-07-20
+junit,3.8.1,-,2011-10-13
+junit,4.7,+,2012-03-22
+swing-layout,1.0.3,+,2012-03-22
+jung-visualization,2.0.1,+,2012-03-22
+scala-library,2.9.0-1,-,2011-07-20
+scala-library,2.9.2,+,2012-03-22
+scala-library,2.9.1,-,2011-10-13
+swing-worker,1.1,+,2012-03-22
+jung-algorithms,2.0.1,+,2012-03-22
+jfreechart,1.0.14,+,2012-03-22
+jung-api,2.0.1,+,2012-03-22
+jung-graph-impl,2.0.1,+,2012-03-22

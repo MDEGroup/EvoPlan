@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.8.1,+,2013-11-21
+mysql-connector-java,5.1.6,+,2013-11-13
+mysql-connector-java,5.1.6,-,2013-11-21
+mysql-connector-java,5.1.6,+,2013-11-21
+mysql-connector-java,5.1.6,-,2013-11-13
+weka-dev,3.7.9,+,2013-11-13
+weka-dev,3.7.9,-,2013-11-21
+weka-dev,3.7.9,-,2013-11-13
+weka-dev,3.7.9,+,2013-11-21
+json,20090211,+,2013-11-13
+json,20090211,+,2013-11-02

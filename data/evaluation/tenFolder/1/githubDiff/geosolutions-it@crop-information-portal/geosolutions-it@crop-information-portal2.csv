@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.11,+,2014-01-10
+junit,4.11,-,2013-09-06
+junit,4.8.1,-,2013-09-06
+slf4j-log4j12,1.7.2,-,2013-09-06
+gb-action-imagemosaic,1.4-SNAPSHOT,+,2014-01-10
+gb-actions,1.4-SNAPSHOT,+,2014-01-10
+gb-actions,1.4-SNAPSHOT,-,2013-09-06

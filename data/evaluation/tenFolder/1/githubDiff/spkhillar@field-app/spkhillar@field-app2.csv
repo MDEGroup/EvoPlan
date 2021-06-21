@@ -1,0 +1,8 @@
+library,version,sign,date
+slf4j-api,1.7.5,+,2013-06-23
+telenoetica.field.service.app.entities,1.0.0,+,2013-06-22
+telenoetica.field.service.app.entities,1.0.0,+,2013-06-23
+logback-android-core,1.0.10-2,+,2013-06-23
+logback-android-classic,1.0.10-2,+,2013-06-23
+commons-lang,2.6,-,2013-06-23
+commons-lang,2.6,+,2013-06-23

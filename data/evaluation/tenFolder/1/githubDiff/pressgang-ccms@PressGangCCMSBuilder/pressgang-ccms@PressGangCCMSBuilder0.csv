@@ -1,0 +1,12 @@
+library,version,sign,date
+xercesImpl,2.11.0,-,2013-07-30
+xercesImpl,2.11.0,+,2013-05-20
+xercesImpl,2.11.0,+,2013-05-23
+xercesImpl,2.11.0,-,2013-05-22
+ipsedixit,1.0.2,+,2013-07-30
+ipsedixit,1.0.2,-,2013-05-20
+ipsedixit,1.0.2,-,2013-05-23
+ipsedixit,1.0.2,+,2013-05-13
+ipsedixit,1.0.2,-,2013-03-12
+ipsedixit,1.0.2,+,2013-05-22
+ipsedixit,1.0.2,+,2013-03-12

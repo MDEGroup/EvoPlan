@@ -1,0 +1,3 @@
+library,version,sign,date
+release-test-module-one,1.0-SNAPSHOT,-,2019-01-08
+release-test-module-one,1.0-SNAPSHOT,+,2019-01-08

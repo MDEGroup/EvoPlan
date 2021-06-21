@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.11,+,2014-11-17
+beam-core,5.0.2,+,2014-11-18
+ooxml-schemas,1.1,+,2015-04-20
+commons-cli,1.2,-,2014-11-18
+commons-cli,1.2,+,2015-07-08
+poi-scratchpad,3.12,+,2015-07-06
+poi-scratchpad,3.12,-,2017-01-23
+py4j,0.10.2.1,+,2016-06-09
+poi-ooxml-schemas,3.12,-,2017-01-23
+poi-ooxml-schemas,3.7,-,2015-07-06
+poi-ooxml-schemas,3.7,+,2015-04-20
+poi-ooxml,3.12,-,2017-01-23
+poi-ooxml,3.7,-,2015-07-06
+poi-ooxml,3.7,+,2015-04-20

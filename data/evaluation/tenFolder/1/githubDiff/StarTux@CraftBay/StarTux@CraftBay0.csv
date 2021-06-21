@@ -1,0 +1,10 @@
+library,version,sign,date
+spigot-api,1.11-R0.1-SNAPSHOT,-,2017-03-21
+spigot-api,1.13-pre7-R0.1-SNAPSHOT,-,2018-07-16
+spigot-api,1.13.1-R0.1-SNAPSHOT,-,2019-06-12
+spigot-api,1.12-pre6-SNAPSHOT,-,2017-06-02
+spigot-api,1.13-R0.1-SNAPSHOT,-,2018-09-12
+spigot-api,1.10-R0.1-SNAPSHOT,-,2016-07-17
+spigot-api,1.9-R0.1-SNAPSHOT,-,2016-06-16
+VaultAPI,1.5,-,2018-08-02
+generic_events,0.1,+,2016-12-08

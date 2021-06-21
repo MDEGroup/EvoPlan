@@ -1,0 +1,4 @@
+library,version,sign,date
+jstl,1.2,+,2013-04-24
+javax.servlet-api,3.0.1,+,2013-04-24
+cglib,2.2.2,+,2013-04-24

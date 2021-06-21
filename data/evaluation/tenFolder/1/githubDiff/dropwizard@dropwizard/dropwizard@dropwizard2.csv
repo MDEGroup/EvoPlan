@@ -1,0 +1,6 @@
+library,version,sign,date
+jsr305,3.0.2,+,2019-08-13
+jsr305,3.0.2,-,2019-08-13
+jakarta.validation-api,2.0.2,+,2020-02-20
+jakarta.servlet-api,4.0.3,+,2019-12-09
+mockito-core,2.7.6,+,2018-10-02

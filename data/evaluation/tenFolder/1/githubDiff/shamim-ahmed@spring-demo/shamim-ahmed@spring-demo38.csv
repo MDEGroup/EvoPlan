@@ -1,0 +1,6 @@
+library,version,sign,date
+mysql-connector-java,5.1.21,+,2013-04-23
+jta,1.1,+,2013-04-23
+spring-hibernate3,2.0.8,+,2013-04-23
+commons-lang3,3.1,+,2013-04-23
+commons-dbcp,1.4,+,2013-04-23

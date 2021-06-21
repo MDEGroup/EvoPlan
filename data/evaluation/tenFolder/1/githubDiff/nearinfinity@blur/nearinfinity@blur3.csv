@@ -1,0 +1,10 @@
+library,version,sign,date
+blur-core,0.1-SNAPSHOT,-,2011-08-28
+blur-core,0.1.2,-,2012-06-25
+blur-core,0.1.rc2-SNAPSHOT,-,2012-01-11
+blur-core,0.1.0,-,2012-05-22
+blur-core,0.1.rc1,-,2011-11-14
+blur-core,0.1.0,+,2012-01-11
+log4j,1.2.15,+,2012-01-11
+log4j,1.2.15,+,2012-06-25
+log4j,1.2.15,+,2011-12-15

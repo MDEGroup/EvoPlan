@@ -1,0 +1,4 @@
+library,version,sign,date
+craftbukkit,1.4.6-R0.2-SNAPSHOT,+,2012-06-08
+craftbukkit,1.4.6-R0.2-SNAPSHOT,-,2013-03-02
+spoutplugin,dev-SNAPSHOT,+,2012-06-08

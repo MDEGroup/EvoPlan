@@ -1,0 +1,8 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,+,2014-03-12
+javax.servlet-api,3.0.1,-,2014-03-12
+commands-common,0.0.1-SNAPSHOT,-,2014-01-23
+jython-standalone,2.5.3,-,2014-01-23
+commands-worksheet,0.0.1-SNAPSHOT,-,2014-01-23
+commands-worksheet,0.0.1-SNAPSHOT,-,2014-03-12
+karma-util,0.0.1-SNAPSHOT,-,2014-01-23

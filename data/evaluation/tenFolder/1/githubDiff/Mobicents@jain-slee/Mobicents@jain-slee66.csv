@@ -1,0 +1,8 @@
+library,version,sign,date
+jain-slee,1.1,-,2012-08-08
+hibernate-entitymanager,4.2.0.CR1,-,2016-10-18
+hibernate-entitymanager,4.2.0.CR1,+,2013-07-25
+hibernate-core,4.2.0.CR1,-,2016-10-18
+hibernate-core,4.2.0.CR1,+,2013-07-25
+commons-lang,2.4,-,2012-08-08
+commons-lang,2.6,+,2016-12-01

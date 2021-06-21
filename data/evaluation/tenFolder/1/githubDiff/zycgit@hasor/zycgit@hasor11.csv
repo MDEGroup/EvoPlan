@@ -1,0 +1,16 @@
+library,version,sign,date
+ognl,3.2.14,+,2020-03-28
+fastjson,1.2.47,-,2020-03-29
+fastjson,1.2.62,-,2020-03-29
+fastjson,1.2.58,-,2020-03-29
+jsqlparser,3.1,+,2020-05-10
+hasor-web,4.1.3,-,2020-04-17
+hasor-web,4.1.3,+,2020-04-03
+hasor-web,4.1.2,-,2020-03-29
+hasor-web,4.1.5,-,2020-05-09
+hasor-web,4.1.3,-,2020-04-03
+hasor-web,4.1.4,-,2020-04-30
+hasor-dataql,4.1.3,-,2020-04-17
+hasor-dataql,4.1.2,-,2020-03-29
+hasor-dataql,4.1.5,-,2020-05-09
+hasor-dataql,4.1.4,-,2020-04-30

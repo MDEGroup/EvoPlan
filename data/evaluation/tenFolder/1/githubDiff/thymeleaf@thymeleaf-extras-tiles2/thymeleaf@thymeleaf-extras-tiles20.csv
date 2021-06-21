@@ -1,0 +1,7 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2014-08-18
+jsp-api,2.1,+,2014-08-18
+jsp-api,2.1,-,2014-08-18
+thymeleaf-extras-tiles2,2.1.1.RELEASE,-,2014-01-13
+servlet-api,2.5,-,2014-08-18
+servlet-api,2.5,+,2014-08-18

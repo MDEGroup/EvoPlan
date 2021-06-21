@@ -1,0 +1,12 @@
+library,version,sign,date
+spring-dependencies,[1.7.0,2.0.0),-,2013-06-26
+protobuf-java,2.2.0,+,2019-04-25
+protobuf-java,2.2.0,-,2019-05-08
+protobuf-java,3.4.0,+,2018-03-20
+protobuf-java,3.4.0,-,2019-05-09
+protobuf-java,3.4.0,+,2019-05-09
+protobuf-java,3.4.0,+,2018-10-11
+protobuf-java,3.4.0,-,2019-04-25
+protobuf-java,2.2.0,-,2016-06-16
+protobuf-java,3.4.0,-,2018-10-11
+protobuf-java,2.2.0,+,2010-08-10

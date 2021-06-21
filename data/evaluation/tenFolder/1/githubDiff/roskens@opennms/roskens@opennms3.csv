@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.12,+,2018-10-26
+junit,4.12,-,2018-10-31
+junit,4.12,-,2018-10-26
+apache-jsp,RELEASE,-,2018-07-09

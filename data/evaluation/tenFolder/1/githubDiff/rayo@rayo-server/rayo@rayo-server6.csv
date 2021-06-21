@@ -1,0 +1,10 @@
+library,version,sign,date
+jstl,1.2,+,2012-01-24
+vlib-core,12.2.0,-,2012-05-03
+jolokia-core,1.0.4-SNAPSHOT,-,2012-05-03
+jolokia-core,0.90,-,2011-10-11
+jolokia-core,0.90,+,2011-10-05
+jolokia-core,1.0.0,-,2012-04-19
+jolokia-core,1.0.0,-,2012-01-05
+jolokia-core,1.0.0,+,2012-01-05
+xmppservlet-api,2.0-SNAPSHOT,-,2011-11-21

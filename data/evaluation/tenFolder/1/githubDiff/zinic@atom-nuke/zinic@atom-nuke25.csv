@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.10,-,2012-12-17
+jython,2.5.2,-,2012-12-17
+woodstox-core-asl,4.1.3,-,2012-12-17

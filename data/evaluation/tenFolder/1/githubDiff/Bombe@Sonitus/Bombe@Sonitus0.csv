@@ -1,0 +1,8 @@
+library,version,sign,date
+xstream,1.4.4,+,2013-05-26
+guava,14.0-rc1,+,2013-03-14
+jorbis,0.0.17,+,2013-03-14
+JID3,0.46,+,2013-03-16
+testng,6.8,+,2013-03-18
+mockito-core,1.9.5,+,2013-05-25
+guice,3.0,+,2013-03-16

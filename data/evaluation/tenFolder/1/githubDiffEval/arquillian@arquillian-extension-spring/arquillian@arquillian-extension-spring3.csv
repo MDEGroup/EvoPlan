@@ -1,0 +1,12 @@
+library,version,sign,date
+jackson-databind,2.3.4,+,2015-05-31
+jackson-mapper-asl,1.4.2,-,2015-05-31
+jackson-mapper-asl,1.4.2,+,2012-08-11
+spring-web,3.1.1.RELEASE,+,2013-06-19
+spring-web,2.5.6,+,2013-06-19
+spring-web,3.1.1.RELEASE,-,2014-06-26
+spring-web,2.5.6,-,2014-06-26
+spring-context,3.1.1.RELEASE,+,2013-06-19
+spring-context,2.5.6,+,2013-06-19
+spring-context,3.1.1.RELEASE,-,2014-06-26
+spring-context,2.5.6,-,2014-06-26

@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.10,-,2013-06-05
+junit,4.10,-,2013-06-14
+junit,4.10,+,2013-06-05
+cdi-api,1.0-SP4,+,2014-09-03
+cdi-api,1.0-SP4,-,2014-10-05

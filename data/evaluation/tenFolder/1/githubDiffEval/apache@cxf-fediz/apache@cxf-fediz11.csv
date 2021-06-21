@@ -1,0 +1,16 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2012-04-28
+slf4j-api,1.6.1,-,2012-05-11
+slf4j-api,1.6.1,-,2012-05-15
+slf4j-api,1.6.1,+,2012-05-11
+slf4j-api,1.6.1,-,2012-04-28
+fediz-core,0.6-SNAPSHOT,+,2012-04-28
+fediz-core,0.6-SNAPSHOT,-,2012-04-28
+fediz-core,0.6-SNAPSHOT,+,2012-05-11
+fediz-core,0.6-SNAPSHOT,-,2012-05-11
+spring-web,3.0.6.RELEASE,-,2012-05-15
+spring-web,3.0.6.RELEASE,+,2012-05-11
+spring-web,3.0.6.RELEASE,-,2012-05-11
+spring-context,3.0.6.RELEASE,-,2012-05-15
+spring-context,3.0.6.RELEASE,+,2012-05-11
+spring-context,3.0.6.RELEASE,-,2012-05-11

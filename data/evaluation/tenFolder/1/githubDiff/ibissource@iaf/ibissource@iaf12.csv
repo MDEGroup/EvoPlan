@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.12,+,2019-11-29
+junit,4.12,-,2019-11-29
+junit,4.12,+,2019-09-25
+ibis-adapterframework-cmis,7.5-SNAPSHOT,-,2019-11-29
+ibis-adapterframework-cmis,7.4-SNAPSHOT,-,2019-07-26
+ibis-adapterframework-core,7.5-SNAPSHOT,-,2019-11-29
+ibis-adapterframework-core,7.4-SNAPSHOT,-,2019-07-26
+mockito-core,1.10.19,+,2019-11-29
+mockito-core,1.10.19,-,2019-11-29
+mockito-core,1.10.19,+,2019-09-25

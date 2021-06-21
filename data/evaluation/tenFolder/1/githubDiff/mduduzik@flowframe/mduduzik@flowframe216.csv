@@ -1,0 +1,15 @@
+library,version,sign,date
+org.flowframe.bpm.jbpm.services,0.0.1,+,2013-02-01
+org.flowframe.bpm.jbpm.services,0.0.1,+,2013-01-05
+vaadin,6.4.0,-,2013-01-29
+vaadin,7.0.0,+,2013-02-01
+vaadin,6.8.6,+,2013-01-05
+vaadin,6.4.0,+,2013-02-01
+vaadin,6.8.6,-,2013-02-01
+vaadin,6.8.6,-,2013-01-05
+vaadin,6.8.6,+,2013-02-01
+org.flowframe.uilegacy.services,0.0.1,+,2013-02-01
+org.flowframe.thirdparty.org.vaadin.addons.mvp-common-customized,0.9.2-SNAPSHOT,+,2013-02-01
+org.flowframe.uilegacy.component.domain,0.0.1,+,2013-02-01
+org.flowframe.ui.pageflow.services,0.0.1,+,2013-02-01
+org.flowframe.kernel.jpa.container.services,0.0.1,+,2013-02-01

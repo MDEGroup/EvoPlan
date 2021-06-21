@@ -1,0 +1,9 @@
+library,version,sign,date
+arpack_combined_all,0.1,+,2013-07-02
+arpack_combined_all,0.1,+,2013-06-24
+mockito-all,1.9.0,-,2014-08-16
+mockito-all,1.9.0,+,2012-11-30
+mockito-all,1.10.19,-,2016-05-22
+${project.artifactId},2.5.5,-,2015-08-26
+javax.inject,1.0-SNAPSHOT,+,2009-09-07
+javax.inject,1.0-SNAPSHOT,-,2009-12-31

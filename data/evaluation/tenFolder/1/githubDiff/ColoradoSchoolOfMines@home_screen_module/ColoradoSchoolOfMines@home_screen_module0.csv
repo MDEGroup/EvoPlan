@@ -1,0 +1,12 @@
+library,version,sign,date
+interfacesdk,[0.3.0,0.4.0),-,2013-12-09
+interfacesdk,0.0.5,+,2013-06-04
+interfacesdk,0.1.2,-,2013-11-03
+interfacesdk,0.0.4,-,2013-06-04
+interfacesdk,0.0.6,-,2013-06-10
+interfacesdk,0.0.2,-,2013-06-01
+interfacesdk,0.0.5,-,2013-06-07
+interfacesdk,0.0.1,+,2013-05-23
+interfacesdk,0.1.0,-,2013-06-13
+interfacesdk,0.0.1,-,2013-05-30
+twitter4j-core,[3.0,),+,2013-06-06

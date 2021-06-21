@@ -1,0 +1,7 @@
+library,version,sign,date
+jboss-servlet-api_3.0_spec,1.0.1.Final,+,2018-06-30
+jboss-servlet-api_3.0_spec,1.0.1.Final,+,2016-07-30
+jboss-servlet-api_3.0_spec,1.0.1.Final,+,2012-04-19
+jmte,3.0,+,2012-06-16
+jmte,3.0,-,2018-06-30
+togglz-servlet,2.7.0-SNAPSHOT,+,2018-06-30

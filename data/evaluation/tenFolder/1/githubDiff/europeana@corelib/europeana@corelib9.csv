@@ -1,0 +1,7 @@
+library,version,sign,date
+corelib-common-storage,2.9.4-SNAPSHOT,-,2020-04-08
+corelib-storage,2.9.4-SNAPSHOT,-,2020-04-08
+corelib-edm-definitions,2.9.4-SNAPSHOT,-,2020-04-08
+corelib-definitions,2.9.4-SNAPSHOT,-,2020-04-08
+de.flapdoodle.embed.mongo,1.46.4,-,2020-04-08
+corelib-web,2.9.4-SNAPSHOT,-,2020-04-08

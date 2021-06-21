@@ -1,0 +1,6 @@
+library,version,sign,date
+jena-arq,3.0.0,-,2015-08-28
+jena-arq,3.0.0,+,2015-08-28
+jena-arq,2.11.2,-,2015-07-21
+guava,17.0,-,2015-07-07
+ncoap-core,1.8.1,-,2015-08-25

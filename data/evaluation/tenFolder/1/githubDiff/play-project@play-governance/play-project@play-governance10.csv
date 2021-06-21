@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,3.8.1,-,2013-01-23
+junit,3.8.1,+,2013-01-23
+junit,4.10,+,2013-01-23
+governance-metadata-json,1.0-SNAPSHOT,-,2013-01-23
+governance-metadata-api,1.0-SNAPSHOT,-,2013-01-23
+governance-metadata-client,1.0-SNAPSHOT,-,2013-01-23

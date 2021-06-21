@@ -1,0 +1,8 @@
+library,version,sign,date
+commons-codec,1.5,+,2013-10-18
+substance,7.2.1,+,2013-10-29
+jackson-mapper-asl,1.9.13,+,2013-10-18
+commons-io,1.2,+,2013-10-27
+guava,15.0,+,2013-11-18
+lombok,1.12.2,+,2013-10-21
+flying-saucer-core,9.0.3,+,2013-10-18

@@ -1,0 +1,5 @@
+library,version,sign,date
+selenium-server,2.37.1,+,2013-11-06
+junit,4.8.1,+,2013-10-24
+spark-core,1.1.1,+,2013-10-28
+selenium-java,2.37.1,+,2013-11-06

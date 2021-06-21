@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.7,+,2012-04-03
+junit,4.7,-,2012-04-03
+LRJavaLib,0.1.2,-,2012-04-03
+LRJavaLib,0.1.2,+,2012-04-03

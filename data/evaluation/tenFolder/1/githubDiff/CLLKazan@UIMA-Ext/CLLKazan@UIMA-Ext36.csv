@@ -1,0 +1,4 @@
+library,version,sign,date
+slf4j-api,1.7.2,-,2014-11-06
+jcommander,1.32,-,2014-11-06
+guava,14.0.1,-,2014-11-06

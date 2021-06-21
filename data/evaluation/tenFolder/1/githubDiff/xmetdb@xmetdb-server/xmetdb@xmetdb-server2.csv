@@ -1,0 +1,13 @@
+library,version,sign,date
+dbunit,2.4.8,-,2015-03-23
+dbunit,2.4.8,+,2015-03-23
+dbunit,2.4.8,-,2012-08-23
+dbunit,2.4.8,+,2012-08-23
+xmet-db,0.0.3-SNAPSHOT,-,2013-06-23
+xmet-db,0.0.3,-,2013-06-24
+xmet-db,0.0.2-SNAPSHOT,-,2013-04-25
+xmet-db,0.0.1-SNAPSHOT,-,2013-04-02
+xmet-db,0.0.5-SNAPSHOT,-,2015-03-03
+xmet-db,0.0.4,-,2013-06-26
+xmet-db,0.0.2,-,2013-06-03
+xmet-db,0.0.4-SNAPSHOT,-,2013-06-25

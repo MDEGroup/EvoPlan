@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2016-10-31
+junit,4.13,+,2020-01-02
+junit,4.12,-,2020-01-02
+commons-cli,1.2,-,2018-08-17
+commons-cli,1.2,+,2017-05-01
+commons-cli,1.2,-,2017-05-01
+httpcore5-h2,5.0-beta3-SNAPSHOT,-,2018-08-17
+httpcore5-h2,5.0-beta3-SNAPSHOT,+,2018-08-29
+rxjava,2.2.7,+,2018-12-04
+rxjava,2.1.9,+,2018-08-29
+rxjava,2.2.8,+,2019-03-02
+rxjava,2.2.7,-,2019-03-02
+rxjava,2.1.9,-,2018-12-04

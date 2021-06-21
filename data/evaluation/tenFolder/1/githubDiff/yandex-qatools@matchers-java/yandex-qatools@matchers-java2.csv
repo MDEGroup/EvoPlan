@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.11,-,2016-04-14
+matcher-decorators,1.0,-,2014-10-03
+matcher-decorators,1.0-SNAPSHOT,-,2013-06-24
+mockito-core,1.8.5,-,2013-09-08
+mockito-core,1.9.5,-,2013-10-28
+mockito-core,1.9.5,+,2013-10-28
+mockito-core,1.9.5,-,2016-04-14
+selenium-java,2.43.1,-,2016-04-14
+selenium-java,2.34.0,+,2013-10-28
+selenium-java,2.34.0,-,2013-10-28
+selenium-java,2.34.0,-,2014-10-03
+selenium-java,2.31.0,-,2013-09-08

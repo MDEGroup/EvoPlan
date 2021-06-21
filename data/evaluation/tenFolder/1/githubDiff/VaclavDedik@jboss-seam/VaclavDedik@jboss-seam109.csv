@@ -1,0 +1,11 @@
+library,version,sign,date
+jboss-seam,2.2.0.GA,-,2012-06-04
+jboss-seam,@seam.version@,-,2011-09-12
+gwt-user,1.5.2,+,2012-03-15
+gwt-user,1.5.2,-,2012-03-15
+gwt-user,1.5.2,+,2012-02-01
+gwt-user,1.5.2,-,2012-02-01
+jboss-seam-remoting,@seam.version@,-,2011-09-12
+gwt-servlet,1.5.2,-,2011-09-12
+gwt-servlet,1.5.2,+,2012-03-15
+gwt-servlet,1.5.2,-,2012-03-15

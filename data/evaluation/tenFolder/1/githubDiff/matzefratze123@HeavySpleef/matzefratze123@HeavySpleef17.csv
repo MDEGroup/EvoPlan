@@ -1,0 +1,9 @@
+library,version,sign,date
+inventory-gui-lib,1.0,+,2015-02-01
+inventory-gui-lib,1.0.1,-,2015-07-08
+inventory-gui-lib,1.0,-,2015-03-15
+inventory-gui-lib,1.0.2,-,2016-06-23
+inventory-gui-lib,1.0,+,2014-12-19
+inventory-gui-lib,1.0.1,-,2015-07-01
+inventory-gui-lib,1.0.1,+,2015-07-01
+inventory-gui-lib,1.0,-,2015-02-01

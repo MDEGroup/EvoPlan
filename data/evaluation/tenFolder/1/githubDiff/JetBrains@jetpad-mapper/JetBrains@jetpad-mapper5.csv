@@ -1,0 +1,12 @@
+library,version,sign,date
+guava-gwt,14.0.1,-,2013-12-11
+guava-gwt,13.0.1,+,2013-09-07
+guava-gwt,14.0.1,+,2013-10-01
+guava-gwt,13.0.1,-,2013-10-01
+guava-gwt,13.0.1,-,2013-09-07
+test,1.0-SNAPSHOT,-,2014-02-04
+test,1.1-SNAPSHOT,+,2014-11-19
+test,1.0.0,-,2014-04-30
+test,1.1-SNAPSHOT,+,2014-05-06
+test,1.0-SNAPSHOT,-,2013-09-07
+test,1.0.1-SNAPSHOT,-,2014-04-30

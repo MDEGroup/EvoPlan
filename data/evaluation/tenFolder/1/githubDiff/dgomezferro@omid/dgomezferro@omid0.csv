@@ -1,0 +1,15 @@
+library,version,sign,date
+hamcrest-library,1.2.1,+,2011-11-14
+hadoop-core,0.20.205.0,+,2011-11-14
+zookeeper,3.4.0-BK-SNAPSHOT,-,2012-01-24
+zookeeper,3.4.0,-,2012-03-03
+zookeeper,3.4.0,-,2012-01-24
+zookeeper,3.4.0-BK-SNAPSHOT,+,2011-11-02
+bookkeeper-server,4.0.0-SNAPSHOT,+,2011-11-02
+bookkeeper-server,4.0.0-SNAPSHOT,-,2012-01-24
+jcommander,1.23,+,2012-04-13
+hbase,0.90.2,-,2011-11-14
+hbase,0.93-SNAPSHOT,-,2011-12-22
+hbase,0.92.0-SNAPSHOT,-,2012-03-06
+netty,3.2.6.Final,+,2011-11-08
+netty,3.1.2.GA,-,2011-11-08

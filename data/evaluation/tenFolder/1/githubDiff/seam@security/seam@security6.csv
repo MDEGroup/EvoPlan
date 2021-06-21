@@ -1,0 +1,4 @@
+library,version,sign,date
+picketlink-idm-api,1.1.2.CR01,+,2010-04-13
+picketlink-idm-api,1.1.2.CR01,-,2010-05-28
+cdi-api,1.0-SP1,-,2010-05-28

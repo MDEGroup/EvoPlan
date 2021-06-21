@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2012-03-22
+slf4j-log4j12,1.6.4,-,2012-03-22
+avro-ipc,1.6.2,-,2012-03-13
+avro,1.6.2,-,2012-03-13

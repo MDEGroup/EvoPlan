@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,3.8.1,+,2011-04-07
+junit,3.8.1,-,2011-04-07
+junit,3.8.1,-,2012-05-03
+junit,3.8.1,+,2012-05-03
+petals-cdk-core,5.0.1,-,2011-04-07
+jetty,6.1.9,+,2011-04-07
+jetty,6.1.9,-,2011-04-07
+commons-lang,2.1,-,2011-04-07
+commons-lang,2.1,+,2011-04-07
+commons-lang,2.1,+,2012-05-03
+commons-lang,2.2,+,2011-04-07
+petals-ws-star,1.2,-,2011-04-07
+petals-ws-star,1.2,+,2011-04-07

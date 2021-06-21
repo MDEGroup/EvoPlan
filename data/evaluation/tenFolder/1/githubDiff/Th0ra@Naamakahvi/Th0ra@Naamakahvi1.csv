@@ -1,0 +1,11 @@
+library,version,sign,date
+httpmime,4.2,+,2012-07-04
+httpmime,4.2,+,2012-07-06
+android,2.2.1,-,2012-07-06
+android,2.3.3,-,2012-07-21
+android,1.6_r2,-,2012-06-25
+gson,2.2.1,+,2012-07-06
+gson,2.2.1,-,2012-06-25
+opencv,2.4.1,+,2012-06-25
+httpclient,4.2,-,2012-06-25
+httpclient,4.2,+,2012-07-06

@@ -1,0 +1,5 @@
+library,version,sign,date
+postgresql,8.4-701.jdbc4,-,2011-01-20
+postgresql,9.0-801.jdbc4,-,2010-12-11
+joda-time,1.6,+,2011-01-14
+persistence-api,1.0.2,+,2012-08-06

@@ -1,0 +1,14 @@
+library,version,sign,date
+hsqldb,2.3.1,+,2014-02-27
+hsqldb,2.3.1,-,2014-02-27
+hsqldb,2.3.1,-,2014-07-07
+commons-dbcp2,2.0.1,+,2014-06-19
+commons-dbcp2,2.0.1,-,2014-06-19
+commons-dbcp2,2.0.1,+,2014-06-17
+commons-lang3,3.1,+,2013-10-13
+commons-lang3,3.3.2,+,2014-06-17
+commons-lang3,3.1,-,2014-06-17
+commons-lang3,3.1,+,2014-02-27
+vsb-fou-common,1.0-SNAPSHOT,+,2014-02-27
+vsb-fou-common,1.0-SNAPSHOT,+,2013-10-11
+vsb-fou-common,1.0-SNAPSHOT,+,2013-10-13

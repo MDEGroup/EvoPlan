@@ -1,0 +1,9 @@
+library,version,sign,date
+polopoly,10.14.0,-,2016-02-22
+polopoly,polopoly.version,+,2016-02-22
+pcmd,${project.version},+,2016-02-22
+pcmd,3.0-SNAPSHOT,-,2016-02-22
+log4j,1.2.17,+,2016-02-22
+log4j,1.2.17,-,2016-02-22
+log4j,2.5,-,2016-02-22
+log4j,2.5,+,2016-02-22

@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-codec,1.6,+,2012-03-25
+async-http-client,1.8.0-SNAPSHOT,+,2012-04-10
+async-http-client,1.8.0-SNAPSHOT,-,2012-04-10
+async-http-client,1.8.0,-,2014-10-30

@@ -1,0 +1,16 @@
+library,version,sign,date
+slf4j-api,1.5.8,-,2013-09-14
+slf4j-api,1.5.8,+,2013-09-14
+slf4j-api,1.5.8,+,2013-04-30
+slf4j-api,1.6.1,+,2013-04-30
+slf4j-api,1.5.8,-,2013-04-30
+slf4j-api,1.5.8,+,2012-12-20
+javaee-api,5.1.1,-,2012-12-20
+javaee-api,6.0,+,2012-12-20
+javaee-api,6.0,+,2013-04-30
+javaee-api,6.0,-,2013-09-14
+javaee-api,6.0,-,2013-04-30
+javaee-api,5.1.1,-,2013-04-30
+sirocco-cloudmanager-model-cimi,0.6.0,-,2013-11-19
+sirocco-cloudmanager-model-cimi,0.6.0-SNAPSHOT,+,2013-04-30
+sirocco-cloudmanager-model-cimi,0.6.0-SNAPSHOT,-,2013-09-14

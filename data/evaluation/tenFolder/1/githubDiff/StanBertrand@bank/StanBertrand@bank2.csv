@@ -1,0 +1,7 @@
+library,version,sign,date
+hibernate-validator,4.2.0.Final,+,2012-04-02
+joda-time,2.0,+,2012-03-06
+joda-time,2.0,-,2012-03-08
+bean,0.0.1-SNAPSHOT,-,2012-03-06
+bean,1.0.0-SNAPSHOT,-,2012-03-12
+bean,1.0.0-SNAPSHOT,+,2012-03-08

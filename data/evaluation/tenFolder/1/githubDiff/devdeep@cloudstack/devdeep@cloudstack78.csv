@@ -1,0 +1,7 @@
+library,version,sign,date
+cloud-utils,4.0.0-SNAPSHOT,-,2012-08-17
+cloud-utils,4.2.0-SNAPSHOT,-,2013-02-20
+cloud-utils,4.2.0-SNAPSHOT,+,2012-11-20
+servlet-api,2.4,-,2012-08-27
+servlet-api,2.4,-,2012-08-22
+servlet-api,2.4,+,2012-08-22

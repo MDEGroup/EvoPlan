@@ -1,0 +1,4 @@
+library,version,sign,date
+logback-classic,1.1.2,-,2018-03-22
+logback-classic,1.1.2,+,2019-10-14
+org.spoofax.terms,2.5.0-SNAPSHOT,-,2018-03-22

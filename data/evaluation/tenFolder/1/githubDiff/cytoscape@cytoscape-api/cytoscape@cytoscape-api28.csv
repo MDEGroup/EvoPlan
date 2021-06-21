@@ -1,0 +1,8 @@
+library,version,sign,date
+model-api,3.0.0-alpha5-SNAPSHOT,+,2011-08-06
+model-api,3.0.0-alpha5-SNAPSHOT,-,2011-08-08
+model-api,3.0.0-alpha5-SNAPSHOT,-,2011-08-06
+junit,4.8.1,+,2013-12-11
+junit,4.4,-,2011-08-08
+service-api,3.0.0-alpha3-SNAPSHOT,-,2011-08-06
+service-api,3.0.0-alpha3-SNAPSHOT,-,2011-08-08

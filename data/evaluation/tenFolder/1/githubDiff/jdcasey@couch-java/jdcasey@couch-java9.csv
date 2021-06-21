@@ -1,0 +1,11 @@
+library,version,sign,date
+json-serialization,0.1,+,2011-11-29
+json-serialization,0.1,-,2012-02-15
+couch-app-support,1.1-SNAPSHOT,-,2012-02-15
+couch-app-support,1.1,-,2012-03-08
+couch-app-support,1.2-SNAPSHOT,-,2012-03-08
+couch-app-support,1.1-SNAPSHOT,-,2011-10-18
+couch-app-support,1.1-SNAPSHOT,+,2011-10-18
+couch-app-support,1.2,-,2012-06-28
+weld-se-core,1.1.2.Final,-,2011-10-18
+weld-se-core,1.1.2.Final,+,2011-10-18

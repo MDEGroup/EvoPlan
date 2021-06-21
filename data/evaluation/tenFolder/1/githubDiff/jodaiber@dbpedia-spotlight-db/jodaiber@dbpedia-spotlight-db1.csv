@@ -1,0 +1,16 @@
+library,version,sign,date
+jericho-html,3.1,+,2011-04-18
+core,2.0-SNAPSHOT,+,2011-08-08
+core,2.0-SNAPSHOT,-,2011-08-08
+core,2.0-SNAPSHOT,-,2011-02-22
+weka,3.7.3,+,2011-09-28
+weka,3.7.3,+,2011-03-09
+weka,3.6.0,+,2011-03-09
+jung,0.4.9,-,2011-08-08
+jung,0.4.9,+,2011-04-28
+webgraph,2.4.5,+,2011-04-28
+webgraph,2.4.5,-,2011-08-08
+json-lib,2.3,-,2011-09-28
+json-lib,2.3,-,2011-02-22
+paranamer,2.3,+,2011-03-09
+httpclient,4.0.3,-,2011-02-22

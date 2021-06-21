@@ -1,0 +1,9 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,-,2013-03-21
+javax.servlet-api,3.0.1,+,2013-02-26
+javax.servlet-api,3.0.1,-,2012-11-28
+javax.servlet-api,3.0.1,+,2012-11-20
+javax.servlet-api,3.0.1,+,2013-03-21
+javax.servlet-api,3.0.1,+,2012-11-28
+jboss-ejb-api_3.1_spec,1.0.2.Final,+,2012-11-28
+jboss-ejb-api_3.1_spec,1.0.2.Final,-,2013-03-21

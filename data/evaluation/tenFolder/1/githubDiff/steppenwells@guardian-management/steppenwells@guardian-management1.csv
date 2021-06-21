@@ -1,0 +1,6 @@
+library,version,sign,date
+spring-core,2.5.5,-,2009-12-21
+commons-httpclient,3.0.1,+,2009-11-18
+google-collections,1.0-rc2,+,2009-11-18
+google-collections,1.0-rc2,-,2010-02-26
+c3p0,0.9.1.2,+,2009-11-18

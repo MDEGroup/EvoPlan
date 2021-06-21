@@ -1,0 +1,8 @@
+library,version,sign,date
+hibernate-jpa-2.0-api,1.0.0.Final,-,2012-05-04
+freemarker,2.3.18,-,2012-05-04
+hibernate-validator,4.2.0.Final,-,2012-05-04
+mail,1.4.3,-,2012-05-04
+jackson-databind,2.1.1,+,2012-11-26
+guava,10.0.1,-,2012-05-04
+servlet-api,2.5,+,2012-09-15

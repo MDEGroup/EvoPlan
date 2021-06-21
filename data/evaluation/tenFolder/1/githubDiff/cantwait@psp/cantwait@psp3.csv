@@ -1,0 +1,4 @@
+library,version,sign,date
+mule-module-mongo,3.2,+,2013-06-19
+mongo-java-driver,2.11.0,+,2013-06-19
+gson,2.2.4,+,2013-06-19

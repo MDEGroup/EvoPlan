@@ -1,0 +1,7 @@
+library,version,sign,date
+easymock,3.2,-,2013-10-19
+easymock,3.2,+,2013-10-18
+junit,4.11,+,2013-10-18
+junit,4.11,-,2013-10-19
+lombok,0.12.0,+,2013-10-18
+lombok,0.12.0,-,2013-10-19

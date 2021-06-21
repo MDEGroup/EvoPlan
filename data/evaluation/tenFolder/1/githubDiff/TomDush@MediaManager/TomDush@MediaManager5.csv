@@ -1,0 +1,4 @@
+library,version,sign,date
+resteasy-cdi,3.0.5.Final,+,2013-09-22
+resteasy-jackson2-provider,3.0.5.Final,+,2013-09-22
+resteasy-servlet-initializer,3.0.5.Final,+,2013-09-22

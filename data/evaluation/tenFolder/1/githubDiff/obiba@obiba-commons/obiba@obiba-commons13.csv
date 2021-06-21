@@ -1,0 +1,9 @@
+library,version,sign,date
+guava,19.0,+,2015-02-12
+guava,16.0.1,-,2014-05-05
+guava,18.0,-,2015-02-12
+guava,18.0,+,2014-05-05
+guava,19.0,-,2018-05-20
+guava,19.0,+,2018-05-20
+protobuf-java-format,1.2.1-obiba,-,2018-05-20
+protobuf-java-format,1.2.1-obiba,+,2018-05-20

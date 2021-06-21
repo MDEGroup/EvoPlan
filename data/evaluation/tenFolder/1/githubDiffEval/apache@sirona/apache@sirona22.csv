@@ -1,0 +1,13 @@
+library,version,sign,date
+geronimo-jaxrs_1.1_spec,1.0,-,2015-11-03
+geronimo-jaxrs_1.1_spec,1.0,-,2016-07-05
+geronimo-jaxrs_1.1_spec,1.0,+,2016-07-05
+geronimo-jaxrs_1.1_spec,1.0,+,2015-11-03
+commons-lang3,3.4,+,2016-07-05
+commons-lang3,3.3.1,+,2014-07-11
+commons-lang3,3.4,-,2016-07-05
+commons-lang3,3.2.1,-,2014-07-11
+commons-lang3,3.4,+,2015-11-03
+commons-lang3,3.1,-,2014-07-11
+commons-lang3,3.4,+,2015-05-15
+commons-lang3,3.4,-,2015-11-03

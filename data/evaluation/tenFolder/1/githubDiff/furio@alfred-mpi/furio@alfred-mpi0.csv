@@ -1,0 +1,6 @@
+library,version,sign,date
+hadoop-core,1.0.3,+,2013-09-16
+mpj,0.38,+,2013-09-29
+aws-java-sdk,1.4.3,+,2013-09-18
+alf-core,0.0.6-SNAPSHOT,+,2013-09-18
+jets3t,0.9.0,+,2013-09-19

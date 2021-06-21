@@ -1,0 +1,12 @@
+library,version,sign,date
+Interfaces,1.0-SNAPSHOT,+,2014-06-09
+javax.servlet-api,3.1.0,-,2014-06-09
+jersey-grizzly2,1.18,-,2014-06-09
+mysql-connector-java,5.1.9,-,2014-06-09
+grizzly-framework,2.3.9,-,2014-06-09
+spring-security-config,3.2.0.RELEASE,-,2014-06-09
+grizzly-http-servlet,2.3.9,-,2014-06-09
+jsr311-api,1.1.1,-,2014-06-09
+grizzly-http-server,2.3.9,-,2014-06-09
+grizzly-http,2.3.9,-,2014-06-09
+spring-context,4.0.0.RELEASE,-,2014-06-09

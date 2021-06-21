@@ -1,0 +1,7 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2012-02-07
+slf4j-api,1.6.1,-,2012-02-07
+slf4j-api,1.6.1,-,2012-11-17
+mysql-connector-java,5.1.18,-,2012-11-17
+mysql-connector-java,5.1.18,+,2012-02-07
+mysql-connector-java,5.1.18,-,2012-02-07

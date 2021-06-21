@@ -1,0 +1,11 @@
+library,version,sign,date
+jersey-servlet,1.12,+,2012-10-03
+spring-core,3.1.2.RELEASE,+,2012-10-07
+jersey-server,1.12,+,2012-10-03
+jetty-security,7.0.0.pre5,+,2012-10-03
+jetty-xml,7.0.0.pre5,+,2012-10-03
+jade4j,0.3.3,+,2012-11-11
+jetty-webapp,7.0.0.pre5,+,2012-10-03
+velocity,1.6.4,+,2012-10-03
+spring-web,3.0.5.RELEASE,+,2012-10-07
+jetty-threadpool,7.0.0.pre5,+,2012-10-03

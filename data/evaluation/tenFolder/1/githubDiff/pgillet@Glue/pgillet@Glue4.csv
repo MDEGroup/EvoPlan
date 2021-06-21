@@ -1,0 +1,5 @@
+library,version,sign,date
+ActionBarCompat,0.0.1-SNAPSHOT,-,2012-12-13
+glue-api,0.0.1-SNAPSHOT,-,2012-12-13
+glue-api,0.0.1-SNAPSHOT,+,2012-12-13
+maps,16_r2,-,2012-12-31

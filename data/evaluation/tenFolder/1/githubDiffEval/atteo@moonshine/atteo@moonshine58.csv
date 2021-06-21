@@ -1,0 +1,15 @@
+library,version,sign,date
+assertj-core,1.4.0,+,2014-04-16
+assertj-core,1.4.0,-,2014-04-16
+assertj-core,1.4.0,+,2013-10-22
+assertj-core,1.3.0,-,2013-10-22
+catch-exception,1.3.1,-,2014-10-28
+catch-exception,1.0.4,-,2013-08-11
+catch-exception,1.3.1,+,2014-10-12
+config,1.0-SNAPSHOT,-,2014-03-09
+config,1-SNAPSHOT,-,2014-04-16
+config,1.0-SNAPSHOT,+,2013-12-10
+config,1-SNAPSHOT,+,2014-03-09
+janino,1-SNAPSHOT,-,2014-04-16
+janino,2.6.1,+,2013-10-22
+janino,1-SNAPSHOT,+,2014-03-09

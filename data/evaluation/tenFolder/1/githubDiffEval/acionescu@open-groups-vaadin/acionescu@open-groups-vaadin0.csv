@@ -1,0 +1,4 @@
+library,version,sign,date
+jstl,1.2,+,2012-06-16
+vaadin,6.7.6,-,2012-06-15
+openid-support,0.0.1-SNAPSHOT,+,2012-06-16

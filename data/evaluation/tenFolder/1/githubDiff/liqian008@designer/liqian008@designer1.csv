@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.7,-,2013-08-05
+mysql-connector-java,5.1.23,+,2013-07-09
+mysql-connector-java,5.1.23,-,2013-08-05
+weibo4j-oauth2,2.1-beta,+,2013-08-16
+weibo4j-oauth2,2.1-beta,-,2013-08-26
+base-skeleton,1.0.0-BUILD-SNAPSHOT,+,2013-08-06
+commons-lang3,3.1,+,2013-08-11
+mybatis-spring,1.1.1,+,2013-07-09
+mybatis-spring,1.1.1,-,2013-08-05

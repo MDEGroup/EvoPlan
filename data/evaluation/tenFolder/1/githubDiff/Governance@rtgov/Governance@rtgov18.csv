@@ -1,0 +1,6 @@
+library,version,sign,date
+commons-configuration,1.6,-,2014-04-22
+commons-configuration,1.6,+,2013-08-19
+commons-codec,1.5,-,2013-06-12
+commons-codec,1.5,-,2013-08-19
+commons-codec,1.5,+,2013-04-26

@@ -1,0 +1,9 @@
+library,version,sign,date
+mockito-all,1.9.5,+,2013-10-13
+mockito-all,1.9.5,-,2013-10-17
+mockito-all,1.9.5,-,2013-10-19
+mockito-all,1.9.5,+,2013-10-17
+junit,4.11,+,2013-10-04
+mockwebserver,20130706,+,2013-10-23
+android-test,4.1.1.4,+,2013-10-23
+ormlite-android,4.47,+,2013-10-17

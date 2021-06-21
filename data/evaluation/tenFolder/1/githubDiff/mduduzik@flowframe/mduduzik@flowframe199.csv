@@ -1,0 +1,17 @@
+library,version,sign,date
+org.flowframe.thirdparty.bitronix,2.1.2,-,2012-12-29
+org.flowframe.thirdparty.hibernate.annotations.commons,3.2.0.Final,-,2012-12-29
+org.flowframe.bpm.jbpm.taskserver.human-task-core.fragment,0.0.1,+,2013-01-02
+org.flowframe.bpm.jbpm.taskserver,0.0.1,+,2013-01-02
+org.flowframe.thirdparty.gwt-console-rpc,2.3.2-SNAPSHOT,+,2013-01-02
+org.flowframe.bpm.jbpm.shared,0.0.1,+,2013-01-02
+org.flowframe.thirdparty.gwt-console-server-integration,2.3.2-SNAPSHOT,+,2013-01-02
+org.flowframe.bpm.jbpm.persistence.datasource,0.0.1,-,2012-12-29
+org.flowframe.bpm.jbpm.bpmserver.persistence,0.0.1,+,2013-01-02
+org.flowframe.thirdparty.hibernate.core,3.6.0.Final,-,2012-12-29
+org.flowframe.bpm.jbpm.services,0.0.1,+,2013-01-02
+mvel2,2.1.0.drools10,-,2012-12-29
+org.flowframe.bpm.jbpm.bpmserver,0.0.1,+,2013-01-02
+org.flowframe.thirdparty.hibernate.entitymanager,3.6.0.Final,-,2012-12-29
+org.flowframe.bpm.jbpm.taskserver.persistence,0.0.1,-,2012-12-29
+org.flowframe.thirdparty.com.mysql.jdbc,5.1.20,-,2012-12-29

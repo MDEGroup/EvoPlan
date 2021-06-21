@@ -1,0 +1,14 @@
+library,version,sign,date
+jackson-core-asl,1.9.9,-,2014-07-09
+jackson-core-asl,1.9.4,+,2013-10-10
+jackson-core-asl,1.9.9,+,2013-10-30
+jackson-core-asl,1.9.4,-,2013-08-01
+jackson-core-asl,1.9.4,-,2013-10-30
+jackson-core-asl,1.9.4,+,2012-03-05
+jackson-core-asl,1.9.9,+,2014-10-14
+jackson-core-asl,1.9.9,-,2015-08-05
+jackson-core-asl,1.6.3,-,2012-03-05
+rxjava,1.0.8,+,2016-05-25
+snakeyaml,1.8,-,2014-01-16
+snakeyaml,1.8,+,2013-05-09
+snakeyaml,1.8,+,2012-06-18

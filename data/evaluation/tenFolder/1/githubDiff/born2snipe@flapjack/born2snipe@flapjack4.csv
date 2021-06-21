@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,3.8.1,-,2014-06-13
+junit,4.11,+,2014-06-13
+junit,4.11,-,2014-06-13
+jmock-cglib,1.1.0,-,2014-06-13
+jmock-cglib,1.1.0,+,2009-05-08
+jmock-cglib,1.1.0,+,2014-06-13
+flapjack,1.0.3,+,2009-04-07

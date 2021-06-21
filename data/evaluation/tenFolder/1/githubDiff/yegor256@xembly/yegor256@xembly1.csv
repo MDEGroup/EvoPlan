@@ -1,0 +1,5 @@
+library,version,sign,date
+jcabi-xml,0.8.1,-,2014-05-18
+jcabi-xml,0.8.1,+,2014-05-18
+jcabi-xml,0.7.8,-,2014-05-18
+saxon,9.1.0.8,-,2015-01-13

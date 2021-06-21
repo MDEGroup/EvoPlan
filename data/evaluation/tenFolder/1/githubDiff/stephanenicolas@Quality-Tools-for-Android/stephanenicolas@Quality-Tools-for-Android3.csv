@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.8.2,-,2013-03-08
+junit,4.8.2,+,2013-03-23
+junit,3.8.2,+,2013-03-23
+junit,3.8.2,-,2013-03-23
+junit,4.8.2,+,2013-03-08
+uiautomator,4.2.2,-,2013-03-22
+uiautomator,4.2.2,+,2013-03-08

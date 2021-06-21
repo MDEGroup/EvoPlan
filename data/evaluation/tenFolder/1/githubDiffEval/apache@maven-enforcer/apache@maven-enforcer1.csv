@@ -1,0 +1,14 @@
+library,version,sign,date
+maven-plugin-api,2.0.5,-,2007-09-01
+maven-plugin-api,2.0.5,-,2007-11-08
+plexus-container-default,1.0-alpha-9,-,2009-03-29
+plexus-container-default,1.0-alpha-9,-,2007-11-08
+plexus-container-default,1.0-alpha-9,-,2008-05-14
+plexus-container-default,1.0-alpha-9,-,2008-03-03
+plexus-container-default,1.0-alpha-9,-,2008-09-12
+plexus-container-default,1.0-alpha-9,+,2008-03-03
+plexus-container-default,1.0-alpha-9,+,2008-09-12
+plexus-container-default,1.0-alpha-9,+,2008-05-14
+plexus-container-default,1.0-alpha-9,+,2009-03-29
+plexus-container-default,1.0-alpha-9,+,2007-11-08
+jsr305,3.0.0,+,2015-01-24

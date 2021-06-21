@@ -1,0 +1,14 @@
+library,version,sign,date
+guava-gwt,18.0,-,2017-04-17
+guava-gwt,18.0,-,2016-07-24
+guava-gwt,18.0,+,2016-04-01
+owlapi-gwt-client-side-emul,3.4.8-SNAPSHOT,-,2013-11-20
+owlapi-gwt-client-side-emul,3.4.8-SNAPSHOT,+,2013-11-20
+gwt-dev,2.5.1,+,2013-11-19
+gwt-dev,2.5.1,-,2016-04-01
+guava,20.0,+,2017-04-17
+guava,20.0,-,2017-04-17
+guava,18.0,-,2016-07-24
+guava,18.0,+,2016-04-01
+owlapi-gwt-serialization,3.4.8-SNAPSHOT,-,2013-11-20
+owlapi-gwt-serialization,3.4.8-SNAPSHOT,+,2013-11-20

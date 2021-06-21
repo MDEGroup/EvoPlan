@@ -1,0 +1,11 @@
+library,version,sign,date
+jackson-core-asl,1.9.4,-,2013-10-31
+jackson-core-asl,1.9.9,+,2013-10-31
+jackson-core-asl,1.9.4,+,2012-03-05
+jackson-core-asl,1.9.9,-,2015-08-05
+jackson-core-asl,1.6.3,-,2012-03-05
+jackson-mapper-asl,1.9.4,-,2013-10-31
+jackson-mapper-asl,1.9.9,+,2013-10-31
+jackson-mapper-asl,1.9.4,+,2012-03-05
+jackson-mapper-asl,1.9.9,-,2015-08-05
+jackson-mapper-asl,1.6.3,-,2012-03-05

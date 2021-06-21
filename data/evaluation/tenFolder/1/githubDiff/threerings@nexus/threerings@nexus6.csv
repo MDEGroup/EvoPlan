@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.8.1,+,2011-08-12
+junit,4.8.1,+,2011-11-20
+junit,4.8.1,-,2012-11-29
+junit,4.8.1,+,2011-02-22
+junit,4.8.1,-,2011-11-20
+junit,4.8.1,+,2011-02-28
+react,1.4-SNAPSHOT,-,2013-05-18
+react,1.1,-,2011-11-20
+react,1.0-SNAPSHOT,-,2011-09-12
+react,1.4,-,2014-02-10
+react,1.0,-,2011-09-27
+react,1.1-SNAPSHOT,-,2011-09-27
+react,1.3.1,-,2013-04-19
+react,1.0-SNAPSHOT,+,2011-04-23

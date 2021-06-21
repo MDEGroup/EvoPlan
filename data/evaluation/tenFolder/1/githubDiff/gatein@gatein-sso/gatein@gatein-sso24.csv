@@ -1,0 +1,13 @@
+library,version,sign,date
+josso-agent-shared,1.8.1,+,2012-07-04
+josso-agent-shared,1.8.1,-,2012-07-04
+josso-agent-shared,1.8.1,+,2012-10-15
+josso-agents-bin,1.8.0,+,2012-10-15
+josso-agents-bin,1.8.0,-,2012-07-04
+josso-agents-bin,1.8.0,+,2012-07-04
+josso-agent,1.8.1,+,2012-07-04
+josso-agent,1.8.1,-,2012-07-04
+josso-agent,1.8.1,+,2012-10-15
+josso-core,1.8.1,+,2012-07-04
+josso-core,1.8.1,-,2012-07-04
+josso-core,1.8.1,+,2012-10-15

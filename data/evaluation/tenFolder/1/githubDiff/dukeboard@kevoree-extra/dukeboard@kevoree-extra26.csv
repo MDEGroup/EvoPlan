@@ -1,0 +1,4 @@
+library,version,sign,date
+org.kevoree.extra.netty,3.2.5.Final,-,2011-12-09
+commons-collections,3.2.1,-,2011-12-08
+org.kevoree.extra.googleguava,10,-,2011-12-08

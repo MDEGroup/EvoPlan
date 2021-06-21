@@ -1,0 +1,4 @@
+library,version,sign,date
+logback-classic,1.0.6,-,2012-11-15
+logback-classic,0.9.18,-,2012-06-12
+servlet-api,2.4,-,2012-06-12

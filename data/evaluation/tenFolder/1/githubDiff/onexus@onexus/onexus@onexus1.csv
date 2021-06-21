@@ -1,0 +1,4 @@
+library,version,sign,date
+servlet-api,2.5,-,2012-11-17
+servlet-api,2.5,+,2012-11-11
+javax.inject,1,+,2013-10-09

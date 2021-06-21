@@ -1,0 +1,16 @@
+library,version,sign,date
+jline,0.9.94,-,2012-02-08
+aardvark,0.4-SNAPSHOT,-,2012-02-20
+aardvark,0.4-SNAPSHOT,+,2012-02-08
+aardvark,0.4-SNAPSHOT,-,2012-02-12
+aardvark-core,0.5-SNAPSHOT,-,2012-06-06
+aardvark-core,0.4-SNAPSHOT,-,2012-02-08
+aardvark-core,0.4-SNAPSHOT,+,2012-02-20
+aardvark-core,0.4-SNAPSHOT,-,2012-06-06
+aardvark-core,0.4-SNAPSHOT,-,2012-06-05
+aardvark-test,0.4-SNAPSHOT,-,2012-02-20
+aardvark-test,0.4-SNAPSHOT,+,2012-02-08
+aardvark-test,0.4-SNAPSHOT,+,2012-02-20
+aardvark-test,0.4-SNAPSHOT,+,2012-02-12
+aardvark-test,0.4-SNAPSHOT,-,2012-02-12
+aardvark-test,0.4-SNAPSHOT,-,2012-06-05

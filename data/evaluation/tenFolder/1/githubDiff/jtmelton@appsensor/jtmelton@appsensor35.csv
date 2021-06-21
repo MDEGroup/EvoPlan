@@ -1,0 +1,15 @@
+library,version,sign,date
+appsensor-ws-soap-server,2.0.0-SNAPSHOT,-,2013-12-16
+cxf-bundle,2.7.14,+,2014-09-20
+appsensor-access-control-reference,2.0.0-SNAPSHOT,+,2013-12-16
+appsensor-access-control-reference,2.0.0-SNAPSHOT,-,2014-05-08
+appsensor-storage-in-memory,2.0.0-SNAPSHOT,+,2013-12-16
+appsensor-storage-in-memory,2.0.0-SNAPSHOT,-,2014-05-08
+appsensor-analysis-reference,2.0.0-SNAPSHOT,+,2013-12-16
+appsensor-analysis-reference,2.0.0-SNAPSHOT,-,2014-05-08
+appsensor-reporting-simple-logging,2.0.0-SNAPSHOT,+,2013-12-16
+appsensor-reporting-simple-logging,2.0.0-SNAPSHOT,-,2014-05-08
+appsensor-core,2.0.0-SNAPSHOT,-,2013-12-16
+appsensor-core,2.0.0-SNAPSHOT,+,2013-12-16
+appsensor-core,2.0.0-SNAPSHOT,-,2014-05-08
+appsensor-core,2.0.1,+,2014-12-17

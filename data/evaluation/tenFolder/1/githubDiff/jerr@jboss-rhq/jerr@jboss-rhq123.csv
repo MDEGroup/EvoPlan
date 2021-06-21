@@ -1,0 +1,5 @@
+library,version,sign,date
+OneWireApi,1.10,+,2008-10-08
+OneWireApi,1.10,-,2012-08-02
+OneWireApi,1.10,+,2012-10-18
+OneWireApi,1.10,-,2008-10-08

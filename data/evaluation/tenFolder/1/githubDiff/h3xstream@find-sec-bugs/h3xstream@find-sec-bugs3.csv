@@ -1,0 +1,4 @@
+library,version,sign,date
+javax.jws-api,1.1,+,2019-04-02
+activation,1.1.1,+,2019-04-02
+commons-io,2.5,-,2019-04-02

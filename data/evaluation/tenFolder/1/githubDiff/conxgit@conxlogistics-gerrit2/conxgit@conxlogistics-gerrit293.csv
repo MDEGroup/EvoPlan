@@ -1,0 +1,8 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2012-06-11
+slf4j-api,1.6.1,+,2012-06-12
+com.conx.logistics.kernel.bpm.services,1.0.0,+,2012-06-12
+com.conx.logistics.kernel.bpm.services,1.0.0,+,2012-06-11
+com.conx.logistics.kernel.bpm.impl.jbpm.taskserver.fragment,1.0.0,+,2012-06-12
+activity-monitor-model,1.0.0-Beta2,+,2012-06-12
+activity-monitor-model,1.0.0-Beta2,+,2012-06-11

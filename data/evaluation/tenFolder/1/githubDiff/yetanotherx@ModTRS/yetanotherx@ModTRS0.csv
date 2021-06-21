@@ -1,0 +1,7 @@
+library,version,sign,date
+dummypermscompat,1.2,-,2011-09-29
+bukkit,1.1-R4-SNAPSHOT,-,2012-01-25
+bukkit,0.0.1-SNAPSHOT,-,2011-09-29
+persistence-api,1.0,+,2011-07-24
+ebean,2.7.2,+,2011-07-24
+snakeyaml,1.7,+,2011-07-24

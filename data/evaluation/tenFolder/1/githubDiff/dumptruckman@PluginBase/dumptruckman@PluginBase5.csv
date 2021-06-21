@@ -1,0 +1,6 @@
+library,version,sign,date
+configurate-core,3.1,+,2016-02-10
+configurate-core,3.0,+,2015-11-14
+configurate-hocon,3.1,+,2016-02-10
+configurate-hocon,3.1,+,2015-11-14
+configurate-hocon,3.0,+,2015-11-14

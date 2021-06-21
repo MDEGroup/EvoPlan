@@ -1,0 +1,10 @@
+library,version,sign,date
+spring-data-jpa,1.4.3.RELEASE,-,2014-02-09
+spring-data-jpa,1.4.3.RELEASE,+,2014-02-09
+javax.servlet-api,3.0.1,-,2014-02-09
+javax.servlet-api,3.0.1,+,2014-02-09
+hsqldb,2.3.1,+,2014-02-09
+hibernate-entitymanager,4.3.0.Final,-,2014-02-09
+hibernate-entitymanager,4.3.0.Final,+,2014-02-09
+log4j,1.2.17,-,2014-02-09
+log4j,1.2.17,+,2014-02-09

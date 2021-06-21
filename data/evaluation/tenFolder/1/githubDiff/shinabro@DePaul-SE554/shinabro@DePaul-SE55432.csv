@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.11,+,2014-02-24
+junit,4.11,+,2013-12-28
+junit,4.10,+,2014-02-24
+hibernate-validator,5.0.3.Final,+,2013-12-28
+javaee-web-api,7.0,+,2013-12-28

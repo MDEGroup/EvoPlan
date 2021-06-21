@@ -1,0 +1,15 @@
+library,version,sign,date
+codegist-crest,2.0.0-RC1-SNAPSHOT,-,2011-06-21
+codegist-crest,2.0.0-RC1-SNAPSHOT,+,2011-07-01
+codegist-crest,2.0.0,+,2011-07-09
+codegist-crest,1.0.1,-,2011-07-09
+codegist-crest,2.0.0-RC1-SNAPSHOT,+,2011-06-21
+jaxb-impl,2.1,+,2011-07-09
+simple-xml,2.5.3,+,2011-07-09
+jsr311-api,1.1.1,+,2011-06-28
+crest-entity-writers,2.0.0-RC1-SNAPSHOT,+,2011-07-01
+jackson-mapper-asl,1.6.0,+,2011-07-09
+httpclient,4.0.1,+,2011-07-09
+httpclient,4.1,-,2011-07-09
+xmlunit,1.1,+,2011-06-21
+xmlunit,1.1,-,2011-06-21

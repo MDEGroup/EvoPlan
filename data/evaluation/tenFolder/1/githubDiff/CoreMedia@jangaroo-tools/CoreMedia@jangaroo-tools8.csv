@@ -1,0 +1,11 @@
+library,version,sign,date
+jackson-annotations,2.0.1,-,2016-01-29
+jackson-annotations,2.0.1,+,2016-01-29
+jackson-annotations,2.0.1,-,2016-02-13
+flexmark-ext-tables,0.28.32,+,2018-01-11
+jackson-databind,2.0.1,-,2016-01-29
+jackson-databind,2.0.1,+,2016-01-29
+jackson-databind,2.0.1,-,2016-02-13
+flexmark,0.28.32,+,2018-01-11
+flexmark-util,0.28.32,+,2019-02-01
+jackson-core,2.7.1,+,2016-02-13

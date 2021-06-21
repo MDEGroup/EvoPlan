@@ -1,0 +1,7 @@
+library,version,sign,date
+server,1.0-SNAPSHOT,+,2012-05-02
+server,1.0-SNAPSHOT,-,2012-05-02
+swingx,1.6.1,+,2012-05-02
+junit,4.9,-,2012-05-02
+junit,4.9,+,2012-05-02
+spring-context,3.1.2.RELEASE,+,2012-05-10

@@ -1,0 +1,7 @@
+library,version,sign,date
+org.flowframe.erp.app.mdm.domain,0.0.1,+,2013-04-26
+hsqldb,1.8.0.7,+,2013-04-26
+hibernate-entitymanager,3.6.5.Final,+,2013-04-26
+org.flowframe.kernel.common.utils,0.0.1,+,2013-04-26
+org.flowframe.kernel.common.mdm.domain,0.0.1,+,2013-04-26
+org.flowframe.kernel.common.mdm.domain,0.0.1,+,2013-05-08

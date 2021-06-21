@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.11,-,2015-11-03
+netty-codec-http,4.0.11.Final,-,2013-11-26
+json-lib,2.4,+,2015-11-03
+json-lib,2.4,-,2015-11-03
+json-lib,2.4,-,2016-07-05
+json-lib,2.4,+,2016-07-05

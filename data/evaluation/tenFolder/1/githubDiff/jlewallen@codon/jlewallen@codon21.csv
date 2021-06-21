@@ -1,0 +1,6 @@
+library,version,sign,date
+geronimo-jpa_2.0_spec,1.1,-,2012-06-19
+org.osgi.core,4.2.0,-,2012-06-19
+antlr,2.7.6-brew,-,2012-06-19
+antlr,2.7.7,-,2012-06-21
+antlr,2.7.7,+,2012-06-21

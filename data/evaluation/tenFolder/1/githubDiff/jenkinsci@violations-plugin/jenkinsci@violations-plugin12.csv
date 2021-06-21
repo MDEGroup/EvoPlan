@@ -1,0 +1,9 @@
+library,version,sign,date
+primary-source,1.0,-,2008-12-04
+primary-source,1.0,+,2011-05-17
+servlet,1.0,-,2008-12-04
+servlet,1.0,+,2011-05-17
+logging,1.0,-,2008-12-04
+logging,1.0,+,2011-05-17
+ejbs,1.0,-,2008-12-04
+ejbs,1.0,+,2011-05-17

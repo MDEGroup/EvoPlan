@@ -1,0 +1,11 @@
+library,version,sign,date
+freemarker,2.3.15,-,2012-08-15
+freemarker,2.3.15,-,2012-09-05
+gemfire,6.5.1,-,2012-06-19
+gemfire,6.5.1,+,2012-06-19
+gemfire,6.5.1,+,2012-08-15
+servlet-api,2.5,-,2012-06-19
+servlet-api,2.4,+,2012-02-23
+servlet-api,2.5,+,2012-02-23
+servlet-api,2.5,-,2012-05-09
+servlet-api,2.4,-,2012-05-09

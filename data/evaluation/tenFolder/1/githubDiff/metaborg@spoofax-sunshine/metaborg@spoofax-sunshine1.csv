@@ -1,0 +1,5 @@
+library,version,sign,date
+jcommander,1.35,-,2015-09-03
+jcommander,1.48,-,2017-01-09
+jcommander,1.35,+,2015-08-06
+nailgun-server,0.9.1,-,2017-01-09

@@ -1,0 +1,11 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2013-10-08
+javax.servlet-api,3.0.1,+,2013-10-01
+cors-filter,1.7.1,+,2013-11-02
+jsf-impl,2.1.2,+,2013-10-02
+fluent-hc,4.3,+,2013-04-21
+guacamole-ext,0.8.1,+,2013-04-21
+javaee-web-api,6.0,+,2013-10-01
+javaee-web-api,6.0,-,2013-04-21
+httpclient,4.3,+,2013-04-21
+jsf-api,2.1.2,+,2013-10-02

@@ -1,0 +1,6 @@
+library,version,sign,date
+log4j-slf4j-impl,2.3,+,2016-12-02
+jcl-over-slf4j,1.7.12,+,2016-12-02
+rxjava,2.0.2,+,2016-12-02
+rxjava,1.2.3,-,2016-12-02
+log4j-core,2.3,+,2016-12-02

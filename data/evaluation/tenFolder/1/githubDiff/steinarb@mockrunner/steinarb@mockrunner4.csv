@@ -1,0 +1,9 @@
+library,version,sign,date
+logback-classic,1.1.3,-,2017-05-07
+logback-classic,1.1.4-SNAPSHOT,-,2017-05-07
+mockrunner-jms,1.1.3,-,2017-05-07
+mockrunner-jms,2.0.1-SNAPSHOT,-,2018-04-05
+mockrunner-jms,2.0.0-SNAPSHOT,-,2017-05-13
+mockrunner-jms,1.1.3-SNAPSHOT,-,2017-05-07
+mockrunner-jms,1.1.2-SNAPSHOT,-,2016-02-12
+mockrunner-jms,1.1.4-SNAPSHOT,-,2017-05-07

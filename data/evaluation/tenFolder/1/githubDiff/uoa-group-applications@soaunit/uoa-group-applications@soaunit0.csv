@@ -1,0 +1,13 @@
+library,version,sign,date
+composite-logging-deploy,3.3,+,2014-09-10
+composite-logging-deploy,3.3,-,2013-08-21
+composite-logging-deploy,3.3,-,2014-10-14
+composite-logging-deploy,3.3,+,2014-10-14
+composite-logging-deploy,3.3,+,2013-08-21
+composite-logging-deploy,3.3,-,2014-09-10
+composite-logging-jcl,3.2,+,2014-09-10
+composite-logging-jcl,3.2,-,2014-10-14
+composite-logging-jcl,3.2,-,2013-08-21
+composite-logging-jcl,3.2,+,2014-10-14
+composite-logging-jcl,3.2,-,2014-09-10
+composite-logging-jcl,3.2,+,2013-08-21

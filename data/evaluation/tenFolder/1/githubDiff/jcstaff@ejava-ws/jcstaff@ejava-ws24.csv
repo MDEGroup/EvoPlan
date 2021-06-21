@@ -1,0 +1,17 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2012-03-03
+cglib,2.2.2,+,2012-03-03
+cglib,2.2.2,-,2012-03-03
+junit,4.10,-,2012-03-03
+junit,4.10,+,2012-03-03
+slf4j-log4j12,1.6.1,-,2012-03-03
+commons-io,2.0.1,-,2012-03-03
+commons-io,2.0.1,+,2012-03-03
+commons-io,1.3.2,+,2012-03-03
+httpclient,4.1.2,-,2012-03-03
+httpclient,4.1.3,+,2012-03-03
+httpclient,4.1.2,+,2012-03-03
+jsr250-api,1.0,+,2012-03-03
+jsr250-api,1.0,-,2012-03-03
+javax.inject,1,-,2012-03-03
+javax.inject,1,+,2012-03-03

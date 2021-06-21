@@ -1,0 +1,6 @@
+library,version,sign,date
+hibernate-jpa-2.0-api,1.0.1.Final,-,2014-06-22
+hibernate-jpa-2.0-api,1.0.1.Final,+,2014-06-11
+assertj-core,1.4.0,+,2014-06-11
+assertj-core,1.4.0,-,2014-06-11
+btm,3.0.0-SNAPSHOT,+,2014-10-12

@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.12,-,2019-04-18
+junit,4.12,+,2019-04-18
+junit,4.12,-,2018-11-01
+truth,0.36,-,2018-11-01
+truth,0.44,+,2019-04-18
+truth,0.36,-,2019-04-18
+guava,27.0.1-jre,-,2019-04-18
+guava,23.5-jre,-,2018-11-01
+guava,27.0.1-jre,+,2018-11-01
+guava,23.4-jre,-,2018-11-01
+guava,27.0.1-jre,+,2019-04-18
+compile-testing,0.15,-,2019-04-18
+compile-testing,0.16,+,2019-04-18

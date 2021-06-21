@@ -1,0 +1,5 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,+,2014-01-23
+javax.servlet-api,3.0.1,-,2014-01-23
+karma-common,0.0.1-SNAPSHOT,-,2014-01-23
+httpclient,4.5.2,+,2014-01-23

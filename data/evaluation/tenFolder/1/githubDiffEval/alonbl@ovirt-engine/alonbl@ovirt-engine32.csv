@@ -1,0 +1,9 @@
+library,version,sign,date
+dbunit,2.4.8,-,2017-01-08
+dbunit,2.4.8,+,2016-05-25
+postgresql,8.4-701.jdbc4,-,2013-01-08
+reflections,0.9.9-RC1,+,2014-10-17
+reflections,0.9.9,-,2015-01-30
+reflections,0.9.9-RC1,-,2015-01-30
+reflections,0.9.9,+,2015-01-30
+reflections,0.9.9,+,2015-03-31

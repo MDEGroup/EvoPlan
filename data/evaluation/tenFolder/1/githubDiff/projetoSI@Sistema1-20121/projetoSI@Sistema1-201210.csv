@@ -1,0 +1,8 @@
+library,version,sign,date
+easyaccept,1.0.0,+,2012-04-10
+junit,4.0,+,2012-04-04
+junit,4.0,+,2012-04-10
+junit,4.0,-,2012-04-10
+mail,1.4.5,+,2012-05-30
+xstream,1.3.1,-,2012-04-29
+xstream,1.3.1,+,2012-04-29

@@ -1,0 +1,11 @@
+library,version,sign,date
+seam-reports-api,3.0.0.Beta1,-,2011-07-30
+seam-reports-api,3.0.0-SNAPSHOT,-,2011-06-09
+seam-reports-api,3.0.0.Alpha1,-,2011-06-09
+seam-reports-api,3.0.0.CR1-SNAPSHOT,-,2011-08-14
+jasperreports,4.0.1,-,2011-06-09
+jasperreports,4.0.1,+,2011-06-09
+jasperreports,4.0.1,-,2011-09-12
+jasperreports,4.1.2,+,2011-09-12
+jxl,2.6.12,+,2011-06-09
+jxl,2.6.12,-,2011-06-09

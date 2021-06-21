@@ -1,0 +1,9 @@
+library,version,sign,date
+standard,1.1.2,+,2013-05-05
+jstl,1.1.2,+,2013-05-05
+mysql-connector-java,5.1.21,+,2013-05-05
+jta,1.1,+,2013-05-05
+commons-lang3,3.1,+,2013-05-05
+javaee-web-api,6.0,+,2013-05-05
+commons-dbcp,1.4,+,2013-05-05
+log4j,1.2.16,+,2013-05-05

@@ -1,0 +1,5 @@
+library,version,sign,date
+spring-jdbc,3.2.3.RELEASE,+,2013-04-10
+org.castafiore.resources,0.0.1-SNAPSHOT,+,2013-04-02
+org.castafiore.resources,0.0.1-SNAPSHOT,-,2013-03-29
+org.castafiore.resources,0.0.1-SNAPSHOT,+,2013-03-28

@@ -1,0 +1,15 @@
+library,version,sign,date
+javax.ejb,3.0-b59,+,2009-10-09
+javax.ejb,3.0-b59,-,2009-10-08
+javax.ejb,3.0,+,2009-10-09
+javax.ejb,3.0,-,2011-03-25
+javax.ejb,3.0-b59,-,2010-01-20
+javax.ejb,3.0,-,2011-06-24
+javax.ejb,3.0-b59,-,2010-05-03
+javax.ejb,3.1,+,2011-03-25
+javax.ejb,3.1,-,2011-09-02
+javax.ejb,3.1,+,2011-09-02
+jersey-json,1.8-SNAPSHOT,-,2011-11-02
+jersey-json,1.2-SNAPSHOT,-,2010-01-20
+jersey-json,1.2-SNAPSHOT,+,2009-10-09
+jersey-json,1.8-SNAPSHOT,+,2011-06-24

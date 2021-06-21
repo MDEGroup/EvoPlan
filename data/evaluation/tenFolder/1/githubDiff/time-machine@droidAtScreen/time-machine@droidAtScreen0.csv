@@ -1,0 +1,4 @@
+library,version,sign,date
+ddmlib,r13,+,2013-04-07
+junit,3.8.1,-,2013-04-07
+log4j,1.2.14,+,2013-04-07

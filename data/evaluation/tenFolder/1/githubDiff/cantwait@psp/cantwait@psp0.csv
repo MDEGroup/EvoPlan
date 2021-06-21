@@ -1,0 +1,8 @@
+library,version,sign,date
+mule-module-mongo,3.2,+,2013-06-19
+mule-module-mongo,3.3,+,2013-06-19
+mongo-java-driver,2.11.0,+,2013-06-19
+mongo-java-driver,2.11.0,-,2013-07-08
+mongo-java-driver,2.11.0,+,2013-06-21
+mule-common,0.11.0,+,2013-06-19
+velocity,1.6.4,+,2013-07-30

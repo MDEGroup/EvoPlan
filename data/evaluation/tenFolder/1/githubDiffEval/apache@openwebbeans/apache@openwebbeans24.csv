@@ -1,0 +1,9 @@
+library,version,sign,date
+maven-shade-plugin,3.2.1,-,2020-02-14
+maven-shade-plugin,3.2.1,+,2020-01-11
+maven-shade-plugin,3.2.2,+,2020-02-14
+maven-shade-plugin,2.4.3,-,2020-01-11
+maven-shade-plugin,2.4.3,-,2018-11-07
+maven-shade-plugin,2.4.3,+,2018-08-28
+maven-shade-plugin,2.4.3,-,2018-08-28
+maven-shade-plugin,2.4.3,+,2018-11-07

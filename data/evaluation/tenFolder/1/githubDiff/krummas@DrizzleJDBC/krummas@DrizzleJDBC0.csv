@@ -1,0 +1,6 @@
+library,version,sign,date
+mockito-all,1.8.0-rc2,+,2009-07-10
+junit,4.5,-,2009-01-26
+junit,4.5,+,2009-01-26
+junit,4.5,-,2009-06-01
+junit,4.5,+,2009-01-14

@@ -1,0 +1,6 @@
+library,version,sign,date
+commons-dbcp2,2.1,-,2015-10-12
+shiro-quartz,1.2.3,-,2015-10-12
+aspectjweaver,1.7.4,-,2015-10-12
+aspectjweaver,1.8.5,-,2015-10-12
+shiro-spring,1.2.3,-,2015-10-12

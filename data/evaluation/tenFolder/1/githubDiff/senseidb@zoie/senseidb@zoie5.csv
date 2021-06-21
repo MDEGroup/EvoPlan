@@ -1,0 +1,4 @@
+library,version,sign,date
+mockito-all,1.8.1,+,2011-02-13
+log4j,1.2.13,+,2011-04-04
+log4j,1.2.15,-,2011-04-04

@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,3.8.2,+,2012-04-26
+junit,3.8.2,-,2012-04-26
+weka-dev,[3.7.1,),-,2012-04-26
+weka-dev,[3.7.1,),+,2012-04-26

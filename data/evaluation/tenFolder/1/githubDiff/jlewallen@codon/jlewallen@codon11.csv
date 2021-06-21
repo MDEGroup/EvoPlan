@@ -1,0 +1,10 @@
+library,version,sign,date
+mustache-mvc,1.2.3-SNAPSHOT,-,2012-06-16
+mustache-mvc,1.2.3-SNAPSHOT,+,2012-06-10
+mustache-mvc,1.2.3-SNAPSHOT,+,2012-06-14
+mustache-mvc,1.2.3-SNAPSHOT,-,2012-06-14
+jackson-mapper-asl,1.7.5,-,2012-06-14
+servlet-api,2.5,+,2012-06-14
+servlet-api,2.5,-,2012-06-14
+servlet-api,2.5,+,2012-06-10
+servlet-api,2.5,-,2012-06-16

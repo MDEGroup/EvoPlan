@@ -1,0 +1,6 @@
+library,version,sign,date
+commons-io,1.4,+,2009-04-08
+spring-me-api,1.0-SNAPSHOT,-,2009-05-14
+spring-me-api,1.0-SNAPSHOT,-,2009-04-14
+spring-me-api,1.0-SNAPSHOT,+,2009-04-10
+spring-me-api,1.0,-,2009-05-15

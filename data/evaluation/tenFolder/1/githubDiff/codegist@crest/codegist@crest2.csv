@@ -1,0 +1,6 @@
+library,version,sign,date
+codegist-crest,2.0.0,+,2011-07-09
+codegist-crest,1.0.1,-,2011-07-09
+jaxb-impl,2.1,+,2011-07-09
+simple-xml,2.5.3,+,2011-07-09
+jackson-mapper-asl,1.6.0,+,2011-07-09

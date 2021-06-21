@@ -1,0 +1,10 @@
+library,version,sign,date
+msm-kryo-serializer,1.6.0,+,2013-04-18
+joda-time,2.1,-,2013-04-10
+log4jdbc-remix,0.2.7,+,2013-01-15
+jaxen,1.1.4,+,2013-01-15
+dozer,5.3.2,-,2013-01-15
+quartz,2.1.6,+,2013-03-27
+quartz,1.8.6,-,2013-03-27
+guava,13.0.1,-,2013-04-10
+guava,14.0.1,+,2013-04-10

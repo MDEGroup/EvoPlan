@@ -1,0 +1,11 @@
+library,version,sign,date
+core,1.0,-,2013-05-30
+core,1.0,+,2012-06-24
+lambdaj,2.3.1,+,2012-03-12
+DynamicJasper,3.2.1,+,2012-02-23
+DynamicJasper,3.2.1,-,2012-05-27
+jasperreports,3.7.1,-,2012-06-23
+jasperreports,3.7.1,+,2012-03-06
+jasperreports,4.1.2,-,2012-06-24
+servlet-api,3.0,+,2012-01-30
+servlet-api,3.0,-,2012-03-06

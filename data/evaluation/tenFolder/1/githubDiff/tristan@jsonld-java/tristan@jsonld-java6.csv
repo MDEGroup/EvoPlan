@@ -1,0 +1,6 @@
+library,version,sign,date
+jsonld-java,1.0.0-SNAPSHOT,-,2013-05-07
+jsonld-java,0.1-SNAPSHOT,-,2013-05-18
+junit,4.11,-,2013-05-07
+junit,4.11,+,2013-05-07
+rdf.core,0.12-incubating,-,2013-05-07

@@ -1,0 +1,3 @@
+library,version,sign,date
+jmh-core,1.11.2,+,2015-09-05
+jmh-generator-annprocess,1.11.2,+,2015-09-05

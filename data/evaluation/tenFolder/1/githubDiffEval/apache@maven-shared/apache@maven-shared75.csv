@@ -1,0 +1,8 @@
+library,version,sign,date
+maven-core,2.1.0,-,2014-05-23
+maven-core,3.0,+,2014-05-23
+plexus-container-default,1.0-alpha-9-stable-1,-,2014-05-23
+plexus-container-default,1.0-alpha-9,-,2014-05-23
+plexus-container-default,1.0-alpha-9-stable-1,+,2014-05-23
+plexus-container-default,1.5.5,-,2014-05-23
+maven-dependency-tree,2.2-SNAPSHOT,-,2014-05-23

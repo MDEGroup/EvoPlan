@@ -1,0 +1,3 @@
+library,version,sign,date
+aspectjweaver,1.7.3,+,2013-09-11
+javassist,3.12.0.GA,+,2014-01-13

@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.8.2,+,2011-11-04
+mockito-core,1.8.5,+,2011-10-28
+xmlunit,1.2,+,2011-11-09

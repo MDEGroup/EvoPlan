@@ -1,0 +1,17 @@
+library,version,sign,date
+slf4j-api,1.6.4,+,2012-03-19
+slf4j-api,1.6.4,-,2012-03-19
+slf4j-api,1.6.4,+,2012-03-06
+slf4j-api,1.6.4,-,2012-03-06
+logback-classic,1.0.0,-,2012-03-19
+logback-classic,1.0.0,+,2012-03-06
+logback-classic,1.0.0,-,2012-03-06
+logback-classic,1.0.0,+,2012-03-19
+mycila-guice,2.5.ga,-,2012-03-06
+mycila-guice,2.5.ga,-,2012-03-19
+mycila-guice,2.5.ga,+,2012-03-19
+mycila-guice,2.5.ga,+,2012-03-06
+guice,3.0,-,2012-03-06
+guice,3.0,-,2012-03-19
+guice,3.0,+,2012-03-19
+guice,3.0,+,2012-03-06

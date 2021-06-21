@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.8.2,-,2016-10-12
+junit,4.11,+,2016-10-19
+junit,4.11,+,2015-12-07
+junit,4.12,+,2016-12-15
+junit,4.12,+,2018-01-04
+junit,4.11,-,2016-10-20
+junit,4.11,+,2016-10-20
+streams-pojo,0.5.2-SNAPSHOT,+,2018-01-04

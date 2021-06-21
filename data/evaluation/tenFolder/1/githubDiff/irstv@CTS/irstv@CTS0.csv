@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.6.0,+,2013-09-03
+slf4j-api,1.6.0,-,2018-05-05
+slf4j-api,1.7.25,-,2019-06-11
+slf4j-api,1.7.25,-,2018-05-05
+slf4j-api,1.7.25,+,2018-05-05
+junit-jupiter-engine,5.4.0,+,2018-05-05
+junit-jupiter-engine,5.4.0,-,2019-06-11
+slf4j-simple,1.6.0,+,2013-09-03
+slf4j-simple,1.6.0,-,2018-05-05
+slf4j-simple,1.7.25,-,2019-06-11
+slf4j-simple,1.7.25,+,2018-05-05
+junit-jupiter-api,5.4.0,+,2018-05-05
+junit-jupiter-api,5.4.0,-,2019-06-11

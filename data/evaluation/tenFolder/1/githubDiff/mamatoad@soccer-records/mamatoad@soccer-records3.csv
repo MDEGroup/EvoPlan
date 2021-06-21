@@ -1,0 +1,7 @@
+library,version,sign,date
+jstl,1.2,+,2013-12-12
+stripes,1.5.7,+,2013-12-12
+standard,1.1.2,+,2013-12-12
+jersey-client,2.4.1,+,2013-12-12
+soccer-records-api,1.0-SNAPSHOT,+,2013-12-12
+soccer-records-api,1.0-SNAPSHOT,-,2013-12-13

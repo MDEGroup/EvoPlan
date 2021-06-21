@@ -1,0 +1,7 @@
+library,version,sign,date
+commons-configuration,1.7,+,2012-02-06
+commons-configuration,1.7,-,2012-02-06
+junit,4.10,+,2012-02-06
+junit,4.10,-,2012-02-06
+commons-lang,2.6,-,2012-02-06
+commons-lang,2.6,+,2012-02-06

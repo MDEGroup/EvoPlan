@@ -1,0 +1,11 @@
+library,version,sign,date
+httpcore-nio,4.4.9,-,2018-07-12
+httpcore-nio,4.4.7,-,2017-10-06
+httpcore-nio,4.3.2,-,2017-09-05
+commons-collections4,4.1,-,2018-07-12
+commons-compress,1.14,-,2017-10-06
+commons-compress,1.16.1,-,2018-07-12
+commons-lang3,3.6,-,2017-10-06
+commons-lang3,3.7,-,2018-07-12
+commons-io,2.5,-,2017-10-06
+httpclient,4.5.6,+,2018-07-12

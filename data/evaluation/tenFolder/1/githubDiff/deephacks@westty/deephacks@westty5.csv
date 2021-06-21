@@ -1,0 +1,12 @@
+library,version,sign,date
+hibernate-validator,5.0.0.Alpha1,-,2013-02-02
+resteasy-jackson-provider,2.3.4.Final,-,2013-07-08
+hibernate-entitymanager,4.0.0.Final,+,2013-07-27
+hibernate-entitymanager,4.0.0.Final,+,2013-02-02
+hibernate-entitymanager,4.0.0.Final,-,2013-07-27
+resteasy-netty,2.3.4.Final,-,2013-07-08
+derby,10.9.1.0,+,2013-02-02
+jaxrs-api,3.0.1.Final,-,2013-07-27
+jaxrs-api,3.0.1.Final,+,2013-07-18
+jaxrs-api,3.0.1.Final,+,2013-07-27
+jaxrs-api,2.3.4.Final,-,2013-07-08

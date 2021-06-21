@@ -1,0 +1,7 @@
+library,version,sign,date
+org.apache.karaf.shell.console,2.99.99-SNAPSHOT,-,2011-11-27
+org.apache.karaf.shell.console,2.1.99-SNAPSHOT,-,2010-10-01
+org.apache.karaf.shell.console,2.1.99-SNAPSHOT,+,2010-08-17
+org.apache.karaf.shell.console,2.99.99-SNAPSHOT,+,2010-10-01
+org.apache.karaf.shell.console,1.0.0,-,2011-03-22
+org.apache.karaf.shell.console,1.0.0,+,2010-10-01

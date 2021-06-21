@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.11,+,2013-06-14
+compatibility-v13,22.2.0,-,2015-07-18
+compatibility-v13,22.2.0,+,2013-07-06
+json-simple,1.1.1,+,2013-06-08
+lombok,1.14.8,+,2015-06-25
+google-play-services,7,-,2013-06-29
+google-play-services,7,+,2013-06-03
+google-play-services,7,-,2013-07-06
+google-play-services,25.0.0,+,2013-07-06
+google-play-services,25.0.0,-,2015-06-25
+google-play-services,7,+,2013-06-29

@@ -1,0 +1,4 @@
+library,version,sign,date
+vaadin,6.4.0,+,2013-03-13
+vaadin,6.8.6,-,2013-03-13
+vaadin,6.8.6,+,2013-03-13

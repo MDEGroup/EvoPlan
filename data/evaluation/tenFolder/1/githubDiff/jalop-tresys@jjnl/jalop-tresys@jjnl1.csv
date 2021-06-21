@@ -1,0 +1,8 @@
+library,version,sign,date
+jnl_lib,0.1.0-SNAPSHOT,-,2012-07-17
+jnl_lib,0.1.5-SNAPSHOT,-,2012-12-14
+jnl_lib,0.1.4-SNAPSHOT,-,2012-10-15
+jnl_lib,0.1.3-SNAPSHOT,-,2012-09-28
+jnl_lib,0.1.4,-,2012-12-14
+jnl_lib,0.1.3,-,2012-10-15
+commons-io,1.3.2,+,2012-06-04

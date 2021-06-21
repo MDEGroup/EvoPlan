@@ -1,0 +1,11 @@
+library,version,sign,date
+sesame-model,2.4.0,+,2011-11-10
+user-manager,1.0-SNAPSHOT,+,2011-11-10
+sesame-rio-api,2.4.0,+,2011-11-10
+bitlyj,2.0.0,+,2011-11-10
+client,1.0-SNAPSHOT,+,2011-11-10
+client,1.0-SNAPSHOT,+,2012-02-09
+sesame-rio-rdfxml,2.4.0,+,2011-11-10
+httpclient,4.1.2,+,2011-11-10
+httpclient,4.1.2,+,2012-02-09
+httpclient,4.1.2,-,2011-11-10

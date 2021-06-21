@@ -1,0 +1,12 @@
+library,version,sign,date
+vaadin-server,7.0.5,+,2013-05-08
+vaadin-server,7.0.5,-,2013-05-13
+vaadin-themes,7.0.4,-,2013-05-08
+vaadin-themes,7.0.5,+,2013-05-08
+vaadin-themes,7.0.5,-,2013-05-13
+javaee-web-api,6.0,+,2013-05-13
+javaee-web-api,6.0,-,2013-05-13
+javaee-web-api,6.0,+,2013-05-08
+vaadin-client-compiled,7.0.4,-,2013-05-08
+vaadin-client-compiled,7.0.5,+,2013-05-08
+vaadin-client-compiled,7.0.5,-,2013-05-13

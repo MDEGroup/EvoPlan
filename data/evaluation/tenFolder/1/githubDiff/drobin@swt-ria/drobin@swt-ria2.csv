@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.8.2,+,2012-01-14
+junit,3.8.1,+,2012-01-14
+de.robind.swt.protocol,0.0.1-SNAPSHOT,+,2012-01-14
+log4j,1.2.16,+,2012-01-14

@@ -1,0 +1,5 @@
+library,version,sign,date
+scalatest_2.11,2.2.5,+,2015-08-20
+scala-library,2.9.1,-,2011-12-24
+scala-library,2.9.1,+,2011-12-23
+scala-library,2.9.2,-,2015-08-20

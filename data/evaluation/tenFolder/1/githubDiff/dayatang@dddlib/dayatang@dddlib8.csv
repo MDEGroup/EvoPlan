@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.11,-,2015-08-15
+junit,4.12,+,2015-08-15
+commons-dbcp2,2.0,-,2015-03-22
+commons-dbcp2,2.1,-,2015-08-15
+commons-dbcp2,2.1.1,+,2015-08-15
+mockito-core,2.2.6,+,2015-08-15
+mockito-core,2.0.5-beta,-,2015-08-15
+mockito-core,2.0.3-beta,-,2015-08-15
+aspectjweaver,1.8.9,+,2015-08-15
+aspectjweaver,1.7.4,-,2015-08-15
+aspectjweaver,1.8.5,-,2015-08-15

@@ -1,0 +1,7 @@
+library,version,sign,date
+hbase-client,0.98.8_IBM_4-hadoop2,+,2015-03-12
+gson,2.2.2,+,2012-12-04
+forms_rt,7.0.3,+,2013-04-21
+forms_rt,7.0.3,+,2012-12-04
+tools,1.6,+,2013-04-02
+microba,0.4.4.3,+,2012-12-04

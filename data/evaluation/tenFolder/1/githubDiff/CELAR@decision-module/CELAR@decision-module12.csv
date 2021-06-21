@@ -1,0 +1,7 @@
+library,version,sign,date
+depic-common,1.0-SNAPSHOT,+,2015-07-27
+depic-common,1.0-SNAPSHOT,-,2015-07-27
+javaee-web-api,6.0,-,2015-07-27
+javaee-web-api,6.0,+,2015-07-27
+commons-io,2.0.1,-,2015-07-27
+commons-io,2.0.1,+,2015-07-27

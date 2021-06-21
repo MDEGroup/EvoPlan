@@ -1,0 +1,15 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,-,2013-09-17
+javax.servlet-api,3.0.1,+,2013-09-17
+javax.servlet-api,3.0.1,+,2013-02-17
+javax.servlet-api,3.0.1,-,2013-03-04
+javax.servlet-api,3.0.1,+,2013-03-04
+javax.servlet-api,3.0.1,-,2014-01-27
+thymeleaf,2.1.1.RELEASE,-,2015-06-30
+thymeleaf,2.0.15,-,2013-03-04
+thymeleaf,2.1.1.RELEASE,-,2014-01-27
+thymeleaf,2.0.16,-,2014-01-27
+thymeleaf,2.1.1.RELEASE,+,2014-01-27
+thymeleaf,2.0.15,-,2013-04-22
+thymeleaf,2.1.4.RELEASE,+,2015-06-30
+thymeleaf,2.0.15,+,2013-03-04

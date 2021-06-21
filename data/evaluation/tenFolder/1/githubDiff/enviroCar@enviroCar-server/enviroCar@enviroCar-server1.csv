@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.11,-,2013-07-16
+guice-multibindings,3.0,+,2013-05-05
+guice-multibindings,3.0,+,2013-05-17
+guice-multibindings,3.0,-,2013-05-19
+guice-multibindings,3.0,-,2013-05-17
+jsr305,3.0.0,-,2018-10-29
+jsr305,3.0.0,+,2013-07-16
+guava,12.0,-,2013-07-16
+guava,18.0,-,2018-10-29
+guice,3.0,-,2013-04-24

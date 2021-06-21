@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.11,-,2017-12-26
+junit,4.11,-,2015-10-31
+junit,4.10,-,2015-10-31
+junit,4.8.1,-,2015-10-31
+junit,4.12,+,2015-10-31
+maven-release-api,2.5.4-SNAPSHOT,-,2015-10-31
+maven-release-api,2.5.2-SNAPSHOT,-,2015-03-28
+maven-release-api,3.0.0-M2,-,2020-04-07
+maven-release-api,3.0.0-SNAPSHOT,-,2019-12-08
+maven-release-api,3.0.0-M1,-,2019-12-08
+maven-release-api,3.0.0-SNAPSHOT,-,2018-01-12
+api,0.9.33,+,2018-01-12
+api,0.9.33,-,2018-01-12

@@ -1,0 +1,8 @@
+library,version,sign,date
+slf4j-api,1.7.5,+,2013-12-27
+slf4j-simple,1.7.5,+,2013-12-27
+httl,1.0.11,+,2013-12-27
+rythm-engine,1.0-b10,+,2013-12-27
+velocity,1.7,+,2013-12-27
+jetbrick-template,1.1.3,+,2013-12-27
+beetl,1.26.01,+,2013-12-27

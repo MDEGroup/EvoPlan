@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.12,-,2018-01-30
+junit,4.12,+,2018-01-30
+junit,4.11,-,2017-11-27
+spring-ws-core,2.1.4.RELEASE,+,2018-01-30
+log4j-core,{Log4jReleaseVersion},+,2018-01-30
+servlet-api,2.5,+,2018-01-30
+servlet-api,2.5,-,2018-01-30

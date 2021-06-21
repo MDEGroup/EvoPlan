@@ -1,0 +1,13 @@
+library,version,sign,date
+dma-commons-util,0.1,-,2014-09-02
+dma-commons-util,0.3-SNAPSHOT,+,2015-03-25
+dma-commons-util,0.1-SNAPSHOT,-,2013-07-04
+dma-commons-util,0.1-SNAPSHOT,+,2013-07-04
+dma-commons-util,0.3-SNAPSHOT,-,2015-05-20
+dma-commons-util,0.1-SNAPSHOT,-,2014-03-25
+enav-model,0.4,-,2014-08-29
+enav-model,0.1-SNAPSHOT,-,2013-08-26
+enav-model,0.4-SNAPSHOT,-,2014-04-30
+enav-model,0.3,-,2014-03-25
+enav-model,0.1-SNAPSHOT,-,2013-07-30
+enav-model,0.1-SNAPSHOT,+,2013-07-30

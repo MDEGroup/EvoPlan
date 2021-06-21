@@ -1,0 +1,17 @@
+library,version,sign,date
+pluto-portal-driver-impl,2.0.3,-,2012-07-17
+maven-jetty-pluto-embedded,1.0.1,+,2012-05-03
+pluto-container-driver-api,2.0.3,+,2012-05-03
+pluto-container-driver-api,2.0.3,-,2012-07-17
+jsp-2.1-glassfish,2.1.v20091210,+,2012-05-03
+jetty-server,7.0.0.v20091005,+,2012-05-03
+jetty-webapp,7.0.0.v20091005,+,2012-05-03
+portlet-api,2.0,+,2012-05-03
+testng,5.8,-,2012-05-03
+pluto-container,2.0.3,+,2012-05-03
+pluto-container,2.0.3,-,2012-07-17
+jetty-jsp-2.1,7.1.0.v20100505,+,2012-05-03
+ccpp,1.0,+,2012-05-03
+ccpp,1.0,+,2012-05-01
+pluto-container-api,2.0.3,+,2012-05-03
+pluto-container-api,2.0.3,-,2012-07-17

@@ -1,0 +1,8 @@
+library,version,sign,date
+bas-t2,2.0.0-SNAPSHOT,+,2012-11-18
+bas-t2,2.0.0-SNAPSHOT,-,2012-12-22
+mda-xjdoc,0.0.1-SNAPSHOT,+,2012-04-20
+mda-xjdoc,0.0.1-SNAPSHOT,+,2011-09-16
+mda-xjdoc,0.0.1-SNAPSHOT,-,2012-12-22
+mda-xjdoc,0.0.1-SNAPSHOT,-,2012-07-12
+mda-xjdoc,0.0.1-SNAPSHOT,-,2012-04-20

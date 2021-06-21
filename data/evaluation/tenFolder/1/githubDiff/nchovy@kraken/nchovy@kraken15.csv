@@ -1,0 +1,5 @@
+library,version,sign,date
+org.apache.felix.ipojo,1.6.0,+,2012-03-06
+org.apache.felix.ipojo,1.4.0,-,2012-03-06
+org.apache.felix.ipojo,1.4.0,+,2012-03-06
+org.apache.felix.ipojo,1.6.0,-,2012-03-06

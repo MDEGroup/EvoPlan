@@ -1,0 +1,5 @@
+library,version,sign,date
+org-netbeans-api-annotations-common,RELEASE70-BETA,+,2011-03-03
+commons-collections,3.2.1,-,2011-03-13
+commons-collections,3.2.1,+,2011-03-03
+org-netbeans-modules-options-api,RELEASE70-BETA,+,2011-03-03

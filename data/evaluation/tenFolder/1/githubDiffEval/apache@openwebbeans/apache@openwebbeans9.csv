@@ -1,0 +1,17 @@
+library,version,sign,date
+openwebbeans-impl,@project.version@,+,2019-01-09
+openwebbeans-impl,2.0.15,+,2020-01-11
+openwebbeans-impl,@project.version@,+,2019-05-26
+junit,4.11,+,2019-01-09
+junit,4.11,-,2019-05-26
+junit,4.12,-,2019-11-19
+geronimo-atinject_1.0_spec,1.2,+,2020-01-11
+geronimo-atinject_1.0_spec,1.0,+,2019-01-09
+geronimo-el_2.2_spec,1.2,+,2020-01-11
+geronimo-interceptor_1.2_spec,1.0,-,2019-11-19
+geronimo-interceptor_1.2_spec,1.2,+,2020-01-11
+geronimo-interceptor_1.2_spec,1.0,+,2019-05-26
+geronimo-interceptor_1.2_spec,1.0,+,2019-01-09
+geronimo-jcdi_2.0_spec,1.2,+,2020-01-11
+geronimo-jcdi_2.0_spec,1.0,+,2019-01-09
+geronimo-annotation_1.3_spec,1.3,+,2020-01-11

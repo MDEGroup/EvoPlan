@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,3.8.1,-,2012-05-03
+junit,3.8.1,-,2012-03-27
+junit,3.8.1,+,2012-03-27
+junit,3.8.1,+,2012-05-03
+jetty,6.1.9,-,2012-03-27
+commons-lang,2.1,+,2012-05-03
+commons-lang,2.1,-,2012-03-27

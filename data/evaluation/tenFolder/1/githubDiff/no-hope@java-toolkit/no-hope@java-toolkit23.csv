@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-lang3,3.4,+,2015-04-29
+commons-lang3,3.3,-,2015-04-29
+guava,16.0.1,-,2015-04-29
+guava,18.0,+,2015-04-29

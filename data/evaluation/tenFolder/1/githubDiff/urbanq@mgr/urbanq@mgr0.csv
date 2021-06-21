@@ -1,0 +1,5 @@
+library,version,sign,date
+easymock,3.0,+,2012-06-10
+junit,4.10,-,2012-05-05
+junit,4.10,+,2012-05-05
+mockito-core,1.8.5,+,2012-06-10

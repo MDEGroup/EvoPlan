@@ -1,0 +1,13 @@
+library,version,sign,date
+mockito-all,1.9.0,-,2012-08-17
+junit,4.10,-,2012-08-17
+hibernate-validator,4.2.0.Final,+,2012-08-17
+hibernate-validator,4.3.0.Final,+,2012-08-17
+hibernate-validator,4.2.0.Final,-,2013-04-05
+hibernate-validator,4.2.0.Final,-,2012-08-17
+hibernate-validator,4.2.0.Final,+,2013-04-05
+commons-codec,1.7,-,2013-09-14
+commons-codec,1.6,-,2012-08-17
+validation-api,1.1.0.Beta3,-,2013-04-05
+validation-api,1.0.0.GA,-,2012-08-17
+validation-api,1.1.0.Beta3,+,2012-08-17

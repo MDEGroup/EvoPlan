@@ -1,0 +1,405 @@
+library,version,date
+junit,3.7,2007-05-01
+junit,3.8,2007-05-01
+junit,3.8.1,2007-05-01
+junit,3.8.2,2007-05-01
+junit,4.0,2006-02-01
+junit,4.1,2006-10-01
+junit,4.2,2007-02-01
+junit,4.3,2007-05-01
+junit,4.3.1,2007-05-01
+junit,4.4,2007-05-01
+junit,4.5,2008-09-01
+junit,4.6,2009-05-01
+junit,4.7,2009-08-01
+junit,4.8,2010-10-01
+junit,4.8.1,2010-02-01
+junit,4.8.2,2010-10-01
+junit,4.9,2011-08-01
+junit,4.10,2011-09-01
+junit,4.11-beta-1,201-10-01
+junit,4.11,2012-11-01
+junit,4.12-beta-1,2014-07-01
+junit,4.12-beta-2,2014-09-01
+junit,4.12-beta-3,2014-11-01
+junit,4.12,2014-12-01
+junit,4.13-beta-1,2018-11-01
+junit,4.13-beta-2,2019-02-01
+junit,4.13-beta-3,2019-05-01
+junit,4.13-rc-1,2010-10-01
+junit,4.13-rc-2,2019-12-01
+junit,4.13,2020-12-01
+commons-io,0.1,	2017
+commons-io,1.0,	2016
+commons-io,1.1,	2012
+commons-io,1.2,	2012
+commons-io,1.3,	2012
+commons-io,1.3.1, 2011
+commons-io,1.3.2, 2010
+commons-io,1.4,	2010
+commons-io,2.0,	2008
+commons-io,2.0.1, 2008
+commons-io,2.1,	2007
+commons-io,2.2,	2007
+commons-io,2.3,	2006
+commons-io,2.4,	2005
+commons-io,2.5,	2005
+commons-io,2.6,	2005
+httpclient,4.0-alpha1,2007
+httpclient,4.0-alpha2,2007
+httpclient,4.0-alpha3,2008
+httpclient,4.0-alpha4,2008
+httpclient,4.0-beta1,2008
+httpclient,4.0-beta2,2008
+httpclient,4.0	,2009
+httpclient,4.0.1,2009
+httpclient,4.0.2,2010
+httpclient,4.0.3,2010
+httpclient,4.1-alpha1,2009
+httpclient,4.1-alpha2,2010
+httpclient,4.1-beta1,2010
+httpclient,4.1,	2011
+httpclient,4.1.1,2011
+httpclient,4.1.2,2011
+httpclient,4.1.3,2012
+httpclient,4.2-alpha1,2011
+httpclient,4.2-beta1,2012
+httpclient,4.2,2012
+httpclient,4.2.1,2012
+httpclient,4.2.2,2012
+httpclient,4.2.3,2013
+httpclient,4.2.4,2013
+httpclient,4.2.5,2013
+httpclient,4.2.6,2013
+httpclient,4.3-alpha1,2013
+httpclient,4.3-beta1,2013
+httpclient,4.3-beta2,2013
+httpclient,4.3,2013
+httpclient,4.3.1,2013
+httpclient,4.3.2,2014
+httpclient,4.3.3,2014
+httpclient,4.3.4,2014
+httpclient,4.3.5,2014
+httpclient,4.3.6,2014
+httpclient,4.4-alpha1,2014
+httpclient,4.4-beta1,2014
+httpclient,4.4,2015
+httpclient,4.4.1,2015
+httpclient,4.5,2015
+httpclient,4.5.1,2015
+httpclient,4.5.2,2016
+httpclient,4.5.3,2017
+httpclient,4.5.4,2017
+httpclient,4.5.5,2018
+httpclient,4.5.6,2018
+httpclient,4.5.7,2019
+httpclient,4.5.8,2019
+httpclient,4.5.9,2019
+httpclient,4.5.10,2019
+httpclient,4.5.11,2020
+httpclient,4.5.12,2020
+log4j,1.1.3,2005
+log4j,1.2.4,2005
+log4j,1.2.5,2005
+log4j,1.2.6,2005
+log4j,1.2.7,2005
+log4j,1.2.8,2005
+log4j,1.2.9,2005
+log4j,1.2.11,2005
+log4j,1.2.12,2005
+log4j,1.2.13,2006
+log4j,1.2.14,2006
+log4j,1.2.15,2007
+log4j,1.2.16,2010
+log4j,1.2.17,2012
+log4j,2.0,2014
+log4j,2.0.1,2014
+log4j,2.0.2,2014
+log4j,2.1,2014
+log4j,2.2,2015
+log4j,2.3,2015
+log4j,2.4,2015
+log4j,2.4.1	,2015
+log4j,2.5,2015
+log4j,2.6,2016
+log4j,2.6.1,2016
+log4j,2.6.2,2016
+log4j,2.7,2016
+log4j,2.8,2017
+log4j,2.8.1,2017
+log4j,2.8.2,2017
+log4j,2.9.0,2017
+log4j,2.9.1,2017
+log4j,2.10.0,2017
+log4j,2.11.0,2018
+log4j,2.11.1,2018
+log4j,2.11.2,2019
+log4j,2.12.0,2019
+log4j,2.12.1,2019
+log4j,2.13.0,2019
+log4j,2.13.1,2020
+log4j,2.13.2,2020
+log4j,2.13.3,2020
+slf4j-api,1.1.0,	2006
+slf4j-api,1.1.0-beta0,	2006
+slf4j-api,1.1.0-RC0	,2006
+slf4j-api,1.1.0-RC1,	2006
+slf4j-api,1.2,	2007
+slf4j-api,1.3.0,	2007
+slf4j-api,1.3.1,	2007
+slf4j-api,1.4.0,	2007
+slf4j-api,1.4.1,	2007
+slf4j-api,1.4.2,	2007
+slf4j-api,1.4.3,	2007
+slf4j-api,1.5.0,	2008
+slf4j-api,1.5.2,	2008
+slf4j-api,1.5.3,	2008
+slf4j-api,1.5.4,	2008
+slf4j-api,1.5.5,	2008
+slf4j-api,1.5.6,	2008
+slf4j-api,1.5.7,	2009
+slf4j-api,1.5.8,	2009
+slf4j-api,1.5.9-RC0	,2009
+slf4j-api,1.5.9.RC1,2009
+slf4j-api,1.5.10,	2009
+slf4j-api,1.5.11,	2010
+slf4j-api,1.6.0,	2010
+slf4j-api,1.6.0-alpha2	2010
+slf4j-api,1.6.0-RC0	2010
+slf4j-api,1.6.1,2010
+slf4j-api,1.6.2,2011
+slf4j-api,1.6.3,2011
+slf4j-api,1.6.4,2011
+slf4j-api,1.6.5,2012
+slf4j-api,1.6.6,2012
+slf4j-api,1.7.0,2012
+slf4j-api,1.7.1,2012
+slf4j-api,1.7.2,2012
+slf4j-api,1.7.3,2013
+slf4j-api,1.7.4,2013
+slf4j-api,1.7.5,2013
+slf4j-api,1.7.6,2014
+slf4j-api,1.7.7,2014
+slf4j-api,1.7.8,2014
+slf4j-api,1.7.9,2014
+slf4j-api,1.7.10,2015
+slf4j-api,1.7.11,2015
+slf4j-api,1.7.12,2015
+slf4j-api,1.7.13,2015
+slf4j-api,1.7.14,2016
+slf4j-api,1.7.15,2016
+slf4j-api,1.7.16,2016
+slf4j-api,1.7.18,2016
+slf4j-api,1.7.19,2016
+slf4j-api,1.7.20,2016
+slf4j-api,1.7.21,2016
+slf4j-api,1.7.22,2016
+slf4j-api,1.7.23,2017
+slf4j-api,1.7.24,2017
+slf4j-api,1.7.25,2017
+slf4j-api,1.7.26,2019
+slf4j-api,1.7.27,2019
+slf4j-api,1.7.28,2019
+slf4j-api,1.7.29,2019
+slf4j-api,1.7.30,2019
+slf4j-api,1.8.0-alpha0,2017
+slf4j-api,1.8.0-alpha1,2017
+slf4j-api,1.8.0-alpha2,2017
+slf4j-api,1.8.0-beta0,2017
+slf4j-api,1.8.0-beta1,2018
+slf4j-api,1.8.0-beta2,2018
+slf4j-api,1.8.0-beta4,2019
+slf4j-api,2.0.0-alpha0,2019
+slf4j-api,2.0.0-alpha1,2019
+commons-lang3,3.0,2011
+commons-lang3,3.0.1,2011
+commons-lang3,3.1,2011
+commons-lang3,3.2,2013
+commons-lang3,3.2.1,2014
+commons-lang3,3.3,2014
+commons-lang3,3.3.1,2014
+commons-lang3,3.3.2,2014
+commons-lang3,3.4,2015
+commons-lang3,3.5,2016
+commons-lang3,3.6,2017
+commons-lang3,3.7,2017
+commons-lang3,3.8,2018
+commons-lang3,3.8.1,2018
+commons-lang3,3.9,2019
+commons-lang3,3.10,2020
+guava,r03,	2010
+guava,r05,	2010
+guava,r06,	2010
+guava,r07,	2010
+guava,r08,	2011
+guava,r09,	2011
+guava,10.0,	2011
+guava,10.0.1,	2011
+guava,11.0,	2011
+guava,11.0-rc1,	2011
+guava,11.0.1,	2012
+guava,11.0.2,	2012
+guava,12.0,	2012
+guava,12.0-rc1,	2012
+guava,12.0-rc2,	2012
+guava,12.0.1,	2012
+guava,13.0,	2012
+guava,13.0-final,	2013
+guava,13.0-rc1,	2012
+guava,13.0-rc2,	2012
+guava,13.0.1,	2012
+guava,14.0,	2013
+guava,14.0-rc1,	2012
+guava,14.0-rc2,	2013
+guava,14.0-rc3,	2013
+guava,14.0.1,	2013
+guava,15.0,	2013
+guava,15.0-rc1,	2013
+guava,16.0,	2014
+guava,16.0-rc1,	2013
+guava,16.0.1,	2014
+guava,17.0,	2014
+guava,17.0-rc1,	2014
+guava,17.0-rc2,	2014
+guava,18.0,	2014
+guava,18.0-rc1,	2014
+guava,18.0-rc2,	2014
+guava,19.0,	2015
+guava,19.0-rc1,	2015
+guava,19.0-rc2,	2015
+guava,19.0-rc3,	2015
+guava,20.0,	2016
+guava,20.0-rc1,	2016
+guava,21.0,	2017
+guava,21.0-rc1,	2016
+guava,21.0-rc2,	2017
+guava,22.0,2017
+guava,22.0-rc1,	2017
+guava,23.0,	2017
+guava,23.0-rc1,	2017
+guava,23.1-jre,	2017
+guava,23.2-jre,	2017
+guava,23.3-jre,	2017
+guava,23.4-jre,	2017
+guava,23.5-jre,	2017
+guava,23.6-jre,	2017
+guava,23.6.1-jre,	2018
+guava,24.0-jre,	2018
+guava,24.1-jre,	2018
+guava,24.1.1-jre,	2018
+guava,25.0-jre,	2018
+guava,25.1-jre,	2018
+guava,26.0-jre,	2018
+guava,27.0-jre,	2018
+guava,27.0.1-jre,	2018
+guava,27.1-jre,	2019
+guava,28.0-jre,	2019
+guava,28.1-jre,	2019
+guava,28.2-jre,	2020
+guava,29.0-jre,2020
+gson,1.1,2008
+gson,1.4,2010
+gson,1.5,2011
+gson,1.6,2011
+gson,1.7,2011
+gson,1.7.1,2011
+gson,1.7.2,2011
+gson,2.0,2011
+gson,2.1,2011
+gson,2.2,2012
+gson,2.2.1,2012
+gson,2.2.2,2012
+gson,2.2.3,2013
+gson,2.2.4,2013
+gson,2.3,2014
+gson,2.3.1,2014
+gson,2.4,2015
+gson,2.5,2015
+gson,2.6,2016
+gson,2.6.1,2016
+gson,2.6.2,2016
+gson,2.7,2016
+gson,2.8.0,2016
+gson,2.8.1,2017
+gson,2.8.2,2017
+gson,2.8.3,2018
+gson,2.8.4,2018
+gson,2.8.5,2018
+gson,2.8.6,2019
+logback-classic,0.2.5,	2006
+logback-classic,0.3,	2006
+logback-classic,0.5,	2006
+logback-classic,0.6,	2006
+logback-classic,0.7,	2006
+logback-classic,0.7.1,	2006
+logback-classic,0.8,2007
+logback-classic,0.8.1,	2007
+logback-classic,0.9,	2007
+logback-classic,0.9.1,	2007
+logback-classic,0.9.2,	2007
+logback-classic,0.9.3,	2007
+logback-classic,0.9.4,	2007
+logback-classic,0.9.5,	2007
+logback-classic,0.9.6,	2007
+logback-classic,0.9.7,	2007
+logback-classic,0.9.8,	2007
+logback-classic,0.9.9,	2008
+logback-classic,0.9.10,	2008
+logback-classic,0.9.11,	2008
+logback-classic,0.9.12,	2008
+logback-classic,0.9.13,	2008
+logback-classic,0.9.14,	2008
+logback-classic,0.9.15,	2009
+logback-classic,0.9.16,	2009
+logback-classic,0.9.17,	2009
+logback-classic,0.9.18,	2009
+logback-classic,0.9.19,	2010
+logback-classic,0.9.20,	2010
+logback-classic,0.9.21,	2010
+logback-classic,0.9.22,	2010
+logback-classic,0.9.23,	2010
+logback-classic,0.9.24,	2010
+logback-classic,0.9.25,	2010
+logback-classic,0.9.26,	2010
+logback-classic,0.9.27,	2010
+logback-classic,0.9.28,	2011
+logback-classic,0.9.29,	2011
+logback-classic,0.9.30,	2011
+logback-classic,1.0.0,	2011
+logback-classic,1.0.1,	2012
+logback-classic,1.0.2,	2012
+logback-classic,1.0.3,	2012
+logback-classic,1.0.4,	2012
+logback-classic,1.0.5,	2012
+logback-classic,1.0.6,	2012
+logback-classic,1.0.7,	2012
+logback-classic,1.0.8,	2012
+logback-classic,1.0.9,	2012
+logback-classic,1.0.10,	2013
+logback-classic,1.0.11,	2013
+logback-classic,1.0.12,	2013
+logback-classic,1.0.13,	2013
+logback-classic,1.1.0,	2014
+logback-classic,1.1.1,	2014
+logback-classic,1.1.2,	2014
+logback-classic,1.1.3,	2015
+logback-classic,1.1.4,	2016
+logback-classic,1.1.5,	2016
+logback-classic,1.1.6,	2016
+logback-classic,1.1.7,	2016
+logback-classic,1.1.8,	2016
+logback-classic,1.1.9,	2017
+logback-classic,1.1.10,	2017
+logback-classic,1.1.11,	2017
+logback-classic,1.2.0,	2017
+logback-classic,1.2.1,	2017
+logback-classic,1.2.2,	2017
+logback-classic,1.2.3,	2017
+logback-classic,1.3.0-alpha0,	2018
+logback-classic,1.3.0-alpha1,	2018
+logback-classic,1.3.0-alpha2,	2018
+logback-classic,1.3.0-alpha3,	2018
+logback-classic,1.3.0-alpha4,	2018
+logback-classic,1.3.0-alpha5,	2019
+
+

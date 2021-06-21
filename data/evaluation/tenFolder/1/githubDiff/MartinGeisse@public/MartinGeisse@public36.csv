@@ -1,0 +1,4 @@
+library,version,sign,date
+cassandra-driver-core,2.1.2,-,2015-01-28
+common,0.1-SNAPSHOT,-,2015-01-28
+stackd-core-common,0.1-SNAPSHOT,-,2015-01-28

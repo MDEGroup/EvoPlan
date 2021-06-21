@@ -1,0 +1,4 @@
+library,version,sign,date
+fingerprint,0.2-SNAPSHOT,+,2012-11-15
+spring-data-mongodb,1.0.3.RELEASE,+,2012-11-19
+jaudiotagger,2.0.3,+,2013-01-15

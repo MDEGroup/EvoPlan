@@ -1,0 +1,6 @@
+library,version,sign,date
+javafx,8.0.5,+,2013-06-16
+javafx,2.2.3,-,2013-06-16
+tools,1.7.0_09,-,2013-05-15
+maven-bundle-plugin,2.4.0,+,2013-05-18
+maven-bundle-plugin,2.3.7,-,2013-05-18

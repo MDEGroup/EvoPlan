@@ -1,0 +1,5 @@
+library,version,sign,date
+jaxb2-basics-runtime,0.5.2,+,2013-09-10
+jaxb2-basics-runtime,0.5.2,-,2013-12-17
+commons-dbcp,1.4,+,2013-07-08
+commons-dbcp,1.4,-,2013-07-08

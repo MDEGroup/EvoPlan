@@ -1,0 +1,17 @@
+library,version,sign,date
+hibernate-validator,4.3.1.Final,+,2015-03-07
+hibernate-validator,4.3.1.Final,-,2015-12-09
+hibernate-validator,5.2.2.Final,-,2017-03-02
+hibernate-validator,5.1.3.Final,-,2015-12-09
+hibernate-validator,4.3.1.Final,-,2015-03-11
+featured-mock,0.2,-,2015-12-09
+activemq-spring,5.13.3,+,2017-01-20
+hsqldb,2.3.2,+,2017-03-22
+hsqldb,2.3.2,-,2017-03-22
+hibernate-entitymanager,4.3.8.Final,-,2015-12-09
+hibernate-entitymanager,5.0.5.Final,-,2017-01-20
+hibernate-entitymanager,5.0.5.Final,+,2015-12-09
+hibernate-entitymanager,4.3.8-Final,-,2015-03-11
+hibernate-entitymanager,4.3.8.Final,+,2015-03-11
+hibernate-entitymanager,4.3.8-Final,+,2015-03-07
+hibernate-entitymanager,5.0.5.Final,-,2015-12-09

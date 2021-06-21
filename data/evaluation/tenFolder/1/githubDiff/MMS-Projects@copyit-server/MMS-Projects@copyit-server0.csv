@@ -1,0 +1,10 @@
+library,version,sign,date
+google-api-services-oauth2,v2-rev51-1.17.0-rc,+,2013-10-09
+google-api-client,1.17.0-rc,+,2013-10-09
+junit,4.8.1,+,2013-07-12
+google-http-client-jackson,1.17.0-rc,+,2013-10-09
+mysql-connector-java,5.1.25,+,2013-07-13
+commons-codec,20041127.091804,+,2013-07-17
+netty-all,4.0.0.CR9,+,2013-07-11
+json,20090211,+,2013-07-15
+httpclient,4.3,+,2013-09-22

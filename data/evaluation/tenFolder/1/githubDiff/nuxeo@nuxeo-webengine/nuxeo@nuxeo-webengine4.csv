@@ -1,0 +1,9 @@
+library,version,sign,date
+jsr311-api,0.8,-,2010-01-22
+nuxeo-distribution-tools,0.7,-,2010-01-20
+nuxeo-distribution-tools,0.7,+,2010-01-20
+nuxeo-distribution-tools,1.15,+,2013-12-17
+nuxeo-distribution-tools,0.8,-,2010-03-04
+nuxeo-distribution-tools,0.5-SNAPSHOT,-,2010-01-11
+nuxeo-distribution-tools,0.5,-,2010-01-11
+nuxeo-distribution-tools,0.6-SNAPSHOT,-,2010-01-20

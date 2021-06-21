@@ -1,0 +1,11 @@
+library,version,sign,date
+samoa-api,0.0.1-SNAPSHOT,+,2013-11-13
+samoa-api,0.0.1-SNAPSHOT,-,2013-10-18
+samoa-api,0.0.1-SNAPSHOT,-,2013-11-13
+javacliparser,0.5.0,-,2013-11-29
+javacliparser,0.5.0,+,2013-11-29
+javacliparser,0.5.0,-,2013-11-13
+javacliparser,0.5.0,+,2013-11-13
+s4-comm,0.6.0-incubating,-,2013-11-13
+s4-core,0.6.0-incubating,-,2013-11-13
+s4-base,0.6.0-incubating,-,2013-11-13

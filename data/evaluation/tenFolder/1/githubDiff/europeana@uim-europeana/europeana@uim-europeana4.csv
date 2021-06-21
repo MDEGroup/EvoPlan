@@ -1,0 +1,12 @@
+library,version,sign,date
+europeana-uim-plugin-clientbindings,1.3.0-SNAPSHOT,-,2012-04-04
+europeana-uim-plugin-clientbindings,1.3.1-SNAPSHOT,-,2012-05-17
+com.springsource.org.apache.commons.io,1.4.0,+,2012-03-07
+com.springsource.org.apache.commons.io,1.4.0,+,2015-02-04
+com.springsource.org.apache.commons.io,1.4.0,+,2014-07-16
+com.springsource.org.apache.commons.io,1.4.0,-,2015-02-04
+commons-io,2.1,+,2012-02-29
+commons-io,2.4,+,2014-07-16
+commons-io,2.1,-,2012-05-17
+amqp-client,2.7.1,+,2012-02-15
+commons-lang,2.2,-,2012-05-17

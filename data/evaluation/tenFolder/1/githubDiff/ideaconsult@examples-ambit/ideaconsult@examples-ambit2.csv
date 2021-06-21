@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.8.1,+,2016-07-29
+junit,4.8.1,-,2016-07-29
+junit,4.11,+,2016-07-29
+junit,4.11,-,2016-07-29
+ambit2-smarts,2.6.0-SNAPSHOT,-,2015-04-26
+ambit2-smarts,2.5.1,-,2015-04-26
+commons-cli,1.1,-,2016-07-29
+commons-cli,1.1,+,2016-07-29

@@ -1,0 +1,4 @@
+library,version,sign,date
+soa-client,1.0.1.0-SNAPSHOT,-,2011-01-21
+common-type-library,1.0.1.0-SNAPSHOT,+,2011-01-21
+common-type-library,1.0.1.0-SNAPSHOT,-,2011-01-21

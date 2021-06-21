@@ -1,0 +1,13 @@
+library,version,sign,date
+component,8.5.0,-,2016-09-12
+component,8.6.0-SNAPSHOT,-,2018-05-28
+component,8.5.1-SNAPSHOT,-,2016-12-25
+component,8.5.0-SNAPSHOT,-,2016-05-17
+component,8.6.0-SNAPSHOT,+,2016-12-25
+component,8.5.0,+,2016-05-17
+processor,8.5.0,-,2016-09-12
+processor,8.5.1-SNAPSHOT,-,2016-12-25
+processor,8.5.0,+,2016-05-17
+processor,8.5.0-SNAPSHOT,-,2016-05-17
+processor,8.6.0-SNAPSHOT,+,2016-12-25
+processor,8.6.0-SNAPSHOT,-,2018-05-28

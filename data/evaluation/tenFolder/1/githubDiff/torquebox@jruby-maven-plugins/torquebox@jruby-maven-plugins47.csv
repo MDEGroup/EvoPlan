@@ -1,0 +1,4 @@
+library,version,sign,date
+slf4j-simple,1.7.6,+,2015-03-29
+leafy-complete,0.2.1,-,2015-08-01
+leafy-complete,0.4.0,+,2015-03-29

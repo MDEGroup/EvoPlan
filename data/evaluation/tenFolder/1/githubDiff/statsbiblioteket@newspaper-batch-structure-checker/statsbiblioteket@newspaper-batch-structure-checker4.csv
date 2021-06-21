@@ -1,0 +1,10 @@
+library,version,sign,date
+newspaper-batch-structure-checker-common,1.10-SNAPSHOT,-,2015-08-06
+newspaper-batch-structure-checker-common,1.10-SNAPSHOT,-,2015-08-07
+newspaper-batch-structure-checker-common,1.10-SNAPSHOT,+,2015-08-06
+newspaper-batch-structure-checker-mfpakcheckers,1.10-SNAPSHOT,-,2015-08-06
+newspaper-batch-structure-checker-mfpakcheckers,1.10-SNAPSHOT,-,2015-08-07
+newspaper-batch-structure-checker-mfpakcheckers,1.10-SNAPSHOT,+,2015-08-06
+newspaper-batch-structure-checker-sequencecheckers,1.10-SNAPSHOT,-,2015-08-06
+newspaper-batch-structure-checker-sequencecheckers,1.10-SNAPSHOT,-,2015-08-07
+newspaper-batch-structure-checker-sequencecheckers,1.10-SNAPSHOT,+,2015-08-06

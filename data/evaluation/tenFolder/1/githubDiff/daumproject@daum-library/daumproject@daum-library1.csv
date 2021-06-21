@@ -1,0 +1,7 @@
+library,version,sign,date
+org.daum.common.util.javase.root,1.0,-,2013-01-29
+org.daum.common.model.javase.root,1.3.3,-,2013-01-29
+org.daum.common.model.javase.root,1.3.3,+,2012-07-06
+org.daum.common.model.javase.root,1.3.3,+,2012-07-10
+org.daum.common.model.javase.root,1.3.3,-,2012-07-10
+org.daum.corelibrary.javase.ormH,2.0.0-SNAPSHOT,+,2013-02-08

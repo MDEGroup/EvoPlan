@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.8.1,+,2011-12-05
+hibernate-validator,4.1.0.Final,+,2011-12-05
+vaadin,6.7.2,+,2011-12-23
+arquillian-junit-container,1.0.0.CR1,+,2011-12-05
+gwt-user,2.3.0,+,2011-12-23
+seam-solder,3.0.0.Final,+,2011-12-05
+jboss-javaee-web-6.0,2.0.0.Final,+,2011-12-05
+gson,1.7.1,-,2011-12-05
+gson,1.7.1,+,2011-12-05
+log4j,1.2.14,+,2011-12-05
+hibernate-jpamodelgen,1.1.1.Final,+,2011-12-05

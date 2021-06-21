@@ -1,0 +1,14 @@
+library,version,sign,date
+ajf-testing,2.1.0-SNAPSHOT,-,2012-02-20
+ajf-testing,2.0.2-SNAPSHOT,+,2012-01-19
+ajf-testing,2.1.0,+,2012-02-20
+ajf-testing,2.0.2-SNAPSHOT,-,2012-01-19
+ajf-testing,2.0.2-SNAPSHOT,-,2012-02-14
+ajf-testing,2.1.1-SNAPSHOT,-,2012-03-16
+ajf-testing,2.1.0,-,2012-03-16
+ajf-testing,2.0.2-SNAPSHOT,-,2012-02-20
+servlet-api,2.5,-,2012-02-20
+servlet-api,2.5,+,2012-01-19
+servlet-api,2.5,+,2012-03-16
+servlet-api,2.5,+,2012-01-31
+servlet-api,2.5,+,2012-02-20

@@ -1,0 +1,10 @@
+library,version,sign,date
+maven-source-plugin,3.1.0,-,2019-10-08
+maven-source-plugin,2.1.2,-,2017-02-06
+maven-source-plugin,2.0.4,-,2011-09-19
+maven-source-plugin,3.0.1,-,2019-03-22
+mockito-core,2.23.0,-,2019-10-08
+mockito-core,1.8.4,+,2014-11-24
+mockito-core,3.3.0,-,2020-03-05
+mockito-core,1.8.4,-,2019-03-22
+mockito-core,3.2.4,-,2020-01-13

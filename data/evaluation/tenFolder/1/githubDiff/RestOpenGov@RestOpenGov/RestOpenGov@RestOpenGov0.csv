@@ -1,0 +1,9 @@
+library,version,sign,date
+elasticsearch,0.19.2,-,2012-04-23
+opencsv,2.3,-,2012-04-23
+opencsv,2.3,+,2012-04-29
+opencsv,2.3,-,2012-04-30
+opencsv,2.3,+,2012-04-23
+gson,2.1,-,2012-04-23
+tika,0.3,+,2012-05-10
+log4j,1.2.16,+,2012-04-29

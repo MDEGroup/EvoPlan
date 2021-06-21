@@ -1,0 +1,8 @@
+library,version,sign,date
+sesame-runtime,2.7.1,-,2013-09-13
+junit,4.11,-,2013-09-13
+junit,4.11,+,2013-09-13
+sesame-rio-turtle,2.7.5,+,2013-09-13
+sesame-rio-n3,2.7.5,+,2013-09-13
+d2s-platform,0.0.1-SNAPSHOT,+,2013-09-13
+d2s-platform,0.0.1-SNAPSHOT,-,2013-09-13

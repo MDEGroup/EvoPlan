@@ -1,0 +1,8 @@
+library,version,sign,date
+test-jcl,2.5,-,2013-11-10
+test-jcl,2.4-SNAPSHOT,-,2012-06-21
+test-jcl,2.4-SNAPSHOT,-,2012-06-22
+test-jcl,2.4-SNAPSHOT,+,2012-06-21
+test-jcl,2.5-SNAPSHOT,-,2012-07-01
+test-jcl,2.6-SNAPSHOT,-,2015-02-23
+test-jcl,2.4-SNAPSHOT,+,2011-10-09

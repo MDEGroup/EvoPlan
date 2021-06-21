@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.8.1,-,2012-06-15
+junit,4.8.1,+,2012-06-15
+plexus-cipher,1.7,+,2012-06-15
+plexus-cipher,1.7,-,2012-06-15
+velocity,1.7,+,2012-06-15
+velocity,1.7,-,2012-06-15

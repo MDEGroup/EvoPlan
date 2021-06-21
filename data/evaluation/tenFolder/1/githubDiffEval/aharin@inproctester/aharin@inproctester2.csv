@@ -1,0 +1,6 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,-,2013-12-16
+inproctester-jetty,1.0.15-SNAPSHOT,-,2012-08-29
+inproctester-jetty,1.0.14,-,2012-08-29
+inproctester-jetty,1.0.15,-,2013-12-16
+inproctester-jetty,1.0.14-SNAPSHOT,-,2012-07-13

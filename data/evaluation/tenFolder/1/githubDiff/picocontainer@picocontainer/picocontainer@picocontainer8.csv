@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.9,-,2013-07-30
+junit,4.9,+,2013-07-30
+picocontainer,3.0-SNAPSHOT,-,2013-07-29

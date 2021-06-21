@@ -1,0 +1,3 @@
+library,version,sign,date
+okhttp,3.2.0,+,2016-03-28
+okhttp,3.2.0,-,2016-08-14

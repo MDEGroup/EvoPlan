@@ -1,0 +1,4 @@
+library,version,sign,date
+nscala-time_2.10,1.6.0,-,2015-01-17
+spark-sql_2.10,1.2.0,-,2015-01-17
+spark-core_2.10,1.2.0,-,2015-01-17

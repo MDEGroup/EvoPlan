@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.10,+,2012-05-15
+mujina-common,2.8.0-SNAPSHOT,-,2012-06-18
+mujina-common,2.8.0,-,2012-06-18
+mujina-common,2.2.0-SNAPSHOT,-,2012-04-26
+mujina-common,2.2.0-SNAPSHOT,+,2012-04-26
+mujina-common,2.6.0-SNAPSHOT,-,2012-05-31

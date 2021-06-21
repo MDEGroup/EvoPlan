@@ -1,0 +1,10 @@
+library,version,sign,date
+slf4j-api,1.5.10,-,2011-08-30
+slf4j-api,1.5.2,-,2009-12-19
+slf4j-api,1.5.10,+,2009-12-19
+jcl-over-slf4j,1.5.10,-,2011-08-30
+jcl-over-slf4j,1.5.10,+,2009-12-19
+logback-classic,0.9.18,+,2009-12-19
+logback-classic,1.0.6,-,2012-11-15
+logback-classic,0.9.18,-,2011-08-30
+servlet-api,2.4,-,2011-08-30

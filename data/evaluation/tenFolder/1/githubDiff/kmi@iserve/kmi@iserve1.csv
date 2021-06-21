@@ -1,0 +1,5 @@
+library,version,sign,date
+jukito,1.2,+,2015-02-11
+jukito,1.2,-,2015-02-11
+guava,14.0.1,-,2014-11-28
+guava,14.0.1,-,2014-11-21

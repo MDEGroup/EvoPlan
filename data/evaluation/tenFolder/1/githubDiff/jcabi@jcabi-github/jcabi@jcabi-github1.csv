@@ -1,0 +1,11 @@
+library,version,sign,date
+javax.json-api,1.0,+,2020-05-19
+javax.json-api,1.0,-,2020-05-19
+jcabi-github,1.0-SNAPSHOT,-,2017-01-05
+jcabi-github,1.0-SNAPSHOT,+,2014-05-05
+jcabi-github,0.7,-,2014-02-18
+jcabi-github,1.0-SNAPSHOT,-,2014-05-05
+jcabi-github,0.7.2,+,2020-05-19
+jcabi-github,0.8,-,2014-05-05
+jcabi-github,1.0-SNAPSHOT,+,2017-01-05
+jcabi-github,0.7.2,-,2020-05-19

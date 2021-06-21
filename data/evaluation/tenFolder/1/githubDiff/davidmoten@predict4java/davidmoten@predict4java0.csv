@@ -1,0 +1,17 @@
+library,version,sign,date
+guava-mini,0.1.2,+,2019-06-18
+guava-mini,0.1.2,+,2019-06-19
+guava-mini,0.1.2,-,2019-06-19
+junit,4.11,-,2019-06-18
+junit,4.11,+,2019-06-18
+junit,4.7,-,2013-02-26
+assertj-core,1.5.0,-,2019-06-18
+assertj-core,1.5.0,+,2013-11-20
+joda-time,2.1,+,2019-06-18
+joda-time,1.6,-,2013-02-26
+joda-time,2.1,-,2019-06-18
+commons-logging,1.1.1,+,2019-06-18
+commons-logging,1.1.1,-,2019-06-18
+commons-lang,2.6,+,2019-06-18
+commons-lang,2.6,-,2019-06-18
+commons-lang,2.1,-,2013-02-26

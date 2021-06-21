@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.8.1,-,2012-07-16
+junit,4.8.1,+,2012-04-26
+jnp-client,5.0.3.GA,-,2012-07-16
+jnp-client,5.0.3.GA,+,2012-07-16
+jnp-client,5.0.3.GA,-,2014-07-29
+hornetq-core-client,2.2.6.Final,-,2012-07-16
+activity,1.0.0-SNAPSHOT,-,2012-07-16
+activity,1.0.0.20120716-M1,-,2012-07-16
+activity,1.0.0-SNAPSHOT,+,2012-06-26
+activity,1.0.0-SNAPSHOT,-,2012-06-27
+hornetq-jms-client,2.2.6.Final,-,2012-07-16

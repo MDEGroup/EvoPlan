@@ -1,0 +1,7 @@
+library,version,sign,date
+stiltsAPI,2.4,+,2013-08-01
+stiltsAPI,2.4,-,2013-08-01
+param-model,0.0.2-utillities-thread-safe,-,2013-09-20
+param-model,0.0.1-utillities-thread-safe,-,2012-11-26
+commons-io,2.4,+,2013-07-08
+dom4j,1.6.1,+,2013-02-12

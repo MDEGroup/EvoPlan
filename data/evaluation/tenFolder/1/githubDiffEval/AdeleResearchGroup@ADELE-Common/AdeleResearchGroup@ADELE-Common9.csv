@@ -1,0 +1,5 @@
+library,version,sign,date
+deployment-admin-impl,1.0.1-SNAPSHOT,-,2013-02-08
+deployment-admin-impl,1.0.1-SNAPSHOT,-,2012-12-08
+org.osgi.core,4.2.0,+,2013-06-25
+org.osgi.compendium,4.2.0,+,2013-06-25

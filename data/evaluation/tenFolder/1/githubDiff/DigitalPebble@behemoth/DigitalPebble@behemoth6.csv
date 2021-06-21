@@ -1,0 +1,11 @@
+library,version,sign,date
+solr-solrj,3.5.0,-,2012-11-09
+solr-solrj,3.5.0,+,2012-02-21
+solr-solrj,1.4.0,-,2012-01-25
+solr-solrj,3.5.0,-,2012-02-21
+behemoth-core,1.1,-,2014-02-10
+behemoth-core,1.1-SNAPSHOT,-,2013-06-03
+behemoth-core,1.0-SNAPSHOT,-,2012-02-21
+behemoth-core,1.0-SNAPSHOT,+,2012-02-21
+behemoth-core,1.0,-,2012-11-09
+behemoth-core,1.0-SNAPSHOT,-,2012-11-06

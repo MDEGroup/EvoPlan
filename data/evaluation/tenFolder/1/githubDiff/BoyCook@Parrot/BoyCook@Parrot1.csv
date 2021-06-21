@@ -1,0 +1,9 @@
+library,version,sign,date
+dbunit,2.4.8,-,2012-09-13
+dbunit,2.4.8,+,2012-09-13
+hibernate-annotations,3.5.6-Final,+,2012-09-13
+hibernate-annotations,3.5.6-Final,-,2012-09-13
+xstream,1.4.2,+,2012-09-13
+xstream,1.4.2,-,2012-09-13
+commons-io,2.3,+,2012-09-13
+commons-io,2.3,-,2012-09-13

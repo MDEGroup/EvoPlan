@@ -1,0 +1,8 @@
+library,version,sign,date
+twitter4j-core,[3.0,),+,2013-03-14
+twitter4j-core,[3.0,),+,2013-03-05
+twitter4j-core,[3.0,),-,2013-03-05
+twitter4j-core,[3.0,),-,2013-03-15
+twitter4j-core,3.0.4-SNAPSHOT,+,2013-03-15
+mail,1.4,-,2013-03-05
+mail,1.4,+,2013-03-05

@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.1,-,2010-08-03
+junit,4.1,+,2010-08-03
+junit,4.5,-,2010-08-03
+junit,3.8.1,-,2010-08-03
+junit,3.8.1,+,2010-08-03
+jmock-junit4,2.5.1,-,2010-08-03
+xwiki-core-shared-tests,2.5-SNAPSHOT,-,2010-08-03
+xwiki-core-shared-tests,2.4-SNAPSHOT,-,2010-08-03
+jmock-cglib,1.2.0,-,2010-08-03
+jmock-legacy,2.5.1,-,2010-08-03
+jmock,1.2.0,-,2010-08-03
+xwiki-core,1.5.2,-,2010-08-03
+xwiki-core,2.4-SNAPSHOT,-,2010-08-03
+xwiki-core,[2.0,),-,2010-08-03

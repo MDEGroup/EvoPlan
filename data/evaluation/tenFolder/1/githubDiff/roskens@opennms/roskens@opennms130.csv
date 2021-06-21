@@ -1,0 +1,4 @@
+library,version,sign,date
+activemq-web,4.1.1,-,2012-09-14
+activemq-web,5.6.0,-,2012-09-14
+org.apache.servicemix.bundles.jdom,1.1_4,+,2015-01-28

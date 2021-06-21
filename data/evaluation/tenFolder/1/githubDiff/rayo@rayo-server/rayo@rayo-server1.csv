@@ -1,0 +1,6 @@
+library,version,sign,date
+sipservlet-api,1.1-SNAPSHOT,-,2012-01-04
+sipservlet-api,1.1-SNAPSHOT,-,2012-01-18
+sipservlet-api,1.1-SNAPSHOT,+,2012-01-04
+module-proxy,1.0-SNAPSHOT,+,2012-01-04
+module-proxy,1.0-SNAPSHOT,-,2012-01-04

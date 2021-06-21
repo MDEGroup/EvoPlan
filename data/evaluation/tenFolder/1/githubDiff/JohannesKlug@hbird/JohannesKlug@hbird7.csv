@@ -1,0 +1,14 @@
+library,version,sign,date
+space-system-model,0.0.1-SNAPSHOT,-,2012-08-29
+space-system-model,0.0.1-SNAPSHOT,+,2012-05-06
+space-system-model,0.0.1-SNAPSHOT,+,2012-04-04
+space-system-model,0.0.1-SNAPSHOT,-,2013-08-16
+space-system-model,0.0.1-SNAPSHOT,-,2012-08-23
+space-system-model,0.0.1-SNAPSHOT,+,2012-04-29
+space-system-model,0.0.1-SNAPSHOT,+,2012-08-29
+space-system-model,0.0.1-SNAPSHOT,+,2013-08-16
+space-system-publisher,0.0.1-SNAPSHOT,+,2012-05-06
+space-system-publisher,0.0.1-SNAPSHOT,-,2012-08-23
+space-system-publisher,0.0.1-SNAPSHOT,+,2012-08-29
+space-system-publisher,0.0.1-SNAPSHOT,-,2012-08-29
+space-system-publisher,0.0.1-SNAPSHOT,+,2012-08-23

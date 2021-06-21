@@ -1,0 +1,12 @@
+library,version,sign,date
+sakairsf,0.7.2RC1-sakai_2.2.x,-,2007-09-15
+SakaiRSFComponents-evolvers,0.7.2RC1-sakai_2.2.x,-,2007-09-15
+joda-time,2.3,+,2014-02-18
+joda-time,1.6.2,-,2013-11-15
+joda-time,1.6.2,+,2010-09-23
+joda-time,2.3,-,2014-05-08
+SakaiRSFComponents-templates,0.7.2RC1-sakai_2.2.x,-,2007-09-15
+commons-logging,1.0.4,-,2007-09-18
+commons-logging,1.0.4,-,2009-11-22
+commons-lang,2.1,-,2009-11-22
+commons-lang,2.1,-,2007-09-18

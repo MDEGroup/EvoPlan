@@ -1,0 +1,7 @@
+library,version,sign,date
+slf4j-jdk14,1.6.1,-,2012-05-11
+slf4j-jdk14,1.6.1,-,2012-05-15
+slf4j-jdk14,1.6.1,+,2012-05-11
+slf4j-jdk14,1.6.1,-,2012-05-17
+fediz-core,0.6-SNAPSHOT,+,2012-05-11
+fediz-core,0.6-SNAPSHOT,-,2012-05-11

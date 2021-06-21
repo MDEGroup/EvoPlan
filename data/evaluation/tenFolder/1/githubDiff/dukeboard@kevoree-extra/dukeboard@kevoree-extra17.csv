@@ -1,0 +1,8 @@
+library,version,sign,date
+jackson-module-scala,2.0.0,+,2012-05-10
+scala-library,2.9.2,-,2012-05-10
+scala-library,2.9.0-1,+,2011-09-18
+scala-library,2.9.0-1,-,2011-08-17
+scala-library,2.9.1,+,2011-09-18
+scala-library,2.9.2,+,2011-09-18
+scala-library,2.9.0-1,+,2011-07-18

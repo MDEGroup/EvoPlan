@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.10,+,2016-11-16
+junit,4.10,-,2012-08-08
+jboss-common-beans,2.0.0.Final,+,2016-12-20
+javassist,3.9.0.GA,+,2013-07-25
+javassist,3.9.0.GA,-,2016-09-12

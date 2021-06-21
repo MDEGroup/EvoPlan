@@ -1,0 +1,4 @@
+library,version,sign,date
+commons-lang,2.4,-,2010-03-01
+commons-lang,2.4,+,2009-12-12
+ehcache-core,2.1.0,+,2010-09-17

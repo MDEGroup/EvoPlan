@@ -1,0 +1,9 @@
+library,version,sign,date
+spring-beans,4.0.3.RELEASE,+,2016-07-15
+falcon-client,0.10-SNAPSHOT,-,2016-04-13
+falcon-client,0.10-SNAPSHOT,+,2016-01-07
+falcon-common,0.10-SNAPSHOT,-,2016-04-13
+falcon-common,0.10-SNAPSHOT,+,2016-01-07
+commons-io,2.2,-,2016-01-07
+commons-io,2.4,+,2016-07-15
+testng,6.1.1,-,2017-04-04

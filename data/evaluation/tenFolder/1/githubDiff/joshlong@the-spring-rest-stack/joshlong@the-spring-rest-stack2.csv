@@ -1,0 +1,5 @@
+library,version,sign,date
+jackson-databind,2.2.1,-,2013-08-28
+spring-plugin-core,0.8.0.RELEASE,+,2013-08-28
+spring-security-oauth2,2.0.0.RC1,+,2014-02-24
+spring-hateoas,0.9.0.RELEASE,+,2013-08-28

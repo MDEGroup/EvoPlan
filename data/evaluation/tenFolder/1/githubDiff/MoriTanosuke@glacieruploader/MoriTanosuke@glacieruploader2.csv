@@ -1,0 +1,11 @@
+library,version,sign,date
+commons-configuration,1.9,+,2016-08-17
+commons-configuration,1.9,-,2016-10-04
+commons-configuration,1.9,-,2016-08-17
+junit,4.12,+,2016-08-17
+junit,4.12,-,2016-08-17
+jopt-simple,4.3,-,2016-08-17
+jopt-simple,4.3,+,2016-08-17
+httpclient,4.5.2,-,2016-10-04
+httpclient,4.2.1,-,2016-08-28
+httpclient,4.5.2,+,2016-08-28

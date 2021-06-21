@@ -1,0 +1,13 @@
+library,version,sign,date
+webservice-utils,4.0.1-SNAPSHOT,-,2019-02-28
+webservice-utils,4.0.2-SNAPSHOT,-,2019-10-01
+webservice-utils,4.0.1,-,2019-03-07
+webservice-utils,4.0.1,-,2019-02-28
+framework-core,4.1.0,-,2019-03-07
+framework-core,4.1.1-SNAPSHOT,-,2019-03-07
+framework-core,4.1.0,-,2019-02-28
+framework-core,4.2.0-SNAPSHOT,-,2019-10-01
+framework-core,4.1.0-SNAPSHOT,-,2019-02-28
+common-utils,3.0.0,-,2019-03-07
+common-utils,3.1.0-SNAPSHOT,-,2019-10-01
+common-utils,3.0.1-SNAPSHOT,-,2019-03-07

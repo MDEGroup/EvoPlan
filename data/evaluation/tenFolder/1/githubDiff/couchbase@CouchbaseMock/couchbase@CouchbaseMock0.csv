@@ -1,0 +1,15 @@
+library,version,sign,date
+xz,1.5,+,2014-12-22
+junit,3.8.1,-,2014-12-24
+rhino,1.7R4,+,2014-12-18
+couchbase-client,1.1.7,-,2014-12-23
+couchbase-client,1.1.7,+,2013-06-25
+java-client,2.4.2,+,2017-03-06
+annotations,12.0,+,2013-08-01
+json-simple,1.1.1,+,2015-08-26
+snappy,0.4,+,2017-10-12
+gson,2.2.4,+,2012-05-17
+gson,2.2.4,-,2015-08-26
+httpclient,4.5.3,+,2017-03-06
+httpcore,4.4,+,2014-06-20
+httpcore,4.4,-,2017-03-16

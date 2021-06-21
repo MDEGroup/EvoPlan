@@ -1,0 +1,16 @@
+library,version,sign,date
+util.application,0.0.1-SNAPSHOT,+,2015-10-30
+postgresql,8.3-603.jdbc4,-,2013-05-17
+postgresql,8.3-603.jdbc4,+,2013-05-17
+merchandise.application,0.0.1-SNAPSHOT,-,2013-04-22
+merchandise.application,0.0.1-SNAPSHOT,+,2013-04-22
+merchandise.application,0.0.1-SNAPSHOT,-,2013-05-17
+bonecp,0.7.1.RELEASE,+,2013-05-17
+bonecp,0.7.1.RELEASE,-,2013-05-17
+vaadin-lazyquerycontainer,7.4.0.1,+,2015-04-22
+servlet-api,2.5,+,2013-04-01
+servlet-api,2.5,-,2013-05-17
+servlet-api,2.5,+,2013-04-22
+servlet-api,3.0.1,+,2013-05-17
+servlet-api,2.4,+,2013-12-09
+servlet-api,2.5,-,2013-04-22

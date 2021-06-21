@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.11,+,2016-04-20
+junit,4.11,-,2016-04-20
+resteasy-jaxb-provider,2.3.10.Final,+,2016-04-20
+resteasy-jaxb-provider,2.3.10.Final,-,2016-04-20
+errai-common,3.2.3.Final,+,2016-04-20
+errai-common,3.2.3.Final,-,2016-04-20
+resteasy-jaxrs,2.3.10.Final,-,2016-04-20

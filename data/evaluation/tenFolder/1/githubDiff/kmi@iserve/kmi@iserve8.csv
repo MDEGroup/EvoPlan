@@ -1,0 +1,13 @@
+library,version,sign,date
+cors-filter,1.3.2,+,2014-10-24
+cors-filter,1.3.2,-,2014-11-28
+cors-filter,1.3.2,+,2014-11-28
+cors-filter,1.3.2,-,2014-10-24
+cors-filter,1.3.2,+,2014-09-17
+cors-filter,1.3.2,+,2014-09-18
+swagger-jersey2-jaxrs_2.10,1.3.8,+,2014-10-24
+swagger-jersey2-jaxrs_2.10,1.3.8,-,2014-11-28
+swagger-jersey2-jaxrs_2.10,1.3.8,-,2014-10-24
+swagger-jersey2-jaxrs_2.10,1.3.8,+,2014-11-28
+guice-bridge,2.1.93,+,2014-11-28
+guice-bridge,2.1.93,-,2014-11-28

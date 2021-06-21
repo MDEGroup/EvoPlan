@@ -1,0 +1,6 @@
+library,version,sign,date
+ant-assembly-maven-plugin,2.0-SNAPSHOT,+,2013-12-06
+ant-assembly-maven-plugin,2.0-SNAPSHOT,-,2014-02-14
+ant-assembly-maven-plugin,2.0-SNAPSHOT,+,2014-01-27
+ant-assembly-maven-plugin,2.0-SNAPSHOT,-,2014-01-27
+maven-plugin-annotations,3.2,+,2013-12-06

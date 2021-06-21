@@ -1,0 +1,11 @@
+library,version,sign,date
+seam-rest,3.1.0.Beta2,-,2011-08-29
+seam-rest,3.1.0.Beta1,-,2011-08-25
+seam-rest,3.1.0-SNAPSHOT,-,2011-08-26
+seam-rest,3.1.0-SNAPSHOT,-,2011-08-25
+seam-rest,3.1.0-SNAPSHOT,-,2011-08-29
+seam-rest,3.1.0.Beta1,+,2011-03-28
+weld-se,1.1.0.Final,-,2011-03-14
+weld-se,1.1.0.Final,-,2011-08-25
+weld-se,1.1.0.Final,+,2011-03-14
+jaxrs-api,2.3-beta-1,+,2011-08-29

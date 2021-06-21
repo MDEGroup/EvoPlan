@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.5,+,2013-11-15
+junit,4.5,-,2013-11-15
+weka-dev,[3.7.10,),-,2013-11-15
+weka-dev,[3.7.10,),+,2013-11-15
+opencsv,2.3,-,2013-11-15
+opencsv,2.3,+,2013-11-15

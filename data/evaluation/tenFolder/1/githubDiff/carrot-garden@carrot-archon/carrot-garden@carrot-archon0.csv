@@ -1,0 +1,7 @@
+library,version,sign,date
+easymock,3.0,-,2011-08-25
+mockito-all,1.9.5-rc1,-,2012-11-26
+mockito-all,1.9.0,-,2012-08-17
+mockito-all,1.9.0,+,2012-08-07
+junit,4.10,-,2012-11-26
+junit,4.8.1,-,2011-08-25

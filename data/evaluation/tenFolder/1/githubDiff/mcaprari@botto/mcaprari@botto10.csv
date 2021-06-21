@@ -1,0 +1,14 @@
+library,version,sign,date
+botto-annotations,0.5.1-SNAPSHOT,-,2013-07-16
+botto-annotations,0.7.0-SNAPSHOT,-,2013-08-17
+botto-annotations,0.6.7-SNAPSHOT,-,2013-07-26
+botto-annotations,0.6.0-SNAPSHOT,-,2013-07-19
+botto-annotations,0.5.0-SNAPSHOT,-,2013-06-03
+botto-service,0.5.1-SNAPSHOT,-,2013-07-16
+botto-service,0.5.1-SNAPSHOT,+,2013-06-03
+botto-service,0.7.0-SNAPSHOT,-,2013-08-17
+botto-service,0.6.7-SNAPSHOT,-,2013-07-26
+botto-service,0.6.0-SNAPSHOT,-,2013-07-19
+botto-service,0.6.1,-,2013-07-19
+botto-service,0.6.2,-,2013-09-04
+botto-service,0.5.0-SNAPSHOT,-,2013-06-03

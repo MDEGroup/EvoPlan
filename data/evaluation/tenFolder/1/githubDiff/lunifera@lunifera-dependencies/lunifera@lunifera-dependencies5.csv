@@ -1,0 +1,7 @@
+library,version,sign,date
+vaadin-slf4j-jdk14,1.6.1,+,2013-07-25
+atmosphere-runtime,2.1.2.vaadin3,-,2014-08-28
+atmosphere-runtime,1.0.14.vaadin4,-,2014-07-06
+atmosphere-runtime,2.1.2.vaadin2,-,2014-07-28
+atmosphere-runtime,2.1.2.vaadin2,+,2013-07-25
+atmosphere-runtime,1.0.14.vaadin4,+,2013-05-24

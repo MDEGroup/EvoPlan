@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.9,+,2013-11-05
+junit,4.9,-,2013-11-05
+barge-core,0.1.0-alpha1,+,2013-11-05
+barge-core,0.1.0-alpha1,-,2013-11-05
+barge-core,0.1.0-alpha2-SNAPSHOT,-,2013-11-05
+barge-core,0.1.0-alpha1-SNAPSHOT,-,2013-10-26

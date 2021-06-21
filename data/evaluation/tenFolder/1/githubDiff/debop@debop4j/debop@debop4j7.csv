@@ -1,0 +1,4 @@
+library,version,sign,date
+lucene-core,3.6.2,+,2013-06-12
+lucene-core,3.6.2,-,2013-06-13
+lucene-core,3.6.2,-,2013-06-12

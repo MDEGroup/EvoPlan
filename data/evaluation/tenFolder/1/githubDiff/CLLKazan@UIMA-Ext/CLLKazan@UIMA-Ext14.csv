@@ -1,0 +1,7 @@
+library,version,sign,date
+slf4j-api,1.7.2,-,2014-11-06
+uimafit-core,2.1.0,+,2014-11-06
+mstparser,0.5.1,+,2014-03-17
+mstparser,0.5.1,-,2014-03-17
+trove,1.1-beta-5a,+,2014-03-17
+guava,14.0.1,-,2014-11-06

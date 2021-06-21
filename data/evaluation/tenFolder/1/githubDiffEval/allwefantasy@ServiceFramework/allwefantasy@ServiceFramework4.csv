@@ -1,0 +1,17 @@
+library,version,sign,date
+slf4j-log4j12,1.6.1,+,2018-12-22
+guice-multibindings,3.0,+,2018-12-22
+joda-time,2.3,+,2018-12-22
+slf4j-api,1.6.1,+,2018-12-22
+mysql-connector-java,5.1.6,+,2018-12-22
+jcl-over-slf4j,1.6.1,+,2018-12-22
+jline,0.9.94,+,2018-12-22
+json-lib,2.4,+,2018-12-22
+guice-assistedinject,3.0,+,2018-12-22
+guava,15.0,+,2018-12-22
+snakeyaml,1.9,+,2018-12-22
+guice,3.0,+,2018-12-22
+guice,3.0-20100927,+,2018-12-22
+log4j,1.2.17,+,2018-12-22
+javassist,3.23.1-GA,+,2018-12-22
+javassist,3.12.1.GA,-,2017-08-20

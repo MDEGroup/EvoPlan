@@ -1,0 +1,42 @@
+library,version,sign,date
+commons-math,1.2,-,2012-09-17
+commons-math,1.2,-,2014-04-19
+commons-math,1.2,-,2012-04-10
+commons-math,1.2,+,2014-04-19
+commons-math,1.2,+,2012-09-17
+commons-math,1.2,+,2012-04-07
+commons-math,1.2,-,2012-04-07
+commons-math,1.2,+,2012-04-10
+junit,4.10,-,2014-04-19
+junit,4.8.2,+,2012-04-07
+junit,4.8.2,-,2012-04-10
+junit,4.10,+,2012-09-17
+junit,4.10,+,2012-04-10
+junit,4.10,+,2014-04-19
+junit,4.8.2,-,2012-04-07
+junit,4.10,-,2012-09-17
+joda-time,2.1,+,2012-05-29
+joda-time,2.1,-,2012-09-17
+joda-time,2.1,+,2014-04-19
+joda-time,2.1,+,2012-09-17
+joda-time,2.1,-,2014-04-19
+guava,13.0,-,2014-04-19
+guava,13.0,+,2012-09-17
+guava,13.0,+,2014-04-19
+mockito-core,1.9.0-rc1 ,+,2012-04-07
+mockito-core,1.9.0,+,2012-04-10
+mockito-core,1.9.0-rc1 ,-,2012-04-10
+mockito-core,1.9.0,-,2014-04-19
+mockito-core,1.9.0,-,2012-09-17
+mockito-core, 1.9.0-rc1 ,-,2011-11-29
+mockito-core,1.9.0,+,2012-09-17
+mockito-core,1.9.0,+,2014-04-19
+mockito-core,1.9.0-rc1 ,-,2012-04-07
+commons-primitives,20041207.202534,-,2014-04-19
+commons-primitives,20041207.202534,+,2014-04-19
+commons-primitives,1.0,-,2012-04-10
+commons-primitives,20041207.202534,-,2012-09-17
+commons-primitives,1.0,+,2012-04-07
+commons-primitives,20041207.202534,+,2012-09-17
+commons-primitives,1.0,-,2012-04-07
+commons-primitives,20041207.202534,+,2012-04-10

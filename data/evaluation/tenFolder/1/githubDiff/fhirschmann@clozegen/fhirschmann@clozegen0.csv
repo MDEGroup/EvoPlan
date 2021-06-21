@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,3.8.1,-,2012-05-06
+cobertura-maven-plugin,2.4,+,2012-05-20
+cobertura-maven-plugin,2.4,-,2012-07-05
+cobertura-maven-plugin,2.5.1,+,2012-06-06
+cobertura-maven-plugin,2.5.1,+,2012-06-08
+guava,11.0.2,-,2012-06-14
+guava,11.0.2,+,2012-05-13

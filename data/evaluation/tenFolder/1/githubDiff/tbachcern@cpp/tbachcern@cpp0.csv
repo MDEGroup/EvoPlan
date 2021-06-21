@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.11,+,2013-11-09
+junit,4.11,-,2013-11-09
+jung-visualization,2.0.1,+,2013-10-14
+jung-visualization,2.0.1,+,2013-11-09
+jung-visualization,2.0.1,-,2013-11-09
+fest-assert-core,2.0M10,-,2013-11-09
+fest-assert-core,2.0M10,+,2013-11-09
+jung-graph-impl,2.0.1,+,2013-10-14
+jung-graph-impl,2.0.1,+,2013-11-09
+jung-graph-impl,2.0.1,-,2013-11-09

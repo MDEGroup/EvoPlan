@@ -1,0 +1,5 @@
+library,version,sign,date
+core,0.1.4,-,2015-03-24
+memcached,0.1.4,-,2015-03-31
+java-client,2.0.3,-,2015-02-17
+java-client,2.1.0,-,2015-02-25

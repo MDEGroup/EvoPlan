@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,3.8.1,+,2008-12-14
+junit,3.8.1,+,2009-02-15
+junit,3.8.1,-,2009-02-15
+ant,1.6.5,+,2009-02-15
+ant,1.6.5,-,2009-02-15
+commons-vfs2,2.0-SNAPSHOT,+,2009-02-15
+commons-logging,1.0.4,-,2009-02-15
+commons-logging,1.1.1,+,2009-02-15
+commons-logging,1.0.4,+,2009-02-15

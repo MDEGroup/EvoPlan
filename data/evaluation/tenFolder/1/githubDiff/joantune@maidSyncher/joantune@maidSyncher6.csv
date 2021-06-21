@@ -1,0 +1,8 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,+,2013-05-23
+fenix-framework-core-api,2.2.0,+,2013-05-30
+bennu-scheduler,2.0.0-SNAPSHOT,+,2013-05-23
+fenix-framework-core-consistency-predicates,2.2.0,+,2013-05-30
+syncher-main,1.0-SNAPSHOT,+,2013-05-24
+fenix-framework-backend-jvstm-common-runtime,2.1.0-rc2,-,2013-05-30
+fenix-framework-backend-jvstm-common-runtime,2.2.0,+,2013-05-30

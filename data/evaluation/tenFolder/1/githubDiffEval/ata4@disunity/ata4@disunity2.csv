@@ -1,0 +1,5 @@
+library,version,sign,date
+disunity-core,0.4.0-SNAPSHOT,-,2015-03-02
+disunity-core,0.4.0-SNAPSHOT,+,2015-03-02
+jcommander,1.35,+,2015-03-02
+jcommander,1.35,-,2015-03-02

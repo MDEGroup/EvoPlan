@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.13,+,2019-12-20
+junit,4.8.2,-,2012-05-15
+junit,4.11,-,2014-11-28
+junit,4.8.2,+,2012-04-30
+junit,4.8.2,+,2012-05-15
+junit,4.12,+,2014-11-28
+junit,4.11,+,2013-11-12
+junit,4.8.2,-,2012-04-30
+junit,4.12,-,2019-12-20
+junit,4.8.2,-,2013-11-12
+jackson-jaxrs-json-provider,2.7.8,+,2016-09-18
+jackson-jaxrs-json-provider,2.8.6,-,2017-07-11
+jackson-jaxrs-json-provider,2.8.6,-,2017-01-19
+jackson-jaxrs-json-provider,2.7.8,-,2016-12-14
+jackson-jaxrs-json-provider,2.8.6,+,2017-01-19

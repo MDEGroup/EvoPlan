@@ -1,0 +1,7 @@
+library,version,sign,date
+json,20160212,+,2016-04-20
+commons-lang3,3.1,-,2013-04-10
+commons-lang3,3.4,+,2016-04-19
+commons-lang3,3.1,+,2013-04-10
+guava,19.0,+,2016-03-31
+pcollections,2.1.2,+,2016-04-19

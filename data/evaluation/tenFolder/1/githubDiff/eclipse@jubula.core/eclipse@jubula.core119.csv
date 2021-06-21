@@ -1,0 +1,16 @@
+library,version,sign,date
+org.eclipse.jubula.rc.rcp.site,2.3.0-SNAPSHOT,-,2013-11-12
+org.eclipse.jubula.rc.rcp.site,2.1.0-SNAPSHOT,-,2013-05-06
+org.eclipse.jubula.rc.rcp.site,2.0.0-SNAPSHOT,-,2013-04-04
+org.eclipse.jubula.rc.rcp.site,2.2.0-SNAPSHOT,-,2013-07-29
+org.eclipse.jubula.rc.rcp.site,2.0.0-SNAPSHOT,+,2012-11-02
+org.eclipse.jubula.rc.rcp.e4.site,2.3.0-SNAPSHOT,-,2013-11-12
+org.eclipse.jubula.rc.rcp.e4.site,2.1.0-SNAPSHOT,-,2013-05-06
+org.eclipse.jubula.rc.rcp.e4.site,2.0.0-SNAPSHOT,-,2013-04-04
+org.eclipse.jubula.rc.rcp.e4.site,2.2.0-SNAPSHOT,-,2013-07-29
+org.eclipse.jubula.rc.rcp.e4.site,2.0.0-SNAPSHOT,+,2012-11-02
+org.eclipse.jubula.rc.rcp.e3.site,2.3.0-SNAPSHOT,-,2013-11-12
+org.eclipse.jubula.rc.rcp.e3.site,2.1.0-SNAPSHOT,-,2013-05-06
+org.eclipse.jubula.rc.rcp.e3.site,2.0.0-SNAPSHOT,+,2013-02-11
+org.eclipse.jubula.rc.rcp.e3.site,2.0.0-SNAPSHOT,-,2013-04-04
+org.eclipse.jubula.rc.rcp.e3.site,2.2.0-SNAPSHOT,-,2013-07-29

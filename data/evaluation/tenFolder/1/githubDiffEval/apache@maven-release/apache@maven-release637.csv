@@ -1,0 +1,8 @@
+library,version,sign,date
+artifactId,1,+,2012-09-28
+artifactId,1.0,-,2012-09-28
+artifactId,1,-,2012-09-28
+artifactId,1.0-SNAPSHOT,-,2012-09-28
+artifactId,0.0.1-SNAPSHOT,+,2012-09-28
+artifactId,1.0,+,2012-09-28
+artifactId,1.0-SNAPSHOT,+,2012-09-28

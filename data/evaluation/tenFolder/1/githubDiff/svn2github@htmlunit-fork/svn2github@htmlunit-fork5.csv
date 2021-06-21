@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.8.1,-,2010-07-31
+junit,4.5,-,2009-08-18
+junit,4.10,+,2010-07-31
+junit,4.5,-,2010-05-05
+junit,4.8.1,-,2010-05-11
+junit,4.7,-,2010-05-05
+junit,4.7,-,2010-07-31
+selenium-api,2.42.2,+,2010-07-31
+htmlunit,2.6,-,2009-09-23
+htmlunit,2.6-SNAPSHOT,-,2009-08-18
+htmlunit,2.8-SNAPSHOT,-,2010-07-31
+htmlunit,2.6-SNAPSHOT,-,2009-09-02
+htmlunit,2.7-SNAPSHOT,-,2009-09-23
+selenium-remote-driver,2.42.2,+,2010-07-31

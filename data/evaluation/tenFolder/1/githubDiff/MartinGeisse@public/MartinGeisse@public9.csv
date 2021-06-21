@@ -1,0 +1,11 @@
+library,version,sign,date
+cassandra-driver-core,2.0.2,+,2014-05-13
+common,0.1-SNAPSHOT,+,2014-05-13
+common,0.1-SNAPSHOT,-,2014-05-13
+common,0.1-SNAPSHOT,+,2014-05-12
+json,0.1-SNAPSHOT,+,2014-05-12
+json,0.1-SNAPSHOT,+,2014-05-13
+jetty,0.1-SNAPSHOT,+,2014-05-12
+jetty,0.1-SNAPSHOT,+,2014-05-13
+sql,0.1-SNAPSHOT,+,2014-05-12
+sql,0.1-SNAPSHOT,+,2014-05-13

@@ -1,0 +1,4 @@
+library,version,sign,date
+furnace-api,2.0.0.Alpha7,+,2013-07-11
+furnace-api,2.0.0.Alpha7,-,2013-07-24
+furnace-api,2.0.0-SNAPSHOT,-,2013-07-24

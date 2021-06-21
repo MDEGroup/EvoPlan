@@ -1,0 +1,11 @@
+library,version,sign,date
+acegi-security,1.0.7,-,2010-10-21
+compass,2.2.0,-,2010-10-21
+hsqldb,1.8.0.7,-,2010-10-21
+commons-logging,1.1.1,+,2010-12-30
+commons-logging,1.1,-,2010-10-21
+commons-lang,2.1,-,2010-06-16
+commons-lang,2.5,-,2010-10-21
+commons-lang,2.1,-,2010-09-02
+servlet-api,2.4,-,2010-10-21
+servlet-api,2.4,-,2010-12-30

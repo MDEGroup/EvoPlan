@@ -1,0 +1,6 @@
+library,version,sign,date
+jayconomy,1.0-SNAPSHOT,-,2011-12-14
+jayconomy,1.1-SNAPSHOT,+,2011-12-14
+basics,1.0-SNAPSHOT,-,2011-12-14
+bukkit,1.4.4-R0.1-SNAPSHOT,+,2011-12-14
+bukkit,1.0.0-R1-SNAPSHOT,-,2011-12-14

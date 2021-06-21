@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.10,-,2012-07-16
+junit,4.10,-,2014-06-15
+junit,4.10,+,2012-07-16
+javassist,3.16.1-GA,-,2013-06-17
+javassist,3.12.1.GA,-,2012-07-16
+javassist,3.12.1.GA,+,2012-07-16
+javassist,3.18.1-GA,-,2014-06-15
+javassist,3.12.1.GA,-,2012-10-04

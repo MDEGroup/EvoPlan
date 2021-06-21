@@ -1,0 +1,7 @@
+library,version,sign,date
+jaxb-api,2.1.4,+,2012-09-28
+jaxb-api,2.1.4,+,2012-05-23
+jaxb-api,2.1.4,-,2012-09-28
+portlet-api,2.0,-,2012-09-28
+portlet-api,2.0,+,2012-09-28
+portlet-api,2.0,+,2012-05-23

@@ -1,0 +1,7 @@
+library,version,sign,date
+dropwizard-core,0.6.2,-,2013-04-28
+dropwizard-core,{$dropwizard.version},+,2017-02-13
+jakarta.servlet-api,4.0.3,+,2019-12-09
+mockito-core,2.7.6,+,2018-10-02
+mockito-core,1.9.5,-,2014-07-07
+mockito-core,1.10.8,-,2014-11-09

@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.8.1,-,2011-03-02
+junit,4.8.1,+,2011-03-02
+org.osgi.core,1.4.0,+,2011-05-16
+netty,3.2.7.Final,-,2011-12-14
+netty,3.2.5.Final,-,2011-12-08
+netty,4.0.0.Alpha1-SNAPSHOT,-,2011-02-27
+netty,3.2.5.Final,-,2012-04-04
+netty,3.2.4.Final,-,2011-10-01

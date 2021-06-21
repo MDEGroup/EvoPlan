@@ -1,0 +1,6 @@
+library,version,sign,date
+maven-core,@maven.version@,+,2013-10-17
+commons-lang3,3.1,-,2013-10-17
+commons-lang3,3.1,+,2013-10-09
+commons-lang3,3.1,+,2013-10-18
+guava,15.0,+,2013-10-08

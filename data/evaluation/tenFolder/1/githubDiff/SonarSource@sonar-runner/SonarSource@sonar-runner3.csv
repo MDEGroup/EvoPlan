@@ -1,0 +1,12 @@
+library,version,sign,date
+assertj-core,3.6.2,-,2017-11-16
+assertj-core,2.1.0,-,2017-05-16
+assertj-core,2.3.0,-,2019-01-07
+assertj-core,2.2.0,-,2017-05-16
+assertj-core,3.6.2,+,2017-05-16
+jsr305,2.0.1,-,2017-05-16
+jsr305,2.0.3,-,2017-11-16
+sonar-orchestrator,3.13-build640,-,2016-10-26
+sonar-orchestrator,3.14.0.887,-,2017-11-16
+sonar-orchestrator,3.22.0.1751,-,2018-09-21
+sonar-orchestrator,3.13-build806,-,2017-03-13

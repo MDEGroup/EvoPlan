@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,3.8.1,-,2009-10-19
+junit,4.8.2,-,2011-05-25
+junit,4.8.2,+,2009-10-19
+junit,4.5,-,2009-10-19
+wagon-http-lightweight,1.0-beta-6,-,2009-10-19

@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.11,+,2013-10-18
+junit,4.11,-,2015-11-05
+junit,4.11,-,2013-09-02
+junit,4.11,+,2013-09-02
+junit,4.11,-,2013-10-18
+commons-vfs2,2.0,+,2013-09-02
+commons-vfs2,2.0,+,2013-10-18
+commons-vfs2,2.0,-,2014-11-27
+commons-vfs2,2.0,-,2013-09-02
+commons-vfs2,2.0,-,2013-10-18
+commons-io,2.4,+,2014-11-27

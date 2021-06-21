@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.8.2,+,2014-03-28
+junit,4.8.2,-,2014-03-28
+osgi-helpers,0.6.2-SNAPSHOT,-,2014-01-07
+org.apache.felix.ipojo.manipulator,1.11.2,-,2014-09-11
+org.apache.felix.ipojo.manipulator,1.11.0,-,2014-03-28

@@ -1,0 +1,4 @@
+library,version,sign,date
+org.apache.aries.util,1.1.0,+,2013-05-08
+org.apache.aries.proxy.api,1.0.0,+,2013-05-08
+org.apache.aries.blueprint.core,1.1.0,+,2013-05-08

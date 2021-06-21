@@ -1,0 +1,4 @@
+library,version,sign,date
+akka-actor,2.0.1,+,2012-05-04
+akka-actor,2.0,-,2012-05-04
+akka-zeromq,2.0,-,2012-05-04

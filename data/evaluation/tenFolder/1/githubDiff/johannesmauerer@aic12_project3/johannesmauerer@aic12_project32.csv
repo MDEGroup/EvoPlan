@@ -1,0 +1,4 @@
+library,version,sign,date
+spring-data-mongodb,1.0.3.RELEASE,+,2012-11-25
+spring-data-mongodb,1.0.3.RELEASE,-,2012-11-25
+spring-data-mongodb,1.0.3.RELEASE,+,2012-11-06

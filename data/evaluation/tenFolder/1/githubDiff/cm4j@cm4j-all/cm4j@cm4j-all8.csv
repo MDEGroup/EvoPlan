@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.10,+,2012-03-08
+junit,4.8.1,-,2012-03-08
+perf4j,0.9.16,+,2012-03-08
+perf4j,0.9.13,-,2012-03-08
+netty,3.2.7.Final,+,2012-03-08
+netty,3.2.4.Final,-,2012-03-08

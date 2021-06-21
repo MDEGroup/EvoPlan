@@ -1,0 +1,7 @@
+library,version,sign,date
+common,0.1-SNAPSHOT,+,2014-09-15
+common,0.1-SNAPSHOT,-,2014-09-15
+lwjgl_util,2.9.1,+,2014-10-14
+jorbis,0.0.17-2,+,2014-10-14
+lwjgl,2.9.1,+,2014-10-14
+slick,20121001-264,+,2014-10-14

@@ -1,0 +1,9 @@
+library,version,sign,date
+network-core,[0.3.1,2.0.0),-,2013-12-30
+network-core,[0.3.0,2.0.0),-,2013-12-30
+network-core,0.6.0-SNAPSHOT,-,2013-12-30
+mockito-all,1.9.5,-,2013-12-30
+junit,[4.8.2,5.0),-,2013-12-30
+junit,4.11,-,2013-12-30
+junit,[4.11,5.0),-,2013-12-30
+junit,4.8.2,-,2013-12-30

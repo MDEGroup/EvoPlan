@@ -1,0 +1,14 @@
+library,version,sign,date
+mysql-connector-java,5.1.6,+,2014-05-13
+slf4j-log4j12,1.6.4,-,2014-05-11
+slf4j-log4j12,1.6.1,-,2014-05-13
+slf4j-log4j12,1.6.1,+,2014-05-12
+querydsl-sql,2.9.0,+,2014-05-12
+querydsl-sql,2.9.0,-,2014-05-13
+common,0.1-SNAPSHOT,-,2014-05-13
+common,0.1-SNAPSHOT,+,2014-05-11
+common,0.1-SNAPSHOT,+,2014-05-12
+querydsl-sql-codegen,2.9.0,+,2014-05-12
+querydsl-sql-codegen,2.9.0,-,2014-05-13
+bonecp,0.8.0.RELEASE,+,2014-05-12
+bonecp,0.8.0.RELEASE,-,2014-05-13

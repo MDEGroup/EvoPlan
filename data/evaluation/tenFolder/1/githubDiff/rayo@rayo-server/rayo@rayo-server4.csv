@@ -1,0 +1,13 @@
+library,version,sign,date
+moho-remote,trunk-SNAPSHOT,-,2013-07-08
+moho-remote,0.8-SNAPSHOT,-,2012-10-15
+moho-remote,0.8-SNAPSHOT,+,2011-09-13
+btrace-agent,1.2.3,+,2013-09-26
+btrace-agent,1.2.3,-,2013-09-26
+btrace-boot,1.2.3,+,2013-09-26
+btrace-boot,1.2.3,-,2013-09-26
+moho-prism-dialect,12.4.0,+,2013-07-15
+moho-prism-dialect,1.0-SNAPSHOT,-,2012-05-03
+xmppservlet-api,2.0-SNAPSHOT,-,2011-11-01
+xmppservlet-api,2.0-SNAPSHOT,+,2011-09-13
+xmppservlet-api,2.0-SNAPSHOT,+,2011-09-02

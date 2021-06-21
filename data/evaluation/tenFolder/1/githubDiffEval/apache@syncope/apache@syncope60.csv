@@ -1,0 +1,4 @@
+library,version,sign,date
+guava,20.0,+,2017-06-19
+guava,20.0.,+,2017-05-08
+guava,20.0.,-,2017-06-19

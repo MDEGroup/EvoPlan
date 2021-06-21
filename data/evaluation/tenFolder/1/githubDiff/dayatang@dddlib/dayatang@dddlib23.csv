@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.12,+,2015-06-22
+junit,4.11,-,2015-06-22
+reflections,0.9.9,-,2015-06-22
+reflections,0.9.10,+,2015-06-22

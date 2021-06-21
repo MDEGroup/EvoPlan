@@ -1,0 +1,6 @@
+library,version,sign,date
+slf4j-api,1.7.12,-,2015-11-29
+animal-sniffer-annotations,1.14,-,2016-03-28
+jhades,1.0.4,+,2016-03-24
+guava,19.0-rc2,-,2016-01-22
+spotbugs-annotations,3.1.2,+,2017-11-15

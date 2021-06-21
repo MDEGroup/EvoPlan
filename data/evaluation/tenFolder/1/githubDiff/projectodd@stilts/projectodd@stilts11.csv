@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-codec,1.4,+,2011-08-19
+commons-lang,2.6,-,2011-10-16
+commons-lang,2.6,+,2011-07-09
+commons-lang,2.6,+,2011-07-16

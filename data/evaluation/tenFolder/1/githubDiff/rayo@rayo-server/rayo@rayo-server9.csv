@@ -1,0 +1,5 @@
+library,version,sign,date
+vlib-core,12.2.0,-,2012-01-06
+moho-api,0.8-SNAPSHOT,-,2012-01-06
+sipservlet-api,1.1-SNAPSHOT,+,2011-09-01
+sipservlet-api,1.1-SNAPSHOT,-,2012-01-06

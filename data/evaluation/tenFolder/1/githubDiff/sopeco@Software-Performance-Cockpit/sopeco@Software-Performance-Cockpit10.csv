@@ -1,0 +1,5 @@
+library,version,sign,date
+org.sopeco.core,5.0.2,-,2014-04-09
+org.sopeco.core,5.0.2-SNAPSHOT,-,2013-01-29
+org.sopeco.analysis.wrapper,5.0.2,-,2014-04-09
+org.sopeco.analysis.wrapper,5.0.2-SNAPSHOT,-,2013-01-29

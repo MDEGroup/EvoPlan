@@ -1,0 +1,6 @@
+library,version,sign,date
+jackson-core-asl,1.9.5,+,2012-04-26
+jackson-mapper-asl,1.9.5,+,2012-04-26
+org.blockout.world,0.0.1-SNAPSHOT,-,2012-04-26
+org.blockout.world,1.0.0-SNAPSHOT,-,2012-04-26
+org.blockout.common,1.0.0-SNAPSHOT,-,2012-04-26

@@ -1,0 +1,13 @@
+library,version,sign,date
+junit-quickcheck-core,0.8.1,-,2018-05-31
+junit-quickcheck-core,0.9,-,2019-05-19
+junit-quickcheck-core,0.9-SNAPSHOT,-,2018-06-01
+junit-quickcheck-core,0.8.1-SNAPSHOT,-,2018-05-24
+junit-quickcheck-core,0.8.2-SNAPSHOT,-,2018-05-31
+junit-quickcheck-core,0.8.1-SNAPSHOT,-,2018-05-31
+junit-quickcheck-generators,0.9,-,2019-05-19
+junit-quickcheck-generators,0.8.1-SNAPSHOT,-,2018-05-24
+junit-quickcheck-generators,0.8.2-SNAPSHOT,-,2018-05-31
+junit-quickcheck-generators,0.8.1,-,2018-05-31
+junit-quickcheck-generators,0.8.1-SNAPSHOT,-,2018-05-31
+junit-quickcheck-generators,0.9-SNAPSHOT,-,2018-06-01

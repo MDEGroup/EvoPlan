@@ -1,0 +1,6 @@
+library,version,sign,date
+dubbo-serialization-jdk,2.7.0,+,2019-01-16
+dubbo-serialization-jdk,2.7.0-SNAPSHOT,-,2019-01-16
+dubbo-serialization-jdk,2.7.1-SNAPSHOT,-,2019-05-06
+dubbo-serialization-jdk,2.7.0,-,2019-01-18
+hessian-lite,3.2.3,-,2018-08-07

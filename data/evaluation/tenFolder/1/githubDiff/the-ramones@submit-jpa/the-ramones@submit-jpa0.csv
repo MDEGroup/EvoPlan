@@ -1,0 +1,8 @@
+library,version,sign,date
+cglib,2.2.2,+,2013-08-06
+spring-webmvc,3.1.0.RELEASE,+,2013-08-06
+eclipselink,2.4.2,+,2013-08-06
+spring-aspects,3.1.0.RELEASE,+,2013-08-06
+c3p0,0.9.1.2,+,2013-08-06
+spring-web,3.1.0.RELEASE,+,2013-08-06
+aspectjweaver,1.6.11,+,2013-08-06

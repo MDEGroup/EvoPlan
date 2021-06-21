@@ -1,0 +1,5 @@
+library,version,sign,date
+util,0.0.1-SNAPSHOT,-,2010-11-29
+authentification,0.0.1-SNAPSHOT,-,2010-11-29
+authentification,0.0.1-SNAPSHOT,+,2010-11-29
+memo,0.0.1-SNAPSHOT,-,2010-11-29

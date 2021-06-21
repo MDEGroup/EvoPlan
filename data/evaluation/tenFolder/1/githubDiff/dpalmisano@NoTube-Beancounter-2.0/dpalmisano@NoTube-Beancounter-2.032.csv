@@ -1,0 +1,16 @@
+library,version,sign,date
+analytics,1.0-SNAPSHOT,+,2011-11-18
+grizzly-servlet-webserver,1.9.8,+,2012-02-09
+grizzly-servlet-webserver,1.9.8,+,2011-11-18
+crawler,1.0-SNAPSHOT,+,2012-03-09
+user-manager,1.0-SNAPSHOT,+,2011-11-18
+commons-httpclient,3.1,+,2011-11-18
+commons-httpclient,3.1,+,2012-02-09
+asm,3.1,+,2011-11-18
+asm,3.1,+,2012-02-09
+storage,1.0-SNAPSHOT,+,2011-11-10
+storage,1.0-SNAPSHOT,-,2012-01-06
+runner,1.0-SNAPSHOT,+,2012-03-09
+jersey-json,1.5,+,2011-12-12
+jersey-json,1.5,+,2012-02-09
+applications,1.0-SNAPSHOT,+,2011-12-06

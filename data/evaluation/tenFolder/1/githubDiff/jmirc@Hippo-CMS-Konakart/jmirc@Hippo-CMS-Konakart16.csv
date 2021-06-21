@@ -1,0 +1,15 @@
+library,version,sign,date
+jackrabbit-jcr-commons,2.2.9,+,2012-11-23
+jackrabbit-jcr-commons,2.2.9,+,2012-11-27
+jackrabbit-jcr-commons,2.2.9,-,2012-11-27
+hippo-addon-konakart-common,1.00.04-SNAPSHOT,+,2012-11-13
+hippo-addon-konakart-common,1.00.00,+,2012-07-13
+hippo-addon-konakart-common,1.00.00-SNAPSHOT,-,2012-07-05
+hippo-addon-konakart-common,1.00.03-SNAPSHOT,+,2012-11-13
+hippo-addon-konakart-common,1.00.00-SNAPSHOT,-,2012-07-13
+hippo-addon-konakart-common,1.00.00-SNAPSHOT,+,2012-07-13
+hippo-addon-konakart-common,1.00.00-SNAPSHOT,-,2012-05-25
+hippo-addon-konakart-common,1.00.02-SNAPSHOT,+,2012-11-02
+hippo-addon-konakart-common,1.00.05-SNAPSHOT,+,2012-11-27
+hippo-addon-konakart-common,1.00.01-SNAPSHOT,+,2012-07-13
+hippo-addon-konakart-common,1.00.02-SNAPSHOT,+,2012-10-19

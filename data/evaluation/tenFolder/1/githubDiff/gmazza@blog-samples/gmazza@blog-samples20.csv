@@ -1,0 +1,9 @@
+library,version,sign,date
+spring-web,3.0.6.RELEASE,-,2013-03-14
+spring-web,5.0.5.RELEASE,+,2013-03-14
+spring-web,3.0.7.RELEASE,-,2013-03-14
+spring-web,3.0.7.RELEASE,+,2012-05-11
+spring-web,3.0.6.RELEASE,+,2012-05-11
+spring-web,3.0.6.RELEASE,-,2012-05-11
+spring-context,5.0.5.RELEASE,+,2013-03-14
+spring-context,3.0.6.RELEASE,-,2012-05-11

@@ -1,0 +1,4 @@
+library,version,sign,date
+log4j-jul,@log4j.version@,+,2020-01-29
+brave-instrumentation-http-tests,@project.version@,+,2020-01-29
+log4j-core,@log4j.version@,+,2020-01-29

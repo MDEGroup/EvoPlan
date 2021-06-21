@@ -1,0 +1,9 @@
+library,version,sign,date
+easymock,3.1,-,2018-05-29
+junit,4.12,-,2018-05-29
+junit,4.12,+,2016-03-15
+logback-classic,1.0.3,-,2018-06-11
+joda-time,2.3,+,2013-08-19
+joda-time,2.3,-,2020-04-25
+commons-lang3,3.1,-,2018-05-29
+commons-lang3,3.7,-,2018-06-11

@@ -1,0 +1,4 @@
+library,version,sign,date
+commands-common,0.0.1-SNAPSHOT,-,2014-01-23
+karma-jdbc,0.0.1-SNAPSHOT,-,2014-01-23
+commands-publish,0.0.1-SNAPSHOT,-,2014-01-23

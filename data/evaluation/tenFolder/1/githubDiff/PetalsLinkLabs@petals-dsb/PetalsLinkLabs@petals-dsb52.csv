@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,3.8.1,+,2011-06-21
+junit,3.8.1,-,2011-09-01
+junit,3.8.1,-,2011-08-25
+junit,3.8.1,-,2012-05-03
+junit,3.8.1,+,2012-05-03
+junit,3.8.1,+,2011-09-01
+junit,3.8.1,+,2011-08-25
+petals-kernel,3.0-SNAPSHOT,-,2011-09-01
+dsb-xmlutils,1.0-SNAPSHOT,-,2012-05-03
+dsb-xmlutils,1.0-SNAPSHOT,+,2011-08-25
+dsb-xmlutils,1.0-SNAPSHOT,+,2011-06-21
+dsb-xmlutils,1.0-SNAPSHOT,-,2011-08-25

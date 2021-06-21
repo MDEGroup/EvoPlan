@@ -1,0 +1,11 @@
+library,version,sign,date
+play-commons-constants,1.0-SNAPSHOT,-,2013-01-18
+play-commons-constants,1.1-SNAPSHOT,-,2013-01-18
+play-platformservices-eventvalidation,1.0-SNAPSHOT,-,2013-01-28
+dsb-notification-commons,1.0-SNAPSHOT,-,2013-01-24
+dsb-notification-commons,1.0.0,-,2013-06-04
+dsb-notification-commons,1.0-SNAPSHOT,+,2013-01-18
+dsb-notification-commons,1.0.0,+,2013-06-04
+dsb-notification-httpclient,1.0-SNAPSHOT,-,2013-01-24
+dsb-notification-httpclient,1.0.0,-,2013-06-04
+dsb-notification-httpclient,1.0-SNAPSHOT,+,2013-01-18

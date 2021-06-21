@@ -1,0 +1,8 @@
+library,version,sign,date
+mysql-connector-java,5.1.18,-,2012-07-14
+hippo-addon-konakart-cms,1.00.01-SNAPSHOT,+,2012-07-14
+hippo-addon-konakart-cms,1.00.00-SNAPSHOT,+,2012-07-14
+hippo-addon-konakart-cms,1.00.00-SNAPSHOT,-,2012-07-14
+hippo-addon-konakart-repository,1.00.01-SNAPSHOT,+,2012-07-14
+hippo-addon-konakart-repository,1.00.00-SNAPSHOT,+,2012-07-14
+hippo-addon-konakart-repository,1.00.00-SNAPSHOT,-,2012-07-14

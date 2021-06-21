@@ -1,0 +1,6 @@
+library,version,sign,date
+logback-classic,1.0.0,+,2013-02-23
+logback-classic,1.0.0,-,2013-02-13
+jcommander,1.23,+,2012-02-25
+httpclient,4.1.2,-,2017-06-15
+httpclient,4.1.2,-,2016-08-06

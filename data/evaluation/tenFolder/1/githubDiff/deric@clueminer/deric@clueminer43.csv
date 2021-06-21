@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.12,+,2016-12-10
+math-api,0.1.0-SNAPSHOT,-,2016-09-08
+Rserve,1.8.1,+,2016-07-12
+math-impl,0.1.0-SNAPSHOT,-,2016-09-08
+JRIEngine,0.9-7,+,2016-09-08

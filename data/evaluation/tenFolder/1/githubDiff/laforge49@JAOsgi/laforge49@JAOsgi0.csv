@@ -1,0 +1,10 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2013-02-22
+slf4j-api,1.6.4,+,2013-02-22
+pactor,0.0.1-SNAPSHOT,+,2013-03-20
+joda-time,2.1,+,2013-03-08
+org.osgi.core,4.3.0,-,2013-04-09
+pamailbox,0.0.1-SNAPSHOT,+,2013-03-20
+org.osgi.compendium,4.3.0,+,2013-02-22
+org.osgi.compendium,4.3.0,-,2013-03-13
+pautil,0.0.1-SNAPSHOT,+,2013-03-20

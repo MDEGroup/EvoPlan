@@ -1,0 +1,6 @@
+library,version,sign,date
+json-service,0.4.0,+,2011-04-21
+cxf-dosgi-ri-discovery-distributed-zookeeper-wrapper,1.2,+,2011-04-21
+org.osgi.compendium,4.2.0,+,2011-04-21
+com.springsource.org.apache.log4j,1.2.16,+,2011-04-21
+org.apache.felix.ipojo.annotations,1.6.2,+,2011-04-21

@@ -1,0 +1,11 @@
+library,version,sign,date
+jsoup,1.7.3,+,2014-06-30
+jsoup,1.7.3,-,2014-06-30
+jsoup,1.7.3,+,2014-09-09
+jsoup,1.7.3,-,2014-09-09
+jsoup,1.7.3,-,2015-03-03
+commons-io,2.4,+,2014-06-30
+commons-io,2.4,+,2014-09-09
+commons-io,2.4,-,2014-09-09
+commons-io,2.4,-,2015-03-03
+commons-io,2.4,+,2015-03-03

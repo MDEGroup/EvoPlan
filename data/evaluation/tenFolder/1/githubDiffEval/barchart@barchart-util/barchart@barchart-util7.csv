@@ -1,0 +1,9 @@
+library,version,sign,date
+barchart-util-guice,1.0.1-SNAPSHOT,-,2015-01-07
+barchart-util-guice,1.0.0-SNAPSHOT,+,2014-07-30
+barchart-util-guice,[1.0.0-SNAPSHOT,2-SNAPSHOT),+,2014-11-19
+barchart-util-guice,[1.0.0-SNAPSHOT,2-SNAPSHOT),-,2014-11-26
+barchart-util-guice,[1-SNAPSHOT,2-SNAPSHOT),+,2014-11-14
+barchart-util-guice,1.0.0-SNAPSHOT,-,2014-11-19
+rxjava-core,[0.14.0,0.15-SNAPSHOT),-,2014-03-18
+rxjava-core,[0.14.0,0.15-SNAPSHOT),+,2013-08-21

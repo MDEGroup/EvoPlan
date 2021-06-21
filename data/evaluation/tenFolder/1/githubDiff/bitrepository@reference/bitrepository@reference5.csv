@@ -1,0 +1,17 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,-,2015-09-01
+javax.servlet-api,3.0.1,+,2014-09-02
+javax.servlet-api,3.0.1,+,2015-01-20
+javax.servlet-api,3.0.1,+,2015-01-21
+junit,4.10,-,2012-11-05
+junit,4.8.2,-,2012-08-13
+jersey-server,2.15,+,2015-01-20
+jersey-server,2.15,+,2014-09-02
+jersey-server,1.8,-,2012-08-13
+jersey-container-servlet,2.15,+,2015-01-20
+jersey-container-servlet,2.15,+,2014-09-02
+jersey-media-json-jackson,2.15,+,2015-01-20
+jersey-media-json-jackson,2.15,+,2014-09-02
+javaee-web-api,6.0,-,2014-03-06
+javax.ws.rs-api,2.0.1,+,2015-01-20
+javax.ws.rs-api,2.0.1,+,2014-09-02

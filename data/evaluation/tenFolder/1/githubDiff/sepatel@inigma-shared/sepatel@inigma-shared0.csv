@@ -1,0 +1,11 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2012-05-31
+slf4j-api,1.7.0,-,2012-11-06
+slf4j-api,1.6.4,+,2011-11-12
+easymock,3.0,-,2012-11-06
+spring-test,3.0.6.RELEASE,+,2011-09-26
+spring-test,3.0.6.RELEASE,-,2011-11-12
+junit,4.8.2,-,2011-11-12
+cglib-nodep,2.2.2,+,2012-09-24
+spring-context,3.0.5.RELEASE,-,2011-09-26
+spring-context,3.0.6.RELEASE,-,2011-11-12

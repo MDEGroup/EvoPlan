@@ -1,0 +1,17 @@
+library,version,sign,date
+slf4j-api,1.5.10,-,2012-03-01
+slf4j-api,1.5.10,+,2010-03-12
+easymock,2.4,-,2012-03-01
+easymock,2.4,+,2009-03-20
+easymock,3.1,+,2012-03-01
+easymock,2.4,-,2010-02-20
+easymock,2.4,+,2010-02-20
+threadweaver,0.1,+,2012-03-01
+threadweaver,0.1,+,2010-12-22
+threadweaver,0.1,-,2012-03-01
+logback-classic,0.9.18,-,2012-03-01
+logback-classic,0.9.18,+,2010-03-12
+testng,5.8,+,2009-01-29
+testng,5.8,-,2009-04-04
+testng,5.8,-,2012-03-01
+testng,5.8,+,2009-04-04

@@ -1,0 +1,9 @@
+library,version,sign,date
+pc,1.0-SNAPSHOT,+,2013-05-10
+pc,1.0-SNAPSHOT,+,2013-08-30
+pc,1.0-SNAPSHOT,-,2013-05-10
+commons,1.0-SNAPSHOT,+,2013-08-30
+commons,1.0-SNAPSHOT,-,2013-05-10
+commons,1.0-SNAPSHOT,+,2013-09-02
+servlet-api,2.5,+,2013-05-10
+servlet-api,2.5,-,2013-05-10

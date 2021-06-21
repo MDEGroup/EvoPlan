@@ -1,0 +1,12 @@
+library,version,sign,date
+mockito-all,1.9.5,+,2015-04-11
+mockito-all,1.9.5,+,2013-10-17
+javersion-util,0.1-SNAPSHOT,+,2015-04-22
+javersion-util,0.1-SNAPSHOT,-,2015-04-23
+junit,4.12,+,2015-04-11
+hamcrest-all,1.3,+,2015-04-11
+guava,18.0,-,2016-03-30
+guava,15.0,-,2014-10-14
+guava,19.0,-,2017-05-22
+guava,18.0,+,2015-04-11
+uuid,3.4,+,2014-09-23

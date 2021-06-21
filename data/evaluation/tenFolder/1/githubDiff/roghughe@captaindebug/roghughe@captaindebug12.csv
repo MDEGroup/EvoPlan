@@ -1,0 +1,4 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,+,2014-06-08
+mysql-connector-java,5.1.18,+,2014-06-07
+mockito-core,1.9.5,+,2014-06-07

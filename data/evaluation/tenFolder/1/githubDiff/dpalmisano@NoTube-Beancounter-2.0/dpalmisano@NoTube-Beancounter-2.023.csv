@@ -1,0 +1,6 @@
+library,version,sign,date
+regexapi,1.0-SNAPSHOT,+,2011-11-22
+client,1.0-SNAPSHOT,+,2011-11-19
+model,1.0-SNAPSHOT,+,2011-11-10
+model,1.0-SNAPSHOT,+,2011-11-22
+model,1.0-SNAPSHOT,-,2011-11-22

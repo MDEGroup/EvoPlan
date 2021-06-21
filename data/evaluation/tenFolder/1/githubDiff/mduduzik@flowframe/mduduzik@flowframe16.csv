@@ -1,0 +1,8 @@
+library,version,sign,date
+vaadin,6.8.6,+,2013-03-16
+vaadin,6.8.6,-,2013-03-16
+vaadin,6.4.0,+,2013-03-16
+jpacontainer-addon-agpl-3.0,2.0.0,+,2013-03-16
+org.flowframe.ui.vaadin.mvp.editors,0.0.1,+,2013-03-13
+org.flowframe.ui.vaadin.mvp.editors,0.0.1,-,2013-03-16
+org.flowframe.ui.vaadin.mvp.editors,0.0.1,+,2013-03-16

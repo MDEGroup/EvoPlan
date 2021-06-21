@@ -1,0 +1,5 @@
+library,version,sign,date
+hibernate-validator,4.1.0.Final,+,2012-06-26
+validation-api,1.0.0.GA,+,2012-06-26
+poi,3.7,+,2011-06-16
+jasperreports,4.0.1,+,2011-06-16

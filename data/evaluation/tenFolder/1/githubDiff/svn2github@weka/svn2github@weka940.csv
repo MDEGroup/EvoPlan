@@ -1,0 +1,12 @@
+library,version,sign,date
+pentaho-package-manager,1.0.3,+,2012-08-15
+pentaho-package-manager,1.0.3,+,2012-08-14
+pentaho-package-manager,1.0.3,-,2012-08-14
+java-cup,0.11a,-,2012-08-15
+java-cup,0.11a,-,2012-08-14
+java-cup,0.11a,+,2012-08-15
+java-cup,0.11a,+,2012-08-14
+junit,3.8.2,-,2012-08-14
+junit,3.8.2,-,2012-08-15
+junit,3.8.2,+,2012-08-14
+junit,3.8.2,+,2012-08-15

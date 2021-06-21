@@ -1,0 +1,11 @@
+library,version,sign,date
+seam-servlet,3.0.0-SNAPSHOT,-,2010-06-02
+seam-servlet-api,3.0.0.Alpha2,-,2010-12-07
+seam-servlet-api,3.0.0-SNAPSHOT,-,2010-12-07
+seam-servlet-api,3.0.0-SNAPSHOT,-,2010-12-01
+seam-servlet-api,3.0.0.Alpha1,-,2010-12-01
+seam-servlet-api,3.0.0-SNAPSHOT,+,2010-06-02
+seam-servlet-reference-guide,3.0.0.Alpha2,-,2010-12-07
+seam-servlet-reference-guide,3.0.0-SNAPSHOT,-,2010-12-07
+seam-servlet-reference-guide,3.0.0-SNAPSHOT,-,2010-12-01
+seam-servlet-reference-guide,3.0.0.Alpha1,-,2010-12-01

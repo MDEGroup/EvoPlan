@@ -1,0 +1,6 @@
+library,version,sign,date
+maven-plugin-api,2.0,+,2015-01-20
+junit,4.11,+,2017-05-11
+freemarker,2.3.19,+,2015-03-03
+maven-plugin-annotations,3.4,+,2015-01-20
+org.apache.commons.io,2.4,+,2015-05-19

@@ -1,0 +1,12 @@
+library,version,sign,date
+geronimo-jpa_2.0_spec,1.0,+,2013-01-12
+geronimo-jpa_2.0_spec,1.0,-,2013-01-12
+junit,4.8.2,+,2013-01-12
+junit,3.8.1,+,2013-01-12
+junit,4.8.2,-,2013-01-12
+hibernate-validator,4.0.2.GA,+,2013-01-12
+hibernate-validator,4.0.2.GA,-,2013-01-12
+geronimo-ejb_3.1_spec,1.0,+,2013-01-12
+geronimo-ejb_3.1_spec,1.0,-,2013-01-12
+validation-api,1.0.0.GA,+,2013-01-12
+validation-api,1.0.0.GA,-,2013-01-12

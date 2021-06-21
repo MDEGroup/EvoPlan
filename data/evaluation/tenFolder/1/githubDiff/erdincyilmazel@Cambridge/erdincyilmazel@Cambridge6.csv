@@ -1,0 +1,12 @@
+library,version,sign,date
+cambridge-ognl,0.2,-,2011-02-02
+cambridge-ognl,0.2,+,2011-01-31
+cambridge-ognl,0.2.rc,-,2011-02-18
+cambridge-ognl,1.0,-,2011-08-10
+cambridge-mvel,0.2,-,2011-02-02
+cambridge-mvel,0.2,+,2011-01-31
+cambridge-mvel,0.2.rc,-,2011-02-18
+cambridge-mvel,1.0,-,2011-08-10
+cambridge-core,0.2.rc,+,2011-02-02
+cambridge-core,0.2.rc,-,2011-02-18
+cambridge-core,1.0,-,2011-08-10

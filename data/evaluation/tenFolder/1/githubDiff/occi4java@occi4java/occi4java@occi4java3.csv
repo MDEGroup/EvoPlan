@@ -1,0 +1,5 @@
+library,version,sign,date
+occi4java.infrastructure,0.2,-,2012-04-16
+occi4java.core,0.2,-,2012-04-16
+occi4java.http,0.2.1,-,2012-04-16
+occi4java.http,0.2.1,+,2011-05-29

@@ -1,0 +1,7 @@
+library,version,sign,date
+nettosphere,2.0.0.RC4,+,2013-06-19
+async-http-client,1.7.17,+,2013-06-19
+jackson-jaxrs,1.9.12,+,2013-06-19
+topology-common,0.1.0-SNAPSHOT,+,2013-06-19
+topology-client,0.1.0-SNAPSHOT,+,2013-07-09
+netty,3.6.3.Final,+,2013-06-19

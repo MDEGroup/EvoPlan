@@ -1,0 +1,12 @@
+library,version,sign,date
+org.wso2.carbon.databridge.commons,4.0.7,+,2013-08-02
+org.wso2.carbon.cep.stub,4.0.5,+,2013-07-04
+org.wso2.carbon.cep.stub,4.0.1,+,2013-08-08
+org.wso2.carbon.cep.stub,4.0.2,+,2013-08-08
+org.wso2.carbon.cep.stub,4.0.5,+,2013-08-08
+ant,1.6.5,+,2013-07-04
+org.wso2.carbon.automation.api,4.0.2,+,2013-07-04
+org.wso2.carbon.cep.wihidum.loadbalancer,1.0.0,+,2013-08-08
+org.wso2.carbon.cep.wihidum.loadbalancer,1.0.0,+,2013-08-02
+org.wso2.carbon.brokermanager.core,4.0.2,+,2013-07-04
+org.wso2.carbon.utils,4.0.6,+,2013-08-02

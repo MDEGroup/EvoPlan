@@ -1,0 +1,10 @@
+library,version,sign,date
+glassfish-embedded-static-shell,4.0,+,2013-10-18
+org.eclipse.persistence.jpa.modelgen.processor,2.5.0-SNAPSHOT,+,2013-09-24
+junit,4.10,+,2013-09-25
+eclipselink,2.5.0-SNAPSHOT,+,2013-09-24
+primefaces,4.0.RC1,-,2013-10-03
+primefaces,4.0.RC1,+,2013-09-24
+jaxb-impl,2.2.7,+,2013-10-17
+jaxb-api,2.2.11,+,2013-10-17
+docx4j,2.8.1,+,2013-10-17

@@ -1,0 +1,11 @@
+library,version,sign,date
+jsr305,2.0.1,+,2019-04-09
+jsr305,2.0.1,-,2019-04-09
+gson,2.8.0,-,2019-04-09
+gplazma2,5.1.0-SNAPSHOT,-,2018-12-19
+gplazma2,4.3.0-SNAPSHOT,-,2018-06-01
+gplazma2,5.0.0-SNAPSHOT,-,2018-07-02
+gplazma2,5.2.0-SNAPSHOT,-,2019-06-14
+gplazma2,6.0.0-SNAPSHOT,-,2019-06-17
+gplazma2,6.1.0-SNAPSHOT,-,2019-09-30
+gplazma2,4.2.0-SNAPSHOT,-,2018-06-01

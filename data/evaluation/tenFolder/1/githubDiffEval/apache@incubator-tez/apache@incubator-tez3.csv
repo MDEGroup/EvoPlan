@@ -1,0 +1,8 @@
+library,version,sign,date
+hadoop-yarn-api,3.0.0-SNAPSHOT,-,2013-04-19
+hadoop-yarn-server-tests,3.0.0-SNAPSHOT,-,2013-04-19
+hadoop-common,3.0.0-SNAPSHOT,-,2013-04-19
+tez-mapreduce,0.3.0-SNAPSHOT,+,2013-10-03
+tez-mapreduce,0.3.0-SNAPSHOT,-,2014-01-11
+tez-api,0.3.0-SNAPSHOT,+,2013-10-03
+tez-api,0.3.0-SNAPSHOT,-,2014-01-11

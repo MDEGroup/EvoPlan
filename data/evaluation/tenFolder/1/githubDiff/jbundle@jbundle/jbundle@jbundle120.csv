@@ -1,0 +1,15 @@
+library,version,sign,date
+jbundle-config-dep-main,1.0.1-SNAPSHOT,-,2013-01-31
+jbundle-config-dep-main,1.0.1-SNAPSHOT,+,2012-07-19
+jbundle-config-dep-main,1.0.10-SNAPSHOT,-,2020-01-23
+jbundle-config-dep-main,0.8.0-SNAPSHOT,-,2012-07-19
+jbundle-config-dep-main,1.0.10,-,2020-01-23
+org.jbundle.model.app.program,1.0.1-SNAPSHOT,+,2012-07-19
+org.jbundle.model.app.program,1.0.10-SNAPSHOT,-,2020-01-23
+org.jbundle.model.app.program,1.0.10,-,2020-01-23
+org.jbundle.model.app.program,1.0.1-SNAPSHOT,-,2013-01-31
+org.jbundle.model.app.program,0.8.0-SNAPSHOT,-,2012-07-19
+org.jbundle.res.app.program,0.8.0-SNAPSHOT,-,2012-07-19
+org.jbundle.res.app.program,1.0.10-SNAPSHOT,-,2020-01-23
+org.jbundle.res.app.program,1.0.1-SNAPSHOT,-,2013-01-31
+org.jbundle.res.app.program,1.0.10,-,2020-01-23

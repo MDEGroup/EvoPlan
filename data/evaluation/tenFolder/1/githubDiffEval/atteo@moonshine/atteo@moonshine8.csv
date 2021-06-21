@@ -1,0 +1,13 @@
+library,version,sign,date
+spring-data-jpa,1.4.1.RELEASE,-,2014-10-12
+hibernate-jpa-2.0-api,1.0.1.Final,+,2014-10-12
+hibernate-jpa-2.0-api,1.0.1.Final,-,2014-06-23
+hibernate-jpa-2.0-api,1.0.1.Final,+,2014-06-11
+hibernate-jpa-2.0-api,1.0.1.Final,-,2014-10-28
+assertj-core,1.4.0,+,2014-06-11
+assertj-core,1.4.0,-,2014-06-11
+classindex,3.1,+,2014-10-28
+classindex,3.1,+,2014-06-23
+classindex,3-SNAPSHOT,-,2014-06-11
+classindex,3.1,-,2014-10-12
+btm,3.0.0-SNAPSHOT,+,2014-11-06

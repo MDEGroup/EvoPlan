@@ -1,0 +1,13 @@
+library,version,sign,date
+org.sopeco.plugin.std.exploration,5.0.2,-,2014-04-09
+org.sopeco.plugin.std.exploration,5.0.2-SNAPSHOT,-,2013-01-29
+org.sopeco.plugin.std.constantassignment,5.0.2,-,2014-04-09
+org.sopeco.plugin.std.constantassignment,5.0.2-SNAPSHOT,-,2013-01-29
+org.sopeco.plugin.std.parametervariation,5.0.2,-,2014-04-09
+org.sopeco.plugin.std.parametervariation,5.0.2-SNAPSHOT,-,2013-01-29
+org.sopeco.plugin.std.processing,5.0.2,-,2014-04-09
+org.sopeco.plugin.std.processing,5.0.2-SNAPSHOT,-,2013-01-29
+org.sopeco.core,5.0.2,-,2014-04-09
+org.sopeco.core,5.0.2-SNAPSHOT,-,2013-01-29
+org.sopeco.plugin.std.analysis,5.0.2,-,2014-04-09
+org.sopeco.plugin.std.analysis,5.0.2-SNAPSHOT,-,2013-01-29

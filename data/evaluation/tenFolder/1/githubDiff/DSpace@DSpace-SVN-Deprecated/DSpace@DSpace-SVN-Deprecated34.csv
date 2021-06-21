@@ -1,0 +1,13 @@
+library,version,sign,date
+dspace-sword-client-api,1.8.0-SNAPSHOT,-,2011-08-26
+dspace-sword-client-api,1.8.0-rc4-SNAPSHOT,-,2011-10-21
+dspace-sword-client-api,1.8.0-rc2,-,2011-10-19
+dspace-sword-client-api,1.8.0-rc2-SNAPSHOT,-,2011-09-11
+dspace-sword-client-api,1.8.0-SNAPSHOT,+,2011-08-26
+dspace-sword-client-api,1.8.0-rc1,-,2011-09-11
+dspace-sword-client-api,1.8.0-rc3-SNAPSHOT,-,2011-10-19
+dspace-sword-client-api,1.8.0-rc1,+,2011-08-26
+dspace-sword-client-api,1.8.0-rc3,-,2011-10-21
+dspace-sword-client-api,1.8.0,-,2011-11-04
+dspace-xmlui-api,1.8.0-SNAPSHOT,-,2011-08-26
+servlet-api,2.3,+,2011-08-26

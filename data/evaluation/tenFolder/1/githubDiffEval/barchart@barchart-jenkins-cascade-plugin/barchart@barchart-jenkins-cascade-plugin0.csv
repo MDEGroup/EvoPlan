@@ -1,0 +1,11 @@
+library,version,sign,date
+git,1.3.0,-,2013-04-02
+git,1.3.0,+,2013-03-12
+subversion,1.45,+,2013-03-04
+token-macro,1.6,+,2013-03-05
+git-client,1.0.4,-,2013-03-21
+git-client,1.0.4,-,2013-04-02
+git-client,1.0.4,+,2013-03-12
+git-client,1.0.4,+,2013-03-21
+depgraph-view,0.11,+,2013-03-21
+cloning,1.9.0,+,2013-03-03

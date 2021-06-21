@@ -1,0 +1,6 @@
+library,version,sign,date
+slf4j-api,1.7.6,+,2012-05-05
+jcl-over-slf4j,1.5.8,-,2012-05-05
+mvel2,2.0.11,-,2014-04-29
+slf4j-jdk14,1.5.8,-,2012-05-05
+slf4j-jdk14,1.7.6,-,2014-04-29

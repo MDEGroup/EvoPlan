@@ -1,0 +1,3 @@
+library,version,sign,date
+restcomm-connect.dao,8.0.0-SNAPSHOT,+,2016-09-29
+restcomm-connect.dao,8.0.0-SNAPSHOT,-,2016-10-05

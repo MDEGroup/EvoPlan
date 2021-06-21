@@ -1,0 +1,8 @@
+library,version,sign,date
+VaultAPI,1.7,+,2016-03-16
+spigot,1.8.8-R0.1-SNAPSHOT,+,2015-01-13
+spigot,1.12.2-R0.1-SNAPSHOT,+,2016-03-16
+spigot,1.9-R0.1-SNAPSHOT,-,2016-03-16
+spigot,1.9-R0.1-SNAPSHOT,+,2015-12-21
+ProtocolLib,3.1.0,+,2014-01-09
+ProtocolLib,3.1.0,-,2016-03-16

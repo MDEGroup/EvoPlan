@@ -1,0 +1,14 @@
+library,version,sign,date
+agent,0.8-SNAPSHOT,+,2012-03-18
+agent,0.5-SNAPSHOT,-,2012-01-31
+agent,0.7-SNAPSHOT,-,2012-02-20
+agent,0.6-SNAPSHOT,-,2012-02-06
+jade-unit,0.5-SNAPSHOT,-,2012-01-31
+jade-unit,0.7-SNAPSHOT,-,2012-02-20
+jade-unit,0.6-SNAPSHOT,-,2012-02-06
+client,0.5-SNAPSHOT,-,2012-01-31
+client,0.7-SNAPSHOT,-,2012-02-20
+client,0.6-SNAPSHOT,-,2012-02-06
+ontology,0.5-SNAPSHOT,-,2012-01-31
+ontology,0.7-SNAPSHOT,-,2012-02-20
+ontology,0.6-SNAPSHOT,-,2012-02-06

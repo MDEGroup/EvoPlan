@@ -1,0 +1,8 @@
+library,version,sign,date
+bentobox,1.11.1,+,2020-03-09
+spigot-api,1.15.2-R0.1-SNAPSHOT,-,2020-03-02
+spigot-api,1.13-R0.1-SNAPSHOT,-,2020-02-23
+LWCX,2.2.5,+,2020-03-27
+bstats-bukkit,1.7,+,2020-02-23
+blocklocker,0.1,+,2020-03-29
+CMI,8.5.1.2,+,2020-02-24

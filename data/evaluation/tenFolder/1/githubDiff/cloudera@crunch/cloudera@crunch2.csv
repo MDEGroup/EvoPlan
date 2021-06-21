@@ -1,0 +1,13 @@
+library,version,sign,date
+hadoop-client,0.20.2-cdh3u4,+,2012-03-02
+hadoop-client,0.20.2-cdh3u4,-,2012-07-08
+crunch,0.1.0,-,2011-11-12
+crunch,0.1.0,+,2011-10-10
+crunch,0.3.0,-,2012-07-08
+crunch,0.2.0,-,2012-03-02
+crunch,0.3.0-SNAPSHOT,-,2012-07-11
+guava,11.0.2,+,2012-07-08
+guava,r09,-,2012-07-07
+guava,r09,-,2012-03-02
+guava,11.0.2,+,2012-07-11
+guava,11.0.2,-,2012-07-11

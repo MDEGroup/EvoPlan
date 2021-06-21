@@ -1,0 +1,8 @@
+library,version,sign,date
+org.osgi.core,4.2.0,+,2010-10-04
+org.osgi.core,4.2.0,+,2011-10-03
+org.osgi.core,4.2.0,-,2010-10-29
+commons-logging,1.1.1,+,2011-01-06
+commons-logging,1.1.1,-,2011-01-06
+commons-logging,1.1.1,+,2010-06-29
+commons-logging,1.1.1,+,2010-10-29

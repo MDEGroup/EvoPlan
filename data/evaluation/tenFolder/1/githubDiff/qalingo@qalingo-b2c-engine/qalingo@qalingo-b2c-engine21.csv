@@ -1,0 +1,16 @@
+library,version,sign,date
+velocity-tools,2.0,+,2014-02-23
+maxmind-db,0.3.1,+,2014-01-07
+maxmind-db,0.3.1,-,2015-02-04
+commons-lang3,3.3.2,+,2014-05-29
+poi,3.11,+,2015-11-25
+rich-snippets-mapping,0.1,-,2014-05-29
+rich-snippets-mapping,0.2-SNAPSHOT,-,2016-06-24
+rich-snippets-mapping,0.1-SNAPSHOT,-,2014-04-25
+jasperreports,5.5.0,+,2013-11-21
+commons-io,2.0.1,-,2014-05-07
+geoip2,0.7.0,+,2014-01-07
+geoip2,0.7.0,-,2015-02-04
+libphonenumber,7.4.3,+,2016-06-10
+tomcat-servlet-api,7.0.22,+,2013-11-15
+tomcat-servlet-api,7.0.22,-,2014-04-04

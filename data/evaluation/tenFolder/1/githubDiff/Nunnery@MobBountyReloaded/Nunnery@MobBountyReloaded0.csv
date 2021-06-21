@@ -1,0 +1,11 @@
+library,version,sign,date
+bukkit,1.7.5-R0.1-SNAPSHOT,-,2014-06-25
+bukkit,1.7.2-R0.1-SNAPSHOT,-,2014-03-08
+bukkit,1.7.10-R0.1-SNAPSHOT,-,2014-10-14
+Cannonball,1.0.2-SNAPSHOT,+,2014-10-13
+Cannonball,1.0.2-SNAPSHOT,-,2014-04-24
+ivory-config,1.0-SNAPSHOT,+,2014-10-13
+VaultAPI,1.4,+,2014-06-25
+VaultAPI,1.4,-,2014-10-14
+guardian,1.0.0-SNAPSHOT,+,2014-05-07
+HoloAPI,2.0.0-SNAPSHOT,+,2014-10-13

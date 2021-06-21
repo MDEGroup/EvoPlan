@@ -1,0 +1,4 @@
+library,version,sign,date
+d2stools,0.0.1-SNAPSHOT,+,2013-03-06
+liblinear,1.92,-,2013-10-28
+liblinear,1.92,+,2013-03-08

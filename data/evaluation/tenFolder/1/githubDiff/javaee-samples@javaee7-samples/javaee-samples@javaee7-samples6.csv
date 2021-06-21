@@ -1,0 +1,5 @@
+library,version,sign,date
+jaxws-rt,2.3.2,+,2018-12-18
+test-utils,1.0-SNAPSHOT,+,2018-02-23
+test-utils,1.0-SNAPSHOT,+,2015-02-13
+jaxws-api,2.3.1,+,2018-12-18

@@ -1,0 +1,3 @@
+library,version,sign,date
+jackson-datatype-jsr310,2.8.1,-,2018-03-11
+jackson-datatype-joda,2.8.1,-,2018-03-11

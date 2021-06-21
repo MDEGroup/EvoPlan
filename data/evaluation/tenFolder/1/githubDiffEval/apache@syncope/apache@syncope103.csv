@@ -1,0 +1,10 @@
+library,version,sign,date
+commons-text,1.6,-,2019-05-30
+commons-text,1.8,+,2019-05-30
+bootbox,4.4.0,-,2019-11-20
+bootbox,5.4.0,+,2019-11-20
+pdfbox,2.0.17,-,2019-11-20
+pdfbox,2.0.14,-,2019-05-30
+pdfbox,2.0.16,-,2019-09-16
+font-awesome,5.13.0,+,2020-03-31
+font-awesome,4.7.0,-,2020-03-31

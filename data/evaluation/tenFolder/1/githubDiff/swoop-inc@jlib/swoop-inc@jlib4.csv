@@ -1,0 +1,11 @@
+library,version,sign,date
+slf4j-api,1.7.4,+,2013-07-22
+junit,4.10,+,2013-12-27
+elasticache-java-cluster-client,1.0.61.0,+,2014-05-28
+json-simple,1.1.1,+,2013-11-20
+commons-lang3,3.1,+,2013-11-20
+commons-io,2.4,+,2013-11-20
+guava,14.0,-,2014-05-28
+guava,14.0,+,2013-12-27
+httpclient,4.3.1,-,2013-12-27
+httpclient,4.3.1,+,2013-11-20

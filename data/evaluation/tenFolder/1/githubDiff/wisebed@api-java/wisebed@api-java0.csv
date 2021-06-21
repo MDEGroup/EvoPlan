@@ -1,0 +1,6 @@
+library,version,sign,date
+jaxb2-basics-runtime,0.6.4,-,2014-10-14
+jaxb2-basics-runtime,0.6.4,+,2012-08-13
+junit,4.10,+,2012-08-21
+joda-time,2.0,-,2014-10-14
+joda-time,2.0,+,2012-08-15

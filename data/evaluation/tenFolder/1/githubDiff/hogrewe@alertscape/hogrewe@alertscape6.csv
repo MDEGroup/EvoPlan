@@ -1,0 +1,6 @@
+library,version,sign,date
+activemq-core,5.2.0,+,2009-01-05
+activemq-core,5.2.0,-,2009-01-05
+activemq-core,5.2.0,+,2009-04-02
+activemq-core,5.2.0,+,2008-08-23
+activemq-core,5.2.0,-,2009-04-02

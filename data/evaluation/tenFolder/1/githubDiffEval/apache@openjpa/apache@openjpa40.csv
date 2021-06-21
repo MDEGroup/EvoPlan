@@ -1,0 +1,14 @@
+library,version,sign,date
+openjpa-jdbc,@pom.version@,+,2015-06-06
+openjpa-jdbc,@pom.version@,+,2011-02-25
+openjpa-jdbc,@pom.version@,+,2015-04-19
+geronimo-jpa_2.2_spec,1.0,-,2019-04-10
+geronimo-jpa_2.2_spec,1.0,+,2018-10-31
+geronimo-jpa_2.2_spec,1.0,+,2020-02-14
+geronimo-jpa_2.2_spec,1.0,-,2020-02-29
+openjpa-persistence,@pom.version@,+,2015-06-06
+openjpa-persistence,@pom.version@,+,2011-02-25
+openjpa-persistence,@pom.version@,+,2015-04-19
+openjpa-kernel,@pom.version@,+,2015-06-06
+openjpa-kernel,@pom.version@,+,2011-02-25
+openjpa-kernel,@pom.version@,+,2015-04-19

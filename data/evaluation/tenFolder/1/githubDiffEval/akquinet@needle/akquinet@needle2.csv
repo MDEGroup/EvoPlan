@@ -1,0 +1,13 @@
+library,version,sign,date
+easymock,3.1,-,2012-02-19
+easymock,3.2,+,2012-02-19
+junit,4.11,+,2012-02-19
+junit,4.10,-,2012-02-19
+slf4j-simple,1.6.1,-,2012-02-19
+slf4j-simple,1.7.5,+,2012-02-19
+jbosscc-needle,2.1,-,2012-02-19
+jbosscc-needle,2.3-SNAPSHOT,+,2012-02-19
+jbosscc-needle,2.0.1-SNAPSHOT,-,2012-02-19
+hsqldb,2.2.8,-,2012-02-19
+hsqldb,2.2.8,+,2012-02-19
+hibernate-entitymanager,4.2.4.Final,+,2012-02-19

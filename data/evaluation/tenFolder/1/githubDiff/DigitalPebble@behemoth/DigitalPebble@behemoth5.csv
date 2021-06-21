@@ -1,0 +1,12 @@
+library,version,sign,date
+mahout-mr,0.12.2,+,2015-05-14
+behemoth-core,1.1-SNAPSHOT,-,2012-11-09
+behemoth-core,1.0-SNAPSHOT,+,2012-01-19
+behemoth-core,1.0-SNAPSHOT,+,2012-08-17
+behemoth-core,1.0-SNAPSHOT,-,2012-11-06
+behemoth-core,1.2-SNAPSHOT,-,2014-02-10
+behemoth-core,1.2-SNAPSHOT,+,2015-05-12
+behemoth-core,1.1,-,2014-02-10
+behemoth-core,1.0,-,2012-11-09
+behemoth-core,1.0-SNAPSHOT,-,2012-08-17
+behemoth-core,1.0-SNAPSHOT,+,2012-02-13

@@ -1,0 +1,4 @@
+library,version,sign,date
+s2c,0.3.3-SNAPSHOT,+,2014-06-22
+s2c,0.3.3-SNAPSHOT,-,2014-07-11
+interpreter,2.2.0,-,2012-11-27

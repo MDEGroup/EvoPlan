@@ -1,0 +1,13 @@
+library,version,sign,date
+hsqldb,1.8.0.7,-,2015-06-03
+hsqldb,1.8.0.7,+,2011-03-08
+hsqldb,1.8.0.7,-,2011-12-21
+hsqldb,1.8.0.7,-,2015-06-11
+hsqldb,1.8.0.7,+,2011-12-21
+hsqldb,2.2.8,+,2011-12-21
+joda-time,1.5.1,-,2016-03-02
+joda-time,2.7,+,2016-03-02
+hibernate-entitymanager,3.3.2.GA,-,2011-03-09
+hibernate-entitymanager,3.6.0.Final,+,2011-03-09
+hibernate-entitymanager,3.6.0.Final,-,2016-07-20
+hibernate-entitymanager,4.3.10.Final,+,2016-07-20

@@ -1,0 +1,11 @@
+library,version,sign,date
+citizens,2.0.9-SNAPSHOT,-,2014-04-23
+citizens,2.0.8-SNAPSHOT,-,2013-05-15
+citizens,2.0.13-SNAPSHOT,+,2014-04-23
+citizens,2.0.9-SNAPSHOT,+,2013-05-15
+denizen,0.9.2-SNAPSHOT,-,2013-10-27
+denizen,0.9.3-SNAPSHOT,+,2013-10-27
+denizen,0.9.2-SNAPSHOT,+,2013-07-10
+denizen,0.8.8-PRERELEASE,-,2013-05-15
+denizen,0.9.1-SNAPSHOT,+,2013-05-15
+denizen,0.9.1-SNAPSHOT,-,2013-07-10

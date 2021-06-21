@@ -1,0 +1,14 @@
+library,version,sign,date
+metrics-core,3.1.0,-,2015-02-23
+metrics-core,3.0.1,-,2014-06-28
+metrics-core,3.1.0,+,2015-02-20
+metrics-core,3.0.1,+,2014-06-28
+metrics-core,3.0.1,+,2014-05-04
+metrics-core,3.0.1,-,2014-08-17
+metrics-core,3.1.0,-,2015-02-20
+javax.el-api,2.2.4,+,2015-02-20
+javax.el-api,2.2.4,+,2014-09-13
+javax.el-api,2.2.4,-,2015-02-20
+javax.el,2.2.4,+,2015-02-20
+javax.el,2.2.4,+,2014-09-13
+javax.el,2.2.4,-,2015-02-20

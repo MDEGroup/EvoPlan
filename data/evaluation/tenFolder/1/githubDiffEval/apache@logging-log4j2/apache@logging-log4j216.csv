@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.12,-,2018-02-18
+junit,4.12,+,2018-02-18
+commons-io,2.6,+,2018-02-18
+commons-io,2.6,-,2018-02-18
+log4j-core,{Log4jReleaseVersion},+,2018-02-18
+commons-csv,1.6,+,2018-02-18
+commons-csv,1.5,-,2018-02-18

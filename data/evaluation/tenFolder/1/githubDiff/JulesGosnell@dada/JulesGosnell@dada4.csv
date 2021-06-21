@@ -1,0 +1,5 @@
+library,version,sign,date
+tools.nrepl,0.2.3,+,2013-05-11
+servlet-api,2.4,+,2013-04-27
+servlet-api,2.4,-,2013-04-27
+dada2-core,1.0-SNAPSHOT,+,2013-04-27

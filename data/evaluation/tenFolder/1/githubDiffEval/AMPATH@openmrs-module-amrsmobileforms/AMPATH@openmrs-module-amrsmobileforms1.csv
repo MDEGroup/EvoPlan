@@ -1,0 +1,10 @@
+library,version,sign,date
+xforms,3.9.5,+,2012-02-02
+mockito-all,1.8.5,+,2013-01-09
+powermock-module-junit4,1.4.10,+,2013-01-09
+household-api,1.0.0,+,2012-02-02
+kxml2,2.3.0,+,2012-10-03
+jzlib,1.1.1,+,2012-10-03
+jzlib,1.1.1,+,2012-02-02
+powermock-api-mockito,1.4.10,+,2013-01-09
+mockito-core,1.9.0,+,2012-10-03

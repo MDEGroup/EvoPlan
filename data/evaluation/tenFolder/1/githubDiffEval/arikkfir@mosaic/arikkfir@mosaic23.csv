@@ -1,0 +1,5 @@
+library,version,sign,date
+org.apache.felix.framework,[4,5),-,2014-03-03
+bndlib,[2.1.0,3),-,2014-03-03
+guava,[16.0,17),-,2014-03-03
+guava,[15.0,16),-,2014-02-11

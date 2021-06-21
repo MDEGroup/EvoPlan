@@ -1,0 +1,5 @@
+library,version,sign,date
+cache-api,0.2.20110727.jboss,-,2011-10-27
+junit,4.8.2,-,2011-10-27
+arquillian-junit-container,1.0.0.CR1,-,2011-08-29
+infinispan-cdi,5.0.0.FINAL,-,2011-10-27

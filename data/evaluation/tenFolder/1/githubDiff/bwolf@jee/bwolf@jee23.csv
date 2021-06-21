@@ -1,0 +1,4 @@
+library,version,sign,date
+javaee-api,6.0,+,2013-01-21
+javaee-api,7.0,+,2013-01-21
+javaee-api,6.0,-,2013-01-21

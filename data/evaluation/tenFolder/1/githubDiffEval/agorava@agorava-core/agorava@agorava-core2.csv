@@ -1,0 +1,5 @@
+library,version,sign,date
+agorava-core-api,0.5.2-SNAPSHOT,+,2012-12-08
+agorava-core-api,0.5.2-SNAPSHOT,-,2013-04-12
+javax.inject,1,+,2013-08-29
+javax.inject,1,-,2013-09-15

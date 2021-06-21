@@ -1,0 +1,4 @@
+library,version,sign,date
+avro-mapred,1.5.4,-,2014-09-18
+avro-mapred,1.7.6,-,2014-09-18
+guava,14.0.1,-,2014-09-18

@@ -1,0 +1,17 @@
+library,version,sign,date
+tomcat-catalina,8.5.47,-,2019-11-21
+tomcat-catalina,8.5.49,-,2019-12-12
+tomcat-catalina,7.0.99,-,2020-02-12
+tomcat-catalina,7.0.96,-,2019-12-12
+tomcat-catalina,8.5.46,-,2019-10-31
+tomcat-catalina,7.0.100,-,2020-03-16
+tomcat-catalina,8.5.43,-,2019-08-18
+tomcat-catalina,8.5.50,-,2020-02-12
+tomcat-catalina,8.5.53,-,2020-04-08
+tomcat-embed-core,8.5.53,-,2020-03-16
+tomcat-embed-core,8.5.47,-,2019-11-21
+tomcat-embed-core,8.5.43,-,2019-08-18
+tomcat-embed-core,8.5.51,-,2020-02-12
+tomcat-embed-core,8.5.49,-,2019-12-12
+tomcat-embed-core,8.5.46,-,2019-10-08
+tomcat-embed-core,8.5.54,-,2020-04-08

@@ -1,0 +1,5 @@
+library,version,sign,date
+coral-datatypes,1.0.0-SNAPSHOT,-,2008-03-05
+coral-api,1.0.0-SNAPSHOT,-,2008-03-05
+coral-ri,1.0.0-SNAPSHOT,-,2008-03-05
+servlet-api,2.4,+,2011-10-12

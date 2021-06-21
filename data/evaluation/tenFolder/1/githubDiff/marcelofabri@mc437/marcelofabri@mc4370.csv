@@ -1,0 +1,11 @@
+library,version,sign,date
+jstl,1.2,+,2013-10-05
+mail,1.4.7,+,2013-11-11
+spring-security-config,3.1.4.RELEASE,+,2013-10-11
+spring-security-taglibs,3.1.4.RELEASE,+,2013-10-26
+poi,3.9,+,2013-09-21
+spring-security-web,3.1.4.RELEASE,+,2013-10-11
+commons-io,1.2,+,2013-10-05
+commons-fileupload,1.2,+,2013-10-05
+spring-security-core,3.1.4.RELEASE,+,2013-10-11
+poi-ooxml,3.9,+,2013-09-21

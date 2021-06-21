@@ -1,0 +1,11 @@
+library,version,sign,date
+generic-dao,0.9.18,-,2011-03-31
+generic-dao,0.9.17,-,2010-07-29
+generic-dao,0.9.18,+,2012-12-04
+generic-dao,0.9.18,+,2011-03-31
+generic-dao,[0.9.18,0.10),-,2010-10-14
+generic-dao,0.9.18,-,2014-01-14
+generic-dao,0.9.18,-,2012-12-04
+generic-dao,0.9.18,+,2010-10-14
+generic-dao,0.9.18,-,2011-07-07
+generic-dao,0.9.18,+,2011-07-07

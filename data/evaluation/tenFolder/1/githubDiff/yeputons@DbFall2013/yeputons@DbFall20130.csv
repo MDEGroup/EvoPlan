@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.10,+,2013-10-01
+logback-classic,1.0.13,+,2013-10-13
+commons-lang3,3.1,+,2013-10-05
+snakeyaml,1.14-SNAPSHOT,+,2013-10-11

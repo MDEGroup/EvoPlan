@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,3.8.1,+,2013-09-13
+junit,4.11,-,2013-09-13
+junit,3.8.1,-,2013-09-13
+junit,4.11,+,2013-09-13
+junit,4.11,+,2013-06-10
+d2s-platform,0.0.1-SNAPSHOT,+,2013-09-13
+d2s-platform,0.0.1-SNAPSHOT,-,2013-09-13
+d2s-platform,0.0.1-SNAPSHOT,+,2013-06-10
+powerlaws,0.0.1-SNAPSHOT,+,2013-06-10
+Lilian,0.0.1-SNAPSHOT,+,2013-06-10
+args4j,2.0.16,+,2013-09-13
+args4j,2.0.16,+,2013-06-10
+args4j,2.0.16,-,2013-09-13

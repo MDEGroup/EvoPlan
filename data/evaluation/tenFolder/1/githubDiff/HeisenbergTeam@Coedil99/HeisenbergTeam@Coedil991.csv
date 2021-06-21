@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.12,+,2015-10-06
+jersey-media-moxy,2.15,+,2015-10-07
+orm,12.2,+,2015-10-06
+jersey-client,2.22.1,+,2015-10-07

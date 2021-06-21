@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.11,-,2015-07-02
+junit,4.11,+,2015-07-02
+jetty-all,9.3.0.M1,+,2015-07-02
+spring-webmvc,4.1.7.RELEASE,+,2015-07-02
+hsqldb,2.3.2,+,2015-07-02
+derby,10.11.1.1,+,2015-07-02
+spring-context,4.1.7.RELEASE,+,2015-07-02

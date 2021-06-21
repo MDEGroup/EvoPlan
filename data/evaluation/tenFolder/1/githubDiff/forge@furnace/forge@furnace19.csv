@@ -1,0 +1,10 @@
+library,version,sign,date
+wagon-file,2.4,-,2013-07-26
+wagon-file,2.4,-,2015-01-15
+wagon-file,2.8,-,2017-05-15
+wagon-file,2.4,+,2013-07-20
+assertj-core,3.5.2,+,2016-06-01
+wagon-http-lightweight,2.4,-,2013-07-26
+wagon-http-lightweight,2.4,-,2015-01-15
+wagon-http-lightweight,2.8,-,2017-05-15
+wagon-http-lightweight,2.4,+,2013-07-20

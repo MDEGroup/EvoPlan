@@ -1,0 +1,16 @@
+library,version,sign,date
+spacemodule,0.1-SNAPSHOT,+,2012-02-11
+spacemodule,0.1-SNAPSHOT,-,2012-07-09
+spacemodule,0.1-SNAPSHOT,-,2012-02-11
+truezip-driver-zip,7.5.5,-,2012-07-03
+truezip-driver-zip,7.5.5,+,2012-07-04
+truezip-driver-zip,7.5.5,+,2012-04-30
+McRKitLauncher,R10A12,+,2012-02-11
+McRKitLauncher,R10A12,-,2012-02-11
+json-simple,1.1,-,2012-02-11
+json-simple,1.1,+,2012-02-11
+truezip-file,7.5.5,-,2012-07-03
+truezip-file,7.5.5,+,2012-07-04
+truezip-file,7.5.5,+,2012-04-30
+commons-io,2.1,-,2012-02-11
+commons-io,2.1,+,2012-02-11

@@ -1,0 +1,11 @@
+library,version,sign,date
+sublima-query,1.0-SNAPSHOT,+,2014-08-29
+sublima-query,1.0-SNAPSHOT,-,2008-02-06
+sublima-query,1.0-SNAPSHOT,+,2008-02-06
+sublima-query,1.0-SNAPSHOT,-,2014-08-29
+sublima-query,1.0-SNAPSHOT,+,2008-01-30
+sublima-skin,1.0-SNAPSHOT,+,2014-08-29
+sublima-skin,1.0-SNAPSHOT,-,2008-02-06
+sublima-skin,1.0-SNAPSHOT,+,2008-02-06
+sublima-skin,1.0-SNAPSHOT,-,2014-08-29
+sublima-skin,1.0-SNAPSHOT,+,2008-01-30

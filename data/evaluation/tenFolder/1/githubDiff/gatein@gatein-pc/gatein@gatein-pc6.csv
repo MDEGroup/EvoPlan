@@ -1,0 +1,4 @@
+library,version,sign,date
+portlet-api,2.0,-,2012-09-28
+portlet-api,2.0,+,2012-09-28
+portlet-api,2.0,+,2012-05-23

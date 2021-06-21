@@ -1,0 +1,4 @@
+library,version,sign,date
+cdiConfig,1.0-SNAPSHOT,+,2014-04-22
+javax.inject,1,-,2014-04-22
+javax.inject,1,+,2014-04-22

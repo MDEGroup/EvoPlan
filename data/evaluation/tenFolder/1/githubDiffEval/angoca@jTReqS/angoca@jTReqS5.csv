@@ -1,0 +1,6 @@
+library,version,sign,date
+jtreqs-server-native,1.5-SNAPSHOT,+,2011-02-04
+jtreqs-server-native,1.5-SNAPSHOT,-,2011-02-09
+jtreqs-server-java,1.5.0,-,2011-02-04
+jtreqs-server-java,1.5-SNAPSHOT,+,2011-02-04
+jtreqs-server-java,1.5-SNAPSHOT,-,2011-02-09

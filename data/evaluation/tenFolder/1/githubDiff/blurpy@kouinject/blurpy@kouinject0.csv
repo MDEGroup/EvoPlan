@@ -1,0 +1,10 @@
+library,version,sign,date
+javax.inject-tck,1,+,2009-12-17
+mockito-all,1.8.1,-,2010-06-02
+mockito-all,1.8.0,-,2009-11-15
+junit,4.8.1,-,2010-09-12
+junit,4.7,-,2010-06-02
+commons-io,2.0.1,+,2011-02-09
+commons-lang,2.5,+,2010-06-12
+commons-lang,2.5,-,2010-12-20
+javax.inject,1,+,2009-11-15

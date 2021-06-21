@@ -1,0 +1,8 @@
+library,version,sign,date
+slf4j-api,1.7.1,+,2012-09-16
+weberknecht,0.1.2,+,2013-03-14
+weberknecht,0.1.1,+,2013-03-07
+weberknecht,0.1.1,+,2013-03-05
+logback-classic,1.0.7,+,2012-09-16
+netty-codec-http,4.0.0.Alpha3,-,2012-09-16
+commons-io,1.3.2,+,2012-09-16

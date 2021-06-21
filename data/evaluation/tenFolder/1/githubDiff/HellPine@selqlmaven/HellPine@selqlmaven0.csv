@@ -1,0 +1,4 @@
+library,version,sign,date
+jeeunit-concurrent,0.9.0,+,2013-08-28
+selenium-java,2.32.0,-,2013-08-08
+selenium-java,2.34.0,-,2013-08-16

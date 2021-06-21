@@ -1,0 +1,15 @@
+library,version,sign,date
+cache,-- version --,-,2013-08-31
+cache,-- version --,+,2012-12-30
+cache,-- version --,-,2013-03-12
+cache,-- version --,+,2013-03-12
+rhino,1.7R4,+,2013-11-29
+rhino,1.7R4,-,2015-04-20
+testing,-- version --,-,2013-08-31
+testing,-- version --,+,2012-12-30
+testing,-- version --,-,2013-03-12
+testing,-- version --,+,2013-03-12
+runtime,-- version --,-,2013-08-31
+runtime,-- version --,+,2012-12-30
+runtime,-- version --,-,2013-03-12
+runtime,-- version --,+,2013-03-12

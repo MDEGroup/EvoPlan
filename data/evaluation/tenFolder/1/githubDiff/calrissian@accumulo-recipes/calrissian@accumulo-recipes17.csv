@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.11,-,2014-06-04
+zookeeper,3.3.6,-,2014-06-04
+zookeeper,3.3.6,-,2014-11-29
+test,2.0.0-SNAPSHOT,-,2014-10-11
+test,2.0.1-SNAPSHOT,-,2014-10-11
+test,2.0.1-SNAPSHOT,-,2014-11-29
+test,2.0.0-SNAPSHOT,+,2014-10-01
+test,2.0.0,-,2014-10-11
+joda-time,2.2,-,2014-06-04
+accumulo-minicluster,1.4.4,-,2014-06-04

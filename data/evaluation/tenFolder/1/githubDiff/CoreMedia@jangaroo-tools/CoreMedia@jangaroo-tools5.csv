@@ -1,0 +1,15 @@
+library,version,sign,date
+ant,1.8.0,-,2011-07-06
+ant,1.6.5,-,2011-07-06
+ant,1.8.0,+,2011-06-22
+ant,1.6.5,-,2011-06-22
+ant,1.6.5,+,2011-06-22
+jangaroo-compiler,0.8.7,-,2011-09-30
+jangaroo-compiler,0.8.6-SNAPSHOT,-,2011-08-22
+jangaroo-compiler,0.8.5-SNAPSHOT,+,2011-06-22
+jangaroo-compiler,0.8.5-SNAPSHOT,-,2011-06-22
+jangaroo-compiler,0.8.8-SNAPSHOT,-,2011-09-30
+jangaroo-compiler,0.8.6,-,2011-08-29
+jangaroo-compiler,0.8.7-SNAPSHOT,-,2011-08-29
+jangaroo-compiler,0.8.5,-,2011-08-15
+jangaroo-compiler,0.8.5-SNAPSHOT,-,2011-07-20

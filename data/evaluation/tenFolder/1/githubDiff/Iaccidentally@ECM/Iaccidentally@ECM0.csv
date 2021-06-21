@@ -1,0 +1,4 @@
+library,version,sign,date
+com.github.iaccidentally.ecm,1.2.5-R2.0,+,2012-05-21
+lombok,0.11.0,+,2012-05-21
+lombok,0.11.0,-,2012-05-21

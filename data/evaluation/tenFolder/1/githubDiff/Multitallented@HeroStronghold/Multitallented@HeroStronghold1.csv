@@ -1,0 +1,10 @@
+library,version,sign,date
+spigot-API,1.8.6-R0.1-SNAPSHOT,+,2015-10-23
+spigot-API,1.10.2-R0.1-SNAPSHOT,-,2016-08-15
+spigot-API,1.8.6-R0.1-SNAPSHOT,-,2016-01-26
+NoCheatPlus,3.12.0-BETA2,+,2015-01-09
+bukkit,1.12.2-R0.1-SNAPSHOT,+,2017-10-04
+bukkit,1.7.10-R0.1-SNAPSHOT,-,2015-10-23
+HeroScoreboard,0.1,+,2015-11-12
+HeroScoreboard,0.1,+,2016-01-26
+lwc,4.4.0-SNAPSHOT,-,2015-01-09

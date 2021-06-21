@@ -1,0 +1,12 @@
+library,version,sign,date
+nexus-server,1.0-SNAPSHOT,+,2011-03-28
+nexus-server,1.0-SNAPSHOT,+,2011-03-05
+nexus-server,1.0-SNAPSHOT,-,2011-04-23
+nexus-jvm-io,1.0-SNAPSHOT,+,2011-03-03
+nexus-jvm-io,1.0-SNAPSHOT,+,2011-03-28
+nexus-jvm-io,1.0-SNAPSHOT,-,2011-03-28
+nexus-jvm-io,1.0-SNAPSHOT,-,2011-03-03
+nexus-jvm-io,1.0-SNAPSHOT,-,2011-04-23
+nexus-test-support,1.0-SNAPSHOT,+,2011-03-28
+nexus-test-support,1.0-SNAPSHOT,+,2011-03-05
+nexus-test-support,1.0-SNAPSHOT,-,2011-04-23

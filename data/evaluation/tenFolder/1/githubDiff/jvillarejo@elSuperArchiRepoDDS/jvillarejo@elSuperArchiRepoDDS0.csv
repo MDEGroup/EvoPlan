@@ -1,0 +1,13 @@
+library,version,sign,date
+mockito-all,1.9.0,+,2012-09-11
+junit,3.8.1,+,2012-09-11
+junit,3.8.1,-,2012-10-08
+staccatissimo-collections,2.2,+,2012-05-21
+util-commons,3.0.1-SNAPSHOT,+,2012-09-23
+aerolinea-lanchita,4.0-SNAPSHOT,+,2012-08-14
+aerolinea-lanchita,2.0,-,2012-08-14
+aerolinea-lanchita,1.0,-,2012-08-04
+aerolinea-oceanic,4.1-SNAPSHOT,+,2012-08-14
+aerolinea-oceanic,2.0,-,2012-08-14
+aerolinea-oceanic,2.0,+,2012-06-12
+staccatissimo-lambda,2.2,+,2012-05-21

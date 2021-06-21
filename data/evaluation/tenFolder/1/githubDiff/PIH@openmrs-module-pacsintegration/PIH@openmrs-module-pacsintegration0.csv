@@ -1,0 +1,7 @@
+library,version,sign,date
+hapi-structures-v23,2.0,+,2017-11-03
+hapi-structures-v23,2.0,-,2012-10-02
+hapi-structures-v23,2.0,+,2012-09-28
+hapi-base,2.0,+,2017-11-03
+event-api,1.0,-,2012-09-20
+event-api,1.0,+,2012-09-19

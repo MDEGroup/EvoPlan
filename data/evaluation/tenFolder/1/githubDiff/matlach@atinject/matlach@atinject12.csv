@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.11,-,2014-08-17
+junit,4.12,+,2014-08-17
+codemodel,2.6,+,2014-08-17

@@ -1,0 +1,7 @@
+library,version,sign,date
+javaee-api,7.0,+,2016-03-13
+javaee-api,7.0,+,2014-09-24
+javaee-api,7.0,-,2016-03-13
+trimou-core,1.8.2.Final,-,2015-09-11
+trimou-core,1.8.2.Final,+,2015-08-15
+trimou-core,1.8.3.Final,-,2015-12-08

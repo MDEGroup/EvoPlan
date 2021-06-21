@@ -1,0 +1,5 @@
+library,version,sign,date
+jsp-api,2.1,-,2012-09-28
+jsp-api,2.2,-,2012-09-14
+jsp-api,2.1,+,2012-09-28
+jsp-api,2.2,+,2012-09-14

@@ -1,0 +1,5 @@
+library,version,sign,date
+pgjdbc-ng,0.3,+,2014-09-20
+postgresql,9.1-901.jdbc4,+,2014-04-06
+postgresql,9.1-901.jdbc4,-,2014-09-20
+gson,2.2.4,+,2014-04-06

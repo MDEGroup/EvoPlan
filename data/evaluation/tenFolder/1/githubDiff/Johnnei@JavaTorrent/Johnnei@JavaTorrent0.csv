@@ -1,0 +1,3 @@
+library,version,sign,date
+mockito-core,2.12.0,+,2017-11-25
+mockito-core,2.12.0,-,2017-11-25

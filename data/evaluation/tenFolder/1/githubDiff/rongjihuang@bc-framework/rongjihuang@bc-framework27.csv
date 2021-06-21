@@ -1,0 +1,13 @@
+library,version,sign,date
+bc-core,1.0-SNAPSHOT,-,2015-07-24
+bc-db-jdbc,1.0-SNAPSHOT,-,2015-07-24
+javaee-api,7.0,-,2018-05-25
+javaee-api,7.0,+,2015-10-26
+javaee-api,7.0,-,2015-07-28
+javaee-api,7.0,-,2016-08-30
+javaee-api,7.0,+,2015-07-14
+javaee-api,7.0,+,2016-08-30
+javaee-api,7.0,+,2015-07-28
+javaee-api,7.0,+,2018-05-25
+javaee-api,7.0,-,2015-10-26
+javaee-api,7.0,-,2015-07-14

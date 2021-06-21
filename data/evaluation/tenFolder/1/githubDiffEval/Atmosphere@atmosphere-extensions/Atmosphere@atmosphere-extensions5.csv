@@ -1,0 +1,9 @@
+library,version,sign,date
+jedis,2.0.0,+,2013-09-20
+jedis,2.0.0,-,2015-04-22
+jedis,2.0.0,+,2012-10-31
+jedis,2.0.0-SNAPSHOT,+,2013-09-20
+jedis,2.0.0-SNAPSHOT,-,2013-09-20
+jedis,2.0.0,-,2013-09-20
+atmosphere-jersey,1.1.0.beta1,-,2012-10-31
+atmosphere-jersey,1.1.0.beta1,-,2012-11-01

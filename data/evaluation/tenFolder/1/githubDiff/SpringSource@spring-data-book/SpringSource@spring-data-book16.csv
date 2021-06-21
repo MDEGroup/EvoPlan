@@ -1,0 +1,9 @@
+library,version,sign,date
+spring-beans,3.1.2.RELEASE,-,2012-08-26
+logback-classic,1.0.6,-,2012-08-26
+groovy,1.8.5,-,2012-08-26
+groovy,1.8.5,+,2012-08-10
+groovy,1.8.5,+,2012-08-26
+spring-core,3.1.2.RELEASE,-,2012-08-26
+spring-tx,3.1.2.RELEASE,-,2012-08-26
+spring-context,3.1.2.RELEASE,-,2012-08-26

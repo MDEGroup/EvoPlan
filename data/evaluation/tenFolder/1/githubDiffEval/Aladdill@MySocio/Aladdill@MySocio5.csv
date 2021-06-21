@@ -1,0 +1,5 @@
+library,version,sign,date
+api,0.0.1-SNAPSHOT,-,2011-03-01
+ehcache-core,2.5.0,+,2012-01-10
+ehcache-core,2.5.0,-,2012-01-10
+ehcache-core,2.5.0,+,2011-11-30

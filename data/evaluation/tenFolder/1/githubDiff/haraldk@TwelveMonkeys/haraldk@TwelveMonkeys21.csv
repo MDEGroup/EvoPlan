@@ -1,0 +1,14 @@
+library,version,sign,date
+mockito-all,1.8.0,+,2010-02-07
+mockito-all,1.8.5,+,2011-12-19
+mockito-all,1.8.0,-,2011-10-18
+junit,4.3.1,+,2010-02-07
+junit,4.3.1,-,2011-10-18
+junit,4.3.1,+,2010-06-07
+junit,4.7,+,2013-09-08
+junit,4.3.1,-,2010-06-07
+junit,4.7,+,2015-11-01
+junit,4.7,-,2013-09-08
+jsp-api,2.0,+,2011-10-18
+commons-fileupload,1.2,-,2018-08-18
+servlet-api,2.4,+,2011-10-18

@@ -1,0 +1,9 @@
+library,version,sign,date
+jibx-maven-plugin,1.2.6,+,2015-02-14
+jfreesvg,2.1,+,2015-02-09
+jibx-bind,1.2.6,+,2015-02-14
+jibx-run,1.2.6,+,2015-02-14
+jibx-tools,1.2.6,+,2015-02-14
+gson,2.3.1,+,2015-02-13
+jfreechart,1.0.19,+,2015-01-31
+jibx-extras,1.2.6,+,2015-02-14

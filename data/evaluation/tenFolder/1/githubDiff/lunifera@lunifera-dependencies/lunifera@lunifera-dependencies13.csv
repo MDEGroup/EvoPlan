@@ -1,0 +1,5 @@
+library,version,sign,date
+org.lunifera.dependencies.feature.vaadin,7.2.3,-,2014-07-28
+org.lunifera.dependencies.feature.vaadin,7.1.0-SNAPSHOT,-,2013-07-31
+org.lunifera.dependencies.feature.vaadin,7.2.5,+,2014-07-30
+org.lunifera.dependencies.feature.vaadin,7.1.7,-,2013-10-16

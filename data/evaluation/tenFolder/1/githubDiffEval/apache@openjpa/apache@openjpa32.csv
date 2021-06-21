@@ -1,0 +1,12 @@
+library,version,sign,date
+jaxb-impl,2.0.5,-,2012-02-20
+jaxb-api,2.0,-,2012-02-20
+openjpa-jdbc,@pom.version@,+,2015-12-01
+openjpa-jdbc,@pom.version@,+,2010-12-09
+openjpa-jdbc,@pom.version@,+,2015-05-05
+openjpa-persistence,@pom.version@,+,2015-12-01
+openjpa-persistence,@pom.version@,+,2010-12-09
+openjpa-persistence,@pom.version@,+,2015-05-05
+openjpa-kernel,@pom.version@,+,2015-12-01
+openjpa-kernel,@pom.version@,+,2010-12-09
+openjpa-kernel,@pom.version@,+,2015-05-05

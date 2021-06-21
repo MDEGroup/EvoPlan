@@ -1,0 +1,5 @@
+library,version,sign,date
+jackson-mapper-asl,1.8.0,-,2011-05-13
+jackson-mapper-asl,1.9.0,+,2011-05-13
+jackson-mapper-asl,1.8.0,+,2011-05-13
+jackson-mapper-asl,1.9.0,-,2011-10-13

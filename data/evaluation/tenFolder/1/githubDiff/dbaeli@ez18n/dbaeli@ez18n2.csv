@@ -1,0 +1,7 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,+,2012-05-23
+javax.servlet-api,3.0.1,-,2012-05-23
+junit,4.10,+,2012-05-23
+junit,4.10,-,2012-05-23
+gwt-user,2.4.0,+,2012-05-23
+gwt-dev,2.4.0,+,2012-05-23

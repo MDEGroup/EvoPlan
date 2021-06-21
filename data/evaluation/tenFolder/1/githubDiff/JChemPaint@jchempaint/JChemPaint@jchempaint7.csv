@@ -1,0 +1,8 @@
+library,version,sign,date
+cdk-interfaces,1.5.8-SNAPSHOT,-,2014-08-21
+cdk-extra,1.5.8-SNAPSHOT,-,2014-08-21
+cdk-renderextra,1.5.8-SNAPSHOT,-,2014-08-21
+cdk-render,1.5.8-SNAPSHOT,-,2014-08-21
+cdk-renderbasic,1.5.8-SNAPSHOT,-,2014-08-21
+cdk-data,1.5.8-SNAPSHOT,-,2014-08-21
+cdk-legacy,1.5.8-SNAPSHOT,-,2014-08-21

@@ -1,0 +1,10 @@
+library,version,sign,date
+commons-pool,1.5.5,+,2013-03-07
+commons-pool,1.5.5,+,2013-02-28
+commons-pool,1.5.5,-,2013-03-07
+junit,4.8.2,-,2013-03-07
+jsr311-api,1.1.1,+,2013-03-07
+jsr311-api,1.1.1,-,2013-03-07
+servlet-api,2.5,+,2013-02-26
+servlet-api,2.5,-,2013-03-07
+servlet-api,2.5,+,2013-03-07

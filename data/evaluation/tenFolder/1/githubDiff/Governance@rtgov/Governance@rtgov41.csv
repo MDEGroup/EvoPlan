@@ -1,0 +1,5 @@
+library,version,sign,date
+analytics,1.0.0-SNAPSHOT,+,2012-08-03
+analytics,1.0.0-SNAPSHOT,-,2012-09-04
+junit,4.8.1,-,2012-09-04
+activity,1.0.0-SNAPSHOT,-,2012-09-04

@@ -1,0 +1,10 @@
+library,version,sign,date
+spring-jdbc,3.2.3.RELEASE,+,2013-07-26
+spring-jdbc,3.2.3.RELEASE,-,2013-07-26
+hsqldb,2.3.0,+,2013-07-26
+hsqldb,2.3.0,-,2013-07-26
+notificationengine,0.0.1-SNAPSHOT,-,2013-07-26
+notificationengine,0.0.1-SNAPSHOT,+,2013-07-26
+commons-dbcp,1.4,-,2013-07-26
+commons-dbcp,1.4,+,2013-07-26
+sqljdbc4,4.0,+,2013-07-26

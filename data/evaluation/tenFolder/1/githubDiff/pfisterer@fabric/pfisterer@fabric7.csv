@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.8.1,+,2011-06-01
+junit,4.8.1,+,2011-04-14
+junit,4.8.1,-,2011-04-14
+junit,4.8.1,+,2011-03-11
+junit,4.8.1,+,2011-07-05
+junit,4.8.1,-,2011-07-05
+junit,4.8.1,-,2011-06-01
+tr.util,0.6.1-SNAPSHOT,+,2011-04-14
+tr.util,0.5.6-SNAPSHOT,-,2011-03-11
+tr.util,0.6.1-SNAPSHOT,-,2011-06-01
+tr.util,0.6.1-SNAPSHOT,+,2011-06-01
+tr.util,0.6.1-SNAPSHOT,-,2011-04-14
+tr.util,0.6.1-SNAPSHOT,+,2011-07-05
+tr.util,0.6.1-SNAPSHOT,-,2011-07-05

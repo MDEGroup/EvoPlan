@@ -1,0 +1,5 @@
+library,version,sign,date
+spring-beans,2.0.4,+,2013-05-29
+spring-core,2.0.4,+,2013-05-29
+testng,6.8.5,+,2013-05-29
+spring-context,2.0.4,+,2013-05-29

@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.6,-,2011-05-24
+junit,4.6,+,2011-05-24
+antlr-runtime,3.1.3,+,2011-05-24

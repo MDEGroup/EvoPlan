@@ -1,0 +1,11 @@
+library,version,sign,date
+postgresql,9.1-901.jdbc4,-,2012-05-16
+postgresql,9.1-901.jdbc4,+,2012-05-15
+postgresql,9.1-901.jdbc4,+,2012-05-16
+postgresql,9.1-901.jdbc4,+,2012-06-04
+stepsovc-commcare-api,1.0-SNAPSHOT,-,2012-05-16
+stepsovc-commcare-api,1.0-SNAPSHOT,-,2012-05-17
+stepsovc-commcare-api,1.0-SNAPSHOT,+,2012-05-08
+motech-bulk-export-import,0.1-SNAPSHOT,+,2012-05-15
+motech-bulk-export-import,0.1-SNAPSHOT,-,2012-05-30
+commons-io,1.4,+,2012-05-08

@@ -1,0 +1,9 @@
+library,version,sign,date
+org.eclipse.osgi,3.6.0.v20100517,-,2014-12-01
+org.eclipse.osgi,3.6.0.v20100517,+,2014-12-01
+org.eclipse.jdt.core,3.7.1,+,2014-12-01
+org.eclipse.jdt.core,3.7.1,-,2014-12-01
+common,3.6.200-v20130402-1505,-,2014-12-01
+common,3.6.200-v20130402-1505,+,2014-12-01
+runtime,3.10.0-v20140318-2214,-,2014-12-01
+runtime,3.10.0-v20140318-2214,+,2014-12-01

@@ -1,0 +1,4 @@
+library,version,sign,date
+Interfaces,1.0-SNAPSHOT,+,2014-06-09
+Interfaces,1.0-SNAPSHOT,-,2014-06-09
+groovy-all,2.1.9,-,2014-06-09

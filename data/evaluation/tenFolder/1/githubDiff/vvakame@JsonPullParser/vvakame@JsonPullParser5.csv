@@ -1,0 +1,16 @@
+library,version,sign,date
+aptina-unit,1.0.0,+,2011-01-03
+aptina-unit,1.0.0,-,2011-01-03
+aptina-commons,1.0.0,+,2011-01-03
+aptina-commons,1.0.0,-,2011-01-03
+mvel2,2.1.8.Final,-,2014-01-17
+mvel2,2.1.4.Final,-,2013-04-24
+mvel2,2.0.19,-,2011-01-03
+mvel2,2.0.19,-,2013-02-06
+mvel2,2.0.19,+,2010-12-31
+mvel2,2.0.19,+,2011-01-03
+jsonpullparser-core,0.1,+,2010-12-18
+jsonpullparser-core,0.2-SNAPSHOT,+,2011-01-03
+jsonpullparser-core,0.2-SNAPSHOT,-,2011-01-13
+jsonpullparser-core,0.2-SNAPSHOT,-,2011-01-03
+jsonpullparser-core,0.1,-,2010-12-23

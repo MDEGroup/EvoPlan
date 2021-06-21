@@ -1,0 +1,11 @@
+library,version,sign,date
+hibernate-core,4.3.7.Final,-,2019-05-03
+hibernate-core,4.2.15.Final,+,2015-01-23
+hibernate-core,4.3.7.Final,+,2018-02-28
+hibernate-core,4.3.7.Final,+,2017-05-16
+hibernate-core,4.3.7.Final,-,2017-05-16
+hibernate-core,4.3.7.Final,+,2015-07-17
+hibernate-core,4.2.15.Final,+,2018-05-02
+hibernate-core,4.3.7.Final,-,2018-02-28
+hibernate-core,4.3.7.Final,+,2019-05-03
+hibernate-core,4.2.15.Final,-,2018-05-02

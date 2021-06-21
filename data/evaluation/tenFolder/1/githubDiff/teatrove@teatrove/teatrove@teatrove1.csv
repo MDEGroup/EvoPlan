@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-httpclient,4.1.1,-,2011-12-05
+teaservlet,4.1.1-SNAPSHOT,+,2011-12-06
+teaservlet,4.1-SNAPSHOT,-,2011-12-06
+teaservlet,4.1.1-SNAPSHOT,-,2011-12-06

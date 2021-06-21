@@ -1,0 +1,6 @@
+library,version,sign,date
+morphia,1.3.2,+,2018-07-02
+morphia,1.3.2,+,2017-12-13
+morphia,1.3.2,-,2019-10-02
+morphia,1.3.2,+,2019-10-02
+morphia,1.3.2,-,2018-07-02

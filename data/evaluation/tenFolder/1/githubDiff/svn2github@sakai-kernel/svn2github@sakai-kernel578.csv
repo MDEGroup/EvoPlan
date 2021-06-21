@@ -1,0 +1,4 @@
+library,version,sign,date
+sakai-kernel-impl,1.2.7,+,2012-05-15
+sakai-kernel-impl,1.2.7-SNAPSHOT,-,2012-05-15
+sakai-kernel-impl,1.2.7,-,2012-05-15

@@ -1,0 +1,5 @@
+library,version,sign,date
+testng,6.8.21,+,2014-09-09
+testng,6.5.2,-,2014-09-09
+testng,5.12.1,+,2010-07-23
+testng,5.12.1,-,2012-04-19

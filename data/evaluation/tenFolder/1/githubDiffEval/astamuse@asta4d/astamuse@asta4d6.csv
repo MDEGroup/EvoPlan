@@ -1,0 +1,7 @@
+library,version,sign,date
+hibernate-validator,5.0.2.Final,+,2014-06-09
+hibernate-validator,5.0.2.Final,+,2014-10-22
+hibernate-validator,5.0.2.Final,+,2014-11-27
+hibernate-validator,5.0.2.Final,-,2014-11-27
+servlet-api,2.5,+,2014-11-27
+servlet-api,2.5,-,2013-12-13

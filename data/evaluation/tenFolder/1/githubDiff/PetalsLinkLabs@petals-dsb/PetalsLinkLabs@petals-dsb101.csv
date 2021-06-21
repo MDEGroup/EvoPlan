@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,3.8.1,-,2012-06-28
+junit,3.8.1,+,2012-06-28
+dsb-notification-service,1.0-SNAPSHOT,-,2012-06-28
+dsb-soap,1.0-SNAPSHOT,-,2012-06-28
+dsb-notification-httpclient,1.0-SNAPSHOT,-,2012-06-28

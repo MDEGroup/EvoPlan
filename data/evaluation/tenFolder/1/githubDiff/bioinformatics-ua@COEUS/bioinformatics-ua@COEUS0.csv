@@ -1,0 +1,8 @@
+library,version,sign,date
+jstl,1.2,+,2013-05-20
+jstl,1.2,-,2013-05-20
+commons-validator,1.4.0,+,2014-02-06
+mysql-connector-java,5.1.24,-,2013-05-20
+raven,4.0,+,2013-12-04
+joseki,3,-,2013-05-20
+joseki,3,+,2013-05-20

@@ -1,0 +1,13 @@
+library,version,sign,date
+org-openide-util-lookup,RELEASE80,-,2015-02-25
+org-netbeans-api-progress,RELEASE80,-,2015-02-25
+org-netbeans-api-annotations-common,RELEASE80,-,2015-02-25
+utils,0.1-SNAPSHOT,+,2015-02-25
+utils,0.1-SNAPSHOT,-,2015-10-26
+utils,0.1-SNAPSHOT,-,2015-02-25
+dataset-api,0.1-SNAPSHOT,+,2015-02-25
+dataset-api,0.1-SNAPSHOT,-,2015-10-26
+dataset-api,0.1.0-SNAPSHOT,-,2016-04-05
+clustering-api,0.1-SNAPSHOT,+,2015-02-25
+clustering-api,0.1-SNAPSHOT,-,2015-10-26
+clustering-api,0.1-SNAPSHOT,-,2015-02-25

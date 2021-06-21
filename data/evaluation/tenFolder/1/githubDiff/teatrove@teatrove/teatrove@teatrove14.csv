@@ -1,0 +1,7 @@
+library,version,sign,date
+teaapps,4.1.1-SNAPSHOT,+,2011-12-06
+teaapps,4.1-SNAPSHOT,-,2011-12-06
+teaapps,4.1.1-SNAPSHOT,-,2012-01-19
+teaservlet,4.1.1-SNAPSHOT,+,2011-12-06
+teaservlet,4.1-SNAPSHOT,-,2011-12-06
+teaservlet,4.1.1-SNAPSHOT,-,2012-01-19

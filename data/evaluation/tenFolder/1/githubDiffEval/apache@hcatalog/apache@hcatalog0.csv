@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2013-03-25
+junit,4.10,+,2012-10-09
+jackson-mapper-asl,1.8.8,+,2013-03-25
+checkstyle,5.5,+,2012-10-09

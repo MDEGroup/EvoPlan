@@ -1,0 +1,11 @@
+library,version,sign,date
+spring-dependencies,[1.7.0,2.0.0),-,2013-06-27
+groovy-all,1.7.5,-,2012-01-23
+groovy-all,1.7.5,-,2014-06-05
+groovy-all,1.7.5,+,2012-01-23
+groovy-all,1.7.5,+,2012-01-27
+groovy-all,1.7.5,+,2012-01-28
+groovy-all,1.7.5,-,2012-01-27
+groovy-all,1.7.5,-,2012-01-28
+groovy-all,1.7.5,-,2016-04-19
+groovy-all,1.7.5,+,2013-06-27

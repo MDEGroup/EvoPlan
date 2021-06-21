@@ -1,0 +1,15 @@
+library,version,sign,date
+governance-service,1.0-SNAPSHOT,-,2012-07-20
+junit,3.8.1,-,2013-03-06
+junit,4.10,+,2012-07-20
+junit,4.10,+,2013-03-08
+junit,3.8.1,+,2012-07-20
+junit,3.8.1,+,2013-03-21
+xml-apis,1.4.01,+,2012-07-20
+governance-mongostorage,1.0-SNAPSHOT,+,2012-07-20
+jettison,1.3.2,-,2013-03-06
+jettison,1.3.2,+,2012-07-20
+governance-metadata-api,1.0-SNAPSHOT,+,2012-07-20
+governance-metadata-api,1.0-SNAPSHOT,-,2013-03-21
+spring-web,3.0.7.RELEASE,+,2012-07-20
+spring-web,3.0.7.RELEASE,-,2013-03-06

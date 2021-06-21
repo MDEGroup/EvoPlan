@@ -1,0 +1,5 @@
+library,version,sign,date
+easymock,3.0,+,2010-08-22
+servlet-api,2.5,-,2010-08-22
+servlet-api,2.5,+,2010-10-22
+servlet-api,2.5,+,2010-08-22

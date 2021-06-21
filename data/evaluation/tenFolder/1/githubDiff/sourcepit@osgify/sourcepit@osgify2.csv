@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.10,-,2014-06-18
+junit,4.10,+,2014-06-18
+common-testing,0.15.0-SNAPSHOT,-,2016-12-17
+common-testing,0.12.0-SNAPSHOT,-,2014-10-07
+common-testing,0.12.0,-,2014-10-09
+common-testing,0.14.0,-,2015-05-27
+common-testing,0.10.0,-,2014-06-18
+common-testing,0.13.0,-,2014-12-10
+common-testing,0.11.0,-,2014-09-22
+org.sourcepit.osgifier.core,0.21.0-SNAPSHOT,+,2014-09-22
+org.sourcepit.osgifier.core,0.22.0,-,2014-10-09
+org.sourcepit.osgifier.core,0.21.0-SNAPSHOT,-,2014-10-09

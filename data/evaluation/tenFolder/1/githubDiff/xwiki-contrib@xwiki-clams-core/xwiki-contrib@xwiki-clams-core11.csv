@@ -1,0 +1,6 @@
+library,version,sign,date
+jmock-cglib,1.1.0,-,2008-01-07
+jmock-cglib,1.1.0,-,2008-02-01
+jmock-cglib,1.1.0,+,2008-02-01
+xwiki-platform-mailsender,3.1,+,2008-02-01
+xwiki-platform-oldcore,3.1,+,2008-02-01

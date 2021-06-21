@@ -1,0 +1,12 @@
+library,version,sign,date
+uiframework-omod,3.1,+,2015-04-14
+appframework-api,2.0,+,2015-12-01
+appframework-api,2.0,+,2013-12-09
+appui-api,1.0,+,2013-12-09
+emrapi-api,1.0,+,2013-12-09
+appui-omod,1.0,+,2013-12-09
+uiframework-api,3.1,+,2013-12-09
+legacyui-omod,1.1,-,2017-01-01
+legacyui-omod,1.0-SNAPSHOT,-,2015-12-01
+legacyui-omod,1.0-SNAPSHOT,+,2015-09-09
+legacyui-omod,0.1,-,2016-07-29

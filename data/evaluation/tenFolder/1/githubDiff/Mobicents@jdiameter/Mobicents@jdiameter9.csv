@@ -1,0 +1,13 @@
+library,version,sign,date
+commons-pool,1.5.5,+,2011-05-13
+commons-pool,1.5.5,+,2010-11-29
+commons-pool,1.5.5,+,2016-02-10
+commons-pool,1.5.5,+,2015-07-24
+commons-pool,1.5.5,-,2015-07-24
+commons-pool,1.5.5,+,2011-02-28
+commons-pool,1.5.5,-,2016-02-10
+commons-pool,1.5.5,-,2011-02-28
+jdiameter-impl,1.7.0-SNAPSHOT,+,2012-05-23
+jdiameter-impl,1.7.0-SNAPSHOT,-,2015-07-24
+jdiameter-api,1.7.0-SNAPSHOT,+,2012-05-23
+jdiameter-api,1.7.0-SNAPSHOT,-,2015-07-24

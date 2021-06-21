@@ -1,0 +1,9 @@
+library,version,sign,date
+android,4.1.1.4,-,2012-10-17
+android,4.1.1.4,+,2012-10-17
+android,4.1.1.4,-,2012-10-23
+android,4.1.1.4,+,2012-10-23
+alfresco-mobile-android-client-api,1.4.0,-,2015-07-23
+alfresco-mobile-android-client-api,1.5,-,2018-11-06
+alfresco-mobile-android-client-api,1.4.1,-,2017-01-30
+alfresco-mobile-android-client-api,1.4.0,+,2014-09-29

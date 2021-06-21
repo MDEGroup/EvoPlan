@@ -1,0 +1,14 @@
+library,version,sign,date
+easymock,3.2,+,2013-10-15
+easymock,3.2,+,2013-10-16
+easymock,3.2,+,2013-09-08
+easymock,3.2,+,2013-09-07
+easymock,3.2,-,2013-10-15
+junit,4.11,+,2013-10-16
+junit,4.11,+,2013-10-15
+junit,4.11,+,2013-09-08
+junit,4.11,+,2013-09-07
+junit,4.11,-,2013-10-15
+annotations,1.0.0,+,2013-09-14
+annotations,1.0.0,-,2013-10-15
+annotations,1.0.0,+,2013-10-16

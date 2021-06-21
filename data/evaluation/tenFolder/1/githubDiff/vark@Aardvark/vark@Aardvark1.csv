@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.8.2,+,2012-04-24
+junit,4.8.2,-,2012-04-24
+fest-assert,1.4,+,2012-04-24
+gosu,0.9-7,-,2012-02-12

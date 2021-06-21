@@ -1,0 +1,17 @@
+library,version,sign,date
+standard,1.1.2,+,2014-07-29
+jstl,1.2,-,2014-07-31
+jstl,1.2,+,2014-07-29
+appsensor-ws-rest-server,2.0.0-SNAPSHOT,+,2013-12-15
+appsensor-ws-rest-server,2.0.0-SNAPSHOT,-,2013-12-15
+appsensor-ws-rest-server,2.0.0-SNAPSHOT,-,2014-05-08
+appsensor-access-control-reference,2.0.0-SNAPSHOT,+,2013-12-15
+appsensor-access-control-reference,2.0.0-SNAPSHOT,-,2014-05-08
+appsensor-storage-in-memory,2.0.0-SNAPSHOT,+,2013-12-15
+appsensor-storage-in-memory,2.0.0-SNAPSHOT,-,2014-05-08
+javaee-web-api,7.0,+,2013-12-15
+javaee-web-api,7.0,+,2014-07-19
+appsensor-analysis-reference,2.0.0-SNAPSHOT,+,2013-12-15
+appsensor-analysis-reference,2.0.0-SNAPSHOT,-,2014-05-08
+appsensor-reporting-simple-logging,2.0.0-SNAPSHOT,+,2013-12-15
+appsensor-reporting-simple-logging,2.0.0-SNAPSHOT,-,2014-05-08

@@ -1,0 +1,10 @@
+library,version,sign,date
+Interfaces,1.0-SNAPSHOT,+,2014-06-08
+Interfaces,1.0-SNAPSHOT,+,2014-06-07
+Interfaces,1.0-SNAPSHOT,+,2014-06-09
+Interfaces,1.0-SNAPSHOT,-,2014-06-09
+EntitiesJavaImpl,1.0-SNAPSHOT,+,2014-06-08
+EntitiesJavaImpl,1.0-SNAPSHOT,+,2014-06-09
+EntitiesJavaImpl,1.0-SNAPSHOT,-,2014-06-09
+jasperreports,5.5.0,-,2014-06-09
+jasperreports,5.1.2,-,2014-06-07

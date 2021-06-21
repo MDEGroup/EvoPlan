@@ -1,0 +1,9 @@
+library,version,sign,date
+sshd-core,0.4.0-SNAPSHOT,-,2010-05-09
+sshd-core,0.3.0,-,2009-11-28
+sshd-core,1.0-SNAPSHOT,-,2009-08-15
+sshd-core,1.0-SNAPSHOT,+,2009-07-20
+sshd-core,0.5.1-SNAPSHOT,-,2011-01-30
+sshd-core,0.4.1-SNAPSHOT,-,2010-05-09
+sshd-core,0.3.0,+,2009-08-15
+sshd-core,1.0-SNAPSHOT,-,2009-11-28

@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.11,+,2014-03-03
+junit,4.10,+,2013-12-28
+junit,4.11,+,2013-12-28
+junit,4.11,-,2014-03-03
+webservices-rt,2.3,+,2014-03-03
+javaee-web-api,7.0,+,2013-12-28

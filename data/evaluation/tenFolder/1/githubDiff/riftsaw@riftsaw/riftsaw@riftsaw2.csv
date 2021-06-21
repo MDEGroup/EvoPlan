@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2012-03-16
+junit,4.8.1,-,2012-03-16
+saxonhe,9.2.1.5,-,2012-03-16
+h2,1.2.124,-,2012-03-16
+jboss-as-server,7.1.0.Final,-,2012-03-16
+jboss-as-server,7.0.2.Final,+,2012-01-04
+jboss-as-server,7.1.0.CR1b,-,2012-02-01
+jboss-as-server,7.0.2.Final,-,2012-01-09
+jboss-as-naming,7.1.0.Final,-,2012-03-16
+jboss-as-naming,7.0.2.Final,+,2012-01-04
+jboss-as-naming,7.1.0.CR1b,-,2012-02-01
+jboss-as-naming,7.0.2.Final,-,2012-01-09
+jboss-common-core,2.2.17.GA,-,2012-03-16

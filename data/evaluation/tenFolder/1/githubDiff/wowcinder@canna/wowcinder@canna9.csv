@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.8.1,+,2013-08-02
+uibinder-bridge,2.4.0,+,2013-08-02
+gxt,3.0.1,+,2013-08-02
+beanlib,5.0.5,+,2013-08-02
+mysql-connector-java,5.1.24,+,2013-08-02
+validation-api,1.0.0.GA,+,2013-08-02
+cglib-nodep,2.2.2,+,2013-08-02
+persistence-api,1.0.2,-,2013-08-02
+persistence-api,1.0.2,+,2013-08-02
+quartz,1.8.5,+,2013-08-02
+commons-dbcp,1.4,+,2013-08-02
+gson,2.2.2,+,2013-08-02
+gin,2.0.0,+,2013-08-02

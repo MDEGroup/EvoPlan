@@ -1,0 +1,7 @@
+library,version,sign,date
+commons-configuration,1.6,-,2014-05-02
+elasticsearch,1.1.0,+,2014-04-09
+elasticsearch,2.0.0-SNAPSHOT,-,2014-04-09
+elasticsearch,1.0.1,-,2014-04-09
+elasticsearch,1.1.0,-,2014-07-29
+elasticsearch,1.0.1,+,2014-03-17

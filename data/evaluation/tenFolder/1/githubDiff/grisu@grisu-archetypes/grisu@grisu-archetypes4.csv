@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.1,+,2012-04-05
+bcprov-jdk15,140,-,2012-11-26
+bcprov-jdk15,145,+,2012-04-05
+bcprov-jdk15,140,+,2012-04-05

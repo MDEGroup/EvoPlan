@@ -1,0 +1,6 @@
+library,version,sign,date
+google-api-client,1.22.0,+,2017-05-15
+guava,22.0,-,2017-07-20
+guava,22.0,+,2017-07-12
+guava,21.0,-,2017-07-20
+guava,18.0,-,2017-07-12

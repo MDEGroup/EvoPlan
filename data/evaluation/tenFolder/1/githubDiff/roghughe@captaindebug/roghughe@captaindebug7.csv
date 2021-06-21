@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.7,+,2014-05-04
+mail,1.4,+,2014-02-16
+quartz,1.8.6,+,2014-02-10
+mockito-core,1.9.5,+,2014-05-04
+log4j,1.2.15,+,2014-05-04

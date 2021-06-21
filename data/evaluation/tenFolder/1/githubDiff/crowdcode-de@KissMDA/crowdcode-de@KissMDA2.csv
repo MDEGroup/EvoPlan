@@ -1,0 +1,12 @@
+library,version,sign,date
+jukito,1.1,-,2014-01-14
+jukito,1.1,+,2013-10-26
+jukito,1.1,+,2014-01-14
+junit,4.10,+,2013-10-23
+junit,4.10,+,2013-10-26
+junit,4.10,-,2013-10-23
+kissmda-core,2.1.0-SNAPSHOT,-,2017-08-25
+kissmda-core,2.1.0,-,2017-08-31
+kissmda-core,2.0.0-SNAPSHOT,-,2013-10-26
+kissmda-core,2.1.1,-,2017-08-31
+kissmda-core,2.0.0,-,2014-01-14

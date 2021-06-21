@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.10,-,2013-11-21
+junit,3.8.1,-,2012-04-12
+junit,4.10,+,2013-11-21
+yamolib,1.2.1-SNAPSHOT,-,2013-11-21
+yamolib,1.1.1-SNAPSHOT,-,2012-04-12
+yamolib,1.2.2-SNAPSHOT,-,2013-11-26
+yamolib,1.2.3-SNAPSHOT,-,2014-01-21
+yamolib,1.1.0-SNAPSHOT,-,2012-04-12
+yamolib,1.2.1-SNAPSHOT,+,2013-11-12
+yamolib,1.1.0-SNAPSHOT,-,2012-03-20
+yamolib,1.2.0-SNAPSHOT,-,2013-11-12
+yamolib,1.0-SNAPSHOT,-,2012-01-26

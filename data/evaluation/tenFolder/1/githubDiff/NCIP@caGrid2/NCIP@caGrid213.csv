@@ -1,0 +1,11 @@
+library,version,sign,date
+jaxb2-basics-runtime,0.5.2,-,2013-12-17
+jaxb2-basics-runtime,0.5.2,+,2013-12-10
+jaxb2-basics,0.5.2,-,2013-12-17
+jaxb2-basics,0.5.2,+,2013-12-10
+junit,4.7,-,2013-12-10
+junit,4.7,+,2013-12-10
+annotate,0.4.1.5,+,2013-12-31
+annotate,0.4.1.5,+,2013-12-10
+annotate,0.4.1.5,-,2013-12-17
+annotate,0.4.1.5,+,2013-12-17

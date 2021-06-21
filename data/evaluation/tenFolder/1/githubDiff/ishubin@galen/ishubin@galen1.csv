@@ -1,0 +1,14 @@
+library,version,sign,date
+galen-java-support,1.6.5-SNAPSHOT,-,2015-07-24
+galen-java-support,1.6.5-SNAPSHOT,+,2015-06-16
+galen-rainbow4j,1.6.5-SNAPSHOT,-,2015-07-24
+galen-rainbow4j,1.6.4-SNAPSHOT,-,2015-05-04
+galen-rainbow4j,1.6.3-SNAPSHOT,-,2015-04-04
+galen-rainbow4j,1.6.3-SNAPSHOT,-,2015-03-31
+galen-rainbow4j,1.6.2-SNAPSHOT,-,2015-03-31
+galen-rainbow4j,1.6.3-SNAPSHOT,-,2015-04-01
+galen-core,1.6.5-SNAPSHOT,-,2015-07-24
+galen-core,1.6.4-SNAPSHOT,-,2015-05-04
+galen-core,1.6.3-SNAPSHOT,-,2015-04-04
+galen-core,1.6.2-SNAPSHOT,-,2015-03-31
+galen-core,1.6.3-SNAPSHOT,-,2015-04-01

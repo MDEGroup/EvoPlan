@@ -1,0 +1,15 @@
+library,version,sign,date
+cdi-api,1.0-SP4,+,2013-02-03
+cdi-api,1.0-SP3,-,2013-01-15
+cdi-api,1.0-SP4,-,2012-12-06
+cdi-api,1.0-SP4,-,2013-02-03
+cdi-api,1.0-SP3,+,2013-01-15
+cdi-api,1.0-SP4,+,2012-12-06
+jsr250-api,1.0,-,2013-02-03
+jsr250-api,1.0,+,2012-12-06
+jsr250-api,1.0,-,2012-12-06
+guice,3.0,+,2013-01-15
+guice,3.0,-,2013-01-15
+javax.inject,1,-,2012-12-06
+javax.inject,1,-,2013-02-03
+javax.inject,1,+,2012-12-06

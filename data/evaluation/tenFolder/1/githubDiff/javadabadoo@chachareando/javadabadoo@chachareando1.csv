@@ -1,0 +1,9 @@
+library,version,sign,date
+jstl,1.2,+,2013-06-28
+javaee-api,6.0,+,2013-05-15
+hibernate-validator,4.2.0.Final,+,2013-06-08
+basureando-service,1.0.0-SNAPSHOT,+,2013-05-14
+itext,2.1.7,+,2013-05-17
+jackson-mapper-asl,1.9.12,+,2013-05-17
+jackson-mapper-asl,1.9.12,+,2013-05-07
+javamelody-core,1.44.0,+,2013-05-17

@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,3.8.1,-,2011-11-24
+junit,4.7,+,2011-11-24
+junit,3.8.1,+,2012-05-18
+junit,^junit.bundle.version^,-,2011-12-07
+junit,4.7,-,2011-12-07
+junit,3.8.1,-,2012-05-18
+junit,4.10,+,2011-12-07
+junit,3.8.1,+,2011-12-07
+junit,4.7,-,2011-11-24
+org.apache.karaf.shell.console,2.99.99-SNAPSHOT,-,2011-12-07

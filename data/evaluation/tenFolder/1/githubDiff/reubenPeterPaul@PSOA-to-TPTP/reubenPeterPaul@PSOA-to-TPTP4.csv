@@ -1,0 +1,5 @@
+library,version,sign,date
+jsr311-api,1.1.1,-,2011-12-19
+commons-exec,1.1,-,2011-12-19
+log4j,1.2.16,-,2011-12-19
+ruleml-api,0.0.1-SNAPSHOT,-,2011-12-19

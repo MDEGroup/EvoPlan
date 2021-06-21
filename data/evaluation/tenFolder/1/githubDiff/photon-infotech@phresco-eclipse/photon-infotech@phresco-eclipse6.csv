@@ -1,0 +1,10 @@
+library,version,sign,date
+ehcache,1.6.1,+,2012-08-17
+junit,4.9,-,2012-08-17
+junit,4.9,+,2012-08-17
+jersey-multipart,1.8,+,2012-08-17
+commons-collections,3.2.1,+,2012-08-17
+gson,1.7.2,+,2012-08-17
+gson,1.7.1,-,2012-08-17
+log4j,1.2.16,-,2012-08-17
+log4j,1.2.16,+,2012-08-17

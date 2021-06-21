@@ -1,0 +1,11 @@
+library,version,sign,date
+spring-tx,3.1.2.RELEASE,-,2012-08-09
+spring-tx,3.1.2.RELEASE,+,2012-07-31
+spring-data-mongodb,1.1.1.RELEASE,-,2012-10-30
+spring-data-mongodb,1.1.0.BUILD-SNAPSHOT,-,2012-09-12
+spring-data-mongodb,1.1.0.M2,-,2012-07-25
+spring-data-mongodb,1.1.0.BUILD-SNAPSHOT,-,2013-03-08
+spring-data-mongodb,1.1.0.BUILD-SNAPSHOT,+,2012-08-09
+spring-data-mongodb,1.1.0.RELEASE,-,2012-10-10
+spring-expression,3.1.2.RELEASE,-,2012-08-09
+spring-expression,3.1.2.RELEASE,+,2012-07-31

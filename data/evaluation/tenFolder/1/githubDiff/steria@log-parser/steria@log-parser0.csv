@@ -1,0 +1,13 @@
+library,version,sign,date
+jackson-core-asl,1.9.5,+,2013-07-09
+com.springsource.org.junit,4.7.0,-,2013-07-03
+com.springsource.org.junit,4.7.0,+,2013-07-03
+openjpa,2.2.2,-,2013-06-28
+openjpa,2.2.2,+,2013-06-28
+plexus-utils,1.1,+,2013-07-01
+plexus-utils,1.1,-,2013-07-01
+commons-lang,2.1,+,2013-07-01
+commons-lang,2.1,+,2013-07-03
+commons-lang,2.1,-,2013-07-01
+commons-lang,2.1,-,2013-07-02
+commons-lang,2.1,-,2013-07-03

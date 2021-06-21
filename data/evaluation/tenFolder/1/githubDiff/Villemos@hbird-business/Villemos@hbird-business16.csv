@@ -1,0 +1,4 @@
+library,version,sign,date
+cfdp,0.0.1-SNAPSHOT,-,2012-12-11
+camel-core,2.10.2,+,2013-04-09
+camel-test,2.10.2,+,2013-04-09

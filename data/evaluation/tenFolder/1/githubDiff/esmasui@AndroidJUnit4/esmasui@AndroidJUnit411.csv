@@ -1,0 +1,10 @@
+library,version,sign,date
+android-junit3-dbunit,0.5,-,2014-07-06
+android-junit3-dbunit,0.5-SNAPSHOT,-,2014-07-06
+android-junit3-dbunit,0.2-SNAPSHOT,-,2013-01-25
+android-junit3-dbunit,0.1,-,2013-01-25
+android-junit3-dbunit,0.1-SNAPSHOT,-,2013-01-25
+android-test,4.1.1.4,+,2012-09-24
+android-test,4.1.1.4,+,2012-09-18
+android,4.1.1.4,+,2012-09-24
+android,4.1.1.4,+,2012-09-18

@@ -1,0 +1,7 @@
+library,version,sign,date
+beanvalidation-tck-tests,1.1.0-SNAPSHOT,-,2012-11-09
+beanvalidation-tck-tests,1.1.0.Beta1,-,2012-11-09
+beanvalidation-tck-tests,1.1.0.Beta1,+,2012-11-09
+beanvalidation-standalone-container-adapter,1.1.0-SNAPSHOT,-,2012-11-09
+beanvalidation-standalone-container-adapter,1.1.0.Beta1,-,2012-11-09
+beanvalidation-standalone-container-adapter,1.1.0.Beta1,+,2012-11-09

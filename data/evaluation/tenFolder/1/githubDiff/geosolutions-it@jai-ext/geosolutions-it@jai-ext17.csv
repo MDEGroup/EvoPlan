@@ -1,0 +1,5 @@
+library,version,sign,date
+jt-stats,1.0-SNAPSHOT,-,2013-10-10
+jt-utilities,1.0-SNAPSHOT,-,2013-10-10
+jt-utilities,1.0-SNAPSHOT,+,2013-10-07
+jt-iterators,1.0-SNAPSHOT,-,2013-10-10

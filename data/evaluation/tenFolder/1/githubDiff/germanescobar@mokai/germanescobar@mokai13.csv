@@ -1,0 +1,13 @@
+library,version,sign,date
+nettosphere,1.4.0,-,2013-06-19
+nettosphere,1.4.0,+,2012-03-16
+jetty-deploy,7.1.6.v20100715,+,2011-07-09
+jetty-deploy,7.1.6.v20100715,-,2012-03-16
+jogger-core,1.0.0-SNAPSHOT,-,2012-07-09
+jogger-core,0.4.3-SNAPSHOT,-,2012-07-30
+jogger-core,1.0.0-SNAPSHOT,+,2012-03-16
+springockito,1.0.4,+,2012-07-09
+jogger-spring,1.0.0-SNAPSHOT,-,2012-07-09
+jogger-spring,0.4.3-SNAPSHOT,-,2012-07-30
+jogger-spring,1.0.0-SNAPSHOT,+,2012-03-16
+jasypt,1.7.1,+,2011-06-23

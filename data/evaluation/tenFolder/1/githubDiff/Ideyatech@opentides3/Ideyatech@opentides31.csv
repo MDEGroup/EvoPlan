@@ -1,0 +1,17 @@
+library,version,sign,date
+core,3.0.1-SNAPSHOT,-,2014-02-10
+core,3.0.1-SNAPSHOT,+,2014-01-07
+core,3.0.1-SNAPSHOT,-,2013-10-17
+core,3.0.1-SNAPSHOT,+,2013-10-17
+core,3.1.0,+,2014-02-10
+jsp-api,2.1,-,2013-10-17
+jsp-api,2.1,-,2014-02-10
+jsp-api,2.1,+,2014-01-07
+jsp-api,2.1,+,2014-02-10
+jsp-api,2.1,+,2013-10-17
+servlet-api,2.5,+,2014-02-10
+servlet-api,2.5,-,2013-10-17
+servlet-api,2.5,-,2013-10-29
+servlet-api,2.5,-,2014-02-10
+servlet-api,2.5,+,2014-01-07
+servlet-api,2.5,+,2013-10-17

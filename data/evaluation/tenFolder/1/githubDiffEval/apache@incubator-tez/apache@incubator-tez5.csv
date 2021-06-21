@@ -1,0 +1,17 @@
+library,version,sign,date
+tez-common,0.3.0-SNAPSHOT,+,2013-10-03
+tez-common,0.3.0-SNAPSHOT,-,2014-01-11
+jsr305,2.0.3,+,2014-04-06
+hadoop-yarn-common,3.0.0-SNAPSHOT,-,2013-05-01
+hadoop-common,3.0.0-SNAPSHOT,-,2013-05-01
+jettison,1.3.4,+,2014-01-30
+guava,15.0,-,2014-02-07
+guava,15.0,+,2014-01-24
+tez-runtime-internals,0.3.0-SNAPSHOT,+,2013-10-03
+tez-runtime-internals,0.3.0-SNAPSHOT,-,2014-01-11
+guice,3.0,-,2013-05-01
+guice,3.0,+,2013-05-29
+tez-mapreduce,0.3.0-SNAPSHOT,+,2013-10-03
+tez-mapreduce,0.3.0-SNAPSHOT,-,2014-01-11
+tez-api,0.3.0-SNAPSHOT,+,2013-10-03
+tez-api,0.3.0-SNAPSHOT,-,2014-01-11

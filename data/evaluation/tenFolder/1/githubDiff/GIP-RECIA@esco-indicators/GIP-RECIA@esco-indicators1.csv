@@ -1,0 +1,17 @@
+library,version,sign,date
+jstl,1.2,+,2012-10-26
+jstl,1.2,+,2012-06-29
+jstl,1.2,-,2012-10-26
+easymock,2.0,+,2012-10-26
+easymock,2.0,-,2012-10-26
+junit,4.12,+,2012-10-26
+junit,4.8.2,+,2012-06-15
+junit,4.8.2,-,2012-10-26
+junit,4.8.2,+,2012-06-01
+spring-webmvc,3.0.6.RELEASE,+,2012-06-18
+spring-webmvc,3.0.6.RELEASE,-,2012-10-26
+indicators-domain-services,1.0.0-0,-,2012-10-26
+jackson-mapper-asl,1.5.3,-,2012-06-01
+cas-client-core,3.1.12,-,2012-10-03
+cas-client-core,3.2.1,-,2012-10-26
+cas-client-core,3.1.12,+,2012-06-29

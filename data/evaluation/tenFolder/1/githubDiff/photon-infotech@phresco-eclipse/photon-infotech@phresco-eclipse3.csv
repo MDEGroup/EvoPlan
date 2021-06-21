@@ -1,0 +1,16 @@
+library,version,sign,date
+jersey-servlet,1.13,+,2012-08-17
+phresco-pom,2.0.0.10003-SNAPSHOT,+,2012-08-17
+phresco-pom,2.0.0.11001-SNAPSHOT,-,2012-08-31
+phresco-pom,2.0.0.10003-SNAPSHOT,-,2012-08-31
+phresco-pom,2.0.0.10003-SNAPSHOT,+,2012-07-30
+phresco-pom,2.0.0.10003-SNAPSHOT,-,2012-08-24
+phresco-pom,2.0.0.14000,-,2012-09-11
+phresco-service-client,2.0.0.10003-SNAPSHOT,+,2012-08-17
+phresco-service-client,2.0.0.11001-SNAPSHOT,-,2012-08-31
+phresco-service-client,2.0.0.10003-SNAPSHOT,-,2012-08-31
+phresco-service-client,2.0.0.10003-SNAPSHOT,+,2012-07-30
+phresco-service-client,2.0.0.10003-SNAPSHOT,-,2012-08-24
+phresco-service-client,2.0.0.14000,-,2012-09-11
+phresco-framework-impl,1.2.0.8004-SNAPSHOT,-,2012-07-30
+phresco-framework,1.2.0.8004-SNAPSHOT,-,2012-07-30

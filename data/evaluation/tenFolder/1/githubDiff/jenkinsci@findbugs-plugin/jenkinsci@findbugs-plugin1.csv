@@ -1,0 +1,17 @@
+library,version,sign,date
+xercesImpl,2.11.0,+,2012-10-05
+xercesImpl,2.9.1,-,2011-01-10
+xercesImpl,2.11.0,+,2018-10-11
+xercesImpl,2.9.1,+,2014-03-10
+xercesImpl,2.11.0,-,2015-08-31
+xercesImpl,2.9.1,+,2012-10-05
+xercesImpl,2.9.1,+,2010-09-14
+xercesImpl,2.9.1,+,2010-08-03
+xercesImpl,2.11.0,-,2014-03-10
+xercesImpl,2.9.1,-,2012-10-05
+xercesImpl,2.11.0,+,2014-03-10
+xercesImpl,2.9.1,+,2011-02-07
+xercesImpl,2.9.1,-,2018-05-01
+xercesImpl,2.11.0,-,2018-10-08
+xercesImpl,2.9.1,-,2014-03-10
+spotbugs,3.1.11,+,2018-12-06

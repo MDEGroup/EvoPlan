@@ -1,0 +1,6 @@
+library,version,sign,date
+tomcat-servlet-api,7.0.22,+,2013-11-15
+tomcat-servlet-api,7.0.22,-,2014-01-26
+scribe-mapping,0.1,-,2014-05-29
+scribe-mapping,0.1-SNAPSHOT,-,2014-01-26
+scribe-mapping,0.2-SNAPSHOT,-,2015-11-25

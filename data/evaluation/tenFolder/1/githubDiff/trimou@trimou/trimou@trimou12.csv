@@ -1,0 +1,10 @@
+library,version,sign,date
+cdi-api,1.0-SP4,-,2013-07-03
+cdi-api,1.0-SP4,-,2013-07-12
+cdi-api,1.0-SP4,+,2013-07-03
+cdi-api,1.0-SP4,-,2013-07-16
+cdi-api,1.0-SP4,+,2013-07-12
+trimou-core,1.8.3.Final,-,2016-03-05
+trimou-core,1.8.1.Final,-,2015-09-11
+trimou-core,1.8.1.Final,+,2015-08-15
+trimou-core,1.8.2.Final,-,2015-12-08

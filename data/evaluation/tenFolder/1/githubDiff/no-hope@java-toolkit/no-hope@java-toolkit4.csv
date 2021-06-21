@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.12,+,2015-04-29
+junit,4.11,-,2015-04-29
+joda-time,2.5,+,2014-12-05
+joda-time,2.3,-,2014-12-05
+joda-time,2.5,-,2015-04-29
+joda-time,2.7,+,2015-04-29
+commons-lang3,3.1,-,2013-10-29
+commons-lang3,3.4,+,2015-04-29
+commons-lang3,3.3,-,2015-04-29
+commons-lang3,3.2.1,-,2014-03-17
+commons-lang3,3.2.1,+,2013-10-29
+commons-lang3,3.3,+,2014-03-17
+slf4j-logging,0.1.4-SNAPSHOT,-,2013-10-10

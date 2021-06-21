@@ -1,0 +1,14 @@
+library,version,sign,date
+logback-classic,1.0.6,-,2013-03-04
+logback-classic,1.0.6,-,2013-03-05
+logback-classic,1.0.6,+,2013-02-05
+logback-classic,1.0.6,+,2013-03-04
+logback-classic,1.0.6,+,2013-03-05
+logback-classic,1.0.6,-,2013-02-05
+citrus-springext-all,3.2.1,-,2013-03-05
+citrus-springext-all,3.2.1,-,2013-02-05
+citrus-springext-all,3.2.1,-,2013-03-04
+citrus-springext-all,3.2.1,+,2013-03-04
+citrus-springext-all,3.2.1,+,2013-02-05
+citrus-springext-all,3.2.1,+,2013-03-05
+citrus-springext-all,3.2.0,-,2013-01-21

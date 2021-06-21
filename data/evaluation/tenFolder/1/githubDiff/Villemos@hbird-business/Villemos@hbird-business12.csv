@@ -1,0 +1,8 @@
+library,version,sign,date
+mockito-all,1.9.0,+,2013-04-27
+camel-spring,2.4.0,-,2013-04-03
+camel-core,2.10.2,+,2013-04-27
+commons-lang3,3.1,-,2013-03-22
+commons-lang3,3.1,+,2013-04-27
+commons-lang3,3.1,+,2013-03-22
+netty,3.2.7.Final,+,2013-03-22

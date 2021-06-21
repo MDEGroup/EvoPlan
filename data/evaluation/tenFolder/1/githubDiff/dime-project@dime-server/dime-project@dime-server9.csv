@@ -1,0 +1,16 @@
+library,version,sign,date
+dime-semantic,0.0.1-SNAPSHOT,+,2013-06-26
+dime-semantic,0.0.1-SNAPSHOT,-,2013-06-26
+commons-codec,1.4,-,2013-06-26
+commons-codec,1.4,+,2013-06-26
+el-api,1.0,-,2013-06-26
+el-api,1.0,+,2013-06-26
+jsp-api,2.1,-,2013-06-26
+jsp-api,2.1,+,2013-06-26
+json,20090211,-,2013-06-26
+json,20090211,+,2013-06-26
+smile-rules-core,0.0.4.0-SNAPSHOT,-,2013-07-29
+commons-io,2.0.1,-,2013-06-26
+commons-io,2.0.1,+,2013-06-26
+dime-common,0.0.1-SNAPSHOT,+,2013-06-26
+dime-common,0.0.1-SNAPSHOT,-,2013-06-26

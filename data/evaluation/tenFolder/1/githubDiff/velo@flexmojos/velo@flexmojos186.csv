@@ -1,0 +1,11 @@
+library,version,sign,date
+groovy-all,1.6.2,+,2013-11-17
+jta,1.1,+,2013-11-17
+jdo2-api,2.3-ea,+,2013-11-17
+antlr,2.7.7,+,2013-11-17
+antlr,2.7.7,-,2013-11-17
+persistence-api,1.0,-,2013-11-17
+persistence-api,1.0,+,2013-11-17
+granite-generator-share,2.3.2.GA,+,2013-11-17
+granite-generator,2.3.2.GA,+,2013-11-17
+granite-generator,1.1.0,-,2013-11-17

@@ -1,0 +1,13 @@
+library,version,sign,date
+pre-aggregate,0.0.1-SNAPSHOT,-,2013-04-22
+pre-aggregate,0.0.1-SNAPSHOT,+,2013-04-22
+pre-aggregate,0.0.1-SNAPSHOT,-,2013-07-08
+pre-aggregate,0.0.1-SNAPSHOT,+,2013-07-08
+http,20070405,+,2013-04-22
+http,20070405,+,2013-07-08
+http,20070405,-,2013-07-08
+json,20090211,-,2013-07-08
+json,20090211,+,2013-07-08
+json,20090211,+,2013-04-22
+signpost-core,1.2,+,2013-07-08
+jsoup,1.7.2,+,2013-07-08

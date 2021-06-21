@@ -1,0 +1,11 @@
+library,version,sign,date
+slf4j-api,1.7.5,+,2014-06-23
+slf4j-api,1.6.4,-,2014-06-23
+slf4j-api,1.7.5,-,2015-01-06
+slf4j-api,1.7.5,-,2014-06-23
+slf4j-api,1.7.5,+,2013-07-15
+slf4j-api,1.6.4,-,2013-07-15
+commons-dbutils,1.5,-,2013-08-22
+commons-dbutils,1.5,+,2013-05-29
+commons-dbutils,1.5,-,2014-08-11
+commons-dbutils,1.5,+,2013-01-28

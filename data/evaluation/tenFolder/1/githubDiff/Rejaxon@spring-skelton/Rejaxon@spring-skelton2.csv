@@ -1,0 +1,10 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,+,2013-03-16
+javax.servlet-api,3.0.1,-,2013-03-26
+junit,4.11,-,2013-03-26
+junit,4.11,+,2013-03-26
+hamcrest-all,1.3,+,2013-03-21
+hamcrest-all,1.3,-,2013-03-26
+lombok,0.12.0,+,2013-07-22
+lombok,0.11.8,+,2013-07-19
+lombok,0.11.8,-,2013-07-22

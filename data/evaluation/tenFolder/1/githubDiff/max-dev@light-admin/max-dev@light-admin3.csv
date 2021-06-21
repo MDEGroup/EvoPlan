@@ -1,0 +1,14 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,-,2014-12-14
+hibernate-validator,5.0.3.Final,-,2014-12-14
+logback-classic,1.1.2,-,2015-05-30
+validation-api,1.1.0.Final,-,2014-12-14
+light-logging-configurer,1.0.0.BUILD-SNAPSHOT,-,2015-05-30
+light-logging-configurer,1.0.0.BUILD-SNAPSHOT,+,2015-05-30
+hsqldb,2.3.1,-,2014-12-14
+hibernate-entitymanager,4.3.6.Final,-,2014-12-14
+javax.servlet.jsp-api,2.3.1,-,2014-12-14
+javax.servlet.jsp-api,2.3.1,-,2015-05-30
+lightadmin,1.2.0.BUILD-SNAPSHOT,+,2015-05-30
+lightadmin,1.1.0.BUILD-SNAPSHOT,-,2015-05-30
+lightadmin,1.2.0.BUILD-SNAPSHOT,-,2015-05-30

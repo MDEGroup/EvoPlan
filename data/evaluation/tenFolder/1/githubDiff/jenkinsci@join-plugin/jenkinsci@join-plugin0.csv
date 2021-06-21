@@ -1,0 +1,15 @@
+library,version,sign,date
+flexible-publish,0.15.2,+,2016-05-22
+maven-plugin,1.324,-,2009-10-01
+maven-plugin,1.318,-,2009-09-18
+maven-plugin,1.318,+,2009-09-03
+maven-plugin,2.12,+,2016-05-22
+downstream-ext,1.6,-,2012-04-06
+downstream-ext,1.6,+,2011-07-11
+parameterized-trigger,2.0,-,2010-02-09
+parameterized-trigger,2.10,-,2012-04-06
+parameterized-trigger,2.8,-,2011-05-17
+parameterized-trigger,2.13,-,2016-05-22
+parameterized-trigger,2.4,-,2011-04-11
+parameterized-trigger,2.0,+,2009-08-01
+matrix-project,1.6,+,2016-05-22

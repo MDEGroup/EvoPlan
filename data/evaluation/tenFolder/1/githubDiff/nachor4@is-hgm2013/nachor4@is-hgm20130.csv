@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.10,+,2013-10-23
+junit,4.10,-,2013-10-23
+junit,4.10,+,2013-10-20
+mysql-connector-java,5.1.17,+,2013-10-20
+commons-codec,1.4,+,2013-10-22
+slf4j-simple,1.6.4,+,2013-10-22
+gson,2.2.4,+,2013-10-23
+activejdbc,1.4.8,+,2013-10-20

@@ -1,0 +1,12 @@
+library,version,sign,date
+barbecue,1.5-beta1,-,2015-01-29
+xml-apis,1.4.01,+,2015-01-24
+xml-apis,1.4.01,-,2015-01-29
+itext,2.1.7,-,2015-01-29
+itext,2.1.7,+,2015-01-24
+poi,3.11,+,2015-02-14
+jasperreports,6.0.0,+,2015-01-24
+jasperreports,5.6.0,-,2015-01-29
+jasperreports,6.0.0,-,2015-01-29
+servlet-api,2.5,-,2015-01-29
+servlet-api,2.5,+,2015-01-24

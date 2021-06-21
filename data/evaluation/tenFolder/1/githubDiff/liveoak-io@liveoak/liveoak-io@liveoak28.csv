@@ -1,0 +1,4 @@
+library,version,sign,date
+base64,2.3.8,+,2014-05-13
+base64,2.3.8,-,2014-05-27
+bcprov-jdk16,1.46,+,2014-05-13

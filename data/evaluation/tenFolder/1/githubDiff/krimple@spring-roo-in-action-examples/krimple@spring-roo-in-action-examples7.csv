@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.9,-,2011-11-13
+junit,4.9,+,2011-11-13
+junit,4.8.2,-,2011-11-13
+commons-lang3,3.0.1,+,2011-11-13
+commons-lang3,3.0.1,-,2011-11-13
+flexjson,2.1,+,2011-11-13
+flexjson,2.1,-,2011-11-13
+servlet-api,2.5,+,2011-11-13
+servlet-api,2.5,-,2011-11-13
+log4j,1.2.16,-,2011-11-13
+log4j,1.2.16,+,2011-11-13

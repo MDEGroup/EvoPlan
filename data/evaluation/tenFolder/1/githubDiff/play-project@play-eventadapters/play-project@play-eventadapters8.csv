@@ -1,0 +1,4 @@
+library,version,sign,date
+play-commons-constants,1.0-SNAPSHOT,-,2013-01-18
+play-commons-constants,1.1-SNAPSHOT,-,2013-01-18
+jdbm,3.0-SNAPSHOT,-,2013-01-31

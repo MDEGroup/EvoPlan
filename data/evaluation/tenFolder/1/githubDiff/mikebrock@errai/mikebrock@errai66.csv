@@ -1,0 +1,3 @@
+library,version,sign,date
+maven-plugin-anno,1.4.0,+,2013-01-25
+maven-plugin-anno,1.4.0,-,2013-01-25

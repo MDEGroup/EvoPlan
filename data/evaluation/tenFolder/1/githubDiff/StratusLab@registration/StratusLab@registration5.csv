@@ -1,0 +1,17 @@
+library,version,sign,date
+org.restlet.ext.fileupload,2.0.4,-,2011-11-13
+org.restlet.ext.fileupload,2.0.10,-,2012-07-05
+junit,4.9,-,2011-09-17
+junit,4.10,-,2012-07-05
+junit,4.8.2,-,2011-09-04
+mail,1.4.1,-,2011-09-04
+mail,1.4.4,-,2012-07-05
+org.restlet.ext.servlet,2.0.4,-,2011-11-13
+org.restlet.ext.servlet,2.0.10,-,2012-07-05
+org.restlet.ext.freemarker,2.0.4,-,2011-11-13
+org.restlet.ext.freemarker,2.0.10,-,2012-07-05
+org.restlet,2.0.4,-,2011-11-13
+org.restlet,2.0.10,-,2012-07-05
+org.restlet.ext.xml,2.0.4,-,2011-11-13
+org.restlet.ext.xml,2.0.10,-,2012-07-05
+servlet-api,2.5,-,2012-07-05

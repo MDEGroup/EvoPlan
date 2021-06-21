@@ -1,0 +1,4 @@
+library,version,sign,date
+jpos-controls,1.12.2,+,2011-10-16
+jpos,1.12.2,+,2011-10-16
+log4j,1.2.15,+,2011-10-16

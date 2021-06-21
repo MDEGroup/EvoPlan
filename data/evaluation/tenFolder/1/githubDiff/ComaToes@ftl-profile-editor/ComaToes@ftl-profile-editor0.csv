@@ -1,0 +1,4 @@
+library,version,sign,date
+log4j-core,2.0-beta1,+,2012-09-27
+log4j-api,2.0-beta1,+,2012-09-27
+log4j,2.0-beta1,+,2012-09-27

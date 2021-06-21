@@ -1,0 +1,13 @@
+library,version,sign,date
+dbunit-maven-plugin,1.0-beta-3,+,2011-02-02
+dbunit-maven-plugin,1.0-beta-3,+,2011-01-24
+mysql-connector-java,5.1.14,+,2011-02-02
+hsqldb,1.8.0.7,+,2011-01-12
+ToxOtis-core,0.5.2,+,2011-01-13
+ToxOtis-core,0.5.4-SNAPSHOT,+,2011-02-02
+ToxOtis-core,0.5.4-SNAPSHOT,-,2011-02-08
+ToxOtis-core,0.5.5,-,2011-03-30
+ToxOtis-core,0.5.2,-,2011-03-30
+hibernate-core,3.6.0.Final,-,2011-01-12
+hibernate-core,3.3.0.SP1,+,2011-02-02
+javassist,3.8.1.GA,+,2011-01-12

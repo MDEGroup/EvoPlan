@@ -1,0 +1,7 @@
+library,version,sign,date
+google-api-client,1.15.0-rc,+,2013-07-09
+google-http-client-jackson,1.15.0-rc,-,2013-07-11
+google-api-client-android,1.15.0-rc,-,2013-07-11
+gson,2.2.4,+,2013-07-15
+gson,2.2.4,-,2013-07-15
+gson,2.2.4,+,2013-07-11

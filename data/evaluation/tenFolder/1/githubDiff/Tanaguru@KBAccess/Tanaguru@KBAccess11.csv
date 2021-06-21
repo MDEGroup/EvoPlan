@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,3.8.1,+,2013-06-27
+junit,3.8.1,-,2013-06-10
+junit,3.8.1,+,2013-06-10
+junit,3.8.1,-,2013-08-29
+junit,3.8.1,-,2013-06-27
+mysql-connector-java,5.1.9,-,2013-06-10

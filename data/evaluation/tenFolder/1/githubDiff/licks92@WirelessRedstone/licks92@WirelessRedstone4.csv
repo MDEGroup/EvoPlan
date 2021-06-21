@@ -1,0 +1,5 @@
+library,version,sign,date
+spigot-api,1.12.2-R0.1-SNAPSHOT,+,2019-07-21
+spigot-api,1.8.8-R0.1-SNAPSHOT,+,2019-07-21
+json-simple,1.1.1,+,2019-07-21
+sentry,1.7.23,-,2019-07-22

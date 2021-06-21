@@ -1,0 +1,7 @@
+library,version,sign,date
+commons-cli,1.2,+,2014-03-12
+json,20090211,-,2014-01-23
+json,20141113,+,2014-03-12
+poi,3.8-beta5,-,2014-01-22
+commons-io,2.4,+,2014-03-12
+poi-ooxml,3.8-beta5,-,2014-01-22

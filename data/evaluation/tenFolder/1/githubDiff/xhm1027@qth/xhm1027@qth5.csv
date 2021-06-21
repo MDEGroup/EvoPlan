@@ -1,0 +1,4 @@
+library,version,sign,date
+logback-classic,0.9.24,+,2012-08-08
+logback-classic,0.9.24,-,2012-08-08
+jakarta.commons.fileupload,1.2.1,+,2012-08-14

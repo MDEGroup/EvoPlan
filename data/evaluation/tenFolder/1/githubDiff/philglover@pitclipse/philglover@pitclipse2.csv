@@ -1,0 +1,17 @@
+library,version,sign,date
+org.pitest.pitclipse.ui.tests,2.0.1,-,2020-02-06
+org.pitest.pitclipse.ui.tests,2.0.0,-,2019-10-03
+org.pitest.pitclipse.ui.tests,2.0.2,-,2020-02-18
+org.pitest.pitclipse.ui.tests,2.0.0-SNAPSHOT,-,2019-08-12
+org.pitest.pitclipse.runner,2.0.1,-,2020-02-06
+org.pitest.pitclipse.runner,2.0.0,-,2019-10-03
+org.pitest.pitclipse.runner,2.0.2,-,2020-02-18
+org.pitest.pitclipse.runner,2.0.0-SNAPSHOT,-,2019-08-12
+org.pitest.pitclipse.ui,2.0.1,-,2020-02-06
+org.pitest.pitclipse.ui,2.0.0,-,2019-10-03
+org.pitest.pitclipse.ui,2.0.2,-,2020-02-18
+org.pitest.pitclipse.ui,2.0.0-SNAPSHOT,-,2019-08-12
+org.pitest.pitclipse.runner.tests,2.0.1,-,2020-02-06
+org.pitest.pitclipse.runner.tests,2.0.0,-,2019-10-03
+org.pitest.pitclipse.runner.tests,2.0.2,-,2020-02-18
+org.pitest.pitclipse.runner.tests,2.0.0-SNAPSHOT,-,2019-08-12

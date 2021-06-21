@@ -1,0 +1,11 @@
+library,version,sign,date
+grains-core,0.8.0-SNAPSHOT,-,2013-06-18
+grains-core,0.9.1-SNAPSHOT,-,2013-06-12
+grains-core,0.9.0-SNAPSHOT,+,2013-05-08
+grains-core,0.9.0-SNAPSHOT,-,2013-06-12
+grains-core,0.9.0-SNAPSHOT,+,2013-05-14
+grains-core,0.8.0,-,2013-06-18
+grains-core,0.9.0-SNAPSHOT,+,2013-06-06
+grains-core,0.9.0,-,2013-06-12
+junit,4.11,+,2013-06-06
+junit,4.11,+,2013-05-14

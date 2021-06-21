@@ -1,0 +1,8 @@
+library,version,sign,date
+jakarta.mail,1.6.5,+,2020-03-02
+org.eclipse.scout.rt.platform,10-SNAPSHOT,-,2019-07-09
+org.eclipse.scout.rt.platform,9.0.0-SNAPSHOT,-,2018-12-19
+org.eclipse.scout.rt.platform,8.1.0-SNAPSHOT,-,2018-09-07
+org.eclipse.scout.rt.platform,8.0.0-SNAPSHOT,-,2018-06-25
+org.eclipse.scout.rt.platform,10.0.0-SNAPSHOT,-,2019-03-27
+jakarta.activation,1.2.2,+,2020-03-02

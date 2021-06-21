@@ -1,0 +1,3 @@
+library,version,sign,date
+jena-arq,2.13.0,+,2015-03-11
+jena-core,2.13.0,+,2015-03-11

@@ -1,0 +1,16 @@
+library,version,sign,date
+slf4j-api,1.6.2,-,2012-01-10
+slf4j-api,1.6.2,+,2011-09-05
+logback-classic,0.9.29,-,2011-09-05
+logback-classic,0.9.29,+,2011-07-18
+logback-classic,0.9.29,-,2011-08-25
+logback-classic,0.9.29,+,2011-08-25
+logback-classic,0.9.29,+,2011-09-05
+logback-classic,0.9.29,-,2012-01-10
+guava,10.0,-,2012-01-10
+guava,r09,+,2011-08-25
+guava,10.0,-,2012-01-09
+guava,10.0,+,2011-09-05
+guava,r09,-,2011-08-25
+guava,r09,-,2011-09-05
+guava,10.0,+,2012-01-09

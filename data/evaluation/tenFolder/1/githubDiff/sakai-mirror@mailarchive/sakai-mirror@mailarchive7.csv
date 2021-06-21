@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-logging,1.0.4,-,2011-06-29
+commons-logging,1.0.4,-,2009-11-22
+log4j,1.2.13,-,2011-06-29
+log4j,1.2.13,+,2011-06-29

@@ -1,0 +1,2 @@
+library,version,sign,date
+${build.maven.sharedresources.artifactid},1.0-SNAPSHOT,-,2010-08-20

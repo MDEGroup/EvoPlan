@@ -1,0 +1,8 @@
+library,version,sign,date
+litmus-testsupport,1.6,-,2018-07-08
+commons-io,2.4,+,2013-06-12
+commons-lang,2.6,-,2013-06-13
+commons-lang,2.6,+,2013-06-12
+commons-lang,2.6,+,2013-06-13
+maven-verifier,0.0.2-SNAPSHOT,-,2013-06-13
+maven-verifier,1.4,+,2013-06-13

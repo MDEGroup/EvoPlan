@@ -1,0 +1,15 @@
+library,version,sign,date
+validation-api,1.0.0.GA,-,2012-04-19
+validation-api,1.0.0.GA,-,2012-02-04
+validation-api,1.0.0.GA,-,2012-03-20
+validation-api,1.0.0.GA,+,2012-04-19
+validation-api,1.0.0.GA,+,2012-02-07
+validation-api,1.0.0.GA,+,2012-03-20
+hibernate-entitymanager,4.0.1.Final,-,2012-03-20
+hibernate-entitymanager,4.0.0.Alpha2,-,2012-02-04
+hibernate-entitymanager,4.0.1.Final,+,2012-02-04
+hibernate-entitymanager,4.0.1.Final,-,2012-02-09
+hibernate-entitymanager,4.0.1.Final,+,2012-02-07
+hibernate-entitymanager,4.0.1.Final,+,2012-02-09
+hibernate-entitymanager,4.0.1.Final,-,2012-02-07
+hibernate-entitymanager,4.0.1.Final,+,2012-03-20

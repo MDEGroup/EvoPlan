@@ -1,0 +1,4 @@
+library,version,sign,date
+bw-util-tz,4.1.0-SNAPSHOT,+,2019-11-14
+bw-util-tz,4.1.0-SNAPSHOT,-,2019-11-17
+bw-util-tz,4.1.0,+,2019-11-17

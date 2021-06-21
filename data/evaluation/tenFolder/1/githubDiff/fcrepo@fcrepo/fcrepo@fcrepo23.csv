@@ -1,0 +1,11 @@
+library,version,sign,date
+slf4j-api,1.5.10,-,2011-08-30
+slf4j-api,1.5.2,-,2009-12-19
+slf4j-api,1.5.11,-,2011-08-08
+slf4j-api,1.5.10,+,2009-12-19
+log4j-over-slf4j,1.5.10,-,2011-08-30
+log4j-over-slf4j,1.5.11,-,2011-08-08
+log4j-over-slf4j,1.5.10,+,2009-12-19
+mockito-core,1.9.5-rc1,-,2012-11-15
+mockito-core,1.9.5-rc1,+,2012-08-02
+servlet-api,2.4,-,2011-08-08

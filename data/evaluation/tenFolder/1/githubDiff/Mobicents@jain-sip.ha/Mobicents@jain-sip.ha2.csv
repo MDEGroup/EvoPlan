@@ -1,0 +1,10 @@
+library,version,sign,date
+hazelcast,3.4,-,2015-02-10
+hazelcast,3.0.2,-,2013-10-23
+hazelcast,3.1.2,-,2013-11-30
+log4j,1.2.17,+,2013-10-07
+log4j,1.2.17,-,2013-10-15
+log4j,1.2.17,+,2013-10-15
+sip-balancer-jar,1.6.0.FINAL,+,2013-10-07
+sip-balancer-jar,1.7.0-SNAPSHOT,-,2013-11-30
+sip-balancer-jar,1.6.0.FINAL,-,2015-02-19

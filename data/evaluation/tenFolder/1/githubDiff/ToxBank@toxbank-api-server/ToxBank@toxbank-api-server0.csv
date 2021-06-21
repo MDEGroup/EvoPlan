@@ -1,0 +1,15 @@
+library,version,sign,date
+restnet-a,0.0.1-SNAPSHOT,-,2011-11-06
+junit,4.8.1,-,2012-02-13
+junit,4.8.1,+,2012-02-13
+restnet-c,0.0.1-SNAPSHOT,-,2011-11-06
+restnet-rdf,0.0.1-SNAPSHOT,-,2011-11-06
+restnet-i,0.0.1-SNAPSHOT,-,2011-11-06
+toxbank-api-beans,0.0.2-SNAPSHOT,-,2012-07-27
+toxbank-api-beans,0.0.1-SNAPSHOT,+,2012-02-13
+toxbank-api-beans,0.0.1-SNAPSHOT,-,2012-02-13
+toxbank-api-beans,0.0.3,-,2013-01-12
+toxbank-api-beans,0.0.1-SNAPSHOT,-,2012-07-03
+toxbank-api-beans,0.0.1,-,2012-07-27
+servlet-api,2.5,-,2012-02-13
+servlet-api,2.5,+,2012-02-13

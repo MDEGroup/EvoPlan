@@ -1,0 +1,5 @@
+library,version,sign,date
+jackson-datatype-jsr310,2.8.0.rc2,-,2016-07-20
+jackson-datatype-joda,2.8.1,+,2016-07-20
+spring-jpa-services,1.0-SNAPSHOT,+,2016-07-20
+spring-jpa-services,1.0-SNAPSHOT,-,2016-07-20

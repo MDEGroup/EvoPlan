@@ -1,0 +1,13 @@
+library,version,sign,date
+slf4j-api,1.6.6,+,2012-09-17
+hibernate-jpa-2.0-api,1.0.1.Final,+,2012-09-18
+cglib,2.2.2,+,2012-09-17
+junit,4.8.2,-,2012-09-17
+junit,4.7,+,2012-09-18
+cloudfoundry-runtime,0.8.1,+,2012-09-18
+mysql-connector-java,5.1.21,+,2012-09-18
+hibernate-entitymanager,4.1.6.Final,+,2012-09-17
+slf4j-jcl,1.6.6,+,2012-09-17
+commons-dbcp,1.4,+,2012-09-17
+log4j,1.2.15,+,2012-09-18
+log4j,1.2.17,+,2012-09-17

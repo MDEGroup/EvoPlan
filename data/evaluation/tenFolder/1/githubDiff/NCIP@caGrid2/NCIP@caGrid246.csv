@@ -1,0 +1,14 @@
+library,version,sign,date
+jdepend,2.9.1,-,2014-01-14
+jdepend,2.9.1,-,2014-01-09
+jdepend,2.9.1,+,2014-01-09
+jdepend,2.9.1,+,2014-01-14
+cagrid-metadatautils,1.4,-,2014-01-09
+cagrid-metadatautils,1.4,+,2014-01-14
+cagrid-metadatautils,1.4,+,2014-02-11
+cagrid-metadatautils,1.4,+,2014-01-09
+cagrid-metadatautils,1.4,-,2014-01-14
+cagrid-core-tests,1.2,-,2014-01-14
+cagrid-core-tests,1.2,+,2014-01-14
+cagrid-core-tests,1.2,-,2014-01-09
+cagrid-core-tests,1.2,+,2014-01-09

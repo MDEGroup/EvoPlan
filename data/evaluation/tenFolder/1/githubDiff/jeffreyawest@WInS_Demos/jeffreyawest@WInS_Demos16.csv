@@ -1,0 +1,6 @@
+library,version,sign,date
+ops-domain-model,3.0,+,2012-11-26
+ops-domain-services-impl,3.0,+,2012-11-26
+spring-jms,3.2.0.RELEASE,+,2012-11-26
+spring-web,3.2.0.RELEASE,+,2012-11-26
+ops-domain-services-api,3.0,+,2012-11-26

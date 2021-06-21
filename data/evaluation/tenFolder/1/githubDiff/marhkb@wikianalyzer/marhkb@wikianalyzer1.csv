@@ -1,0 +1,12 @@
+library,version,sign,date
+guice-servlet,3.0,+,2013-05-03
+validation-api,1.0.0.GA,-,2013-04-17
+validation-api,1.0.0.GA,+,2013-04-17
+smartgwt,3.1,+,2013-04-24
+gson,2.2.2,+,2013-05-04
+gin,2.0.0,+,2013-05-06
+gin,2.0.0,-,2013-05-06
+gin,2.0.0,+,2013-04-19
+gin,2.0.0,-,2013-04-23
+gin,2.0.0,+,2013-04-23
+gwt-visualization,1.0.2,+,2013-04-23

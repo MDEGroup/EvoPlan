@@ -1,0 +1,5 @@
+library,version,sign,date
+compatibility-v4,r6,+,2012-01-10
+compatibility-v4,r6,-,2012-03-08
+compatibility-v4,r6,+,2011-12-12
+compatibility-v4,r6,+,2012-03-08

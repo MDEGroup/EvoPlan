@@ -1,0 +1,3 @@
+library,version,sign,date
+reflections,0.9.9,+,2014-11-14
+dom4j,[1.6.1,1.7-SNAPSHOT),+,2014-11-21

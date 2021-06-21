@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.12,+,2016-10-20
+junit,4.12,+,2016-10-17
+commons-codec,1.10,+,2018-01-12
+commons-codec,1.7,+,2016-10-17
+commons-codec,1.10,+,2016-10-20
+commons-codec,1.10,-,2017-12-07

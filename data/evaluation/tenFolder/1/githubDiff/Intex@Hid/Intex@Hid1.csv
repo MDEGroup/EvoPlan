@@ -1,0 +1,9 @@
+library,version,sign,date
+hibernate-ehcache,4.1.9.Final,+,2013-08-08
+junit,3.8.1,-,2013-08-08
+hibernate-validator,5.0.1.Final,+,2013-08-08
+hibernate-entitymanager,4.1.2.Final,+,2013-08-08
+persistence-api,1.0,+,2013-08-08
+commons-dbcp,1.2.2,+,2013-08-08
+hibernate-c3p0,4.1.9.Final,+,2013-08-08
+javassist,3.8.0.GA,+,2013-08-08

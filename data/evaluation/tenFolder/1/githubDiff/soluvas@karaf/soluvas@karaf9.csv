@@ -1,0 +1,4 @@
+library,version,sign,date
+bndlib,1.50.0,-,2012-01-08
+bndlib,1.50.0,+,2012-01-08
+org.osgi.core,4.2.0,+,2012-04-30

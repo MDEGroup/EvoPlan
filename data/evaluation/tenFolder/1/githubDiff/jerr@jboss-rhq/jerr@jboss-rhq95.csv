@@ -1,0 +1,5 @@
+library,version,sign,date
+byteman,1.2.1,+,2012-10-18
+byteman,1.2.1,-,2012-08-02
+byteman,1.5.2,+,2011-05-06
+byteman,1.2.0.2,-,2009-12-28

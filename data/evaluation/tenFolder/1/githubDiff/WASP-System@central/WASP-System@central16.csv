@@ -1,0 +1,6 @@
+library,version,sign,date
+testng,6.8,-,2013-07-23
+testng,6.8,+,2013-04-03
+mockito-core,1.9.0,-,2013-07-23
+mockito-core,1.9.0,+,2013-04-03
+genomeMetadata,0.1.0-SNAPSHOT,+,2013-07-23

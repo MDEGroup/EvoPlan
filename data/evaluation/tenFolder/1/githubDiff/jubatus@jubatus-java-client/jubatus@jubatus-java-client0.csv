@@ -1,0 +1,9 @@
+library,version,sign,date
+msgpack-rpc,0.6.1-devel,-,2012-07-24
+hamcrest-library,1.1,-,2012-09-27
+hamcrest-library,1.1,+,2012-09-28
+hamcrest-library,1.1,+,2012-08-28
+junit,4.8.2,-,2012-08-28
+junit,4.8.2,-,2012-09-28
+junit,4.10,-,2012-09-27
+json-simple,1.1.1,+,2012-12-14

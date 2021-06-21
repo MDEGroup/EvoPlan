@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.11,+,2013-11-19
+junit,4.7,-,2013-11-19
+connector,1.0.0,+,2013-11-19
+sirocco-cloudmanager-connector-api,0.6.0-SNAPSHOT,-,2013-11-12
+sirocco-cloudmanager-connector-api,0.6.0,-,2013-11-19
+sirocco-cloudmanager-connector-api,0.6.0-SNAPSHOT,-,2013-11-19
+persistence-api,1.0,-,2013-11-19

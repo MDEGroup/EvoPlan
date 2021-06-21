@@ -1,0 +1,5 @@
+library,version,sign,date
+jbundle-config-dep-all,0.7.7-SNAPSHOT,-,2013-01-31
+jbundle-config-dep-all,0.8.0-SNAPSHOT,-,2013-01-05
+jbundle-config-dep-all,1.0.1-SNAPSHOT,-,2013-01-31
+org.jbundle.base.screen.view.swing,0.8.0-SNAPSHOT,-,2012-12-31

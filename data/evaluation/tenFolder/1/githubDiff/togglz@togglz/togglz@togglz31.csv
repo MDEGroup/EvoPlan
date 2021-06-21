@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,4.10,-,2018-06-30
+junit,4.10,+,2018-06-30
+guava,17.0,+,2014-05-12
+guava,14.0.1,-,2013-09-13
+guava,14.0.1,+,2013-09-13
+guava,14.0.1,-,2016-02-21
+guava,19.0,-,2018-06-30
+guava,19.0,+,2016-07-30
+mockito-core,1.9.5,-,2018-06-30
+mockito-core,1.9.5,+,2014-03-13
+mockito-core,1.9.5,+,2018-06-30
+mockito-core,1.9.0,-,2014-03-13
+javax.inject,1,-,2014-11-17
+javax.inject,1,+,2016-07-30
+javax.inject,1,+,2014-11-17
+javax.inject,1,+,2014-05-12

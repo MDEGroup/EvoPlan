@@ -1,0 +1,11 @@
+library,version,sign,date
+slf4j-api,1.7.5,-,2013-11-13
+jdbi,2.38.1,-,2013-11-13
+mockito-all,1.9.5,-,2013-11-13
+junit,4.11,+,2013-11-13
+junit,4.12-SNAPSHOT,+,2013-11-13
+junit,4.11,-,2013-11-13
+slf4j-simple,1.7.5,-,2013-11-13
+gmetric4j,1.0.3,-,2013-11-13
+fest-assert-core,2.0M10,-,2013-11-13
+ehcache-core,2.6.6,-,2013-11-13

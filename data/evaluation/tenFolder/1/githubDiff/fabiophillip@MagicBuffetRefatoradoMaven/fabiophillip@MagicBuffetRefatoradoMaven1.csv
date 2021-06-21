@@ -1,0 +1,8 @@
+library,version,sign,date
+coveralls-maven-plugin,2.0.1,+,2013-11-13
+coveralls-maven-plugin,2.0.1,-,2013-11-14
+coveralls-maven-plugin,1.2.0,+,2013-11-14
+junit,4.11,+,2013-11-13
+mysql-connector-java,5.1.6,+,2013-11-13
+maven-abbot-plugin,1.0,+,2013-11-19
+jcalendar,1.4,+,2013-11-13

@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-api,1.4.3,-,2010-10-01
+slf4j-api,1.6.0,+,2010-10-01
+slf4j-api,1.6.0,-,2012-01-05
+org.osgi.core,4.2.0,+,2011-09-30

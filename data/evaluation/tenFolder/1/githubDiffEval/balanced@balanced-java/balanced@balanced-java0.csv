@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.10,+,2013-08-15
+junit,4.10,-,2013-08-15
+cobertura-maven-plugin,2.6,+,2013-08-22
+commons-codec,1.7,-,2013-08-15
+commons-codec,1.7,+,2013-08-15
+joda-time,2.3,+,2014-03-10
+commons-lang3,3.1,-,2013-08-15
+commons-lang3,3.1,+,2013-01-30
+commons-lang3,3.1,+,2013-08-15
+gson,2.2.2,-,2014-05-25
+gson,2.2.2,+,2013-08-15
+gson,2.2.2,-,2013-08-15
+httpclient-osgi,4.2.1,-,2013-08-15
+httpclient-osgi,4.2.1,+,2013-08-15
+httpclient-osgi,4.2,-,2013-01-30

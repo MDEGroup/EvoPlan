@@ -1,0 +1,4 @@
+library,version,sign,date
+renderer,0.2,-,2010-01-05
+renderer,0.3-SNAPSHOT,-,2010-03-23
+groovy-all,1.6.4,-,2010-03-23

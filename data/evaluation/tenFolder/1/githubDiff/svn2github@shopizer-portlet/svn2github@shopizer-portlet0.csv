@@ -1,0 +1,15 @@
+library,version,sign,date
+commons-validator,1.4.0,+,2012-11-29
+commons-validator,1.4.0,+,2012-09-17
+hibernate-validator,4.3.0.Final,+,2012-07-24
+slf4j-log4j12,1.6.3,-,2012-09-07
+validation-api,1.0.0.GA,+,2012-07-24
+commons-httpclient,3.1,+,2013-01-30
+commons-collections,3.2.1,+,2012-09-17
+commons-collections,3.2.1,+,2012-11-27
+json-simple,1.1.1,+,2012-07-24
+json-simple,1.1.1,+,2012-07-31
+jackson-mapper-asl,1.8.1,-,2012-07-31
+commons-lang3,3.0,+,2013-02-21
+jsr250-api,1.0,+,2012-09-17
+jbosscache-core,3.2.5.GA,+,2012-07-28

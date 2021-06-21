@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.13,+,2019-08-12
+junit,@junit.version@,+,2018-08-27
+junit,@junit.version@,-,2018-02-23
+junit,@junit.version@,+,2017-12-12
+junit,@junit.version@,-,2019-08-12
+junit,4.12,-,2019-08-12
+assertj-core,@assertj.version@,-,2019-08-12
+assertj-core,@assertj.version@,-,2018-02-23
+assertj-core,@assertj.version@,+,2018-08-27
+assertj-core,@assertj.version@,+,2017-12-12
+brave-instrumentation-http-tests,@project.version@,+,2019-08-12
+log4j-jcl,@log4j.version@,+,2019-08-12
+mockito-core,@mockito.version@,+,2018-08-27
+log4j-core,@log4j.version@,+,2019-08-12
+servlet-api,2.5,-,2017-12-12

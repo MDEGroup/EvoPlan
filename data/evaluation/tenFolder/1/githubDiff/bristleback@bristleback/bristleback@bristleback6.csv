@@ -1,0 +1,15 @@
+library,version,sign,date
+jackson-annotations,2.0.0-RC1,-,2013-07-25
+bristleback-core,0.3.1,+,2013-04-20
+bristleback-core,0.3.0,-,2013-04-20
+bristleback-core,0.3.1,-,2013-07-16
+bristleback-core,0.3.5,+,2013-07-16
+junit,4.8.2,+,2013-07-13
+junit,4.8.2,+,2013-07-25
+jackson-databind,2.0.0-RC1,-,2013-07-25
+websocket-engine-jetty,0.3.1,-,2013-07-16
+websocket-engine-jetty,0.3.1,+,2013-07-13
+websocket-engine-jetty,0.3.0,-,2013-04-20
+websocket-engine-jetty,0.3.5,+,2013-07-16
+jackson-core,2.0.0-RC1,-,2013-07-25
+javax.inject,1,+,2013-07-13

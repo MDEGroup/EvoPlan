@@ -1,0 +1,4 @@
+library,version,sign,date
+org.odftoolkit.odfdom.converter.pdf,1.0.0-SNAPSHOT,-,2012-10-19
+org.odftoolkit.odfdom.converter.xhtml,1.0.0-SNAPSHOT,-,2012-10-19
+org.odftoolkit.odfdom.converter.xhtml,1.0.0-SNAPSHOT,+,2012-09-24

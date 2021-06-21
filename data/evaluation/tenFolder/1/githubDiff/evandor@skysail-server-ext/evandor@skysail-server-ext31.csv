@@ -1,0 +1,21 @@
+library,version,sign,date
+org.apache.felix.framework,3.2.2,-,2013-05-02
+skysail.server,[0.2.14-SNAPSHOT, 1.0),+,2013-06-15
+skysail.server,[0.2.13, 1.0),-,2013-06-15
+skysail.server,[0.2.14-SNAPSHOT, 1.0),+,2013-05-02
+skysail.server,[0.3.0, 1.0),+,2013-06-30
+skysail.server,[0.2.6-SNAPSHOT, 1.0),-,2013-04-14
+skysail.server,[0.2.13-SNAPSHOT, 1.0),-,2013-06-28
+skysail.server,[0.3.1-SNAPSHOT, 1.0),+,2013-06-30
+skysail.server,[0.2.12, 1.0),-,2013-05-02
+skysail.server,[0.1.6,0.2),-,2013-04-14
+skysail.server,[0.2.14-SNAPSHOT, 1.0),-,2013-06-22
+skysail.server,[0.2.14-SNAPSHOT, 1.0),-,2013-06-28
+skysail.server,[0.2.13, 1.0),-,2013-06-22
+skysail.server,[0.2.13, 1.0),+,2013-05-02
+skysail.server,[0.3.0, 1.0),-,2013-06-28
+skysail.server,[0.2.13-SNAPSHOT, 1.0),-,2013-05-02
+skysail.server,[0.3.0, 1.0),+,2013-06-22
+skysail.server,[0.2.13-SNAPSHOT, 1.0),+,2013-04-14
+skysail.server,[0.2.10, 1.0),-,2013-05-02
+javax.inject,1,-,2013-05-02

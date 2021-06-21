@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,4.10,-,2013-11-21
+junit,4.10,+,2013-11-21
+junit,3.8.1,-,2012-02-08
+jsp-api,2.0,+,2013-11-27
+jsp-api,2.0,+,2013-11-26
+yamolib,1.1.0-SNAPSHOT,-,2012-02-08
+yamolib,1.2.1-SNAPSHOT,-,2013-11-21
+yamolib,1.2.2-SNAPSHOT,-,2013-12-07
+yamolib,1.2.3-SNAPSHOT,-,2014-01-21
+yamolib,1.2.1-SNAPSHOT,+,2013-11-12
+yamolib,1.2.0-SNAPSHOT,-,2013-11-12
+yamolib,1.0-SNAPSHOT,-,2012-01-26
+guava,15.0,+,2013-12-07
+log4j,1.2.16,-,2013-11-21
+log4j,1.2.16,+,2013-11-21
+log4j,1.2.16,+,2013-11-12

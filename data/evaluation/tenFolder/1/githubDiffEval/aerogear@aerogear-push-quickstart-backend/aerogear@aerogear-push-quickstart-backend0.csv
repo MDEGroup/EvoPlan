@@ -1,0 +1,17 @@
+library,version,sign,date
+slf4j-api,1.7.5,+,2013-10-08
+junit,4.8.1,+,2013-10-08
+hibernate-annotations,3.5.6-Final,+,2013-08-05
+hibernate-annotations,3.5.6-Final,-,2013-11-12
+hibernate-annotations,3.5.6-Final,-,2013-09-02
+hibernate-annotations,3.5.6-Final,+,2013-09-02
+hibernate-annotations,3.5.6-Final,+,2013-11-13
+arquillian-persistence-impl,1.0.0.Alpha6,+,2013-10-08
+rest-assured,2.1.0,+,2013-11-20
+resteasy-jaxrs,2.3.4.Final,+,2013-09-02
+resteasy-jaxrs,2.3.4.Final,-,2013-09-02
+resteasy-jaxrs,2.3.4.Final,+,2013-07-26
+resteasy-jaxrs,2.3.4.Final,-,2014-07-23
+shrinkwrap-resolver-depchain,2.0.0,+,2013-10-08
+shrinkwrap-resolver-depchain,2.0.0,-,2013-11-06
+httpclient,4.3.1,+,2013-11-20

@@ -1,0 +1,4 @@
+library,version,sign,date
+reactive-streams,1.0.2,+,2019-12-21
+reactive-streams,1.0.2,-,2019-12-18
+reactive-streams,1.0.2,-,2020-01-03

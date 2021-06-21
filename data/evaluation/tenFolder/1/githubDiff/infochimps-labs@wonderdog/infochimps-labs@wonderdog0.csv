@@ -1,0 +1,5 @@
+library,version,sign,date
+elasticsearch,0.19.8,-,2012-10-25
+elasticsearch,0.16.0,-,2011-05-11
+elasticsearch,0.18.7,-,2012-01-23
+jackson-mapper-asl,1.5.2,+,2011-05-10

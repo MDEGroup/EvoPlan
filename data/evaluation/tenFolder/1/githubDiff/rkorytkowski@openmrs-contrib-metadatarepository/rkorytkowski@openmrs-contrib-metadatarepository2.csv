@@ -1,0 +1,11 @@
+library,version,sign,date
+junit-dep,4.8.2,+,2012-06-06
+junit-dep,4.8.2,-,2012-06-06
+jackson-jaxrs,1.7.1,+,2012-06-06
+jackson-jaxrs,1.7.1,-,2012-06-06
+jaxb-api,2.2,-,2012-06-06
+jaxb-api,2.2,+,2012-06-06
+woodstox-core-asl,4.1.1,-,2012-06-06
+woodstox-core-asl,4.1.1,+,2012-06-06
+javassist,3.12.1.GA,-,2012-06-06
+javassist,3.12.1.GA,+,2012-06-06

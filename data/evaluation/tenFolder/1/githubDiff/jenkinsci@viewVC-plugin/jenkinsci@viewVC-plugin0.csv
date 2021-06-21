@@ -1,0 +1,5 @@
+library,version,sign,date
+subversion,1.3,-,2013-04-29
+subversion,[1.3,),+,2009-08-01
+subversion,[1.3,),-,2009-12-29
+subversion,1.3,+,2013-04-29

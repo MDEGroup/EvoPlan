@@ -1,0 +1,10 @@
+library,version,sign,date
+jsp-api,2.0,+,2010-10-07
+jsp-api,2.0,-,2011-12-15
+jsp-api,2.0,-,2010-10-07
+commons-logging,1.0.4,-,2010-10-07
+commons-logging,1.0.4,-,2010-09-23
+myfaces-impl,1.1.5,-,2011-02-23
+commons-lang,2.1,-,2010-09-23
+myfaces-api,1.1.5,-,2011-03-29
+tomahawk,1.1.6,-,2011-02-23

@@ -1,0 +1,6 @@
+library,version,sign,date
+scoreboardstats-config,1.0.0,+,2017-10-06
+scoreboardstats-pvp,1.0.0,+,2017-10-06
+scoreboardstats-variables,1.0.0,-,2017-10-06
+scoreboardstats-variables,1.0.0,+,2017-10-06
+ProtocolLib,4.3.0,-,2017-10-07

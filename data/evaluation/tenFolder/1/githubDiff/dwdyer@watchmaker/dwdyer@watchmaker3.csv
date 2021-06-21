@@ -1,0 +1,12 @@
+library,version,sign,date
+uncommons-maths,1.2.2,+,2010-10-20
+uncommons-maths,1.2.1,-,2010-01-01
+uncommons-maths,1.2.2,-,2010-10-20
+uncommons-maths,1.2,-,2009-11-05
+uncommons-maths,1.2,-,2010-01-01
+testng,6.2.1,+,2010-10-20
+google-collections,1.0,-,2010-10-20
+google-collections,1.0,+,2010-10-20
+google-collections,1.0-rc4,-,2009-12-05
+google-collections,1.0-rc5,-,2009-12-13
+google-collections,1.0-rc2,-,2009-12-05

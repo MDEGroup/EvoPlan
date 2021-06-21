@@ -1,0 +1,5 @@
+library,version,sign,date
+jackson-databind,2.0.0-RC2,-,2013-04-17
+jackson-databind,2.0.0-RC2,-,2012-07-26
+jackson-databind,2.0.0-RC2,+,2012-07-26
+commons-logging,1.1.1,+,2012-07-13

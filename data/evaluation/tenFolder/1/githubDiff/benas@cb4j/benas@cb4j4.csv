@@ -1,0 +1,6 @@
+library,version,sign,date
+easy-batch-core,6.0.0-SNAPSHOT,-,2020-01-15
+easy-batch-core,5.3.0,-,2020-01-15
+hsqldb,2.5.0,-,2020-01-15
+hsqldb,2.3.6,-,2020-01-15
+hsqldb,2.5.0,+,2020-01-15

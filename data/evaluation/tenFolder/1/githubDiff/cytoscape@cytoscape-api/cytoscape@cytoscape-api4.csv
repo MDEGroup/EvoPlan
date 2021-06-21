@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.4,+,2011-08-06
+junit,4.8.1,+,2013-12-11
+junit,4.4,-,2011-08-08
+session-api,3.0.0-alpha6-SNAPSHOT,-,2011-08-08
+session-api,3.0.0-alpha6-SNAPSHOT,-,2011-08-06
+session-api,3.0.0-alpha3,-,2011-08-08
+session-api,3.0.0-alpha5-SNAPSHOT,-,2011-08-08
+work-swing-api,3.0.0-alpha3-SNAPSHOT,-,2011-08-08
+service-api,3.0.0-alpha3-SNAPSHOT,-,2011-08-06
+service-api,3.0.0-alpha3-SNAPSHOT,-,2011-08-08
+work-api,3.0.0-alpha4-SNAPSHOT,-,2011-08-08
+work-api,3.0.0-alpha3,-,2011-08-08
+work-api,3.0.0-alpha4-SNAPSHOT,+,2011-08-06
+javahelp,2.0.05,+,2019-08-02

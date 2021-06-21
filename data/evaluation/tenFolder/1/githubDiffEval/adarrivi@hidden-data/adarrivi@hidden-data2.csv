@@ -1,0 +1,11 @@
+library,version,sign,date
+data-aggregator,0.0.1-SNAPSHOT,-,2013-08-08
+data-aggregator,0.0.1-SNAPSHOT,+,2013-08-08
+data-aggregator,0.0.1-SNAPSHOT,+,2013-06-18
+data-producer,0.0.1-SNAPSHOT,-,2013-08-08
+data-producer,0.0.1-SNAPSHOT,+,2013-08-08
+data-filter,0.0.1-SNAPSHOT,+,2013-06-02
+data-filter,0.0.1-SNAPSHOT,-,2013-08-08
+data-filter,0.0.1-SNAPSHOT,+,2013-08-08
+data-loader,0.0.1-SNAPSHOT,-,2013-08-08
+data-loader,0.0.1-SNAPSHOT,+,2013-08-08

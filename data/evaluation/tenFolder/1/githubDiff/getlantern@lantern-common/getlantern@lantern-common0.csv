@@ -1,0 +1,9 @@
+library,version,sign,date
+jackson-mrbean,1.9.11,-,2013-09-28
+jackson-mrbean,1.9.11,+,2013-09-28
+jackson-jaxrs,1.9.11,-,2013-09-28
+jackson-jaxrs,1.9.11,+,2013-09-28
+jackson-mapper-asl,1.9.11,-,2013-09-28
+jackson-mapper-asl,1.9.11,+,2013-09-28
+guava,14.0-rc1,-,2013-06-18
+guava,14.0.1,-,2014-10-21

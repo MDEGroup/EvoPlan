@@ -1,0 +1,4 @@
+library,version,sign,date
+org.restlet.ext.fileupload,2.0-M3,-,2010-10-30
+org.restlet.ext.fileupload,2.0-M3,-,2010-10-27
+org.restlet.ext.fileupload,2.0-M3,+,2010-10-27

@@ -1,0 +1,13 @@
+library,version,sign,date
+slf4j-log4j12,1.7.2,-,2013-09-06
+hibernate-annotations,3.4.0.GA,+,2014-01-10
+hibernate-annotations,3.4.0.GA,-,2013-09-06
+gb-core-model,1.4-SNAPSHOT,-,2013-08-28
+gb-fsm-core,1.4-SNAPSHOT,-,2013-08-28
+opencsv,2.3,-,2013-09-06
+opencsv,2.3,+,2014-01-10
+gb-alias-registry,1.4-SNAPSHOT,-,2013-08-28
+nrl-core,1.1-SNAPSHOT,+,2014-01-10
+gb-actions,1.4-SNAPSHOT,+,2014-01-10
+gb-actions,1.4-SNAPSHOT,-,2013-09-06
+gb-actions,1.4-SNAPSHOT,-,2014-12-23

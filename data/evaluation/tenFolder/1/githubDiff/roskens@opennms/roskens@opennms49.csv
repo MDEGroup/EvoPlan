@@ -1,0 +1,8 @@
+library,version,sign,date
+spring-dependencies,[1.7.0,2.0.0),-,2013-06-27
+opennms-util,[1.7.0,2.0.0),+,2009-02-15
+opennms-util,[1.7.0,2.0.0),-,2013-06-27
+opennms-util,[1.7.0,2.0.0),+,2009-10-05
+opennms-util,[1.7.0,2.0.0),-,2009-08-03
+opennms-dao,1.7.0-SNAPSHOT,+,2008-12-18
+opennms-dao,1.7.0-SNAPSHOT,-,2010-05-20

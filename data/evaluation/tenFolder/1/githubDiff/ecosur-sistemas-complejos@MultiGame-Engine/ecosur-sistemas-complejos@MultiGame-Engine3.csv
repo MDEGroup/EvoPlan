@@ -1,0 +1,4 @@
+library,version,sign,date
+javaee-api,6.0-SNAPSHOT,-,2012-01-27
+javaee-api,6.0-SNAPSHOT,+,2011-02-25
+ejb,3.0-public_review,+,2011-02-25

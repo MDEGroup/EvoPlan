@@ -1,0 +1,15 @@
+library,version,sign,date
+stripes,1.5.7,+,2013-11-11
+jstl,1.2,-,2013-11-16
+jstl,1.2,+,2013-11-13
+jstl,1.2,+,2013-11-16
+standard,1.1.2,-,2013-11-16
+standard,1.1.2,+,2013-11-16
+standard,1.1.2,+,2013-11-13
+spring-beans,3.2.4.RELEASE,-,2013-12-09
+spring-beans,3.2.4.RELEASE,+,2013-11-16
+log4j-over-slf4j,1.7.5,+,2013-11-18
+jackson-databind,2.2.3,+,2013-11-21
+javaee-web-api,7.0,+,2013-11-21
+spring-web,3.2.4.RELEASE,-,2013-12-09
+spring-web,3.2.4.RELEASE,+,2013-11-16

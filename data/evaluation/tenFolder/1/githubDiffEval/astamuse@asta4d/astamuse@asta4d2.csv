@@ -1,0 +1,14 @@
+library,version,sign,date
+hibernate-validator,5.0.2.Final,+,2014-06-09
+hibernate-validator,5.0.2.Final,+,2014-12-26
+hibernate-validator,5.0.2.Final,+,2014-10-22
+hibernate-validator,5.0.2.Final,+,2014-10-29
+hibernate-validator,5.0.2.Final,-,2014-12-26
+asta4d-web,0.1,-,2013-04-02
+servlet-api,2.5,-,2013-12-13
+servlet-api,2.5,+,2013-05-16
+servlet-api,2.5,+,2014-12-26
+servlet-api,2.5,+,2012-11-26
+servlet-api,2.5,+,2013-04-21
+servlet-api,2.5,+,2013-07-24
+servlet-api,2.5,-,2013-05-16

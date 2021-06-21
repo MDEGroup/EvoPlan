@@ -1,0 +1,8 @@
+library,version,sign,date
+hadoop-core,0.20.0,-,2013-04-09
+hive-io-exp-core,0.6,-,2013-05-02
+hive-io-exp-core,0.9,+,2013-05-02
+hive-io-exp-core,0.6,+,2013-04-09
+hive-io-exp-core,0.9,-,2013-05-07
+airline,0.5,+,2013-04-17
+airline,0.5,-,2013-05-07

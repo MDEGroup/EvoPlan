@@ -1,0 +1,7 @@
+library,version,sign,date
+tez-common,0.3.0-SNAPSHOT,-,2014-01-15
+tez-common,0.3.0-SNAPSHOT,+,2013-10-03
+tez-runtime-internals,0.3.0-SNAPSHOT,-,2014-01-15
+tez-runtime-internals,0.3.0-SNAPSHOT,+,2013-10-03
+tez-api,0.3.0-SNAPSHOT,-,2014-01-15
+tez-api,0.3.0-SNAPSHOT,+,2013-10-03

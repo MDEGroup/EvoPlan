@@ -1,0 +1,7 @@
+library,version,sign,date
+selenium-server,2.35.0,-,2013-11-15
+operadriver,1.5,-,2013-11-15
+reportng,1.1.2,-,2013-11-15
+poi,3.10-beta2,-,2013-11-15
+testng,6.1.1,-,2013-11-15
+guice,3.0,-,2013-11-15

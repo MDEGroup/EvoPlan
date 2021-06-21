@@ -1,0 +1,13 @@
+library,version,sign,date
+hadoop-core,0.20.2,-,2011-04-14
+hadoop-core,0.20.2-cdh3u0,-,2011-05-24
+hadoop-core,0.20.2,-,2011-05-12
+hadoop-core,0.20.2-cdh3u0,+,2011-05-14
+hadoop-core,0.20.2,+,2011-04-14
+sleuthkit-core,1-SNAPSHOT,+,2011-05-14
+sleuthkit-core,1-SNAPSHOT,+,2011-04-14
+sleuthkit-core,1-SNAPSHOT,+,2011-06-09
+sleuthkit-core,1-SNAPSHOT,+,2011-05-20
+hbase,0.90.0,-,2011-05-12
+hbase,0.90.0,-,2011-04-14
+hbase,0.90.0,+,2011-04-14

@@ -1,0 +1,7 @@
+library,version,sign,date
+maven-project,2.0.6,+,2013-04-18
+maven-project,2.1-SNAPSHOT,-,2013-04-18
+maven-project,2.0.1,-,2013-04-18
+maven-profile,2.0.5,+,2013-04-15
+maven-profile,2.0.5,-,2013-04-17
+maven-profile,2.0.4,+,2013-04-18

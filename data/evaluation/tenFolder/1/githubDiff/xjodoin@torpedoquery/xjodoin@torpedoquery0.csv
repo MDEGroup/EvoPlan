@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.8.2,-,2017-10-31
+objenesis,1.3,-,2017-10-31
+objenesis,1.2,-,2013-04-22
+objenesis,1.2,+,2011-11-04
+commons-lang3,3.5,+,2016-07-28
+mockito-core,1.10.19,-,2017-10-31
+mockito-core,1.9.0-rc1,-,2016-04-07
+mockito-core,1.10.19,+,2016-04-07
+javax.persistence-api,2.2,+,2017-10-31
+javassist,3.15.0-GA,+,2011-11-11
+javassist,3.15.0-GA,-,2013-04-22
+javassist,3.18.0-GA,-,2017-10-31

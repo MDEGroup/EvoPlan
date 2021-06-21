@@ -1,0 +1,8 @@
+library,version,sign,date
+spring-orm,3.1.0.RELEASE,+,2013-07-08
+commons-httpclient,3.1,+,2012-02-06
+persistence,dev-SNAPSHOT,-,2013-12-04
+authn,dev-SNAPSHOT,-,2013-12-04
+hibernatetoolkit,dev-SNAPSHOT,-,2013-12-04
+log4j,1.2.16,+,2012-02-06
+log4j,1.2.16,-,2012-02-06

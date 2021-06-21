@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.11,+,2013-10-07
+tomcat-catalina,7.0.42,+,2013-10-13
+logback-classic,0.9.18,+,2013-09-24
+logback-classic,1.0.13,+,2013-10-02
+logback-classic,0.9.18,-,2013-09-29
+jackson-databind,2.3.1,+,2014-01-04
+coyote,6.0.33,+,2013-10-13
+jackson-core,2.3.1,+,2014-01-04
+jeromq,0.2.0,-,2013-09-29
+jeromq,0.2.0,-,2013-11-17
+jeromq,0.2.0,+,2013-09-29
+jeromq,0.3.1,-,2013-11-23
+commons-lang3,3.1,-,2013-09-29
+log4j,1.2.17,+,2013-09-24
+log4j,1.2.17,-,2013-09-24

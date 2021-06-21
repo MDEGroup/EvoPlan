@@ -1,0 +1,17 @@
+library,version,sign,date
+gwt-log,3.1.6,+,2012-03-11
+gwt-log,3.1.6,-,2012-03-07
+guice-servlet,3.0,-,2012-03-07
+editor-confutils,1.0-SNAPSHOT,+,2012-10-04
+editor-confutils,1.0-SNAPSHOT,-,2013-04-03
+gwt-user,2.4.0,-,2012-03-07
+guice-assistedinject,3.0,-,2012-03-07
+aopalliance,1.0,-,2012-03-07
+aopalliance,1.0,+,2012-03-11
+gin,1.5.0,-,2012-03-07
+gin,2.1.2,+,2013-04-08
+gin,1.5.0,+,2012-03-11
+gin,1.5.0,-,2013-04-08
+gwt-servlet,2.4.0,-,2012-03-07
+guice,3.0,+,2012-03-11
+guice,3.0,-,2012-03-07

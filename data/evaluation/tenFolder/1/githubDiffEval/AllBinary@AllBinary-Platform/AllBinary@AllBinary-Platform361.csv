@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,3.8.1,+,2014-09-21
+junit,3.8.1,+,2014-10-04
+junit,3.8.1,-,2014-09-21
+junit,3.8.1,-,2014-10-04
+swing-layout,1.0.3,+,2014-09-21

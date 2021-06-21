@@ -1,0 +1,8 @@
+library,version,sign,date
+easymock,3.1,+,2012-08-17
+junit,4.10,+,2012-08-17
+hamcrest-library,1.3,+,2012-10-31
+spring-webmvc,3.2.0.BUILD-SNAPSHOT,-,2012-04-23
+spring-tx,3.2.0.BUILD-SNAPSHOT,-,2012-04-23
+spring-context-support,3.2.0.BUILD-SNAPSHOT,-,2012-04-23
+spring-context,3.2.0.BUILD-SNAPSHOT,-,2012-04-23

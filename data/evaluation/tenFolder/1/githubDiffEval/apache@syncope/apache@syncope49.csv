@@ -1,0 +1,7 @@
+library,version,sign,date
+elasticsearch,6.6.0,+,2018-07-09
+elasticsearch,5.3.2,-,2017-05-08
+elasticsearch,5.4.0,+,2017-05-08
+elasticsearch,6.3.0,-,2018-07-09
+elasticsearch,6.3.0,+,2017-05-08
+elasticsearch,5.4.0,-,2017-05-08

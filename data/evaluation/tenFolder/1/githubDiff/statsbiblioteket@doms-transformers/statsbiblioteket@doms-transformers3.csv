@@ -1,0 +1,9 @@
+library,version,sign,date
+ingestClientImpl,0.0.13,-,2012-07-20
+ingestClientImpl,0.0.15-SNAPSHOT,-,2012-10-01
+ingestClientImpl,0.0.13,-,2013-10-09
+domsutil-webservice-common,0.0.20,-,2013-10-09
+commons-io,2.4,+,2012-07-13
+commons-io,2.4,+,2012-09-26
+commons-io,2.4,+,2012-10-02
+commons-io,2.4,+,2012-07-20

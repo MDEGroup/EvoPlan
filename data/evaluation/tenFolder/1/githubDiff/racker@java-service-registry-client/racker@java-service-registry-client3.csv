@@ -1,0 +1,9 @@
+library,version,sign,date
+slf4j-api,1.7.2,+,2013-03-18
+curator-x-discovery,1.3.2,+,2013-03-15
+curator-x-discovery,1.3.2,+,2013-03-18
+junit,4.10,+,2013-03-18
+junit,4.11,+,2013-03-18
+gson,2.2.2,+,2013-03-18
+httpclient,4.2.1,+,2013-03-18
+httpcore,4.2.1,+,2013-03-18

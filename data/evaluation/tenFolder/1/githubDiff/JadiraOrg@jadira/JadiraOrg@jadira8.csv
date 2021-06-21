@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.11,-,2014-04-23
+maven-plugin-annotations,3.2,+,2013-11-26
+fmpp,0.9.14,-,2014-04-23

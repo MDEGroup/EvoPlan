@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.10,-,2012-07-23
+junit,4.12,-,2018-03-13
+junit,4.10,-,2012-09-21
+junit,4.10,+,2012-07-23
+junit,4.12,+,2017-02-21
+arquillian-junit-container,1.0.0.CR7,-,2012-07-23
+arquillian-protocol-servlet,1.0.0.CR7,-,2012-07-23

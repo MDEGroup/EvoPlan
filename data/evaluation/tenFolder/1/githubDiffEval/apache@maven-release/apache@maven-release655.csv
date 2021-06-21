@@ -1,0 +1,17 @@
+library,version,sign,date
+subproject1,2.0,+,2012-09-28
+subproject1,0.5,+,2012-09-28
+subproject1,0.5-SNAPSHOT,+,2012-09-28
+subproject1,2.0,-,2012-09-28
+subproject1,0.5,-,2012-09-28
+subproject1,1.0-SNAPSHOT,-,2012-09-28
+subproject1,0.5-SNAPSHOT,-,2012-09-28
+subproject1,2.0-SNAPSHOT,-,2012-09-28
+subproject1,1.0-SNAPSHOT,+,2012-09-28
+subproject1,2.0-SNAPSHOT,+,2012-09-28
+subproject2,2.0-SNAPSHOT,-,2012-09-28
+subproject2,0.5,+,2012-09-28
+subproject2,1.0-SNAPSHOT,+,2012-09-28
+subproject2,2.0-SNAPSHOT,+,2012-09-28
+subproject2,0.5,-,2012-09-28
+subproject2,1.0-SNAPSHOT,-,2012-09-28

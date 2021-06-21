@@ -1,0 +1,2 @@
+library,version,sign,date
+maven-core,@maven.version@,+,2013-10-17

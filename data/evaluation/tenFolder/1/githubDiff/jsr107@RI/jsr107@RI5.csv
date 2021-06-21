@@ -1,0 +1,14 @@
+library,version,sign,date
+cache-api,1.1.0,-,2017-12-16
+cache-api,1.0.0,-,2014-03-18
+cache-api,1.0.1-SNAPSHOT,-,2014-04-22
+cache-api,1.0.1,-,2014-04-22
+cache-api,1.0.0-SNAPSHOT,-,2013-12-17
+cache-api,0.12-SNAPSHOT,-,2013-10-23
+cache-api,1.1.1-SNAPSHOT,-,2018-03-15
+cache-api,1.0.0,-,2015-10-26
+cache-api,1.0.0-PFD,-,2013-10-21
+cache-api,1.1.1,-,2019-05-10
+cache-api,1.0.0-RC1,-,2013-12-16
+guice,3.0,+,2013-04-18
+guice,3.0,-,2013-04-18

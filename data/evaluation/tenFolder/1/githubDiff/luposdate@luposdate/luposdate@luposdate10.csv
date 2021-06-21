@@ -1,0 +1,6 @@
+library,version,sign,date
+google-http-client,1.9.0-beta,+,2012-05-03
+junit,4.8.1,-,2012-07-02
+json,20090211,+,2012-05-03
+commons-lang,2.3,+,2012-05-22
+httpclient,4.2,+,2012-06-20

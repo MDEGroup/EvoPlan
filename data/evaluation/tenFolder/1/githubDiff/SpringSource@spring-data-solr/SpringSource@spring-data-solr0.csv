@@ -1,0 +1,7 @@
+library,version,sign,date
+javax.interceptor-api,1.2.1,+,2017-09-21
+joda-time,2.1,-,2013-01-16
+h2,1.3.168,+,2013-01-16
+h2,1.3.168,-,2013-01-16
+h2,1.3.168,+,2012-10-31
+geronimo-jcdi_2.0_spec,1.0.1,+,2017-09-21

@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,3.8.1,-,2012-11-12
+junit,3.8.1,+,2012-11-12
+vlcj,2.2.0-SNAPSHOT,-,2012-11-12
+vlcj,2.2.0-SNAPSHOT,+,2012-11-12

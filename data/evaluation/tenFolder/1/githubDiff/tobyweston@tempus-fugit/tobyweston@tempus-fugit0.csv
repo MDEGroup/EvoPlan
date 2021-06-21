@@ -1,0 +1,16 @@
+library,version,sign,date
+hamcrest-core,1.3.RC2,-,2013-09-25
+hamcrest-core,1.3,-,2014-01-21
+hamcrest-core,1.1,-,2012-05-27
+hamcrest-core,1.3,+,2014-01-21
+hamcrest-library,1.3.RC2,-,2013-09-25
+hamcrest-library,1.1,-,2012-05-27
+junit,4.10,+,2014-01-21
+junit,4.7,-,2012-05-27
+junit,4.9,-,2013-09-25
+junit,4.10,-,2014-01-21
+junit,4.9,+,2012-05-27
+jmock-junit4,2.5.1,-,2012-05-27
+jmock-junit4,2.6.0-RC2,-,2013-09-25
+jmock-legacy,2.5.1,-,2012-05-27
+jmock-legacy,2.6.0-RC2,-,2013-09-25

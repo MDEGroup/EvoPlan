@@ -1,0 +1,5 @@
+library,version,sign,date
+hibernate-jpa-2.0-api,1.0.0.Final,+,2011-08-19
+spring-tx,3.0.5.RELEASE,+,2011-08-19
+spring-aspects,3.0.5.RELEASE,+,2011-08-19
+spring-context,3.0.5.RELEASE,+,2011-08-19

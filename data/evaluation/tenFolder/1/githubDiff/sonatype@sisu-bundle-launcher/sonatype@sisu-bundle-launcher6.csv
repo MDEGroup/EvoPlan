@@ -1,0 +1,9 @@
+library,version,sign,date
+goodies-testsupport,1.12-SNAPSHOT,+,2014-03-20
+goodies-testsupport,1.12-SNAPSHOT,-,2015-01-10
+sisu-bundle-launcher,1.10-SNAPSHOT,-,2015-02-06
+sisu-bundle-launcher,1.9-SNAPSHOT,-,2015-01-10
+sisu-bundle-launcher,1.8-SNAPSHOT,-,2014-03-05
+sisu-bundle-launcher,1.10,-,2018-06-25
+sisu-bundle-launcher,1.9,-,2015-02-06
+sisu-bundle-launcher,1.8,-,2014-03-20

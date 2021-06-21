@@ -1,0 +1,5 @@
+library,version,sign,date
+spring-beans,3.2.4.RELEASE,-,2013-12-09
+spring-beans,3.2.4.RELEASE,+,2013-11-11
+aspectjrt,1.7.4,+,2013-11-11
+aspectjweaver,1.7.4,+,2013-11-11

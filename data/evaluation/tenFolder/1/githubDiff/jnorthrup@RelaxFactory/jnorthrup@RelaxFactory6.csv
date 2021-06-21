@@ -1,0 +1,5 @@
+library,version,sign,date
+rpq,0.0.1-SNAPSHOT,-,2014-05-19
+gson,2.2.4,-,2014-08-22
+gson,2.2.4,+,2014-05-19
+gson,2.2.4,-,2014-05-19

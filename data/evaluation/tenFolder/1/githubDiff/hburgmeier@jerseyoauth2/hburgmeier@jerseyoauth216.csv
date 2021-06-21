@@ -1,0 +1,13 @@
+library,version,sign,date
+mockito-all,1.9.5,-,2013-08-31
+mockito-all,1.9.5,+,2013-08-31
+junit,4.11,-,2013-08-31
+junit,4.11,+,2013-08-31
+commons-codec,1.7,-,2013-08-09
+commons-codec,1.8,+,2013-08-31
+commons-codec,1.8,+,2013-08-09
+commons-codec,1.8,-,2013-08-31
+geronimo-servlet_2.5_spec,1.2,+,2013-08-31
+geronimo-servlet_2.5_spec,1.2,-,2013-08-31
+commons-lang3,3.1,+,2013-08-31
+commons-lang3,3.1,-,2013-08-31

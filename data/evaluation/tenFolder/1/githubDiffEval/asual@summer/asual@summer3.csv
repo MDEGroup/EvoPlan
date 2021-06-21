@@ -1,0 +1,17 @@
+library,version,sign,date
+jackson-xc,1.9.0,+,2011-10-18
+stax2-api,3.1.0,-,2011-10-18
+summer-core,1.0.0.RC1-SNAPSHOT,-,2011-12-09
+summer-core,1.0.0.M3-SNAPSHOT,-,2011-02-24
+summer-core,1.0.0.M2,-,2011-06-13
+summer-core,1.0.0.M3,-,2011-10-20
+summer-core,1.0.0.M3-SNAPSHOT,-,2011-04-20
+summer-core,1.0.0.M3,-,2011-12-09
+woodstox-core-asl,4.1.0,-,2011-05-12
+jackson-xml-databind,0.6.0,-,2011-06-13
+jackson-xml-databind,0.5.3,-,2011-05-12
+jackson-mapper-asl,1.9.0,-,2013-12-05
+jackson-mapper-asl,1.9.0,+,2011-10-18
+jackson-mapper-asl,1.9.0,+,2012-01-19
+jackson-mapper-asl,1.8.1,-,2011-06-13
+jackson-mapper-asl,1.7.1,-,2011-05-12

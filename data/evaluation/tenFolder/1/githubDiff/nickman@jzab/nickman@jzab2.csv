@@ -1,0 +1,7 @@
+library,version,sign,date
+agent,1.0-SNAPSHOT,+,2012-08-02
+agent,1.0-SNAPSHOT,-,2012-08-02
+zabbix-api,1.0-SNAPSHOT,+,2012-08-02
+zabbix-api,1.0-SNAPSHOT,-,2012-08-02
+junit,4.8.2,-,2012-08-02
+junit,4.8.2,+,2012-08-02

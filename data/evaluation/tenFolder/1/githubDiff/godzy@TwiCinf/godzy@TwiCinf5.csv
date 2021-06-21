@@ -1,0 +1,9 @@
+library,version,sign,date
+twitter-crawler,1.0-SNAPSHOT,-,2013-03-14
+twitter-crawler,1.0-SNAPSHOT,+,2013-03-11
+twitter-crawler,1.0-SNAPSHOT,+,2013-07-10
+twitter-crawler,1.0-SNAPSHOT,+,2013-03-14
+gson,2.2.2,+,2013-03-11
+gson,2.2.2,+,2013-03-14
+gson,2.2.2,-,2013-03-14
+gson,2.2.2,-,2013-03-11

@@ -1,0 +1,14 @@
+library,version,sign,date
+webbit,0.4.14,+,2013-01-13
+netty,3.5.2.Final,-,2013-02-10
+netty,4.0.0.Alpha5,-,2013-02-10
+netty,0.4,-,2013-02-10
+netty,3.5.1.Final,-,2013-01-13
+netty,0.6-SNAPSHOT,-,2013-02-27
+netty,0.5,-,2013-02-27
+netty,0.5-SNAPSHOT,-,2013-02-10
+netty,0.4-SNAPSHOT,-,2013-01-13
+netty,0.7,-,2013-06-22
+netty,0.7-SNAPSHOT,-,2013-05-05
+netty,0.3-SNAPSHOT,-,2013-01-13
+netty,0.6,-,2013-05-05

@@ -1,0 +1,7 @@
+library,version,sign,date
+tez-mapreduce-examples,0.2.0-SNAPSHOT,-,2013-10-26
+tez-mapreduce-examples,0.3.0-SNAPSHOT,-,2013-11-26
+tez-mapreduce,0.3.0-SNAPSHOT,+,2013-10-26
+tez-mapreduce,0.3.0-SNAPSHOT,-,2013-11-26
+tez-dag,0.3.0-SNAPSHOT,+,2013-10-26
+tez-dag,0.3.0-SNAPSHOT,-,2013-11-26

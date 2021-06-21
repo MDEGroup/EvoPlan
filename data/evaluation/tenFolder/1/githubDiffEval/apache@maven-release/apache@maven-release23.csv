@@ -1,0 +1,3 @@
+library,version,sign,date
+module-a,1.0-SNAPSHOT,-,2015-04-04
+module-a,1.0-SNAPSHOT,+,2015-04-04

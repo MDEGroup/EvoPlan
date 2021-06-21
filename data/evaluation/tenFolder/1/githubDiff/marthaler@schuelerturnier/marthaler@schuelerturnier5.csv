@@ -1,0 +1,6 @@
+library,version,sign,date
+hibernate-validator,5.2.0.Alpha1,-,2015-01-29
+primefaces,5.2,+,2015-05-16
+poi,3.11,+,2015-02-14
+javax.inject,1,+,2015-05-15
+javax.inject,1,-,2015-05-15

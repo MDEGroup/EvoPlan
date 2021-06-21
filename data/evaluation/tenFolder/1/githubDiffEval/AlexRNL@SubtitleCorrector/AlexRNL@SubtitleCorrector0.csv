@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,4.11,-,2013-07-29
+junit,4.11,+,2014-01-21
+junit,4.11,+,2013-07-29
+junit,4.10,-,2013-07-26
+junit,4.11,-,2014-01-21
+hamcrest-all,1.3,+,2013-09-21
+hamcrest-all,1.3,-,2014-01-21
+hamcrest-all,1.3,+,2014-01-21
+mockito-core,1.9.5,+,2013-07-29
+mockito-core,1.9.5,+,2014-01-21
+mockito-core,1.9.5,-,2014-01-21
+commons,1.0-SNAPSHOT,+,2014-01-21
+commons,1.0-SNAPSHOT,-,2013-07-29
+commons,1.0-SNAPSHOT,-,2014-01-21
+commons,1.0-SNAPSHOT,+,2013-01-16
+commons,1.0-SNAPSHOT,+,2013-07-29

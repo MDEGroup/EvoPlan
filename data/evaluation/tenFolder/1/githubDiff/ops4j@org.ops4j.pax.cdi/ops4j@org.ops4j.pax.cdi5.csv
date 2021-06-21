@@ -1,0 +1,12 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,-,2014-11-30
+javax.servlet-api,3.1.0,+,2013-02-23
+javax.interceptor-api,1.2,-,2016-08-29
+javax.interceptor-api,1.2,+,2016-08-29
+javax.interceptor-api,1.2,+,2013-02-23
+com.sun.el,2.2.0.v201108011116,+,2013-02-23
+com.sun.el,2.2.0.v201108011116,-,2013-02-23
+com.sun.el,2.2.0.v201108011116,+,2014-11-30
+com.sun.el,2.2.0.v201108011116,-,2014-11-30
+javax.el-api,3.0.0,+,2013-02-23
+cdi-api,1.2,+,2013-02-23

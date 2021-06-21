@@ -1,0 +1,4 @@
+library,version,sign,date
+easymock,3.2,+,2016-09-14
+h2,1.4.192,+,2016-09-14
+hibernate-core,4.3.11.Final,+,2016-09-14

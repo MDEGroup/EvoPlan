@@ -1,0 +1,8 @@
+library,version,sign,date
+asm-all,5.0.4,+,2016-08-16
+repository,1.10-SNAPSHOT,-,2016-09-12
+repository,1.9.0,+,2016-07-27
+repository,1.9.0,-,2016-08-16
+org.apache.servicemix.specs.jaxrs-api-2.1,2.9.1,+,2017-07-10
+jansi,1.13,-,2017-09-23
+jansi,1.13,+,2016-09-12

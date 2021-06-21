@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.8.1,+,2011-12-13
+junit,4.8.1,-,2011-12-13
+encomendaz-services-core,1.0.2,-,2012-04-17
+encomendaz-services-core,1.0.1-SNAPSHOT,-,2012-03-28
+encomendaz-services-core,1.0.0,-,2012-03-29
+encomendaz-services-core,1.0.1-SNAPSHOT,-,2012-04-01
+encomendaz-services-core,1.0.0-SNAPSHOT,-,2012-03-28
+encomendaz-services-core,1.0.0,-,2012-03-28
+encomendaz-services-core,1.0.1,-,2012-04-01
+encomendaz-services-core,1.0.2-SNAPSHOT,-,2012-04-01
+resteasy-jackson-provider,2.2.3.GA,+,2011-12-13
+resteasy-jackson-provider,2.2.3.GA,-,2011-12-13
+resteasy-jackson-provider,2.2.3.GA,-,2012-03-09
+resteasy-jaxrs,2.2.3.GA,+,2011-12-13
+resteasy-jaxrs,2.2.3.GA,-,2011-12-13

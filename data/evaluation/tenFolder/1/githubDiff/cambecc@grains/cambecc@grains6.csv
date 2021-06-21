@@ -1,0 +1,15 @@
+library,version,sign,date
+jackson-dataformat-smile,2.2.2,-,2013-06-07
+jackson-dataformat-smile,2.2.2,+,2013-06-07
+grains-core,0.9.1-SNAPSHOT,-,2013-06-17
+grains-core,0.8.0-SNAPSHOT,-,2013-06-18
+grains-core,0.9.0-SNAPSHOT,-,2013-06-12
+grains-core,0.9.0-SNAPSHOT,-,2013-06-17
+grains-core,0.8.0,-,2013-06-18
+grains-core,0.9.0,-,2013-06-12
+jackson-dataformat-yaml,2.2.2,+,2013-06-12
+grains-generate,0.9.0,-,2013-06-12
+grains-generate,0.9.1-SNAPSHOT,-,2013-06-17
+grains-generate,0.8.0-SNAPSHOT,-,2013-06-18
+grains-generate,0.8.0,-,2013-06-18
+grains-generate,0.9.0-SNAPSHOT,-,2013-06-12

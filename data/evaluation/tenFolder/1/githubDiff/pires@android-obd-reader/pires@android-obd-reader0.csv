@@ -1,0 +1,14 @@
+library,version,sign,date
+appcompat-v7,22.2.1,+,2013-09-25
+roboblender,3.0.1,+,2013-09-25
+retrofit,1.9.0,+,2013-09-25
+android,2.3.1,+,2011-09-16
+android,5.1.1_r2,+,2013-09-25
+android,2.2.1,+,2011-10-22
+android,2.3.1,-,2011-10-22
+android,2.2.1,-,2013-07-24
+android,2.3.1,-,2011-09-16
+obd-java-api,1.0-RC9-SNAPSHOT,-,2015-08-14
+obd-java-api,1.0-RC9-SNAPSHOT,-,2015-08-31
+obd-java-api,1.0-RC9-SNAPSHOT,+,2013-09-25
+roboguice,3.0.1,+,2013-09-25

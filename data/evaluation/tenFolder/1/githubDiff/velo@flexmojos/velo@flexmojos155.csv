@@ -1,0 +1,10 @@
+library,version,sign,date
+playerglobal,%{flash.version},+,2014-09-12
+playerglobal,%{flash.version},-,2014-09-12
+framework,%{flex.version},+,2014-09-12
+framework,%{flex.version},-,2014-09-12
+framework,%{air.version},+,2014-09-12
+flexunit,4.1.0,-,2014-09-12
+flexunit,0.90,-,2014-09-12
+flexunit,4.1.0,+,2014-09-12
+flexunit,0.90,+,2014-09-12

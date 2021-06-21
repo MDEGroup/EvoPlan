@@ -1,0 +1,7 @@
+library,version,sign,date
+hibernate-jpa-2.0-api,1.0.0.Final,+,2012-11-06
+hibernate-jpa-2.0-api,1.0.0.Final,-,2012-11-06
+scannotation,1.0.2,+,2013-01-22
+derby,10.9.1.0,+,2013-02-02
+derby,10.8.2.2,+,2012-11-06
+derby,10.8.2.2,-,2012-11-06

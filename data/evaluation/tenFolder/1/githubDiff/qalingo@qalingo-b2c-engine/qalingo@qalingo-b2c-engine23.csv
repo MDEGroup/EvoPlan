@@ -1,0 +1,4 @@
+library,version,sign,date
+ehcache,3.1.1,+,2016-07-24
+jcache,1.0.1,+,2016-07-24
+tomcat-servlet-api,7.0.22,-,2014-03-06

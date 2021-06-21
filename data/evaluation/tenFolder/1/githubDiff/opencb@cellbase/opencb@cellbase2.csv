@@ -1,0 +1,7 @@
+library,version,sign,date
+commons-io,2.4,+,2016-08-08
+commons-io,2.4,-,2019-10-18
+commons-io,2.4,-,2016-08-08
+commons-io,2.4,+,2016-03-15
+cellbase-server,5.0.0-SNAPSHOT,+,2019-10-19
+cellbase-server,5.0.0-SNAPSHOT,-,2020-01-05

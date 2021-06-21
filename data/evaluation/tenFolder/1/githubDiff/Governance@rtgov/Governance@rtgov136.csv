@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.8.1,+,2012-04-12
+junit,4.4,-,2012-04-12
+junit,4.8.1,-,2012-04-20
+javaee-api,6.0,-,2012-04-20
+javaee-api,6.0,-,2014-07-29
+javaee-api,6.0,+,2012-04-20
+javaee-api,6.0,+,2012-04-12
+javaee-api,6.0,-,2013-07-10
+javaee-api,6.0,+,2013-11-07

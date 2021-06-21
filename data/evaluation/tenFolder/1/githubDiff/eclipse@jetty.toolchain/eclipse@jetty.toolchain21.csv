@@ -1,0 +1,14 @@
+library,version,sign,date
+maven-plugin-api,2.2.1,+,2010-05-26
+maven-plugin-api,2.0.8,-,2015-06-25
+maven-plugin-api,2.0.8,+,2012-10-22
+maven-plugin-api,2.2.1,-,2015-06-25
+plexus-container-default,1.0-alpha-9,-,2010-05-26
+maven-artifact,2.0.8,-,2015-06-25
+maven-artifact,2.0.8,+,2012-10-22
+maven-project,2.2.1,+,2010-05-26
+maven-project,2.0.8,-,2015-06-25
+maven-project,2.0.8,+,2012-10-22
+maven-project,2.2.1,-,2015-06-25
+maven-shade-plugin,2.3,-,2018-10-01
+maven-shade-plugin,2.3,+,2012-10-22

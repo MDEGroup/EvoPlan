@@ -1,0 +1,5 @@
+library,version,sign,date
+vlib-core,12.2.0,-,2012-07-31
+moho-impl,trunk-SNAPSHOT,-,2013-03-11
+moho-impl,0.8-SNAPSHOT,-,2012-07-31
+riak-client,1.0.5,+,2012-04-19

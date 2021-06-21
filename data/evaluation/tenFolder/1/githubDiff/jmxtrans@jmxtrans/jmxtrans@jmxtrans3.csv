@@ -1,0 +1,15 @@
+library,version,sign,date
+slf4j-api,1.7.10,-,2015-05-07
+slf4j-api,1.7.12,-,2015-11-17
+slf4j-api,1.7.12,-,2015-11-06
+junit,4.11,-,2015-07-31
+animal-sniffer-annotations,1.14,-,2016-03-24
+guava,18.0,-,2015-07-31
+guava,19.0-rc2,-,2016-01-22
+mockito-core,2.0.2-beta,-,2017-08-28
+mockito-core,2.0.5-beta,-,2016-01-22
+spotbugs-annotations,3.1.2,+,2017-11-15
+lombok,1.16.6,+,2015-10-15
+lombok,1.16.6,-,2016-03-24
+lombok,1.16.18,-,2018-03-13
+lombok,1.16.8,-,2017-08-28

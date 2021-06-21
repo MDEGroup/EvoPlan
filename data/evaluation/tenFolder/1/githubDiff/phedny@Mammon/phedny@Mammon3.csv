@@ -1,0 +1,11 @@
+library,version,sign,date
+core,1.0.0-SNAPSHOT,+,2012-04-20
+core,1.0.0-SNAPSHOT,-,2012-04-20
+core,1.0.0-SNAPSHOT,+,2012-03-28
+interfaces,1.0.0-SNAPSHOT,+,2012-04-20
+interfaces,1.0.0-SNAPSHOT,-,2012-04-20
+interfaces,1.0.0-SNAPSHOT,+,2012-03-28
+brands,1.0.0-SNAPSHOT,+,2012-03-28
+json,20090211,+,2012-04-20
+json,20090211,+,2012-03-31
+messaging,1.0.0-SNAPSHOT,+,2012-04-20

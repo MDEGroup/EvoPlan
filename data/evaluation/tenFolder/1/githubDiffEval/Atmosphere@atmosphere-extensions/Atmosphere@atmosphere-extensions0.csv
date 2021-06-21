@@ -1,0 +1,12 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2013-09-06
+slf4j-api,1.6.1,+,2012-10-05
+logback-classic,0.9.24,+,2012-10-05
+logback-classic,0.9.24,-,2013-09-06
+logback-core,0.9.24,+,2012-10-05
+logback-core,0.9.24,-,2013-09-06
+testng,5.8,+,2013-02-19
+testng,5.8,+,2013-03-27
+testng,5.8,+,2012-10-31
+testng,5.8,-,2013-03-27
+testng,5.8,-,2013-02-19

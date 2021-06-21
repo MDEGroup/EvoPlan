@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,4.10,+,2012-05-30
+junit,4.8.2,+,2011-11-22
+junit,4.8.2,-,2012-05-30
+junit,4.8.2,+,2012-05-22
+commons-codec,1.6,+,2012-06-11
+commons-logging,1.1.1,-,2012-05-30
+commons-logging,1.1.1,+,2012-05-30
+commons-io,2.3,+,2012-05-30
+commons-io,2.1,-,2012-05-30
+guava-osgi,11.0.1,+,2012-05-30
+guava-osgi,9.0.0,-,2012-05-30
+soap-builder,1.0,-,2011-11-22
+soap-builder,1.0.1,-,2012-05-21
+soap-builder,1.0.1-SNAPSHOT,-,2012-05-30
+log4j,1.2.17,+,2012-05-30
+log4j,1.2.16,-,2012-05-30

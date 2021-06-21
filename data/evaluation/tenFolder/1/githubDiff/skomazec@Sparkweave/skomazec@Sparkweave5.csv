@@ -1,0 +1,9 @@
+library,version,sign,date
+spark-rete,1.0-SNAPSHOT,+,2012-02-14
+spark-rete,1.0-SNAPSHOT,-,2012-02-22
+spark-rete,1.0-SNAPSHOT,+,2012-02-22
+spark-core,1.0-SNAPSHOT,+,2012-02-14
+spark-core,1.0-SNAPSHOT,-,2012-02-22
+spark-core,1.0-SNAPSHOT,+,2012-02-22
+spark-core,1.0-SNAPSHOT,-,2012-02-14
+jena,2.6.3,+,2012-02-14

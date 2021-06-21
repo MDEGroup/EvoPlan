@@ -1,0 +1,4 @@
+library,version,sign,date
+commons,1.7.0-SNAPSHOT,+,2009-08-01
+commons,1.1.2-SNAPSHOT,-,2009-08-01
+commons,1.4.0-SNAPSHOT,-,2009-08-01

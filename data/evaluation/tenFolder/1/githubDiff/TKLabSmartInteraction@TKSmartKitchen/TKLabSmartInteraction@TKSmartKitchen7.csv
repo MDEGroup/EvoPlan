@@ -1,0 +1,5 @@
+library,version,sign,date
+SerialProvider-bundle,0.1-SNAPSHOT,+,2012-06-11
+javaosc-core,0.2,+,2012-06-11
+javaosc-core,0.2-SNAPSHOT,-,2012-06-11
+javaosc-core,0.2-SNAPSHOT,+,2012-06-04

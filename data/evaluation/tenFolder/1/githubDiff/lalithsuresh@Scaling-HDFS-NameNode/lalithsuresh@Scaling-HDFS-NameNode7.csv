@@ -1,0 +1,11 @@
+library,version,sign,date
+clusterj,1.0-SNAPSHOT,-,2011-10-14
+clusterj,1.0-SNAPSHOT,+,2011-09-13
+clusterj,1.0-SNAPSHOT,+,2011-10-16
+clusterj,1.0-SNAPSHOT,+,2011-10-14
+commons-daemon,1.0.1,-,2011-08-25
+commons-daemon,1.0.3,+,2011-08-25
+hadoop-common,0.23.0-SNAPSHOT,-,2011-08-25
+hadoop-common,0.24.0-SNAPSHOT,+,2011-08-25
+hadoop-annotations,0.23.0-SNAPSHOT,-,2011-08-25
+avro,1.5.2,-,2011-08-27

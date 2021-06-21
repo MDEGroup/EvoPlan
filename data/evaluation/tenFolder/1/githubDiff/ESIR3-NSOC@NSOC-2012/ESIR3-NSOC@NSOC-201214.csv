@@ -1,0 +1,7 @@
+library,version,sign,date
+esir.dom12.nsoc.connexionBDD,1.9.0,+,2013-02-13
+esir.dom12.nsoc.connexionBDD,1.9.0,-,2013-02-13
+esir.dom12.nsoc.donneesAde,1.9.0,+,2013-02-13
+esir.dom12.nsoc.donneesAde,1.9.0,-,2013-02-13
+esir.dom12.nsoc.NFCTranslator,1.9.0,+,2013-02-13
+esir.dom12.nsoc.NFCTranslator,1.9.0,-,2013-02-13

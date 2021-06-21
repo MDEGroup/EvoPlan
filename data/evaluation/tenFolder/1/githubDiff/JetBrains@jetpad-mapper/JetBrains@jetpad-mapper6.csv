@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.11,-,2013-05-27
+junit,4.11,+,2013-05-13
+junit,4.11,+,2013-09-25
+junit,4.11,-,2013-05-13
+junit,4.11,-,2013-09-25
+junit,4.11,-,2014-02-04
+junit,4.11,+,2014-02-04
+base,1.0-SNAPSHOT,-,2014-02-04
+base,1.0.0,-,2014-04-30
+base,1.1-SNAPSHOT,+,2014-05-06
+base,1.0-SNAPSHOT,+,2013-09-25
+base,1.0.1-SNAPSHOT,-,2014-04-30

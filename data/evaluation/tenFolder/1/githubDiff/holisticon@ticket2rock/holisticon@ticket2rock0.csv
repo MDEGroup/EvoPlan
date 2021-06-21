@@ -1,0 +1,6 @@
+library,version,sign,date
+cucumber-guice,1.0.0.RC14,-,2012-03-02
+cucumber-junit,1.0.0.RC14,-,2012-03-02
+selenium-java,2.18.0,-,2012-03-02
+guice,3.0,+,2012-03-02
+guice,3.0,-,2012-03-02

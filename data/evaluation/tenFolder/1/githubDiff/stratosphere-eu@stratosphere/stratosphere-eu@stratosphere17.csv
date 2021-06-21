@@ -1,0 +1,11 @@
+library,version,sign,date
+hadoop-core,0.20.2,-,2012-04-05
+hadoop-core,0.20.203.0,-,2012-04-05
+hadoop-core,0.20.2,+,2010-12-28
+hadoop-core,0.20.203.0,+,2011-11-20
+hadoop-core,0.20.203.0,+,2012-02-01
+hadoop-core,0.20.2,-,2010-12-28
+nephele-common,0.2,+,2011-11-20
+nephele-common,0.2,-,2011-09-05
+nephele-common,0.1,-,2010-12-28
+nephele-common,0.2,-,2012-02-01

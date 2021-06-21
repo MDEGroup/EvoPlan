@@ -1,0 +1,9 @@
+library,version,sign,date
+cytosol,1.0,+,2013-11-01
+cytosol,2.0-SNAPSHOT,+,2013-11-02
+cytosol,1.0,-,2013-11-02
+cytosol,1.0-SNAPSHOT,-,2013-11-01
+cytosol,1.0-SNAPSHOT,+,2013-10-24
+android,4.1.1.4,+,2013-11-01
+support-v4,r7,+,2013-09-24
+support-v4,r7,-,2013-10-21

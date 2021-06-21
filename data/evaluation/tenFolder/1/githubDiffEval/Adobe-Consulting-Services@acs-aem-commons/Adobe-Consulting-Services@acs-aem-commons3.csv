@@ -1,0 +1,4 @@
+library,version,sign,date
+annotations,18.0.0,+,2020-04-18
+mockito-core,3.1.0,-,2019-12-17
+mockito-core,1.10.19,-,2019-10-17

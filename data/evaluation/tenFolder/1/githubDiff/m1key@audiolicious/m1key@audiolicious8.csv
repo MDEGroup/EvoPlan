@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.10,+,2012-09-28
+junit,4.8.2,-,2012-09-28
+jboss-javaee-6.0,1.0.0.Final,-,2012-09-28
+jboss-javaee-6.0,1.0.0.Final,+,2011-10-26
+jboss-javaee-6.0,3.0.0.Final,+,2012-09-28
+hibernate-entitymanager,4.0.1.Final,+,2012-09-28
+hibernate-entitymanager,3.6.5.Final,-,2012-09-28
+javax.inject,1,-,2011-07-31
+javax.inject,1,+,2011-07-31

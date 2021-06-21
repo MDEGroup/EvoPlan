@@ -1,0 +1,10 @@
+library,version,sign,date
+quickfixj-core,1.3.1,-,2012-02-06
+jade-unit,0.1.3-SNAPSHOT,-,2011-11-13
+jade-unit,0.6-SNAPSHOT,-,2012-02-06
+jade-unit,0.3-SNAPSHOT,-,2012-01-05
+jade-unit,0.2-SNAPSHOT,-,2011-12-29
+jade-unit,0.5-SNAPSHOT,-,2012-01-30
+jade-unit,0.4-SNAPSHOT,-,2012-01-10
+jade-unit,0.7-SNAPSHOT,-,2012-03-04
+testng,6.3,+,2011-11-13

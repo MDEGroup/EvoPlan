@@ -1,0 +1,7 @@
+library,version,sign,date
+jsr305,2.0.1,+,2012-09-03
+appengine-api-1.0-sdk,1.7.4,-,2013-03-04
+appengine-api-1.0-sdk,1.7.0,-,2012-09-04
+appengine-api-1.0-sdk,1.6.6,-,2012-08-27
+jackson-mapper-asl,1.9.1,+,2012-07-02
+jackson-mapper-asl,1.9.1,-,2012-08-27

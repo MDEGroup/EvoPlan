@@ -1,0 +1,11 @@
+library,version,sign,date
+hamcrest-core,1.2,-,2012-04-10
+hamcrest-core,1.2,+,2011-07-19
+hamcrest-core,1.2,+,2011-04-25
+hamcrest-core,1.2,+,2011-04-03
+hamcrest-core,1.2,-,2011-07-19
+hamcrest-core,1.2,-,2011-04-25
+hamcrest-core,1.2,-,2011-04-03
+hamcrest-core,1.2,+,2012-04-10
+junit,4.8.1,-,2011-07-19
+junit,4.8.1,+,2011-07-17

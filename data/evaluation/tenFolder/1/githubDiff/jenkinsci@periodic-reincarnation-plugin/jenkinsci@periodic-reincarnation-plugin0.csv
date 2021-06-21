@@ -1,0 +1,11 @@
+library,version,sign,date
+build-failure-analyzer,1.17.2,-,2017-04-28
+build-failure-analyzer,1.17.2,+,2017-04-28
+build-failure-analyzer,1.17.2,+,2014-07-18
+powermock-module-junit4,1.7.4,+,2017-10-02
+cloudbees-folder,6.0.0,+,2017-04-28
+jobConfigHistory,2.5,-,2014-06-15
+jobConfigHistory,2.5,+,2013-11-27
+jobConfigHistory,2.5,+,2014-06-15
+jobConfigHistory,2.5,-,2017-03-14
+powermock-api-mockito,1.7.4,+,2017-10-02

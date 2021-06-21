@@ -1,0 +1,7 @@
+library,version,sign,date
+gcm,1.0.2,+,2012-11-30
+easyapi,1.0.1,+,2013-01-06
+easyapi,1.0,-,2012-11-30
+easyapi,1.0,-,2013-04-03
+easyapi,1.0,+,2012-09-10
+jackson-mapper-asl,1.9.10,+,2013-01-06

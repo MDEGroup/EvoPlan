@@ -1,0 +1,13 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2010-11-04
+junit,3.8.1,+,2010-11-03
+commons-codec,1.4,-,2010-11-04
+commons-codec,1.4,+,2010-11-03
+slf4j-log4j12,1.6.1,+,2010-11-04
+guava-collections,r03,-,2010-11-04
+guava-collections,r03,+,2010-11-03
+mina-core,2.0.0,-,2010-11-04
+mina-core,2.0.0,+,2010-11-03
+commons-lang,2.5,+,2010-11-03
+commons-lang,2.5,-,2010-11-04
+log4j,1.2.16,+,2010-11-04

@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.11,-,2017-02-16
+slf4j-simple,1.6.4,-,2015-05-25
+slf4j-simple,1.7.10,-,2015-05-25

@@ -1,0 +1,13 @@
+library,version,sign,date
+hibernate-validator,5.0.0.CR2,-,2013-05-06
+hibernate-validator,4.3.1.Final,-,2013-05-06
+hibernate-validator,5.1.0.Alpha1,+,2013-05-06
+maven-aether-provider,3.0.5,+,2013-05-06
+jboss-ejb3-ext-api,2.0.0,-,2013-05-06
+hibernate-validator-annotation-processor,5.0.0.CR2,-,2013-05-06
+hibernate-validator-annotation-processor,4.3.1.Final,-,2013-05-06
+hibernate-validator-annotation-processor,5.1.0.Alpha1,+,2013-05-06
+richfaces,5.0.0.Alpha1,+,2013-05-06
+fest-assert-core,2.0M10,+,2013-05-06
+graphene-webdriver,2.0.0.CR1,+,2013-05-06
+httpclient,4.2.3,-,2013-05-06

@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,3.8,+,2012-02-13
+junit,4.10,-,2012-02-13
+junit,3.8.2,+,2012-02-13
+junit,4.8.1,+,2012-02-13
+junit,4.10,+,2012-02-13
+neethi,2.0.4,+,2012-02-13
+axiom-api,1.2.9,+,2012-03-20
+ant-nodeps,1.7.0,+,2012-02-13
+backport-util-concurrent,2.1,+,2012-02-13
+commons-logging,1.1.1,+,2012-02-13
+servlet-api,2.3,+,2012-02-13
+servlet-api,2.3,+,2012-03-20

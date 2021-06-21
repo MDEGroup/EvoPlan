@@ -1,0 +1,11 @@
+library,version,sign,date
+wagon-file,2.3,+,2012-09-20
+maven-embedder,3.0.4,+,2012-09-20
+wagon-http,2.3,+,2012-09-20
+aardvark-core,0.4,-,2012-09-20
+aardvark-core,0.4-SNAPSHOT,-,2012-06-05
+aardvark-core,0.5-SNAPSHOT,-,2012-09-20
+aardvark-core,0.5-SNAPSHOT,-,2013-08-01
+aardvark-core,0.5,-,2013-08-12
+aardvark-core,0.4-SNAPSHOT,+,2012-05-31
+aether-connector-wagon,1.13.1,+,2012-09-20

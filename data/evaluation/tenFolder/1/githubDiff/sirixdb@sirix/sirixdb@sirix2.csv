@@ -1,0 +1,19 @@
+library,version,sign,date
+sirix-core,0.1.2-SNAPSHOT,+,2012-09-30
+sirix-core,0.1.2-SNAPSHOT,+,2013-08-23
+sirix-core,0.1.2-SNAPSHOT,-,2018-12-30
+sirix-core,0.1.1-SNAPSHOT,-,2012-09-29
+sirix-core,0.8.9-SNAPSHOT,+,2013-08-23
+sirix-core,0.1.2-SNAPSHOT,-,2013-08-23
+sirix-core,0.8.9-SNAPSHOT,-,2018-12-30
+sirix-core,0.1.0,-,2012-09-27
+sirix-core,0.1.0,-,2012-09-29
+controlP5,0.7.01,-,2012-06-11
+core,5.4.0-SNAPSHOT,-,2012-06-11
+core,5.4.0-SNAPSHOT,-,2012-06-16
+core,5.4.0-SNAPSHOT,+,2012-06-11
+core,0.1.0,+,2012-06-16
+core,1.5.1<!-- 2.0a4 -->,-,2012-06-11
+core,1.5.1<!-- 2.0a4 -->,-,2018-12-30
+pdf,1.0,-,2012-06-11
+utils,3.0.0,-,2012-06-11

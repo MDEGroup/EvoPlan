@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.12,+,2019-12-06
+assertj-core,3.8.0,+,2019-12-06
+jgoodies-common,1.8.1,+,2019-12-02
+poi,4.1.1,+,2019-12-02
+jgoodies-forms,1.9.0,+,2019-12-06

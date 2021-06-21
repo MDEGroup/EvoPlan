@@ -1,0 +1,4 @@
+library,version,sign,date
+tree-processor,2.10-SNAPSHOT,+,2015-08-06
+centralWebservice-lib,1.18-SNAPSHOT,+,2015-08-06
+commons-lang,2.5,+,2015-08-06

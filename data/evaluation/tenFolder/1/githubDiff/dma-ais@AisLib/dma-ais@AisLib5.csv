@@ -1,0 +1,7 @@
+library,version,sign,date
+jackson-annotations,2.9.6,-,2018-11-19
+reflections,0.9.11,-,2018-11-19
+jackson-databind,2.9.6,-,2018-11-19
+jsonassert,1.5.0,-,2018-11-19
+jackson-core,2.9.6,-,2018-11-19
+json,20180130,-,2018-11-19

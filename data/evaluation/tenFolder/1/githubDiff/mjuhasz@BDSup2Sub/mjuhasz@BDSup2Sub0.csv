@@ -1,0 +1,6 @@
+library,version,sign,date
+fest-swing,1.2.1,+,2013-01-09
+fest-swing-junit-4.5,1.2.1,+,2013-01-09
+commons-cli,1.2,+,2012-06-17
+macify,1.4,+,2012-11-24
+java-image-scaling,0.8.5,+,2012-03-08

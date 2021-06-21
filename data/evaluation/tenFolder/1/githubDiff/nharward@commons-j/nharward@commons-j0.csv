@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2011-10-12
+slf4j-api,1.6.1,+,2011-07-24
+slf4j-jdk14,1.6.1,-,2011-10-12
+slf4j-jdk14,1.6.1,+,2011-07-25
+testng,6.2.1,+,2011-09-22
+guava,r07,-,2011-07-21
+guava,r09,-,2011-10-12
+guava,r07,+,2010-09-24
+servlet-api,2.5,-,2011-08-17
+servlet-api,2.5,+,2011-08-10
+servlet-api,2.5,+,2011-08-17
+netty,3.2.4.Final,+,2011-07-23
+netty,3.2.4.Final,-,2011-09-22

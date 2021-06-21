@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.7,-,2012-02-16
+junit,4.7,+,2012-02-16
+xmlbeans,2.3.0,-,2012-02-16
+xmlbeans,2.3.0,+,2012-02-16
+xstream,1.2.2,+,2012-02-16
+xstream,1.2.2,-,2012-02-16
+commons-beanutils,1.8.3,+,2012-02-16
+commons-beanutils,1.8.3,-,2012-02-16
+log4j,1.2.12,-,2012-02-16
+log4j,1.2.12,+,2012-02-16

@@ -1,0 +1,10 @@
+library,version,sign,date
+slf4j-api,1.7.12,-,2015-11-03
+slf4j-api,1.7.12,-,2015-11-17
+influxdb-java,2.2,-,2016-07-06
+influxdb-java,2.1,-,2016-03-28
+influxdb-java,2.0,-,2016-01-22
+influxdb-java,2.4,-,2017-08-28
+mockito-core,2.0.2-beta,-,2017-08-28
+mockito-core,2.0.5-beta,-,2016-01-22
+spotbugs-annotations,3.1.2,+,2017-11-15

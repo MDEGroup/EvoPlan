@@ -1,0 +1,6 @@
+library,version,sign,date
+plexus-archiver,1.0-alpha-7,+,2007-01-16
+plexus-container-default,1.0-alpha-16-SNAPSHOT,+,2007-01-16
+plexus-container-default,1.0-alpha-16-SNAPSHOT,-,2007-01-17
+plexus-container-default,1.0-alpha-41-SNAPSHOT,+,2007-01-17
+plexus-container-default,1.0-alpha-9,+,2007-01-17

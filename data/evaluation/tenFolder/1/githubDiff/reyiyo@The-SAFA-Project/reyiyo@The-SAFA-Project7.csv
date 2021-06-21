@@ -1,0 +1,6 @@
+library,version,sign,date
+neo4j-cypher-dsl,1.6,+,2012-04-15
+neo4j-cypher-dsl,1.6,-,2012-10-21
+safa-commons,0.1-SNAPSHOT,+,2012-06-04
+neo4j-cypher,1.6.M02,-,2012-04-15
+neo4j-cypher,1.6.M02,+,2012-04-08

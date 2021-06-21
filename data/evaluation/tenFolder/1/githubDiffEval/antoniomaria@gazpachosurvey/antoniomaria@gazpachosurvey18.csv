@@ -1,0 +1,7 @@
+library,version,sign,date
+dbunit,2.4.9,-,2014-04-08
+dbunit,2.5.0,+,2014-04-08
+junit,4.11,-,2014-04-08
+junit,4.11,+,2014-04-08
+fest-assert-core,2.0M10,-,2014-04-08
+fest-assert-core,2.0M10,+,2014-04-08

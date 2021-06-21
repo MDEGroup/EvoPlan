@@ -1,0 +1,6 @@
+library,version,sign,date
+mongo-java-driver,2.8.0,-,2013-01-23
+junit,3.8.1,-,2013-01-23
+junit,3.8.1,+,2013-01-23
+junit,4.10,+,2013-01-23
+governance-serviceregistry-api,1.0-SNAPSHOT,-,2013-01-23

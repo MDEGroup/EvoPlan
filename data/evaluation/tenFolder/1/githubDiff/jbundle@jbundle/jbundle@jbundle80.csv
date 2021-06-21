@@ -1,0 +1,10 @@
+library,version,sign,date
+org.jbundle.base.screen.control.servlet,1.0.1-SNAPSHOT,+,2012-02-12
+org.jbundle.base.screen.control.servlet,1.0.1-SNAPSHOT,-,2013-01-31
+org.jbundle.base.screen.control.servlet,0.8.0-SNAPSHOT,-,2012-02-12
+org.jbundle.base.screen.control.servlet,1.0.10-SNAPSHOT,-,2020-01-23
+org.jbundle.base.screen.control.servlet,1.0.10,-,2020-01-23
+org.jbundle.base.screen.model,1.0.10-SNAPSHOT,-,2020-01-23
+org.jbundle.base.screen.model,1.0.1-SNAPSHOT,-,2013-01-31
+org.jbundle.base.screen.model,1.0.10,-,2020-01-23
+org.jbundle.base.screen.model,0.8.0-SNAPSHOT,-,2012-02-12

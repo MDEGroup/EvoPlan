@@ -1,0 +1,5 @@
+library,version,sign,date
+jaxb-api,2.3.0,+,2018-08-21
+furnace-api,9999.9.9.Final,+,2015-01-30
+furnace-api,2.0.0.Beta3,+,2013-11-19
+furnace-api,2.4.1.Final,+,2014-04-05

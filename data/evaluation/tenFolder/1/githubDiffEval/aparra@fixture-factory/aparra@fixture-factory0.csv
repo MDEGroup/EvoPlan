@@ -1,0 +1,11 @@
+library,version,sign,date
+mirror,1.6.1,+,2012-06-06
+mirror,1.6.1,-,2012-07-04
+mirror,1.6.1,+,2013-02-01
+bfgex,1.0-SNAPSHOT,-,2013-05-17
+bfgex,1.0-SNAPSHOT,+,2011-04-02
+jchronic,0.2.4-SNAPSHOT,+,2011-04-08
+jchronic,0.2.4-SNAPSHOT,-,2012-07-04
+paranamer,2.5,+,2013-02-01
+paranamer,2.5,+,2012-06-06
+paranamer,2.5,-,2012-07-04

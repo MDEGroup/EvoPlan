@@ -1,0 +1,10 @@
+library,version,sign,date
+jdyna-pointer,0.0.1-SNAPSHOT,-,2010-08-26
+jdyna-pointer,0.0.1-SNAPSHOT,+,2010-08-17
+jdyna-pointer,0.1,-,2010-11-15
+commons-cilea-webapi,0.0.1-SNAPSHOT,-,2010-08-26
+commons-cilea-webapi,0.0.1-SNAPSHOT,+,2010-08-17
+commons-cilea-webapi,1.1,-,2013-07-30
+commons-cilea-webapi,0.1,-,2010-11-15
+commons-cilea-webapi,1.0,-,2013-07-12
+spring-webflow,1.0.4,+,2010-08-17

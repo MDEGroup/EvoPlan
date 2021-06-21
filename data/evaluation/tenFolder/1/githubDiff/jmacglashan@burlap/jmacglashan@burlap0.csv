@@ -1,0 +1,5 @@
+library,version,sign,date
+SCPSolver,1.0,+,2016-03-23
+jopt-simple,4.9,+,2015-07-14
+LPSOLVESolverPack,1.0,+,2016-03-23
+JavaRLGlueCodec,1.0,+,2016-03-23

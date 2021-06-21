@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,3.8.1,-,2012-04-03
+junit,3.8.1,-,2012-05-03
+junit,3.8.1,-,2012-02-14
+junit,3.8.1,+,2012-02-14
+junit,3.8.1,+,2012-05-03
+junit,3.8.1,+,2012-04-03
+dsb-kernel,1.0-SNAPSHOT,-,2012-04-03
+dsb-kernel,1.0-SNAPSHOT,+,2012-02-14
+dsb-kernel,1.0-SNAPSHOT,-,2012-05-03
+dsb-kernel,1.0-SNAPSHOT,+,2012-04-03
+management-model,v2012-02-13,+,2012-05-03
+management-model,v2012-02-13,+,2012-04-03
+management-model,v2012-02-13,-,2012-05-03
+petals-kernel,3.0-SNAPSHOT,-,2012-02-14

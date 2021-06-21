@@ -1,0 +1,6 @@
+library,version,sign,date
+kraken-httpd,1.0.4,-,2012-03-18
+kraken-httpd,1.0.5,-,2012-03-18
+kraken-httpd,1.0.0,-,2012-03-18
+kraken-httpd,1.0.7,+,2012-03-18
+org.apache.felix.ipojo.annotations,1.4.0,-,2012-03-18

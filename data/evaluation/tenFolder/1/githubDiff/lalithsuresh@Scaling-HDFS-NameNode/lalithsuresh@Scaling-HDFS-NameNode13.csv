@@ -1,0 +1,7 @@
+library,version,sign,date
+hadoop-hdfs,0.23.0-SNAPSHOT,-,2011-08-25
+hadoop-hdfs,0.24.0-SNAPSHOT,+,2011-08-25
+hadoop-common,0.23.0-SNAPSHOT,-,2011-08-25
+hadoop-common,0.24.0-SNAPSHOT,+,2011-08-25
+hadoop-annotations,0.23.0-SNAPSHOT,-,2011-08-25
+avro,1.5.2,-,2011-08-25

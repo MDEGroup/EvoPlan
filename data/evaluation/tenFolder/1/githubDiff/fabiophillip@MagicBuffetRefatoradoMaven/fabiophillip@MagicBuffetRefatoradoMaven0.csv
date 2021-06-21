@@ -1,0 +1,5 @@
+library,version,sign,date
+coveralls-maven-plugin,2.0.1,+,2013-11-13
+coveralls-maven-plugin,2.0.1,-,2013-11-14
+coveralls-maven-plugin,1.2.0,+,2013-11-14
+maven-abbot-plugin,1.0,+,2013-11-19

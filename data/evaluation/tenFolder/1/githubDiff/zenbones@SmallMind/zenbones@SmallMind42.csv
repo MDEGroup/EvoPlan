@@ -1,0 +1,4 @@
+library,version,sign,date
+javax.websocket-client-api,1.1,+,2019-11-25
+javax.websocket-client-api,1.1,+,2015-11-28
+javax.websocket-client-api,1.1,-,2019-11-25

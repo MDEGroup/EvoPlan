@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.9,+,2011-11-18
+groovy,1.8.4,+,2011-11-18
+commons-cli,1.2,+,2011-11-18

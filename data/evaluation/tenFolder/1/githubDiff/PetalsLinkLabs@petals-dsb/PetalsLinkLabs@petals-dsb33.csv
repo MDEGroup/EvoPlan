@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,3.8.1,-,2011-07-19
+junit,3.8.1,+,2011-07-19
+junit,3.8.1,+,2011-07-13
+junit,3.8.1,-,2012-05-03
+junit,3.8.1,+,2012-04-25
+junit,3.8.1,-,2012-04-25
+junit,3.8.1,+,2012-05-03
+dsb-monitoring-api,1.0-SNAPSHOT,-,2011-07-13

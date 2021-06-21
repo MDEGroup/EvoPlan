@@ -1,0 +1,13 @@
+library,version,sign,date
+jackson-jaxrs-json-provider,2.2.3,+,2013-10-31
+jackson-jaxrs-json-provider,2.2.3,-,2013-11-18
+jackson-jaxrs-json-provider,2.2.3,+,2014-02-18
+jersey-json,1.8,-,2014-02-18
+jersey-json,1.17.1,-,2013-11-18
+jersey-json,1.8,-,2013-11-15
+sam,1.101,+,2013-09-27
+sam,1.92,-,2013-11-18
+sam,1.101,+,2014-02-18
+sam,1.101,-,2013-11-18
+sam,1.92,+,2013-09-27
+sam,1.92,+,2014-02-18

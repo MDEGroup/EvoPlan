@@ -1,0 +1,14 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,+,2014-09-29
+javax.servlet-api,3.0.1,-,2014-09-29
+javax.servlet-api,3.0.1,+,2014-02-08
+junit,4.10,-,2013-01-31
+junit,4.5,-,2012-07-05
+junit,4.5,-,2012-07-23
+junit,4.5,-,2012-07-24
+junit,4.10,+,2012-07-24
+junit,4.11,+,2013-01-31
+junit,4.5,+,2012-07-05
+freemarker,2.3.15,-,2012-07-24
+freemarker,2.3.15,+,2011-10-20
+freemarker,2.3.15,-,2012-10-03

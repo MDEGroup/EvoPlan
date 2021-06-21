@@ -1,0 +1,10 @@
+library,version,sign,date
+flume-ng-sdk,1.1.0-incubating-SNAPSHOT,-,2012-03-13
+flume-ng-sdk,1.1.0-incubating,-,2012-03-20
+flume-ng-sdk,1.1.0-cdh4b2-SNAPSHOT,-,2012-03-16
+flume-ng-sdk,1.1.0-cdh4.0.0-SNAPSHOT,-,2012-04-24
+flume-ng-sdk,1.1.0-incubating-SNAPSHOT,+,2012-02-21
+flume-ng-core,1.1.0-incubating-SNAPSHOT,-,2012-03-13
+flume-ng-core,1.1.0-incubating,-,2012-03-20
+flume-ng-core,1.1.0-cdh4b2-SNAPSHOT,-,2012-03-16
+flume-ng-core,1.1.0-cdh4.0.0-SNAPSHOT,-,2012-04-24

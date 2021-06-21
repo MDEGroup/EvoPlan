@@ -1,0 +1,15 @@
+library,version,sign,date
+elasticsearch,0.19.8,-,2012-08-17
+elasticsearch,0.19.3,-,2012-05-21
+elasticsearch,0.20.6,-,2013-05-19
+elasticsearch,0.90.0,-,2013-05-19
+elasticsearch,0.90.2,+,2013-05-19
+elasticsearch,0.90.0,+,2013-05-19
+elasticsearch,0.19.11,-,2013-01-10
+elasticsearch,0.19.7,-,2012-07-04
+elasticsearch,0.20.6,+,2013-01-10
+stream,2.2.0-SNAPSHOT,-,2012-08-17
+stream,2.2.0,-,2013-08-17
+stream,2.2.0-SNAPSHOT,+,2012-05-21
+jsonassert,1.2.0,+,2013-08-18
+guava,14.0.1,+,2013-01-10

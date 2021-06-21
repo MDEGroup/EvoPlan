@@ -1,0 +1,13 @@
+library,version,sign,date
+slf4j-api,1.7.5,-,2015-04-14
+slf4j-api,1.6.1,-,2015-04-14
+validation-api,1.0.0.GA,-,2015-04-14
+commons-logging,1.1.1,-,2015-04-14
+commons-logging,1.1.1,-,2015-05-06
+commons-logging,1.1.1,+,2015-05-06
+commons-logging,1.1.1,+,2015-04-16
+commons-lang3,3.1,+,2015-04-30
+commons-lang3,3.3.2,-,2015-04-14
+commons-lang3,3.3.2,-,2015-04-16
+servlet-api,2.5,-,2015-04-14
+servlet-api,2.5,+,2015-05-18

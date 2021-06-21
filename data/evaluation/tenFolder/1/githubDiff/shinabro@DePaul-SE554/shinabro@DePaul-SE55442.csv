@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.11,+,2014-03-03
+junit,4.10,+,2013-12-28
+junit,4.11,+,2013-12-28
+junit,4.10,+,2014-03-03
+junit,4.11,-,2014-03-03
+javaee-api,7.0,-,2013-12-28
+javaee-api,7.0,+,2014-03-03
+javaee-api,7.0,+,2013-12-28
+glassfish-embedded-all,4.0-b90,-,2014-03-03
+glassfish-embedded-all,4.0-b90,+,2013-12-28
+glassfish-embedded-all,4.0,-,2013-12-28
+glassfish-embedded-all,4.0,+,2014-03-03
+glassfish-embedded-all,4.0,+,2013-12-28
+glassfish-embedded-all,4.0-b90,+,2014-03-03

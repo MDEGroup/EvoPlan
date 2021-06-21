@@ -1,0 +1,12 @@
+library,version,sign,date
+bw-util-logging,4.0.0,+,2018-12-12
+bw-util-logging,4.0.1,+,2019-01-17
+bw-util-logging,4.0.5,+,2019-10-16
+bw-util-logging,4.0.0,-,2019-01-17
+bw-util-logging,4.0.2,-,2019-08-17
+bw-util-logging,4.0.2,+,2019-01-28
+bw-util-logging,4.0.4,-,2019-10-16
+bw-util-logging,4.0.4,+,2019-08-17
+bw-util-logging,4.0.1,-,2019-01-28
+bw-util-logging,4.0.0-SNAPSHOT,-,2018-12-12
+bw-util-logging,4.0.0-SNAPSHOT,+,2018-11-29

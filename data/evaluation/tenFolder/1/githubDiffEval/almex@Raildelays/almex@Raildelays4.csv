@@ -1,0 +1,4 @@
+library,version,sign,date
+alpn-boot,8.1.7.v20160121,+,2015-08-16
+quartz,2.1.2,-,2016-02-08
+xnio-nio,3.3.4.Final,+,2015-08-16

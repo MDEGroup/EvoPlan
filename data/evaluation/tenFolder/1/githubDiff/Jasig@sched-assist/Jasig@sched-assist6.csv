@@ -1,0 +1,5 @@
+library,version,sign,date
+ical4j,1.0.1-SNAPSHOT,-,2011-08-30
+ical4j,1.0.2,-,2011-12-12
+ical4j,1.0.3,+,2011-12-12
+ical4j,1.0.2,+,2011-08-30

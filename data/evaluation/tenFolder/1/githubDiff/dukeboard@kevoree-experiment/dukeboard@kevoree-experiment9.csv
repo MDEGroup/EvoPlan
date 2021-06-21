@@ -1,0 +1,4 @@
+library,version,sign,date
+viatra2.emf.incquery.runtime,1.1,+,2012-02-27
+org.kevoree.extra.emf.library,2.7.0,+,2012-02-27
+viatra2.gtasm.patternmatcher.incremental.rete,1.1,+,2012-02-27

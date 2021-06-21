@@ -1,0 +1,5 @@
+library,version,sign,date
+streams-testing,0.5.2-SNAPSHOT,+,2018-01-08
+slf4j-simple,1.7.25,+,2018-01-08
+slf4j-simple,1.6.4,+,2018-01-08
+streams-util,0.5.2-SNAPSHOT,+,2018-01-08

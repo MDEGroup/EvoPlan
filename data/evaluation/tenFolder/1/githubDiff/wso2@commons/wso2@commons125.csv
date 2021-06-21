@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.10,-,2012-02-13
+junit,3.8.2,+,2012-02-13
+junit,4.10,+,2012-02-13
+neethi,2.0.4,+,2012-02-13
+mail,1.4,+,2012-02-13
+XmlSchema,1.4.7,+,2012-02-13
+commons-httpclient,3.0.1,+,2012-02-13
+wstx-asl,3.2.1,+,2012-02-13
+backport-util-concurrent,2.1,+,2012-02-13
+commons-logging,1.1.1,+,2012-02-13
+wsdl4j,1.6.2,+,2012-02-13
+httpcore,4.0-alpha5,+,2012-02-13
+log4j,1.2.14,+,2012-02-13
+log4j,1.2.13,+,2012-02-13
+log4j,1.2.16,-,2012-02-13

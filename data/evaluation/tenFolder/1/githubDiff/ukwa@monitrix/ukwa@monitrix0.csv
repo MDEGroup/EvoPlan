@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,3.8.1,-,2014-02-05
+junit,3.8.1,+,2014-02-26
+disruptor,3.2.0,+,2014-02-26
+disruptor,3.2.0,-,2014-02-05
+astyanax,1.56.44,+,2014-02-26
+astyanax,1.56.44,-,2014-02-05
+commons-io,2.4,+,2014-02-26
+commons-io,2.4,-,2014-02-05

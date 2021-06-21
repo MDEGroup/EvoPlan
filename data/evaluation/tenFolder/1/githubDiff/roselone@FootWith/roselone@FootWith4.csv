@@ -1,0 +1,8 @@
+library,version,sign,date
+exception,1.0,-,2013-04-19
+dao,1.0,-,2013-04-19
+log,1.0,+,2013-04-19
+messenger,1.0,-,2013-04-19
+messenger,1.0,+,2013-04-19
+base64,2.3.8,+,2013-04-19
+utility,1.0,-,2013-04-19

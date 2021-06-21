@@ -1,0 +1,8 @@
+library,version,sign,date
+cilia-remote-distribution,1.6.3-SNAPSHOT,-,2013-01-28
+cilia-remote-distribution,1.6.4-SNAPSHOT,-,2013-04-24
+hello-mediator,1.6.4-SNAPSHOT,-,2013-02-19
+hello-mediator,1.0.0-SNAPSHOT,+,2013-11-28
+hello-mediator,1.0.0-SNAPSHOT,-,2013-01-28
+hello-mediator,1.6.4-SNAPSHOT,-,2013-04-24
+hello-mediator,1.0.0-SNAPSHOT,-,2013-02-19

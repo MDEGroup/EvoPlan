@@ -1,0 +1,17 @@
+library,version,sign,date
+rhino,1.7R5,+,2015-07-13
+org.eclipse.rap.clientbuilder,3.6.0-SNAPSHOT,-,2018-07-17
+org.eclipse.rap.clientbuilder,3.8.0-SNAPSHOT,-,2019-01-03
+org.eclipse.rap.clientbuilder,3.1.0-SNAPSHOT,-,2016-02-18
+org.eclipse.rap.clientbuilder,2.3.0-SNAPSHOT,+,2013-12-10
+org.eclipse.rap.clientbuilder,2.3.0-SNAPSHOT,-,2014-02-04
+org.eclipse.rap.clientbuilder,3.12.0-SNAPSHOT,-,2020-01-08
+org.eclipse.rap.clientbuilder,3.9.0-SNAPSHOT,-,2019-03-20
+org.eclipse.rap.clientbuilder,3.5.0-SNAPSHOT,-,2017-12-21
+org.eclipse.rap.clientbuilder,3.7.0-SNAPSHOT,-,2018-09-26
+org.eclipse.rap.clientbuilder,3.0.0-SNAPSHOT,-,2014-06-24
+org.eclipse.rap.clientbuilder,3.11.0-SNAPSHOT,-,2019-09-17
+org.eclipse.rap.clientbuilder,3.10.0-SNAPSHOT,-,2019-06-24
+org.eclipse.rap.clientbuilder,3.3.0-SNAPSHOT,-,2017-07-07
+org.eclipse.rap.clientbuilder,3.4.0-SNAPSHOT,-,2017-10-11
+org.eclipse.rap.clientbuilder,3.2.0-SNAPSHOT,-,2016-08-11

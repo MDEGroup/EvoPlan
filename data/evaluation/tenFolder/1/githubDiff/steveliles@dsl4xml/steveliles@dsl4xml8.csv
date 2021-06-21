@@ -1,0 +1,6 @@
+library,version,sign,date
+dsl4xml-support,0.1.8-SNAPSHOT,+,2013-05-10
+junit,4.4,+,2013-05-10
+dsl4xml-json-test,0.1.8-SNAPSHOT,+,2013-05-10
+jmock-junit4,2.5.1,+,2013-05-10
+dsl4xml-json-dsl,0.1.8-SNAPSHOT,+,2013-05-10

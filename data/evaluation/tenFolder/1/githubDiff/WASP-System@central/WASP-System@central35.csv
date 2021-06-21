@@ -1,0 +1,4 @@
+library,version,sign,date
+spring-batch-integration,1.2.0.RELEASE,-,2012-07-12
+spring-batch-integration,1.2.0.RELEASE,+,2012-06-14
+spring-batch-integration,1.2.0.RELEASE,-,2012-07-20

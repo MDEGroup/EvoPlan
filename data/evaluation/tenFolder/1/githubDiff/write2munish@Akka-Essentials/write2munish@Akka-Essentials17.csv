@@ -1,0 +1,17 @@
+library,version,sign,date
+scalatest_${scala.tools.version},2.1.2,+,2014-04-11
+scalatest_${scala.tools.version},2.1.2,+,2013-04-16
+akka-kernel_2.10,2.1.2,+,2014-04-11
+akka-kernel_2.10,2.1.2,-,2014-04-11
+akka-kernel_2.10,2.1.2,+,2012-07-06
+akka-kernel_2.10,2.1.2,-,2013-04-15
+akka-kernel_2.10,2.1.2,+,2013-04-15
+akka-kernel_2.10,2.1.2,+,2013-04-16
+akka-kernel_2.10,2.1.4,+,2013-04-16
+akka-actor_2.10,2.1.2,+,2014-04-11
+akka-actor_2.10,2.1.2,+,2013-04-15
+akka-actor_2.10,2.1.2,+,2013-04-16
+akka-actor_2.10,2.1.4,+,2013-04-16
+akka-actor_2.10,2.1.2,-,2014-04-11
+akka-actor_2.10,2.1.2,+,2012-07-06
+akka-actor_2.10,2.1.2,-,2013-04-15

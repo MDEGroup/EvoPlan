@@ -1,0 +1,9 @@
+library,version,sign,date
+mockito-all,1.8.5,+,2012-03-17
+hamcrest-library,1.1,+,2012-03-17
+junit,4.8.2,+,2012-03-17
+junit,4.8.2,+,2012-03-19
+velocity,1.7,+,2012-03-17
+commons-io,1.4,+,2012-03-17
+core-renderer,R8,+,2012-03-17
+spring-context,3.0.5.RELEASE,+,2012-04-13

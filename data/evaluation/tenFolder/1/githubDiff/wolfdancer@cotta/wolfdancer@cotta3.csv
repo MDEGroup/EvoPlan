@@ -1,0 +1,9 @@
+library,version,sign,date
+cotta-testbase,3.0-SNAPSHOT,-,2012-08-31
+cotta-testbase,3.0-SNAPSHOT,-,2012-09-01
+cotta-testbase,3.0-SNAPSHOT,+,2012-05-19
+cotta-testbase,3.0,-,2012-09-01
+cotta,3.0-SNAPSHOT,-,2012-08-31
+cotta,3.0-SNAPSHOT,-,2012-09-01
+cotta,3.0,-,2012-09-01
+MockFtpServer,2.3,+,2012-05-16

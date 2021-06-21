@@ -1,0 +1,15 @@
+library,version,sign,date
+docker-client,2.7.20,+,2015-04-14
+docker-client,3.1.5,-,2017-05-01
+docker-client,2.7.20,-,2015-10-08
+SingularityExecutor,0.3.7-SNAPSHOT,-,2014-06-17
+logback-classic,1.1.1,-,2014-08-28
+hibernate-validator,5.0.2.Final,-,2014-10-21
+hibernate-validator,5.1.1.Final,-,2015-06-26
+hibernate-validator,5.0.2.Final,+,2014-08-28
+SingularityBase,0.3.7-SNAPSHOT,-,2014-06-17
+SingularityRunnerBase,0.3.7-SNAPSHOT,-,2014-06-17
+guava,15.0,-,2014-06-17
+guava,17.0,-,2014-08-28
+guava,17.0,+,2014-06-17
+guice,3.0,-,2014-08-28

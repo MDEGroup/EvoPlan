@@ -1,0 +1,5 @@
+library,version,sign,date
+jeo-postgis,|version|,+,2013-05-31
+jeo-mongo,|version|,+,2013-05-31
+jeo-geojson,|version|,+,2013-05-31
+jeo-csv,|version|,+,2013-05-31

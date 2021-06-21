@@ -1,0 +1,11 @@
+library,version,sign,date
+beam-netcdf,1.0.101,-,2012-01-09
+jtar,1.0.4,+,2012-01-09
+jtar,1.0.4,+,2014-06-10
+jtar,1.0.4,+,2013-01-11
+jtar,1.0.4,-,2014-06-10
+jtar,1.0.4,+,2012-01-13
+commons-compress,1.2,-,2014-06-10
+commons-compress,1.2,+,2014-06-10
+commons-compress,1.2,+,2013-01-11
+commons-compress,1.2,+,2012-01-09

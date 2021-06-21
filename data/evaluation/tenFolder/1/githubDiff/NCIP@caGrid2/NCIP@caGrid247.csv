@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.10,-,2013-06-05
+junit,4.10,+,2013-06-05
+junit,4.7,+,2013-09-10
+asm,3.3.1,+,2014-01-09
+asm,3.3.1,-,2014-01-09
+org.apache.servicemix.bundles.commons-dbcp,1.4_1,-,2013-09-10
+org.apache.servicemix.bundles.commons-dbcp,1.4_1,+,2013-09-10
+org.apache.servicemix.bundles.commons-dbcp,1.4_1,+,2013-06-05
+org.apache.servicemix.bundles.commons-dbcp,1.4_1,+,2014-01-09
+org.apache.servicemix.bundles.commons-dbcp,1.4_1,-,2013-06-05
+org.apache.servicemix.bundles.commons-dbcp,1.4_1,-,2014-01-09
+commons-lang,2.6,-,2013-06-05
+commons-lang,2.6,+,2013-06-05

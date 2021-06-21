@@ -1,0 +1,16 @@
+library,version,sign,date
+slf4j-api,1.7.7,-,2017-02-24
+slf4j-api,1.7.7,+,2014-11-02
+junit,4.11,-,2017-06-05
+junit,3.8.1,-,2013-11-18
+slf4j-simple,1.7.7,-,2017-02-24
+slf4j-simple,1.7.7,+,2014-11-02
+slf4j-simple,1.7.25,+,2017-10-06
+cayenne-server,4.0.RC1,-,2018-07-11
+cayenne-server,4.0.RC1,+,2018-01-26
+cayenne-server,4.1.M2,-,2018-12-26
+cayenne-server,3.2.M2-SNAPSHOT,-,2014-10-17
+cayenne-server,4.1.B2,-,2019-05-21
+cayenne-server,3.2M2-SNAPSHOT,-,2013-11-17
+cayenne-server,4.0.M2-SNAPSHOT,-,2014-11-02
+cayenne-server,{version},+,2017-10-06

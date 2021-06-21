@@ -1,0 +1,16 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,-,2019-01-06
+javax.servlet-api,4.0.1,-,2019-11-25
+javax.servlet-api,3.0.1,-,2015-11-28
+javax.servlet-api,4.0.1,+,2019-11-25
+jaxws-rt,2.2.5,-,2015-07-06
+jaxws-rt,2.2.10,-,2018-06-15
+jaxws-rt,2.3.0.1,-,2019-03-18
+grizzly-http-server-jaxws,2.3.16,-,2015-01-10
+grizzly-framework,2.3.16,-,2015-01-10
+jersey-container-servlet-core,2.9.1,-,2015-01-10
+jersey-server,2.9.1,-,2015-01-10
+jaxws-api,2.2.11,-,2018-06-15
+jaxws-api,2.3.0,-,2019-03-18
+grizzly-http-servlet,2.3.16,-,2015-01-10
+spring-context,4.0.3.RELEASE,-,2015-01-10

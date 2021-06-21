@@ -1,0 +1,5 @@
+library,version,sign,date
+akka-http,1.0-RC1,+,2010-12-12
+akka-remote,1.0-RC1,+,2010-12-12
+akka-typed-actor,1.0-RC1,+,2010-12-12
+akka-stm,1.0-RC1,+,2010-12-12

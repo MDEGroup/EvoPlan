@@ -1,0 +1,6 @@
+library,version,sign,date
+data-queue,0.0.1-SNAPSHOT,-,2013-06-02
+data-queue,0.0.1-SNAPSHOT,+,2013-06-02
+data-queue,0.0.1-SNAPSHOT,-,2013-06-16
+data-nosql-db,0.0.1-SNAPSHOT,+,2013-06-16
+data-sql-db,0.0.1-SNAPSHOT,+,2013-06-02

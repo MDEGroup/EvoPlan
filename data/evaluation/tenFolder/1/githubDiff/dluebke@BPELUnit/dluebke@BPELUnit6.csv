@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,3.8.1,+,2013-06-08
+commons-cli,1.2,+,2013-05-24
+commons-cli,1.2,-,2013-05-24
+commons-cli,1.2,-,2013-06-08
+commons-cli,1.2,+,2013-06-08

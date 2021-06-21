@@ -1,0 +1,9 @@
+library,version,sign,date
+elasticsearch-rest-high-level-client,6.4.3,-,2019-09-25
+junit,4.8.2,-,2019-09-25
+junit,4.8.2,+,2019-09-25
+junit,4.12,-,2019-09-25
+junit,4.12,+,2019-09-25
+elasticsearch,6.4.3,-,2019-09-25
+elasticsearch-rest-client,6.4.3,-,2019-09-25
+transport,6.4.3,-,2019-09-25

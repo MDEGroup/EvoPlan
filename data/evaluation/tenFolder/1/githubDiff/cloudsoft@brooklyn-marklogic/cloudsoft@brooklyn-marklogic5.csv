@@ -1,0 +1,4 @@
+library,version,sign,date
+demo-content-pumper,0.1.0-SNAPSHOT,+,2013-11-05
+brooklyn-marklogic-api,0.1.0-SNAPSHOT,+,2013-09-26
+guava,14.0.1,+,2013-09-26

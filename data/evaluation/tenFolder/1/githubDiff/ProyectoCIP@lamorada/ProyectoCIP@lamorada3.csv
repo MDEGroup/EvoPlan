@@ -1,0 +1,5 @@
+library,version,sign,date
+mail,1.4.3,+,2013-08-29
+quartz,2.2.0,+,2013-09-19
+asterisk-java,1.0.0-m2,+,2013-10-09
+quartz-jobs,2.2.0,+,2013-09-19

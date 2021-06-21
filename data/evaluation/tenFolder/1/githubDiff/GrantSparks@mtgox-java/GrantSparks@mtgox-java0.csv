@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,3.8.1,+,2013-01-01
+junit,3.8.1,-,2013-01-08
+junit,3.8.1,+,2012-10-30
+junit,3.8.1,-,2012-10-30
+junit,3.8.1,-,2013-01-01
+commons-codec,1.5,+,2013-02-08
+json-2,RELEASE65,+,2013-02-08
+commons-collections,3.2.1,+,2013-02-07
+javolution,5.5.1,+,2013-02-08
+commons-io,2.3,+,2013-01-04
+commons-io,2.3,-,2013-01-08
+commons-lang,2.5,+,2013-02-08
+base64coder,2010-12-19,+,2012-10-30
+base64coder,2010-12-19,+,2013-01-01
+base64coder,2010-12-19,-,2013-01-01

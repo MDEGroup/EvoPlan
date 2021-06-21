@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-api,1.7.7,+,2015-08-09
+gazpachoquest-dao-blueprint,0.6.0-SNAPSHOT,+,2015-07-26
+gazpachoquest-dao-blueprint,0.6.0-SNAPSHOT,+,2015-07-23
+spring-data-commons,1.9.1.RELEASE,+,2015-06-29

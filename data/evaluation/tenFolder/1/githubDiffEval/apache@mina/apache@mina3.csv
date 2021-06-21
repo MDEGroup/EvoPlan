@@ -1,0 +1,3 @@
+library,version,sign,date
+mina-core,0.9.1-SNAPSHOT,+,2006-01-19
+mina-core,0.9.1-SNAPSHOT,-,2006-01-26

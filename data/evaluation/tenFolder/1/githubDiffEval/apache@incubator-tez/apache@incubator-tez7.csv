@@ -1,0 +1,7 @@
+library,version,sign,date
+snappy-java,1.0.4.1,+,2013-10-03
+hadoop-yarn-api,3.0.0-SNAPSHOT,-,2013-04-19
+hadoop-yarn-common,3.0.0-SNAPSHOT,-,2013-04-19
+hadoop-common,3.0.0-SNAPSHOT,-,2013-04-19
+tez-api,0.3.0-SNAPSHOT,-,2014-01-11
+tez-api,0.3.0-SNAPSHOT,+,2013-10-15

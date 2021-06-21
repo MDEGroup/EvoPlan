@@ -1,0 +1,17 @@
+library,version,sign,date
+geronimo-servlet_${servlet.version}_spec,1.0,-,2016-07-01
+geronimo-servlet_${servlet.version}_spec,1.0,-,2016-07-05
+geronimo-servlet_${servlet.version}_spec,1.0,+,2015-07-03
+geronimo-servlet_${servlet.version}_spec,1.0,+,2016-03-31
+geronimo-servlet_${servlet.version}_spec,1.0,-,2013-01-22
+geronimo-servlet_${servlet.version}_spec,1.0,-,2016-06-28
+geronimo-servlet_${servlet.version}_spec,1.0,+,2016-07-01
+geronimo-servlet_${servlet.version}_spec,1.0,+,2012-03-22
+geronimo-servlet_${servlet.version}_spec,1.0,-,2013-08-26
+geronimo-servlet_${servlet.version}_spec,1.0,-,2012-11-13
+geronimo-servlet_${servlet.version}_spec,1.0,+,2012-01-24
+geronimo-servlet_${servlet.version}_spec,1.0,-,2013-06-28
+geronimo-servlet_${servlet.version}_spec,1.0,+,2013-06-28
+geronimo-servlet_${servlet.version}_spec,1.0,+,2012-11-13
+geronimo-servlet_${servlet.version}_spec,1.0,-,2015-07-03
+geronimo-servlet_${servlet.version}_spec,1.0,+,2010-07-21

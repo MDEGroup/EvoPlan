@@ -1,0 +1,5 @@
+library,version,sign,date
+jredis-core-api,a.0-SNAPSHOT,-,2009-10-18
+jredis-core-api,a.0-SNAPSHOT,+,2011-04-21
+jredis-core-ri,a.0-SNAPSHOT,-,2009-10-18
+jredis-core-ri,a.0-SNAPSHOT,+,2011-04-21

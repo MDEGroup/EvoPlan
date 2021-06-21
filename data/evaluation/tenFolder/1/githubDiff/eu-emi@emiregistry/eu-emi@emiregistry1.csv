@@ -1,0 +1,9 @@
+library,version,sign,date
+xmltypes,1.0-SNAPSHOT,-,2011-10-24
+xmltypes,1.0.0-SNAPSHOT,-,2011-11-02
+cis-u6-infoprovider-types,1.5.0,+,2012-07-31
+securityLibrary,3.0.0-SNAPSHOT,-,2012-07-31
+securityLibrary,3.0.0-m1,-,2012-09-25
+securityLibrary,2.0.0,-,2012-07-02
+securityLibrary,3.0.0-SNAPSHOT,+,2012-07-02
+securityLibrary,3.0.0-rc1,-,2012-12-03

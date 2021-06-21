@@ -1,0 +1,5 @@
+library,version,sign,date
+postgresql,9.1-901.jdbc4,+,2013-04-09
+commons-dbcp,1.4,+,2013-04-07
+itext,4.2.0,+,2013-04-21
+hibernate-core,3.6.3.Final,+,2013-04-07

@@ -1,0 +1,8 @@
+library,version,sign,date
+beam-netcdf,1.1,+,2012-05-23
+beam-netcdf,1.1,-,2012-06-27
+netcdf,4.2.20,+,2012-05-21
+beam-core,4.10,-,2012-05-23
+beam-visat-rcp,4.10,-,2012-05-23
+opendap,2.2.2,+,2012-06-27
+opendap,2.2.2,-,2012-06-27

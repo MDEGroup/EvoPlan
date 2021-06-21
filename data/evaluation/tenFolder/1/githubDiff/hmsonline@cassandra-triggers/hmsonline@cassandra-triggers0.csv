@@ -1,0 +1,16 @@
+library,version,sign,date
+hadoop-core,0.20.205.0,+,2012-02-07
+hadoop-core,0.20.205.0,+,2012-02-23
+jackson-core-asl,1.9.3,+,2012-02-23
+junit,4.10,-,2012-07-06
+junit,4.10,+,2012-07-06
+cassandra-all,1.0.7,-,2012-07-06
+cassandra-all,1.0.7,+,2012-02-07
+cassandra-all,1.0.7,+,2012-02-23
+aspectjrt,1.6.11,+,2012-02-23
+jackson-mapper-asl,1.9.3,+,2012-02-17
+jackson-mapper-asl,1.9.3,+,2012-02-23
+guava,11.0.1,+,2012-02-23
+jna,3.4.0,+,2012-02-23
+hector-core,1.0-1,+,2012-02-21
+hector-core,1.0-1,+,2012-02-23

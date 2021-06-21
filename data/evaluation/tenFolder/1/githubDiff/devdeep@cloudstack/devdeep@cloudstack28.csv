@@ -1,0 +1,5 @@
+library,version,sign,date
+org.apache.servicemix.bundles.snmp4j,2.1.0_1,+,2013-08-02
+org.apache.servicemix.bundles.snmp4j,2.1.0_1,+,2013-08-01
+org.apache.servicemix.bundles.snmp4j,2.1.0_1,-,2013-08-02
+org.apache.servicemix.bundles.snmp4j,2.1.0_1,-,2013-08-01

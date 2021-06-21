@@ -1,0 +1,17 @@
+library,version,sign,date
+blur-thrift,0.1.rc2-SNAPSHOT,-,2012-03-03
+blur-thrift,0.1.2,-,2012-06-25
+blur-thrift,0.1.3,+,2012-07-14
+blur-thrift,0.1.rc2-SNAPSHOT,+,2012-02-13
+blur-thrift,0.1.3,+,2012-06-25
+blur-thrift,0.1.0,-,2012-05-22
+blur-mapred,0.1.rc2-SNAPSHOT,-,2012-03-03
+blur-mapred,0.1.2,-,2012-06-25
+blur-mapred,0.1.0,-,2012-05-22
+zookeeper,3.3.4,+,2012-06-25
+zookeeper,3.3.4,+,2012-07-14
+blur-core,0.1.rc2-SNAPSHOT,-,2012-03-03
+blur-core,0.1.2,-,2012-06-25
+blur-core,0.1.0,-,2012-05-22
+log4j,1.2.15,+,2012-07-14
+log4j,1.2.15,+,2012-06-25

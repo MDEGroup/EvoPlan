@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.12,+,2014-03-13
+junit,4.11,-,2014-03-13
+pellet-owlapiv3,2.3.3-SNAPSHOT,-,2013-04-07
+pellet-owlapiv3,2.3.4-SNAPSHOT,-,2013-06-20
+owlapi-api,3.4.5.1-ansell-SNAPSHOT,-,2013-06-20
+owlapi-api,3.4.4.1-ansell-SNAPSHOT,-,2013-04-07
+owlapi-rio,3.4.5.1-ansell-SNAPSHOT,-,2013-06-20
+owlapi-rio,3.4.4.1-ansell-SNAPSHOT,-,2013-04-07

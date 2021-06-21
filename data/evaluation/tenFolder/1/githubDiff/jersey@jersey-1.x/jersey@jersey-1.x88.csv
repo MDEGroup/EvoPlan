@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.8.2,-,2013-01-16
+junit,3.8.2,-,2012-09-07
+junit,4.8.2,+,2011-06-24
+junit,4.8.2,-,2013-04-08
+junit,4.8.2,+,2013-01-16
+junit,4.8.2,+,2011-04-18
+httpclient,4.0-beta2,+,2016-03-11
+httpclient,4.0-beta2,-,2016-03-11

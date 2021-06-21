@@ -1,0 +1,11 @@
+library,version,sign,date
+hibernate-annotations,3.3.1.GA,-,2008-06-28
+hibernate-annotations,3.3.0.ga,-,2008-02-08
+hibernate-core,3.3.1.GA,+,2008-09-12
+hibernate-core,3.3.1.GA,+,2008-06-28
+hibernate-c3p0,3.3.1.GA,+,2008-10-26
+servlet-api,2.5,-,2008-05-06
+servlet-api,2.3,+,2008-02-08
+servlet-api,2.5,+,2008-03-26
+servlet-api,2.3,+,2008-01-21
+javassist,3.4.GA,+,2008-09-13

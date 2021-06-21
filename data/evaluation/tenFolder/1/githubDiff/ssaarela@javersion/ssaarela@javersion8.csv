@@ -1,0 +1,10 @@
+library,version,sign,date
+querydsl-sql,3.5.0,-,2015-04-22
+querydsl-sql-codegen,3.5.0,-,2015-04-22
+h2,1.4.182,-,2015-04-26
+h2,1.4.182,+,2015-04-22
+h2,1.4.182,-,2015-04-22
+h2,1.4.182,+,2015-04-26
+javersion-json,0.1-SNAPSHOT,+,2015-04-22
+javersion-json,0.1-SNAPSHOT,-,2015-04-23
+tomcat-jdbc,8.0.14,-,2015-04-22

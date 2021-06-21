@@ -1,0 +1,8 @@
+library,version,sign,date
+hessian,4.0.51,-,2019-05-21
+hessian,4.0.38,+,2017-10-06
+hessian,4.0.38,-,2018-07-11
+hessian,4.0.38,+,2015-02-26
+slf4j-simple,1.7.7,-,2017-02-24
+slf4j-simple,1.7.7,+,2014-11-02
+slf4j-simple,1.7.25,+,2017-10-06

@@ -1,0 +1,7 @@
+library,version,sign,date
+galen-java-support,1.6.5-SNAPSHOT,-,2015-07-24
+galen-java-support,1.6.5-SNAPSHOT,+,2015-06-16
+galen-core,1.6.5-SNAPSHOT,-,2015-07-24
+galen-core,1.6.4-SNAPSHOT,-,2015-05-11
+galen-core,1.6.3-SNAPSHOT,-,2015-04-21
+galen-core,1.6.3-SNAPSHOT,-,2015-04-01

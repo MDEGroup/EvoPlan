@@ -1,0 +1,7 @@
+library,version,sign,date
+CochiseCore,0.3.0-RC1,+,2012-04-13
+CochiseCore,0.3.2,-,2012-08-24
+CochiseCore,0.3.1,-,2012-07-27
+CochiseCore,0.3.0-RC1,-,2012-05-31
+commons-io,2.4,+,2012-07-05
+commons-fileupload,1.2.2,+,2012-07-05

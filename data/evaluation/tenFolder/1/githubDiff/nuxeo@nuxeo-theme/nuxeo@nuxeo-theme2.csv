@@ -1,0 +1,8 @@
+library,version,sign,date
+jboss-seam,1.1.5.NX3,-,2008-06-24
+json-lib,2.2.1,+,2008-06-24
+json-lib,2.2.1,+,2008-10-29
+json-lib,2.2.1,-,2008-10-29
+json-lib,2.2.1,-,2008-12-12
+json-lib,0.9,-,2008-05-26
+ezmorph,0.9,-,2008-05-26

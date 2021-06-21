@@ -1,0 +1,5 @@
+library,version,sign,date
+mysql-connector-java,5.1.26,-,2013-09-10
+xalan,2.7.1,+,2013-10-11
+log4j,1.2.17,-,2013-09-10
+log4j,1.2.17,+,2013-09-10

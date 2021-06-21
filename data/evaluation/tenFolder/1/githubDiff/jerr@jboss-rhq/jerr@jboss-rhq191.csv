@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.8.2,+,2010-11-02
+junit,4.8.2,+,2011-10-19
+junit,4.8.2,-,2010-11-02
+junit,4.7,-,2010-11-02
+junit,4.8.1,+,2012-02-24
+junit,3.8.2,+,2011-05-18
+smartgwt,2.2,-,2010-11-02
+smartgwt,2.2,+,2010-11-02
+smartgwt,2.2,-,2010-11-08
+smartgwt,2.2.RHQ1,-,2010-11-02
+smartgwt,2.4,-,2011-10-19
+smartgwt,2.4,+,2010-11-08
+smartgwt,2.2.RHQ2,-,2010-11-08
+smartgwt,2.2.RHQ2,+,2010-11-02
+smartgwt,3.0,+,2011-10-19

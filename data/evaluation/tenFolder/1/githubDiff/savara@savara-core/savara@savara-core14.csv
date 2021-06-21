@@ -1,0 +1,13 @@
+library,version,sign,date
+org.savara.protocol,2.1.0-SNAPSHOT,-,2012-08-17
+org.savara.protocol,2.1.0.20120522-M1,-,2012-05-22
+org.savara.protocol,2.1.0-SNAPSHOT,-,2012-03-13
+org.savara.wsdl,2.1.0-SNAPSHOT,-,2012-08-17
+org.savara.wsdl,2.1.0.20120522-M1,-,2012-05-22
+org.savara.wsdl,2.1.0-SNAPSHOT,-,2012-03-13
+org.savara.common,2.1.0-SNAPSHOT,-,2012-08-17
+org.savara.common,2.1.0.20120522-M1,-,2012-05-22
+org.savara.common,2.1.0-SNAPSHOT,-,2012-03-13
+org.savara.contract,2.1.0-SNAPSHOT,-,2012-08-17
+org.savara.contract,2.1.0.20120522-M1,-,2012-05-22
+org.savara.contract,2.1.0-SNAPSHOT,-,2012-03-13

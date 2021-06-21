@@ -1,0 +1,5 @@
+library,version,sign,date
+posl.engine,0.0.1-SNAPSHOT,+,2015-07-05
+posl.engine,0.0.1-SNAPSHOT,-,2015-07-05
+posl.lang.core,0.0.1-SNAPSHOT,+,2015-07-05
+posl.lang.core,0.0.1-SNAPSHOT,-,2015-07-05

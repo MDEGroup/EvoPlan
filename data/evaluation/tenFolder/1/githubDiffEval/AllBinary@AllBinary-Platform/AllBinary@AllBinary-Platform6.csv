@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,3.8.1,+,2014-09-21
+junit,3.8.1,+,2014-10-05
+junit,3.8.1,-,2014-09-21
+OSGIComponentLibrary,2.0.1,+,2014-10-05

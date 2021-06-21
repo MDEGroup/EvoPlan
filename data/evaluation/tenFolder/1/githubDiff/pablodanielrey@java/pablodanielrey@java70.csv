@@ -1,0 +1,5 @@
+library,version,sign,date
+hsql,1.0-SNAPSHOT,+,2013-11-28
+hsql,1.0-SNAPSHOT,-,2013-11-28
+javax.inject,1,-,2013-11-28
+javax.inject,1,+,2013-11-28

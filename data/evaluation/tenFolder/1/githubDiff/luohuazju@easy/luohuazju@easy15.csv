@@ -1,0 +1,10 @@
+library,version,sign,date
+spring-test,3.1.1.RELEASE,+,2012-06-01
+jackson-core-asl,1.9.6,+,2012-05-31
+groovy,2.0.0-beta-3,+,2012-05-31
+dozer,5.3.2,+,2012-06-01
+spring-mock,2.0.8,+,2012-06-01
+spring-data-neo4j,2.1.0.BUILD-SNAPSHOT,+,2012-06-02
+jackson-mapper-asl,1.9.6,+,2012-05-31
+mockito-core,1.9.0,+,2012-06-01
+servlet-api,2.5,+,2012-06-01

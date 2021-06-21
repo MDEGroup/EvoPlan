@@ -1,0 +1,5 @@
+library,version,sign,date
+xercesImpl,2.6.0,+,2012-05-03
+slf4j-api,1.7.5,+,2012-11-06
+junit,4.8.1,-,2012-11-06
+slf4j-log4j12,1.7.5,+,2014-01-20

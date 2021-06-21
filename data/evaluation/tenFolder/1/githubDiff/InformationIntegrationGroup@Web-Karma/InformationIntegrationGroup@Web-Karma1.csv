@@ -1,0 +1,9 @@
+library,version,sign,date
+slf4j-api,1.6.4,+,2014-09-05
+mongo-java-driver,2.11.4,-,2015-01-09
+mongo-java-driver,2.11.4,+,2014-04-12
+slf4j-log4j12,1.6.4,+,2014-09-05
+jdbc,0.9.2,+,2014-04-11
+sesame,0.9.2,+,2014-04-11
+commons-csv,1.0,+,2014-09-05
+log4j,1.2.16,+,2014-09-05

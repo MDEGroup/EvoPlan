@@ -1,0 +1,6 @@
+library,version,sign,date
+jersey-media-json-processing,2.0,+,2013-07-11
+junit,4.11,+,2013-08-05
+junit,4.10,+,2013-08-05
+javax.json,1.0,+,2013-07-11
+jersey-client,2.0,+,2013-07-11

@@ -1,0 +1,16 @@
+library,version,sign,date
+DowelModule,2.0-SNAPSHOT,+,2017-09-17
+ugs-platform-plugin-joystick,2.0-SNAPSHOT,+,2019-12-30
+ugs-platform-ugscore,2.0-SNAPSHOT,-,2018-05-12
+ugs-platform-ugscore,2.0-SNAPSHOT,+,2019-12-30
+ugs-platform-ugscore,2.0-SNAPSHOT,+,2018-03-01
+ugs-platform-ugscore,2.0-SNAPSHOT,+,2017-04-23
+ugs-platform-branding,2.0-SNAPSHOT,+,2017-04-23
+ugs-platform-surfacescanner,2.0-SNAPSHOT,+,2017-04-23
+ugs-platform-plugin-workflow,2.0-SNAPSHOT,+,2017-04-23
+ugs-platform-visualizer,2.0-SNAPSHOT,+,2017-04-23
+ugs-platform-plugin-jog,2.0-SNAPSHOT,+,2018-01-16
+ugs-platform-ugslib,2.0-SNAPSHOT,+,2017-04-23
+ProbeModule,2.0-SNAPSHOT,+,2017-09-07
+ugs-platform-gcode-editor,2.0-SNAPSHOT,-,2018-04-17
+ugs-platform-gcode-editor,2.0-SNAPSHOT,+,2017-04-23

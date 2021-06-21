@@ -1,0 +1,4 @@
+library,version,sign,date
+runtime-restlet,0.0.1-SNAPSHOT,-,2014-04-06
+junit,4.11,+,2014-04-07
+runtime-ui,0.0.1-SNAPSHOT,-,2014-04-06

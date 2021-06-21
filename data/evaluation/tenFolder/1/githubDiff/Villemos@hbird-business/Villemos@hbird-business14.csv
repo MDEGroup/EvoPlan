@@ -1,0 +1,15 @@
+library,version,sign,date
+camel-core,2.10.2,+,2013-04-09
+business-core,0.0.1-SNAPSHOT,+,2012-04-03
+business-core,0.0.1-SNAPSHOT,+,2012-12-11
+business-core,0.0.1-SNAPSHOT,-,2013-02-13
+validation,0.0.1-SNAPSHOT,-,2012-09-12
+validation,0.0.1-SNAPSHOT,+,2012-04-03
+validation,0.0.1-SNAPSHOT,-,2013-02-13
+validation,0.0.1-SNAPSHOT,+,2012-09-12
+log4j,1.2.17,+,2012-09-12
+log4j,1.2.17,+,2013-03-22
+log4j,1.2.17,+,2013-04-09
+log4j,1.2.16,-,2012-09-12
+log4j,1.2.17,-,2013-03-22
+camel-test,2.10.2,+,2013-04-09

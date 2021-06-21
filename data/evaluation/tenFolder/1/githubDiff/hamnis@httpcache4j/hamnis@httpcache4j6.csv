@@ -1,0 +1,12 @@
+library,version,sign,date
+mockito-core,1.10.19,-,2016-09-21
+mockito-core,1.9.5,-,2015-01-28
+mockito-core,1.7,-,2013-09-21
+httpclient,4.3.1,-,2014-09-09
+httpclient,4.4,-,2016-02-12
+httpclient,4.5.2,-,2016-09-21
+httpclient,4.0.3,-,2011-10-31
+httpclient,4.0-beta2,-,2009-07-23
+httpclient,4.3.6,-,2015-01-28
+httpclient,4.2.1,-,2013-09-21
+httpclient,4.0,-,2010-05-03

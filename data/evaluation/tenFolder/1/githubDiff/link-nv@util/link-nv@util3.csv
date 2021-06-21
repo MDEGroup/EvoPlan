@@ -1,0 +1,4 @@
+library,version,sign,date
+hibernate-core,3.6.2.Final,+,2011-10-10
+hibernate-core,3.6.2.Final,-,2016-07-20
+hibernate-core,4.3.10.Final,+,2016-07-20

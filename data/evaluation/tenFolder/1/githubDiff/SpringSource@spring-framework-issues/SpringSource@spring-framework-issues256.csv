@@ -1,0 +1,6 @@
+library,version,sign,date
+spring-test,3.1.0.BUILD-SNAPSHOT,+,2011-11-08
+junit,4.8,+,2011-11-08
+junit,4.8.2,+,2011-11-08
+spring-orm,3.1.0.RC1,+,2011-11-08
+spring-aop,3.1.0.BUILD-SNAPSHOT,+,2011-11-08

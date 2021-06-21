@@ -1,0 +1,8 @@
+library,version,sign,date
+arecibo-aggregator-lang,1.0.0-SNAPSHOT,-,2012-01-13
+testng,5.8,-,2012-01-13
+testng,6.3,-,2012-01-13
+guice,3.0,-,2012-01-13
+guice,2.0,-,2011-03-15
+guice,3.0,+,2011-03-15
+arecibo-event,1.0.0-SNAPSHOT,-,2012-01-13

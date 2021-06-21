@@ -1,0 +1,4 @@
+library,version,sign,date
+bristleback-core,0.3.1,-,2013-07-25
+javax.el-api,2.2.4,+,2013-07-25
+javax.el,2.2.4,+,2013-07-25

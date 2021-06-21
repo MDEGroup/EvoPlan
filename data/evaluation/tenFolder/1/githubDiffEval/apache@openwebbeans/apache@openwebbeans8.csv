@@ -1,0 +1,11 @@
+library,version,sign,date
+geronimo-validation_1.0_spec,1.0-CR5,-,2010-04-28
+geronimo-validation_1.0_spec,1.0-EA6-SNAPSHOT,-,2010-01-30
+geronimo-validation_1.0_spec,1.0-CR5,+,2010-02-14
+geronimo-validation_1.0_spec,1.0-CR5,-,2010-09-28
+geronimo-validation_1.0_spec,1.0-CR5,+,2010-04-28
+geronimo-jta_1.1_spec,1.1.1,-,2010-01-30
+geronimo-jta_1.1_spec,1.1.1,-,2010-02-14
+geronimo-el_2.2_spec,1.2,+,2020-01-11
+geronimo-jcdi_2.0_spec,1.2,+,2020-01-11
+geronimo-jcdi_2.0_spec,1.0,+,2019-01-09

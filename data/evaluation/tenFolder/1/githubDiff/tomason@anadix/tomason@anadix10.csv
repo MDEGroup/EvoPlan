@@ -1,0 +1,5 @@
+library,version,sign,date
+drools-compiler,5.3.0.Beta1,-,2011-09-29
+drools-compiler,5.3.0.Beta1,+,2011-08-31
+drools-core,5.3.0.Beta1,+,2011-09-06
+drools-core,5.3.0.Beta1,-,2011-09-29

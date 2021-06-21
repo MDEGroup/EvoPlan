@@ -1,0 +1,17 @@
+library,version,sign,date
+catalina,6.0.29,+,2010-10-18
+catalina,6.0.29,+,2011-04-30
+catalina,6.0.29,-,2010-10-18
+catalina,6.0.29,-,2011-04-02
+catalina,6.0.29,+,2011-04-02
+catalina,6.0.29,-,2011-04-30
+btm,2.1.0-SNAPSHOT,+,2010-10-18
+btm,2.0.2-SNAPSHOT,-,2010-10-18
+btm,2.2.0-SNAPSHOT,-,2011-04-30
+btm,2.2.0-SNAPSHOT,+,2011-04-02
+btm,2.1.0,-,2010-10-30
+btm,2.2.0-SNAPSHOT,+,2011-04-30
+btm,2.1.2-SNAPSHOT,-,2011-04-02
+btm,2.1.1,-,2011-04-02
+btm,2.1.1-SNAPSHOT,-,2010-10-30
+btm,2.1.0-SNAPSHOT,-,2010-10-21

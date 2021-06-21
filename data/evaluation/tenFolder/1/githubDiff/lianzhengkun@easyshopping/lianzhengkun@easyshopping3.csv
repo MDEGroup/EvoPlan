@@ -1,0 +1,7 @@
+library,version,sign,date
+jstl,1.2,+,2013-03-13
+junit,4.11,+,2013-03-13
+mysql-connector-java,5.1.21,+,2013-03-13
+shop-service,1.0.0,+,2013-03-13
+commons-dbcp,1.4,+,2013-03-13
+servlet-api,2.5,+,2013-03-13

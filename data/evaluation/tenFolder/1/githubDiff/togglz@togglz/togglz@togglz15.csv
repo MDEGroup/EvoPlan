@@ -1,0 +1,3 @@
+library,version,sign,date
+slf4j-api,1.7.21,+,2016-07-30
+slf4j-api,1.5.11,-,2018-06-30

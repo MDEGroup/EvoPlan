@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.11,+,2013-03-21
+junit,4.11-beta-1,-,2013-03-21
+hibernate-validator,4.3.1.Final,+,2013-03-21
+hibernate-validator,5.0.0.CR2,+,2013-03-21
+hibernate-validator,4.3.0.Final,-,2013-03-21
+rest-assured,1.7.2,+,2013-03-21
+hibernate-validator-annotation-processor,4.3.1.Final,+,2013-03-21
+hibernate-validator-annotation-processor,5.0.0.CR2,+,2013-03-21
+hibernate-validator-annotation-processor,4.3.0.Final,-,2013-03-21
+jboss-transaction-api_1.1_spec,1.0.0.Final,-,2013-03-21
+javax.json,1.0-b06,+,2013-03-21
+httpclient,4.2.3,+,2013-03-21
+hibernate-jpamodelgen,1.2.0.Final,+,2013-03-21
+hibernate-jpamodelgen,1.2.0.Final,-,2013-03-21

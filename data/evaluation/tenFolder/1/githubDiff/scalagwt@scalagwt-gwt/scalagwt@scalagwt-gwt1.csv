@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2011-09-12
+slf4j-api,1.6.1,-,2011-09-12
+slf4j-api,1.6.1,+,2011-09-07
+junit,4.8.1,+,2011-09-12
+junit,4.8.1,-,2011-09-12
+slf4j-log4j12,1.6.1,+,2011-09-12
+slf4j-log4j12,1.6.1,-,2011-09-12
+slf4j-log4j12,1.6.1,+,2011-09-07
+hibernate-validator,4.0.2.GA,+,2011-09-07
+hibernate-validator,4.0.2.GA,+,2011-09-12
+javax.inject,1,-,2011-09-12
+javax.inject,1,+,2011-09-12
+javax.inject,1,+,2011-06-01

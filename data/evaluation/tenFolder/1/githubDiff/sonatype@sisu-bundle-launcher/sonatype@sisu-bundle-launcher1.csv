@@ -1,0 +1,16 @@
+library,version,sign,date
+slf4j-api,1.6.2,+,2012-05-14
+slf4j-api,1.6.4,-,2012-11-26
+slf4j-api,1.7.2,-,2015-01-10
+slf4j-api,1.6.2,-,2012-05-14
+goodies-testsupport,1.12-SNAPSHOT,+,2014-03-20
+goodies-testsupport,1.12-SNAPSHOT,-,2015-01-10
+sisu-guice,3.1.8,+,2013-11-29
+sisu-guice,3.1.8,-,2015-01-10
+ant,1.8.2,-,2012-11-26
+ant,1.8.2,-,2012-05-14
+ant,1.8.2,+,2012-05-14
+plexus-utils,3.0,+,2012-05-14
+plexus-utils,3.0,-,2012-05-14
+org.eclipse.sisu.inject,0.1.1,+,2013-11-29
+org.eclipse.sisu.inject,0.1.1,-,2015-01-10

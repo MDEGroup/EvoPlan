@@ -1,0 +1,4 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,+,2013-09-27
+jetty-server,7.6.13.v20130916,+,2013-09-30
+mockito-core,1.8.5,+,2013-10-02

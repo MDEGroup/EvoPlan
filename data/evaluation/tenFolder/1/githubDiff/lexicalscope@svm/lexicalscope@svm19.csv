@@ -1,0 +1,11 @@
+library,version,sign,date
+matchers-additional,0.0.1-SNAPSHOT,-,2014-06-07
+junit,4.11,-,2014-01-16
+junit,3.8.1,-,2014-01-16
+junit,4.11,-,2014-01-18
+junit,3.8.1,-,2014-01-18
+junit,3.8.1,+,2014-01-16
+junit,3.8.1,+,2014-06-07
+junit,4.11,+,2014-01-16
+jmock-junit4,2.6.0,+,2014-01-18
+jmock-junit4,2.6.0,-,2014-01-18

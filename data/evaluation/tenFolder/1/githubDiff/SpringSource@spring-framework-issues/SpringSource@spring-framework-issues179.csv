@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.8,-,2012-10-03
+junit,4.8,+,2012-10-03
+slf4j-log4j12,1.7.1,+,2012-10-03
+commons-httpclient,3.1,-,2012-10-03
+commons-httpclient,3.1,+,2012-10-03
+servlet-api,2.5,+,2012-10-03
+servlet-api,2.5,-,2012-10-03
+log4j,1.2.16,-,2012-10-03
+log4j,1.2.16,+,2012-10-03
+spring-context,3.2.0.BUILD-SNAPSHOT,+,2012-10-03

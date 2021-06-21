@@ -1,0 +1,4 @@
+library,version,sign,date
+amqp-client,3.1.1,-,2015-03-20
+amqp-client,3.6.0,-,2019-09-27
+amqp-client,3.5.0,-,2016-01-25

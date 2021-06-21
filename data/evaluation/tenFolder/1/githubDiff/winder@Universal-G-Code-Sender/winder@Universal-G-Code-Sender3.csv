@@ -1,0 +1,5 @@
+library,version,sign,date
+easymock,3.4,+,2019-01-22
+ugs-cli,2.0-SNAPSHOT,+,2019-01-22
+ugs-pendant,2.0-SNAPSHOT,+,2019-01-22
+ugs-core,2.0-SNAPSHOT,+,2019-01-22

@@ -1,0 +1,8 @@
+library,version,sign,date
+monetdb-jdbc,2.11,+,2014-01-10
+pre-aggregate,0.0.1-SNAPSHOT,-,2013-07-10
+pre-aggregate,0.0.1-SNAPSHOT,+,2013-07-10
+pre-aggregate,0.0.1-SNAPSHOT,-,2013-06-19
+pre-aggregate,0.0.1-SNAPSHOT,+,2013-06-19
+main,2.2.4,+,2013-07-03
+main,2.2.4,-,2013-07-10

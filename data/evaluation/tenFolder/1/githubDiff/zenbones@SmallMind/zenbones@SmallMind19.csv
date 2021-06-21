@@ -1,0 +1,6 @@
+library,version,sign,date
+maven-core,3.3.9,-,2018-04-07
+maven-core,3.2.2,-,2015-11-04
+maven-aether-provider,3.2.2,-,2015-11-04
+maven-compat,3.3.9,-,2018-04-07
+maven-compat,3.2.2,-,2015-11-04

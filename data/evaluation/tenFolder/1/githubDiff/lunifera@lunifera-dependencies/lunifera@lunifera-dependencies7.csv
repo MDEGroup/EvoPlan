@@ -1,0 +1,5 @@
+library,version,sign,date
+org.knowhowlab.osgi.testing.utils,1.0.1,-,2013-01-15
+org.knowhowlab.osgi.testing.utils,1.1.0,-,2013-01-23
+org.knowhowlab.osgi.testing.assertions,1.0.1,-,2013-01-15
+org.knowhowlab.osgi.testing.assertions,1.1.0,-,2013-01-23

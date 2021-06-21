@@ -1,0 +1,11 @@
+library,version,sign,date
+ness-config,2.1.3,-,2012-09-05
+ness-core,1.3.0-SNAPSHOT,+,2012-09-05
+ness-core,1.3.1,-,2013-01-09
+ness-core,1.3.0-SNAPSHOT,-,2012-09-20
+lz4,1.1-NESS-1.0,-,2013-08-02
+lz4,1.1-NESS-1.0,+,2013-03-28
+httpclient,4.1.2,-,2012-09-05
+ness-lifecycle,1.1.0,-,2012-09-05
+ness-logging,1.0.2,-,2012-06-01
+ness-logging,1.1.0,-,2013-01-09

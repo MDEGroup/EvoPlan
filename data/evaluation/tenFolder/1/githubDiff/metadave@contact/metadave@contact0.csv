@@ -1,0 +1,13 @@
+library,version,sign,date
+mockito-all,1.9.5,+,2013-03-23
+jinterface,1.5.6,+,2013-04-08
+jinterface,1.5.6,+,2013-04-27
+jinterface,1.5.6,-,2013-04-09
+junit,4.11,+,2013-03-23
+junit,3.8.2,-,2013-03-23
+reflections,0.9.8,+,2013-03-19
+fluent-hc,4.2.3,-,2013-04-09
+fluent-hc,4.2.3,+,2013-04-08
+fluent-hc,4.2.3,+,2013-04-27
+jline,2.10,+,2013-03-19
+jline,1.0,-,2013-03-19

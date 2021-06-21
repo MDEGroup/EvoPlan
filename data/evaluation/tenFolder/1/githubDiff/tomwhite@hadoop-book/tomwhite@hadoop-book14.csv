@@ -1,0 +1,14 @@
+library,version,sign,date
+hadoop-client,2.2.0,-,2014-07-26
+hadoop-client,2.4.1,-,2014-07-26
+hadoop-client,2.2.0,+,2014-01-10
+mrunit,0.8.1-incubating,+,2012-05-29
+mrunit,0.8.1-incubating,+,2012-04-17
+mrunit,0.8.1-incubating,+,2014-01-09
+mrunit,0.8.1-incubating,-,2012-05-29
+mrunit,0.8.1-incubating,-,2014-01-10
+mrunit,0.8.1-incubating,-,2014-07-26
+mrunit,0.8.0-incubating,+,2012-01-14
+mrunit,0.8.0-incubating,-,2012-04-17
+mrunit,1.1.0,+,2014-07-26
+mrunit,0.8.1-incubating,+,2014-01-10

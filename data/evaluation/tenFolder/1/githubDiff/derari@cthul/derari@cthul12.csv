@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.8.2,+,2013-01-03
+junit,4.8.2,-,2013-01-03
+hamcrest-library,1.3.RC2,-,2013-01-03
+cthul-matchers,1.0,+,2013-01-03
+cthul-matchers,1.0,-,2013-01-17
+cthul-matchers,1.1.0-SNAPSHOT,+,2013-02-15
+cthul-matchers,1.0.1-SNAPSHOT,-,2013-02-15
+cthul-matchers,1.0,+,2013-02-15
+twip,3.3,+,2013-01-03
+twip,3.3,-,2013-01-03
+mockito-core,1.9.0,+,2013-01-03
+mockito-core,1.9.0,-,2013-01-03
+mockito-core,1.8.5,-,2012-05-03

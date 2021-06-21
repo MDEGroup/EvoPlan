@@ -1,0 +1,4 @@
+library,version,sign,date
+library,2.4.0,-,2013-08-27
+eventbus,2.0.1,+,2013-09-03
+jsoup,1.7.2,+,2013-09-10

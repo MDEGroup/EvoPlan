@@ -1,0 +1,6 @@
+library,version,sign,date
+personModelGWT,1.0-SNAPSHOT,-,2014-04-22
+personEntities,1.0-SNAPSHOT,-,2014-04-22
+personEntities,1.0-SNAPSHOT,+,2014-04-22
+documentEntities,1.0-SNAPSHOT,+,2014-04-22
+authModelGWT,1.0-SNAPSHOT,-,2014-04-22

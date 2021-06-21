@@ -1,0 +1,10 @@
+library,version,sign,date
+sola-messaging,1.0,-,2012-04-01
+sola-messaging,1.1-SNAPSHOT,-,2012-04-01
+sola-messaging,1.0-SNAPSHOT,-,2012-01-09
+mybatis,3.0.6,+,2012-01-09
+mybatis,3.0.5,-,2012-01-09
+jts,1.13,+,2012-09-15
+sola-common,1.0,-,2012-04-01
+sola-common,1.1-SNAPSHOT,-,2012-04-01
+sola-common,1.0-SNAPSHOT,-,2012-01-09

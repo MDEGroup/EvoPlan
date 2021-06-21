@@ -1,0 +1,5 @@
+library,version,sign,date
+lib-gwt-svg,0.5.7,+,2013-03-29
+lib-gwt-svg,0.5.7,+,2013-03-28
+lib-gwt-svg,0.5.7,-,2013-03-28
+lib-gwt-svg,0.5.7,-,2013-03-29

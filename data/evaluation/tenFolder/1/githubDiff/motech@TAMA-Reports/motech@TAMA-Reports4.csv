@@ -1,0 +1,4 @@
+library,version,sign,date
+cglib,2.2.2,+,2013-01-22
+aspectjrt,1.6.8,+,2013-01-22
+jetty,6.1.2,+,2013-01-22

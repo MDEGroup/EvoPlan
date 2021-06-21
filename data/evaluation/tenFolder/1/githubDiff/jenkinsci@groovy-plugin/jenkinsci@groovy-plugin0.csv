@@ -1,0 +1,10 @@
+library,version,sign,date
+structs,1.7,+,2019-02-27
+token-macro,1.4,-,2014-05-13
+token-macro,1.0,-,2011-09-08
+token-macro,1.4,+,2014-05-13
+token-macro,1.0,+,2011-02-08
+script-security,1.24,+,2016-11-22
+script-security,1.50,-,2019-01-23
+script-security,1.24,-,2017-04-10
+commons-exec,1.2,+,2014-07-06

@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2013-05-02
+mockito-all,1.9.0,-,2013-05-02
+junit,4.8.1,-,2013-05-02
+slf4j-simple,1.6.4,-,2013-05-02

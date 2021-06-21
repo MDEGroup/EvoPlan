@@ -1,0 +1,14 @@
+library,version,sign,date
+org.eclipse.persistence.jpa.modelgen.processor,2.6.0,-,2018-08-13
+org.eclipse.persistence.jpa.modelgen.processor,2.6.2,-,2018-08-13
+org.eclipse.persistence.jpa.modelgen.processor,2.5.2,-,2018-08-13
+org.eclipse.persistence.jpa.modelgen.processor,2.5.2,-,2019-01-09
+junit,4.12,+,2019-01-09
+eclipselink,2.6.0,-,2018-08-13
+eclipselink,2.6.2,-,2018-08-13
+eclipselink,2.5.2,-,2018-08-13
+eclipselink,2.5.2,-,2019-01-09
+jaxen,1.2.0,+,2019-01-09
+ep-model,2.0.0-SNAPSHOT,+,2019-01-09
+ep-model,2.0.0-SNAPSHOT,+,2018-08-13
+ep-model,2.0.0-SNAPSHOT,-,2019-01-09

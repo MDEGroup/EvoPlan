@@ -1,0 +1,9 @@
+library,version,sign,date
+gb-fsm-core,1.4-SNAPSHOT,-,2013-01-15
+gb-fsm-core,1.3-SNAPSHOT,-,2012-06-07
+gb-fsm-core,1.3-BETA_1,-,2012-06-01
+gb-fsm-core,1.3-SNAPSHOT,-,2012-04-03
+gb-fsm-core,1.2-SNAPSHOT,-,2012-03-14
+gb-fsm-core,1.2.5-SNAPSHOT,-,2012-03-30
+commons-beanutils,1.7.0,+,2012-04-03
+commons-beanutils,1.7.0,-,2013-01-15

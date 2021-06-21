@@ -1,0 +1,6 @@
+library,version,sign,date
+samtools,1.107,+,2014-04-21
+log4j,1.2.15,+,2014-04-24
+log4j,1.2.15,-,2014-04-24
+commons-math3,3.2,+,2014-04-24
+commons-math3,3.2,-,2014-04-24

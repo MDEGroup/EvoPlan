@@ -1,0 +1,13 @@
+library,version,sign,date
+slf4j-jdk14,1.6.1,+,2012-04-28
+slf4j-jdk14,1.6.1,-,2012-05-11
+slf4j-jdk14,1.6.1,-,2012-05-16
+slf4j-jdk14,1.6.1,-,2012-05-15
+slf4j-jdk14,1.6.1,+,2012-05-11
+slf4j-jdk14,1.6.1,-,2012-04-28
+spring-web,3.0.6.RELEASE,-,2012-05-16
+spring-web,3.0.6.RELEASE,+,2012-05-11
+spring-web,3.0.6.RELEASE,-,2012-05-11
+spring-context,3.0.6.RELEASE,-,2012-05-16
+spring-context,3.0.6.RELEASE,+,2012-05-11
+spring-context,3.0.6.RELEASE,-,2012-05-11

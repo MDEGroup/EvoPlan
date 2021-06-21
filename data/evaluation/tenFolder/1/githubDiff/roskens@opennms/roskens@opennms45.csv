@@ -1,0 +1,7 @@
+library,version,sign,date
+httpclient-osgi,4.5.2,-,2017-10-19
+httpclient-osgi,4.5.2,+,2016-08-04
+httpclient-osgi,4.5.3,+,2017-10-19
+httpclient-osgi,4.3.6,-,2016-11-23
+httpclient-osgi,4.3.6,+,2016-08-04
+httpclient-osgi,4.5.2,-,2016-11-23

@@ -1,0 +1,16 @@
+library,version,sign,date
+commons-codec,1.4,-,2016-12-19
+jaxb-impl,2.2.7,+,2014-07-09
+jaxb-impl,2.2,-,2014-07-09
+jaxb-impl,2.2,+,2011-10-27
+jboss-servlet-api_3.1_spec,1.0.0.Final,+,2016-01-21
+resteasy-jaxrs,2.3.2.Final,-,2015-09-26
+resteasy-jaxrs,2.3.2.Final,+,2015-09-03
+jackson-mapper-asl,1.9.4,+,2012-03-05
+jackson-mapper-asl,1.9.4,-,2013-10-03
+jackson-mapper-asl,1.9.9,+,2013-10-03
+jackson-mapper-asl,1.9.9,-,2015-08-05
+jackson-mapper-asl,1.6.3,-,2012-03-05
+commons-lang,2.6,+,2012-11-02
+commons-lang,2.4,-,2012-11-02
+jboss-jaxrs-api_2.0_spec,1.0.0.Final,+,2015-09-26

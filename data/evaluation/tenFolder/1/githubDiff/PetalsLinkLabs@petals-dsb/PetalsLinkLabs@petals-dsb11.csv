@@ -1,0 +1,9 @@
+library,version,sign,date
+monolog,1.8,+,2011-04-07
+monolog,2.1.10,+,2011-04-07
+monolog,1.8,-,2011-04-07
+junit,3.8.1,+,2011-04-07
+junit,3.8.1,-,2011-04-07
+junit,3.8.1,-,2012-05-03
+junit,3.8.1,+,2012-05-03
+petals-kernel,3.0-SNAPSHOT,-,2011-04-07

@@ -1,0 +1,7 @@
+library,version,sign,date
+syncope-common,2.0.0-SNAPSHOT,-,2016-03-25
+syncope-common,2.1.0-SNAPSHOT,-,2018-05-02
+syncope-common,3.0.0-SNAPSHOT,-,2018-09-25
+syncope-common,3.0.0-SNAPSHOT,+,2018-09-25
+syncope-common,3.0.0-SNAPSHOT,+,2019-01-21
+syncope-common,2.0.0-SNAPSHOT,+,2014-10-23

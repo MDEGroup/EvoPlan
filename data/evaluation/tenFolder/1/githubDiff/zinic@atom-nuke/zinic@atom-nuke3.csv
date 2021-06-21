@@ -1,0 +1,6 @@
+library,version,sign,date
+jaxb,2.1.9,+,2012-10-06
+jaxb-libs,1.0.6,+,2012-10-06
+junit,4.10,-,2012-12-17
+jaxb-impl,2.2.7-b41,+,2012-10-06
+utilities,2.3.6-SNAPSHOT,-,2012-10-06

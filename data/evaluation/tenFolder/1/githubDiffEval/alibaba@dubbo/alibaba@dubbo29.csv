@@ -1,0 +1,13 @@
+library,version,sign,date
+zookeeper,3.3.3,+,2012-12-25
+zookeeper,3.4.9,-,2018-01-05
+zookeeper,3.3.3,-,2012-12-25
+zookeeper,3.3.3,-,2017-08-24
+zookeeper,3.3.3,+,2012-08-03
+curator-framework,1.1.10,+,2012-08-03
+curator-framework,1.1.10,-,2012-12-25
+curator-framework,1.1.10,-,2017-08-24
+curator-framework,1.1.10,+,2012-12-25
+curator-framework,2.12.0,-,2018-01-05
+snakeyaml,1.20,-,2018-08-26
+snakeyaml,1.20,+,2018-06-19

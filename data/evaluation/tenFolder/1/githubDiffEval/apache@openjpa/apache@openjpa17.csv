@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,3.8.2,-,2015-06-02
+junit,4.9,-,2016-02-14
+junit,3.8.2,+,2015-04-19
+junit,3.8.1,-,2015-04-19
+geronimo-jpa_2.2_spec,1.0,-,2019-04-10
+geronimo-jpa_2.2_spec,1.1-SNAPSHOT,-,2020-03-15
+geronimo-jpa_2.2_spec,1.0,+,2020-02-14
+geronimo-jpa_2.2_spec,1.0,-,2020-02-29
+geronimo-jpa_2.2_spec,1.0,+,2018-12-03
+openjpa-kernel,@pom.version@,+,2015-06-06
+openjpa-kernel,@pom.version@,+,2015-04-19

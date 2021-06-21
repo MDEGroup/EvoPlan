@@ -1,0 +1,14 @@
+library,version,sign,date
+org.apache.karaf.shell.console,2.1.99-SNAPSHOT,+,2010-09-23
+org.apache.karaf.shell.console,1.0.0,-,2011-02-04
+org.apache.karaf.shell.console,2.1.99-SNAPSHOT,-,2010-09-23
+org.apache.karaf.shell.console,2.0.1-SNAPSHOT,-,2010-09-03
+org.apache.karaf.shell.console,2.1.99-SNAPSHOT,-,2010-11-19
+org.apache.karaf.shell.console,2.99.99-SNAPSHOT,-,2011-11-24
+org.apache.karaf.shell.console,1.0.0,+,2010-10-05
+org.osgi.core,4.2.0,+,2010-09-23
+org.osgi.core,4.2.0,+,2012-03-09
+org.osgi.core,4.2.0,-,2010-10-29
+org.osgi.core,4.2.0,+,2011-11-24
+org.osgi.compendium,4.2.0,+,2010-09-23
+org.osgi.compendium,4.2.0,-,2010-10-29

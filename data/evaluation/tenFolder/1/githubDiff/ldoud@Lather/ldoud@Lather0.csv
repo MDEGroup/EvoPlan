@@ -1,0 +1,6 @@
+library,version,sign,date
+slf4j-api,1.6.4,+,2012-03-10
+xbean-spring,3.5,-,2012-03-10
+xbean-spring,3.5,+,2012-02-07
+slf4j-log4j12,1.6.4,+,2012-03-10
+activemq-xmpp,5.5.1,+,2012-03-10

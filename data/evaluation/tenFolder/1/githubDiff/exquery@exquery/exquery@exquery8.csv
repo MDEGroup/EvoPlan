@@ -1,0 +1,6 @@
+library,version,sign,date
+scala-java8-compat_${scala.lib.version},0.8.0,+,2015-02-12
+fs2-core_${scala.lib.version},0.10.0-M6,+,2015-02-12
+specs2-core_${scala.lib.version},3.9.5,+,2015-02-12
+cats-effect_${scala.lib.version},0.4,+,2015-02-12
+fs2-io_${scala.lib.version},0.10.0-M6,+,2015-02-12

@@ -1,0 +1,5 @@
+library,version,sign,date
+liquibase-core,3.3.2,-,2018-05-02
+logback-classic,1.2.2,+,2018-05-02
+mysql-connector-java,5.1.18,-,2018-05-02
+postgresql,9.2-1004-jdbc41,-,2019-07-18

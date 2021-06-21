@@ -1,0 +1,13 @@
+library,version,sign,date
+mail,1.4.5,+,2013-02-03
+mail,1.4.5,-,2013-02-03
+mail,1.4.5,+,2012-11-17
+mstor,0.9.13,+,2012-10-08
+mstor,0.9.13,-,2012-10-08
+mstor,0.9.13,-,2012-06-11
+commons-email,1.2,-,2012-06-11
+commons-email,1.2,-,2012-10-08
+commons-email,1.2,-,2013-02-03
+commons-email,1.2,+,2013-02-03
+commons-email,1.2,+,2012-10-08
+commons-email,1.2,+,2012-06-11

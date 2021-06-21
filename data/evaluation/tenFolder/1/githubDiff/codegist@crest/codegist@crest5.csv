@@ -1,0 +1,7 @@
+library,version,sign,date
+codegist-common,2.0.0-RC1-SNAPSHOT,+,2011-06-21
+jersey-multipart,1.8,+,2011-06-27
+commons-lang,2.5,+,2011-06-21
+commons-lang,2.5,-,2011-06-21
+oauth-signature,1.8,+,2011-06-28
+oauth-server,1.8,+,2011-06-28

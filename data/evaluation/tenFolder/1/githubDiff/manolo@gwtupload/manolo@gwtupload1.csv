@@ -1,0 +1,8 @@
+library,version,sign,date
+geronimo-jpa_3.0_spec,1.1.1,+,2010-12-31
+datanucleus-appengine,1.0.8,+,2010-12-31
+gwt-user,2.4.0,-,2012-11-30
+appengine-gcs-client,RELEASE,+,2015-01-13
+geronimo-jta_1.1_spec,1.1.1,+,2010-12-31
+datanucleus-jpa,1.1.5,+,2010-12-31
+datanucleus-core,1.1.5,+,2010-12-31

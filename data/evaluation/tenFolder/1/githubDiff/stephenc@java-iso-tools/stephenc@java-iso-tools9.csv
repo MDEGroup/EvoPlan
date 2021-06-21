@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.8.1,+,2010-10-05
+junit,3.8.2,-,2010-10-05
+iso9660-vfs-impl,2.0.1,-,2015-09-30
+iso9660-vfs-impl,2.0.1-SNAPSHOT,-,2013-01-29
+iso9660-vfs-impl,1.2.3-SNAPSHOT,-,2010-10-05
+iso9660-vfs-impl,2.0.0-SNAPSHOT,-,2010-10-06
+iso9660-vfs-impl,2.0.0,-,2013-01-29
+sabre,2.0.1,-,2015-09-30
+sabre,2.0.1-SNAPSHOT,-,2013-01-29
+sabre,1.2.3-SNAPSHOT,-,2010-10-05
+sabre,2.0.0-SNAPSHOT,-,2010-10-06
+sabre,2.0.0,-,2013-01-29
+plexus-utils,2.0.5,+,2010-10-05

@@ -1,0 +1,10 @@
+library,version,sign,date
+ripple-bouncycastle,0.0.1-SNAPSHOT,+,2013-12-04
+json,20141113,-,2015-02-04
+json,20141113,-,2015-02-13
+json,20131018,-,2013-12-03
+json,20090211,-,2013-12-07
+json,20141113,+,2015-02-04
+json,20141113,+,2013-12-07
+eddsa,0.0.1-SNAPSHOT,+,2015-02-13
+eddsa,0.0.1-SNAPSHOT,-,2015-05-07

@@ -1,0 +1,3 @@
+library,version,sign,date
+junit-servers-tomcat,0.4.2,+,2017-01-20
+training-spring-webmvc,1.0-SNAPSHOT,-,2015-12-09

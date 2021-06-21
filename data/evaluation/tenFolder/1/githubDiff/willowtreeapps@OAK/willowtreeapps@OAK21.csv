@@ -1,0 +1,7 @@
+library,version,sign,date
+dagger,1.1.0,+,2014-01-09
+saguaro-android,1.0.0,+,2014-03-13
+retrofit,1.4.1,+,2014-03-05
+gson,2.2.2,+,2014-01-09
+gson,2.1,+,2014-01-08
+gson,2.1,-,2014-01-08

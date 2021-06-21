@@ -1,0 +1,9 @@
+library,version,sign,date
+android,2.2_r2,-,2012-07-29
+android,2.2.1,-,2012-03-31
+android,2.1.2,-,2012-03-30
+android,2.1.2,-,2012-07-29
+roboguice,1.1.1,-,2012-11-08
+roboguice,1.1.1,+,2012-10-01
+support-v4,r7,+,2012-12-20
+google-play-services,4,+,2012-12-20

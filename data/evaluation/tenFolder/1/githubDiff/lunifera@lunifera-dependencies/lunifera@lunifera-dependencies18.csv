@@ -1,0 +1,4 @@
+library,version,sign,date
+guava,14.0.1,+,2013-05-24
+guava,14.0.1,+,2013-07-16
+guava,14.0.1,-,2013-08-12

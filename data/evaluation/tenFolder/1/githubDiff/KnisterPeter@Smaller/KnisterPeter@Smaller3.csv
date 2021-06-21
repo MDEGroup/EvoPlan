@@ -1,0 +1,13 @@
+library,version,sign,date
+commons-lang3,3.1,+,2013-11-02
+commons-lang3,3.1,+,2012-06-21
+commons-lang3,3.1,-,2012-08-08
+commons-lang3,3.1,-,2013-11-02
+commons-lang3,3.1,+,2012-08-08
+commons-io,2.3,+,2012-06-21
+commons-io,2.1,+,2012-08-08
+commons-io,2.2,+,2013-11-02
+commons-io,2.1,-,2012-08-08
+commons-io,2.2,-,2013-11-02
+commons-io,2.3,-,2012-09-11
+commons-io,2.1,-,2013-11-02

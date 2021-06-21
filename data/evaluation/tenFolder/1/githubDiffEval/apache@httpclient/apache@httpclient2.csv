@@ -1,0 +1,4 @@
+library,version,sign,date
+rxjava,2.2.2,+,2018-08-30
+rxjava,2.2.2,-,2018-12-16
+rxjava,2.2.7,+,2018-12-16

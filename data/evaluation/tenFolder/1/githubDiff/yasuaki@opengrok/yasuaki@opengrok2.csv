@@ -1,0 +1,9 @@
+library,version,sign,date
+lucene-core,3.0.2,-,2011-05-17
+lucene-core,3.6.0,-,2012-06-18
+derby,10.6.1.0,+,2010-07-08
+derby,10.6.1.0,+,2010-07-07
+derby,10.6.1.0,-,2010-07-08
+lucene-analyzers-common,4.0.0,+,2012-06-18
+lucene-suggest,4.0.0,+,2012-06-18
+lucene-queryparser,4.0.0,+,2012-06-18

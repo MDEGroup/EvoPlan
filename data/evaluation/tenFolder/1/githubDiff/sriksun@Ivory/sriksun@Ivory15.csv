@@ -1,0 +1,13 @@
+library,version,sign,date
+hadoop-distcp,0.3,+,2013-01-28
+hadoop-distcp,0.1-SNAPSHOT,-,2012-06-11
+hadoop-distcp,0.3,-,2013-01-28
+testng,5.8,+,2012-04-16
+testng,6.1.1,+,2011-11-24
+testng,6.1.1,+,2011-12-23
+testng,5.8,-,2012-04-16
+testng,6.1.1,-,2011-12-23
+testng,5.8,+,2013-01-28
+testng,6.1.1,+,2013-01-28
+testng,5.8,-,2013-01-28
+testng,6.1.1,-,2013-01-28

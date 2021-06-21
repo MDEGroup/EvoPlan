@@ -1,0 +1,12 @@
+library,version,sign,date
+cglib,3.1,+,2014-09-02
+spring-webmvc,3.1.1.RELEASE,-,2013-07-27
+geronimo-servlet_3.0_spec,1.0,+,2013-10-01
+geronimo-servlet_3.0_spec,1.0,+,2014-12-11
+geronimo-servlet_3.0_spec,1.0,+,2012-10-31
+geronimo-servlet_3.0_spec,1.0,-,2013-07-27
+geronimo-servlet_3.0_spec,1.0,+,2013-05-25
+atmosphere-runtime,1.1.0.beta1,-,2012-10-31
+atmosphere-runtime,1.1.0.beta1,-,2012-11-01
+atmosphere-runtime,1.1.0-SNAPSHOT,-,2012-10-05
+atmosphere-runtime,1.1.0.beta1,+,2012-10-05

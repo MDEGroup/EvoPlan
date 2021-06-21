@@ -1,0 +1,7 @@
+library,version,sign,date
+jmeter-plugins-cmn-jmeter,0.1,-,2016-04-24
+jmeter-plugins-cmn-jmeter,0.1,-,2016-04-23
+jmeter-plugins-cmn-jmeter,0.3,-,2017-01-29
+jmeter-plugins-cmn-jmeter,0.1,+,2016-04-23
+jmeter-plugins-cmn-jmeter,0.3,+,2016-04-26
+redis-mock,0.1.6,+,2017-01-29

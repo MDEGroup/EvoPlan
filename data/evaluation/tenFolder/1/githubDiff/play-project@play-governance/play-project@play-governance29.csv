@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,3.8.1,-,2013-01-23
+junit,3.8.1,+,2012-10-31
+junit,3.8.1,+,2013-01-23
+junit,4.10,+,2013-01-23
+junit,3.8.1,+,2012-11-30
+governance-api,1.0-SNAPSHOT,-,2013-01-23
+governance-api,1.0-SNAPSHOT,+,2012-10-31
+governance-api,1.0-SNAPSHOT,-,2012-10-31
+eventcloud-webservices-api,1.2.1,-,2012-10-31
+eventcloud-webservices-api,1.3.0,-,2013-01-23
+guava,13.0.1,-,2013-01-23
+guava,13.0.1,+,2013-01-23
+guava,13.0.1,+,2012-11-30
+guava,13.0.1,+,2012-10-31
+governance-serviceregistry-api,1.0-SNAPSHOT,-,2013-01-23
+governance-serviceregistry-api,1.0-SNAPSHOT,+,2012-11-30

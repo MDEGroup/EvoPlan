@@ -1,0 +1,8 @@
+library,version,sign,date
+mongo-java-driver,2.8.0,+,2012-07-15
+goods-review-core,1.0-SNAPSHOT,+,2012-09-24
+goods-review-core,1.0-SNAPSHOT,+,2012-07-15
+goods-review-core,1.0-SNAPSHOT,+,2012-07-08
+goods-review-scheduler,1.0-SNAPSHOT,+,2012-09-24
+goods-review-scheduler,1.0-SNAPSHOT,+,2012-07-15
+jgrapht,0.7.3,+,2012-07-15

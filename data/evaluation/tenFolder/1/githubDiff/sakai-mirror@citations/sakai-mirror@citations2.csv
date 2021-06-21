@@ -1,0 +1,9 @@
+library,version,sign,date
+commons-logging,1.0.4,-,2007-07-12
+commons-logging,1.0.4,-,2007-03-16
+commons-logging,1.0.4,-,2010-09-22
+commons-logging,1.0.4,+,2007-03-16
+commons-logging,1.0.4,-,2011-12-15
+cql-java,0.7,+,2007-07-12
+cql-java,0.7,-,2007-07-12
+cql-java,0.7,+,2007-03-16

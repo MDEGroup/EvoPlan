@@ -1,0 +1,8 @@
+library,version,sign,date
+mockito-all,1.8.4,+,2013-09-02
+infinispan-core,5.3.0.Final,+,2013-08-07
+joda-time,2.2,+,2013-08-07
+opencsv,2.0,+,2013-08-13
+unitils-core,3.3,+,2013-09-02
+gson,1.7.1,+,2013-08-06
+infinispan-cdi,5.1.2.FINAL,+,2013-09-05

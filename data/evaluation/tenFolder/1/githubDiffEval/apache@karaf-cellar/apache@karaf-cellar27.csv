@@ -1,0 +1,17 @@
+library,version,sign,date
+easymock,2.4,+,2011-05-09
+easymock,2.4,-,2012-04-20
+easymock,3.2,-,2015-09-20
+easymock,3.2,+,2014-06-20
+easymock,3.1,+,2012-04-20
+easymock,3.4,+,2015-09-20
+easymock,3.0,-,2011-05-06
+easymock,3.1,-,2014-06-20
+junit,4.8.2,-,2011-05-06
+junit,4.10,-,2013-10-03
+junit,4.11,+,2013-10-03
+junit,4.10,+,2012-04-20
+junit,4.7,-,2012-04-20
+junit,4.7,+,2011-05-09
+org.apache.aries.proxy.api,1.0.0,-,2014-06-23
+org.apache.aries.proxy.api,1.0.0,+,2014-06-23

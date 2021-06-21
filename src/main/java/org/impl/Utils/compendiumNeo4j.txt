@@ -1,0 +1,32 @@
+/* Torna la relazione di tipo UPGRADED tra il nodo di nome junit e versione 3.8.1 nodo A e nodo di nome junit e versione 4.8.1 nodo B */
+MATCH ({name : "junit", version: "3.8.1"})-[r:Upgraded]->({name : "junit", version: "4.8.1"})
+RETURN r
+
+/* Torna nomi e proprietà, attenzione all oggetto prima delle graffe se non lo definisci non torna niente
+MATCH (a{name : "junit"})-[r:Upgraded]->(b{name : "junit"})
+RETURN a,b,r
+
+/* Torna tutti i nodi che hanno junit come nome
+MATCH (n:Library{name:"junit"}) RETURN n
+
+/*Esperimento
+MATCH (a:Library{name:'junit', version:'4.11'})
+MATCH (b:Library{name:'junit', version:'4.12'})
+MERGE (a)-[r:Upgraded{cost:'2',repo:['clan2','11.11.11']}]->(b)
+
+/*Cancella tutto
+MATCH (n) DETACH DELETE n
+
+/*Shortest path
+MATCH (start:Library{name:'junit',version:'3.8.1'}), (end:Library{name:'junit',version:'4.12'})
+CALL algo.shortestPath.stream(start, end, 'cost')
+YIELD nodeId,cost
+RETURN algo.asNode(nodeId).name AS name ,algo.asNode(nodeId).version AS version,cost
+
+/*k Shortest path
+MATCH (start:Library{name:'junit',version:'3.8.1'}), (end:Library{name:'junit',version:'4.12'})
+CALL algo.kShortestPaths.stream(start, end, 3, 'cost' ,{})
+YIELD  nodeIds, costs
+RETURN [node in algo.getNodesById(nodeIds) | node.version] AS places,
+       costs,
+       reduce(acc = 0.0, cost in costs | acc + cost) AS totalCost

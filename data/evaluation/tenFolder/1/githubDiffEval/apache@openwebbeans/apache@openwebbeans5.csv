@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.5,-,2016-02-16
+junit,4.11,+,2019-01-09
+junit,4.8.2,-,2016-02-16
+junit,4.11,-,2019-05-26
+junit,4.8.2,-,2014-06-05
+junit,4.12,-,2019-11-19
+junit,4.12,+,2017-01-31
+shrinkwrap-api,1.1.1,-,2015-08-07
+shrinkwrap-api,1.1.1,+,2012-11-15
+shrinkwrap-api,1.2.2,-,2017-01-31

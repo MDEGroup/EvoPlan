@@ -1,0 +1,14 @@
+library,version,sign,date
+jaxws-api,2.3.1,+,2019-08-04
+joda-time,2.3,+,2014-04-09
+joda-time,2.3,-,2014-04-17
+jackson-databind,2.9.9.2,+,2019-08-02
+commons-lang3,3.1,-,2014-04-01
+commons-lang3,3.3.1,-,2014-04-17
+guava,18.0,-,2018-06-21
+guava,18.0,+,2015-02-26
+guava,28.0-jre,+,2018-06-21
+guava,18.0,-,2015-02-26
+guava,18.0,+,2015-02-05
+guava,18.0,+,2014-09-20
+javax.inject,1,+,2014-04-17

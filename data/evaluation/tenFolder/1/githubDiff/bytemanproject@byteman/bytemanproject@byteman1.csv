@@ -1,0 +1,4 @@
+library,version,sign,date
+byteman,1.6.0-SNAPSHOT,+,2011-08-03
+byteman,1.6.0,-,2011-11-16
+byteman,1.6.0-SNAPSHOT,-,2011-10-03

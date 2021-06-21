@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,3.8.1,+,2011-04-07
+junit,3.8.1,-,2011-04-07
+junit,3.8.1,-,2012-05-03
+junit,3.8.1,+,2012-05-03
+izpack-standalone-compiler,4.3.1,-,2011-04-07
+izpack-standalone-compiler,4.3.1,+,2011-04-07

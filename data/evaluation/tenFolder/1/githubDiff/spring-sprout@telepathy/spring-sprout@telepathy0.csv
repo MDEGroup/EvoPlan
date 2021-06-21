@@ -1,0 +1,4 @@
+library,version,sign,date
+unitils-core,3.2,+,2012-02-17
+unitils-core,3.3,-,2012-02-17
+unitils-core,3.3,+,2012-02-14

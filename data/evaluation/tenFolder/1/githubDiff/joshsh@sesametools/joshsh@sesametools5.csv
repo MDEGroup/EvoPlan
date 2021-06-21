@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.10,-,2013-02-22
+junit,4.11,+,2013-02-22
+junit,4.11,-,2015-03-01
+junit,4.12,+,2015-03-01
+common,1.8-SNAPSHOT,-,2013-03-05
+common,1.7,-,2013-03-05

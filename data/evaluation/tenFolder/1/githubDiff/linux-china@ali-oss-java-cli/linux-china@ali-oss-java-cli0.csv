@@ -1,0 +1,10 @@
+library,version,sign,date
+commons-codec,1.6,-,2012-09-12
+commons-codec,1.6,+,2012-08-01
+logback-classic,1.0.7,-,2012-10-29
+logback-classic,1.0.6,-,2012-09-12
+annotations,9.0.4,-,2012-10-29
+commons-lang3,3.1,+,2012-08-05
+commons-io,2.4,+,2012-08-01
+aliyun-openservices,1.0.0-20120705,-,2012-10-25
+aliyun-openservices,1.0.8,-,2012-10-29

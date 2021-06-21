@@ -1,0 +1,12 @@
+library,version,sign,date
+commons-validator,1.4.0,-,2012-11-27
+commons-validator,1.4.0,+,2012-12-02
+commons-validator,1.4.0,+,2012-11-22
+commons-validator,1.4.0,-,2013-01-18
+junit,4.8.1,-,2013-01-18
+junit,3.8.1,-,2012-11-01
+jmock-junit4,2.4.0,-,2012-11-18
+jmock-junit4,2.4.0,+,2012-11-18
+jmock-junit4,2.5.1,-,2013-01-18
+htmlparser,2.1,+,2013-01-16
+htmlparser,2.1,-,2013-01-18

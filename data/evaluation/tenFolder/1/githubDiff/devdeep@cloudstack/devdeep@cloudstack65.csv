@@ -1,0 +1,17 @@
+library,version,sign,date
+cloud-engine-storage,4.2.0-SNAPSHOT,+,2013-05-11
+cloud-engine-storage,4.3.0-SNAPSHOT,-,2013-08-01
+cloud-engine-storage,4.2.0-SNAPSHOT,-,2013-07-27
+vmware-vim25,1.0,+,2012-08-17
+vmware-vim25,4.1,-,2012-10-15
+vmware-vim25,1.0,-,2012-08-22
+vmware-vim25,1.0,-,2012-08-17
+vmware-vim25,1.0,+,2012-10-01
+vmware-vim25,1.0,-,2012-10-15
+vmware-vim25,1.0,+,2012-08-22
+cloud-vmware-base,4.0.0-SNAPSHOT,-,2012-08-17
+wsdl4j,1.4,-,2013-08-01
+wsdl4j,1.4,-,2013-08-02
+wsdl4j,1.4,+,2012-10-15
+wsdl4j,1.4,+,2013-08-02
+wsdl4j,1.4,+,2013-08-01

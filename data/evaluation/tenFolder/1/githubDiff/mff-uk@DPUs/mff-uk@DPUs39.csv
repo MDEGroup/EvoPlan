@@ -1,0 +1,8 @@
+library,version,sign,date
+uv-dpu-helpers,[1.0.0-SNAPSHOT,2.0.0),-,2015-02-26
+commons-lang3,3.3.1,-,2015-03-03
+commons-lang3,3.0,-,2015-04-15
+commons-lang3,3.0,+,2015-03-03
+commons-lang3,3.0,+,2015-02-26
+uv-dataunit-helpers,1.3.0,+,2015-04-15
+uv-dataunit-helpers,[1.3.0-SNAPSHOT,2.0.0),-,2015-02-26

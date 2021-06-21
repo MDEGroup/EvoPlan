@@ -1,0 +1,9 @@
+library,version,sign,date
+dubbo-serialization-jdk,2.7.1-SNAPSHOT,-,2019-04-12
+dubbo-serialization-jdk,2.7.0,+,2018-06-19
+dubbo-serialization-jdk,2.6.3-SNAPSHOT,+,2018-06-01
+dubbo-serialization-jdk,2.6.3-SNAPSHOT,-,2018-06-06
+dubbo-serialization-jdk,2.7.0,-,2019-01-18
+dubbo-serialization-jdk,2.7.0-SNAPSHOT,-,2018-06-19
+netty-all,4.0.35.Final,-,2018-01-05
+validation-api,1.1.0.Final,-,2018-01-05

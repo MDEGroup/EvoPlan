@@ -1,0 +1,15 @@
+library,version,sign,date
+standard,1.1.2,+,2013-04-18
+jstl,1.2,+,2013-05-03
+hibernate-validator,4.3.1.Final,+,2013-04-22
+mysql-connector-java,5.1.24,+,2013-05-01
+validation-api,1.1.0.Final,+,2013-04-22
+spring-security-config,3.1.4.RELEASE,+,2013-05-01
+spring-security-taglibs,3.1.4.RELEASE,+,2013-05-03
+joda-time,2.2,+,2013-04-22
+spring-security-web,3.1.4.RELEASE,+,2013-05-01
+spring-aop,3.2.2.RELEASE,+,2013-04-22
+spring-aop,3.2.2.RELEASE,-,2013-05-03
+jstl-api,1.2,+,2013-04-18
+spring-security-core,3.1.4.RELEASE,+,2013-05-01
+c3p0,0.9.1.2,+,2013-05-02

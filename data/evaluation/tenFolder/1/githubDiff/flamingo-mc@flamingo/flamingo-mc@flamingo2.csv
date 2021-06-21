@@ -1,0 +1,16 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,+,2017-11-28
+stripersist,1.0.3,+,2014-05-02
+stripersist,1.0.3,+,2013-12-16
+stripersist,1.0.3,-,2014-05-02
+commons-logging,1.1.1,-,2014-05-02
+commons-logging,1.1.1,-,2016-07-12
+commons-logging,1.1.1,+,2014-05-02
+commons-logging,1.1.1,+,2013-12-16
+quartz,2.3.0,-,2019-03-25
+quartz,2.3.1,-,2019-10-10
+quartz,2.1.5,+,2014-05-02
+quartz,2.1.5,+,2013-12-16
+quartz,2.1.5,-,2016-07-01
+quartz,2.1.5,-,2014-05-02
+quartz,2.2.3,-,2017-05-03

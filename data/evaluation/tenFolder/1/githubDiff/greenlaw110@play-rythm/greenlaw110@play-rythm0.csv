@@ -1,0 +1,13 @@
+library,version,sign,date
+play,1.2.4,+,2013-12-10
+play,1.2.4,-,2013-12-10
+rythm-engine,1.0-b4-SNAPSHOT,-,2013-03-03
+rythm-engine,1.0-b6-SNAPSHOT,-,2013-04-06
+rythm-engine,1.0-b8-SNAPSHOT,-,2013-05-08
+rythm-engine,1.0-b10-SNAPSHOT,-,2013-10-03
+rythm-engine,1.0-b5-SNAPSHOT,-,2013-03-07
+rythm-engine,1.0-b11-SNAPSHOT,-,2013-12-10
+rythm-engine,1.0-b9-SNAPSHOT,-,2013-05-26
+rythm-engine,1.0-b8,-,2013-05-10
+rythm-engine,1.0-b6,-,2013-04-21
+rythm-engine,1.0-b4,-,2013-03-04

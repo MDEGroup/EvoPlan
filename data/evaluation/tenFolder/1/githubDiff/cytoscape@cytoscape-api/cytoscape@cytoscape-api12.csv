@@ -1,0 +1,15 @@
+library,version,sign,date
+presentation-api,3.0.0-alpha4-SNAPSHOT,-,2011-08-08
+presentation-api,3.0.0-alpha4-SNAPSHOT,-,2011-08-06
+presentation-api,3.0.0-alpha4-SNAPSHOT,+,2011-08-06
+junit,4.8.1,+,2013-12-11
+junit,4.4,-,2011-08-08
+property-api,3.0.0-alpha4,+,2011-08-06
+property-api,3.0.0-alpha4,-,2011-08-08
+property-api,3.0.0-alpha5-SNAPSHOT,-,2011-08-08
+property-api,3.0.0-alpha5-SNAPSHOT,-,2011-08-06
+viewmodel-api,3.0.0-alpha5-SNAPSHOT,-,2011-08-08
+viewmodel-api,3.0.0-alpha4,-,2011-08-08
+viewmodel-api,3.0.0-alpha5-SNAPSHOT,-,2011-08-06
+event-api,3.0.0-alpha6-SNAPSHOT,-,2011-08-08
+event-api,3.0.0-alpha6-SNAPSHOT,-,2011-08-06

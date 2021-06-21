@@ -1,0 +1,16 @@
+library,version,sign,date
+sirona-aop,0.1-incubating-SNAPSHOT,-,2013-11-05
+junit,4.11,-,2015-11-03
+geronimo-jpa_2.0_spec,1.1,-,2016-07-05
+geronimo-jpa_2.0_spec,1.1,-,2015-11-03
+geronimo-jpa_2.0_spec,1.1,+,2015-11-03
+geronimo-jpa_2.0_spec,1.1,+,2016-07-05
+openjpa,2.3.0,-,2016-07-05
+openjpa,2.2.2,-,2016-07-05
+openjpa,2.3.0,+,2015-11-03
+openjpa,2.2.2,+,2016-07-05
+openjpa,2.3.0,+,2013-11-26
+openjpa,2.2.2,+,2015-11-03
+openjpa,2.3.0,-,2015-11-03
+openjpa,2.2.2,-,2015-11-03
+openjpa,2.3.0,+,2016-07-05

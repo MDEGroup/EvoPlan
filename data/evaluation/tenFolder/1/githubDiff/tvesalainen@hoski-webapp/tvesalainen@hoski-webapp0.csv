@@ -1,0 +1,8 @@
+library,version,sign,date
+hoski-lib,[1.0.4,],-,2015-03-16
+hoski-lib,[1.0.4,],+,2015-03-10
+hoski-weblib,1.0.2,-,2015-03-15
+hoski-weblib,1.0.3,-,2015-03-16
+hoski-weblib,[1.0.1,],-,2014-05-05
+hoski-weblib,[1.0.2,],-,2015-03-10
+hoski-weblib,[1.0.1,],+,2014-04-28

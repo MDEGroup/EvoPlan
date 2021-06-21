@@ -1,0 +1,16 @@
+library,version,sign,date
+org-openide-util-lookup,RELEASE711,+,2012-10-08
+org-openide-util-lookup,RELEASE711,-,2012-10-08
+org-openide-util-lookup,RELEASE72,+,2012-10-15
+org-openide-util-lookup,RELEASE72,-,2012-10-15
+junit,4.10,-,2012-10-15
+junit,4.10,+,2012-10-08
+junit,4.10,-,2012-11-03
+junit,4.10,+,2012-10-15
+junit,4.10,+,2012-11-03
+org-netbeans-api-annotations-common,RELEASE72,+,2012-10-15
+org-netbeans-api-annotations-common,RELEASE72,-,2012-10-15
+org-openide-util,RELEASE711,-,2012-10-08
+org-openide-util,RELEASE711,+,2012-10-08
+org-openide-util,RELEASE72,+,2012-10-15
+org-openide-util,RELEASE72,-,2012-10-15

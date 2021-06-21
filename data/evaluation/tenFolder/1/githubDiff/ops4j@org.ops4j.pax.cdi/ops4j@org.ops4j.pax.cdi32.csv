@@ -1,0 +1,12 @@
+library,version,sign,date
+org.osgi.core,5.0.0,-,2016-10-19
+org.osgi.core,6.0.0,-,2014-10-05
+org.osgi.core,6.0.0,+,2015-05-19
+org.osgi.core,6.0.0,-,2015-05-19
+org.osgi.core,5.0.0,-,2014-11-28
+org.osgi.core,6.0.0,-,2017-01-19
+org.osgi.core,4.3.1,-,2016-10-19
+org.osgi.core,5.0.0,+,2014-11-28
+org.osgi.core,5.0.0,+,2014-10-05
+org.osgi.core,6.0.0,+,2014-10-05
+cdi-api,1.2,+,2014-11-24

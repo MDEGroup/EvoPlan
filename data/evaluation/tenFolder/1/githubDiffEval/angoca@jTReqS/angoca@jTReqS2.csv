@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.8.2,-,2012-02-13
+db2jcc,1.0,+,2012-02-13
+sqlj,1.0,+,2012-02-13
+db2java,1.0,+,2012-02-13
+random-jUnit,1.0.2,+,2012-02-13

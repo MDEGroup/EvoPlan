@@ -1,0 +1,12 @@
+library,version,sign,date
+governance-service,1.0-SNAPSHOT,-,2013-01-23
+governance-service,1.0-SNAPSHOT,+,2012-08-28
+junit,3.8.1,-,2013-01-23
+junit,3.8.1,+,2012-08-28
+junit,3.8.1,+,2013-01-23
+junit,4.10,+,2013-01-23
+junit,3.8.1,+,2012-10-01
+governance-api,1.0-SNAPSHOT,-,2013-01-23
+governance-api,1.0-SNAPSHOT,+,2012-08-28
+governance-api,1.0-SNAPSHOT,-,2012-10-01
+governance-api,1.0-SNAPSHOT,+,2012-10-01

@@ -1,0 +1,6 @@
+library,version,sign,date
+cdk-interfaces,1.5.8-SNAPSHOT,-,2014-08-19
+cdk-interfaces,1.5.8-SNAPSHOT,+,2014-08-19
+cdk-data,1.5.8-SNAPSHOT,-,2014-08-19
+cdk-data,1.5.8-SNAPSHOT,+,2014-08-19
+cdk-test,1.5.8-SNAPSHOT,-,2014-08-19

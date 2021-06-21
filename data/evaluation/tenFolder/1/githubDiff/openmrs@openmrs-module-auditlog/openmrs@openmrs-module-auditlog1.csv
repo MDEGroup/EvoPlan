@@ -1,0 +1,4 @@
+library,version,sign,date
+jsonassert,1.5.0,+,2016-08-16
+jsonassert,1.5.0,-,2018-07-23
+jsonassert,1.5.0,+,2018-07-23

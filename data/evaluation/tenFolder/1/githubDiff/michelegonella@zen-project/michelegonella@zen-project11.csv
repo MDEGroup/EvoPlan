@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.8,-,2012-11-16
+junit,4.8,-,2016-11-14
+junit,4.12,+,2016-11-14
+junit,4.8,+,2012-11-16
+junit,4.12,-,2017-03-21
+junit,4.12,+,2017-03-21
+antlr-runtime,3.3,-,2012-11-16
+antlr-runtime,3.3,+,2012-07-22
+antlr-runtime,3.3,-,2014-05-06

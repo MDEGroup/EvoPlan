@@ -1,0 +1,6 @@
+library,version,sign,date
+jersey-server,1.8,+,2014-07-09
+jersey-test-framework-grizzly,1.17.1,+,2014-08-01
+jersey-test-framework-core,1.17.1,+,2014-08-01
+jersey-client,1.8,+,2014-07-22
+jena,2.6.4,+,2014-08-05

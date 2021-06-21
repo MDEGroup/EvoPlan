@@ -1,0 +1,4 @@
+library,version,sign,date
+dcsysUtils,1.0-SNAPSHOT,+,2013-11-28
+cdiConfig,1.0-SNAPSHOT,+,2013-11-28
+javax.inject,1,+,2013-11-28

@@ -1,0 +1,17 @@
+library,version,sign,date
+jboss-seam,@seam.version@,-,2011-06-03
+jboss-seam,2.2.0.GA,-,2012-06-04
+jboss-seam-ui,@seam.version@,-,2011-06-03
+trinidad-impl,2.0.1,+,2012-03-15
+trinidad-impl,2.0.1,+,2012-06-04
+trinidad-impl,1.2.5,+,2011-10-08
+trinidad-impl,1.2.5,-,2011-10-08
+trinidad-impl,2.0.1,-,2012-06-04
+trinidad-impl,1.2.5,-,2012-03-15
+jboss-seam-debug,@seam.version@,-,2011-06-03
+trinidad-api,2.0.1,+,2012-03-15
+trinidad-api,2.0.1,+,2012-06-04
+trinidad-api,1.2.5,+,2011-10-08
+trinidad-api,1.2.5,-,2011-10-08
+trinidad-api,2.0.1,-,2012-06-04
+trinidad-api,1.2.5,-,2012-03-15

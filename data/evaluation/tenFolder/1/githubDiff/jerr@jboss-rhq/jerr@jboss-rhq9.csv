@@ -1,0 +1,12 @@
+library,version,sign,date
+rhq-enterprise-server,1.4.0-SNAPSHOT,+,2009-11-21
+rhq-enterprise-server,1.4.0-SNAPSHOT,-,2009-12-04
+rhq-enterprise-server,1.4.0-SNAPSHOT,-,2009-12-09
+rhq-enterprise-server,1.4.0-SNAPSHOT,+,2009-12-04
+rhq-enterprise-server,1.4.0-SNAPSHOT,+,2009-12-08
+rhq-enterprise-server,1.4.0-SNAPSHOT,+,2009-11-30
+rhq-enterprise-server,1.4.0-SNAPSHOT,+,2009-12-01
+rhq-core-domain,2.0.0-SNAPSHOT,-,2008-04-01
+rhq-core-domain,1.0.1-SNAPSHOT,-,2009-06-03
+rhq-core-domain,2.0.0-SNAPSHOT,-,2008-05-06
+rhq-core-domain,1.0.0-SNAPSHOT,-,2008-05-06

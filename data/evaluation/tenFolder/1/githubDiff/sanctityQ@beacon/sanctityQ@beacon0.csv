@@ -1,0 +1,7 @@
+library,version,sign,date
+data,1.0.4-SNAPSHOT,-,2013-07-09
+itextpdf,5.4.2,+,2013-07-09
+itext-asian,5.2.0,+,2013-07-09
+disruptor,3.2.0,+,2013-11-10
+batik-transcoder,1.6-1,+,2013-07-09
+guava,15.0,+,2013-10-08

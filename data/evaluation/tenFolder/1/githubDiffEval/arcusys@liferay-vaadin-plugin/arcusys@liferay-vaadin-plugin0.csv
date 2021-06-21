@@ -1,0 +1,10 @@
+library,version,sign,date
+jaxp-api,1.4,+,2013-04-05
+junit,4.8.2,-,2013-08-21
+junit,4.8.2,+,2013-08-15
+portal-service,6.1.1,-,2013-03-18
+joda-time,2.2,+,2013-03-21
+portal-impl,6.1.1,-,2013-03-18
+servlet-api,2.4,+,2013-04-05
+servlet-api,2.4,-,2013-04-05
+servlet-api,2.4,-,2013-03-13

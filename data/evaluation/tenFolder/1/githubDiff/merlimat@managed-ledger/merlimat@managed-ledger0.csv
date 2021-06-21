@@ -1,0 +1,6 @@
+library,version,sign,date
+zookeeper,3.4.3,-,2012-09-06
+protobuf-java,2.4.1,-,2012-11-20
+bookkeeper-server,4.1.0,-,2012-09-06
+org.apache.commons.io,2.1,-,2012-11-20
+guava,11.0.2,-,2012-11-20

@@ -1,0 +1,16 @@
+library,version,sign,date
+space-system-model,0.0.1-SNAPSHOT,+,2012-04-02
+space-system-model,0.0.1-SNAPSHOT,-,2012-04-02
+commons-pool,1.5.6,-,2012-04-02
+commons-pool,1.5.6,+,2012-04-02
+xtce,0.0.1-SNAPSHOT,+,2012-04-02
+xtce,0.0.1-SNAPSHOT,-,2012-04-02
+tele,0.0.1-SNAPSHOT,+,2012-04-02
+tele,0.0.1-SNAPSHOT,-,2012-04-02
+commons-io,2.0.1,+,2012-04-02
+commons-io,2.0.1,-,2012-04-02
+commons-io,2.4,+,2012-04-02
+commons-lang,2.6,+,2012-04-02
+commons-lang,2.6,-,2012-04-02
+commons,0.0.1-SNAPSHOT,+,2012-04-02
+commons,0.0.1-SNAPSHOT,-,2012-04-02

@@ -1,0 +1,11 @@
+library,version,sign,date
+mockito-all,1.8.5,-,2011-06-23
+mockito-all,1.8.5,+,2011-02-09
+mockito-all,1.8.5,-,2011-02-18
+mockito-all,1.8.5,+,2011-05-17
+mockito-all,1.8.5,-,2011-05-17
+mockito-all,1.8.5,+,2011-02-18
+junit,4.8.2,+,2011-05-01
+junit,4.8.2,-,2011-05-17
+junit,4.8.2,-,2011-06-23
+junit,4.8.2,+,2011-05-17

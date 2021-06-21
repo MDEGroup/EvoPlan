@@ -1,0 +1,5 @@
+library,version,sign,date
+topicmapapi,0.2,-,2010-01-05
+topicmapapi,0.3,-,2010-03-23
+groovy-all,1.7.1,+,2010-03-23
+groovy-all,1.6.4,-,2010-03-23

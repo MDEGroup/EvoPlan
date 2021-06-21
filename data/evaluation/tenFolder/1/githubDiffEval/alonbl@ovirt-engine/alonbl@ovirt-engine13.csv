@@ -1,0 +1,7 @@
+library,version,sign,date
+jboss-servlet-api_3.1_spec,1.0.0.Final,+,2015-09-26
+sshd-core,0.11.0,+,2014-04-19
+sshd-core,0.11.0,-,2016-05-25
+sshd-core,0.7.0,-,2014-04-19
+sshd-core,0.12.0,+,2016-05-25
+jackson-mapper-asl,1.9.9,-,2015-08-05

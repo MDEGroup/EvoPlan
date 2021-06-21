@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-io,2.4,-,2014-09-26
+commons-io,2.4,+,2014-10-12
+servlet-api,2.5,+,2014-10-12
+servlet-api,2.5,-,2014-09-26

@@ -1,0 +1,11 @@
+library,version,sign,date
+logback-classic,1.0.1,+,2013-05-16
+logback-classic,1.0.1,-,2013-05-16
+logback-classic,0.9.29,-,2013-05-16
+logback-classic,0.9.29,+,2013-05-16
+jetty-embedded,6.1.26,+,2013-05-16
+jetty-embedded,6.1.26,-,2013-05-16
+itext,2.1.7,+,2013-05-16
+itext,2.1.7,-,2013-05-16
+servlet-api,2.5,+,2013-05-16
+servlet-api,2.5,-,2013-05-16

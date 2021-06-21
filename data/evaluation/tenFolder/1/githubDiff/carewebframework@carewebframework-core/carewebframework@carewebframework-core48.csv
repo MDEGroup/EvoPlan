@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.12,-,2017-10-11
+junit,4.12,+,2017-07-07
+junit,4.12,-,2016-07-26
+hibernate-core,4.3.9.Final,-,2017-12-30

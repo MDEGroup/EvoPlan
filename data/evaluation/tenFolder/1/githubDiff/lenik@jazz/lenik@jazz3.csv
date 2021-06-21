@@ -1,0 +1,6 @@
+library,version,sign,date
+bas-io,2.0.0-SNAPSHOT,-,2012-12-13
+servlet-api,3.0.20100224,+,2012-12-13
+servlet-api,3.0-alpha-1,+,2012-12-13
+servlet-api,2.5,-,2012-12-13
+servlet-api,3.0.20100224,+,2013-03-06

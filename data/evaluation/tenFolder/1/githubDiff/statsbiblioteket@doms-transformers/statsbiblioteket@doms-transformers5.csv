@@ -1,0 +1,7 @@
+library,version,sign,date
+common,0.1.6,-,2013-10-09
+common,0.1.7-SNAPSHOT,-,2013-10-09
+common,1.0,-,2013-11-25
+common,0.1.6-SNAPSHOT,-,2013-10-09
+ingestClientImpl,0.0.13,-,2013-10-09
+domsutil-webservice-common,0.0.20,-,2013-10-09

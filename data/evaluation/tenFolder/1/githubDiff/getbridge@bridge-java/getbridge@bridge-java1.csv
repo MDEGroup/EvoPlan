@@ -1,0 +1,10 @@
+library,version,sign,date
+logback-classic,1.0.1,-,2012-04-17
+logback-classic,1.0.1,-,2012-04-19
+logback-classic,1.0.3,+,2012-04-20
+logback-classic,1.0.1,+,2012-04-17
+logback-classic,1.0.1,+,2012-04-19
+bridge-java-core,0.0.1-SNAPSHOT,-,2012-04-19
+bridge-java-core,0.0.1-SNAPSHOT,-,2012-04-17
+bridge-java-core,0.0.1,+,2012-06-08
+bridge-java-core,0.0.1,-,2012-06-08

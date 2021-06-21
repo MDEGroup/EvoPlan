@@ -1,0 +1,10 @@
+library,version,sign,date
+jms-api,1.1-rev-1,+,2014-03-14
+transactions-hibernate3,3.9.3,+,2014-03-14
+xapool,1.4,+,2014-03-14
+transactions-jdbc,3.9.3,+,2014-03-14
+jotm-jms,2.2.3,+,2014-03-14
+hibernate-core,4.3.4.Final,+,2014-01-25
+sqljdbc4,3.0,+,2014-01-25
+jotm,2.0.10,+,2014-03-14
+transactions-jta,3.9.3,+,2014-03-14

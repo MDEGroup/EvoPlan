@@ -1,0 +1,17 @@
+library,version,sign,date
+rome,1.0,-,2013-05-08
+junit,4.11,-,2013-05-08
+slf4j-simple,1.7.5,-,2013-05-08
+exo.core.component.organization.api,2.5.3-GA,-,2013-05-08
+exo.portal.component.portal,3.5.3.Final,-,2013-05-08
+commons-lang,2.6,-,2013-05-08
+jcl-over-slf4j,1.7.5,-,2013-05-08
+commons-comet-service,4.0.0,-,2013-05-08
+exo.kernel.component.common,2.4.3-GA,-,2013-05-08
+exo.core.component.security.core,2.5.3-GA,-,2013-05-08
+jcr,1.0,-,2013-05-08
+exo.portal.component.test.core,3.5.3.Final,-,2013-05-08
+exo.jcr.component.core,1.15.3-GA,-,2013-05-08
+exo.kernel.commons,2.4.3-GA,-,2013-05-08
+exo.kernel.container,2.4.3-GA,-,2013-05-08
+servlet-api,2.5,-,2013-05-08

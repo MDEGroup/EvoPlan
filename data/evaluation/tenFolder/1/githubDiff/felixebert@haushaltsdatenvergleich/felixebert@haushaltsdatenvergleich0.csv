@@ -1,0 +1,10 @@
+library,version,sign,date
+mockito-all,1.9.5,+,2013-06-14
+mockito-all,1.9.5,+,2013-07-03
+mockito-all,1.9.5,-,2013-07-03
+junit,4.10,-,2013-06-05
+junit,4.10,+,2013-06-05
+super-csv,2.1.0,+,2013-07-01
+jackson-databind,2.2.2,+,2013-06-05
+poi,3.9,+,2013-06-05
+guava,14.0.1,+,2013-06-19

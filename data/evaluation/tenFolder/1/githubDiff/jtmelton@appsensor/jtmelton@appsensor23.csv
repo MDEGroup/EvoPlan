@@ -1,0 +1,9 @@
+library,version,sign,date
+jaxws-rt,2.3.2,+,2019-08-05
+jaxws-rt,2.2.8,-,2015-06-02
+rt,2.3.2,+,2019-08-05
+jaxws-ri,2.3.2,+,2019-08-05
+appsensor-core,2.2.0,-,2017-01-05
+appsensor-core,2.0.1,-,2015-09-19
+appsensor-core,2.0.0-RC3,-,2015-02-26
+appsensor-core,2.0.0-RC3,+,2015-01-08

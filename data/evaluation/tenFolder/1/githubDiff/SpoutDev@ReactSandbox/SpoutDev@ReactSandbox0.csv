@@ -1,0 +1,13 @@
+library,version,sign,date
+caustic-lwjgl,1.0.0-SNAPSHOT,-,2014-01-13
+caustic-lwjgl,1.0.0-SNAPSHOT,-,2015-02-11
+caustic-lwjgl,2.0.2-SNAPSHOT,-,2014-05-12
+caustic-api,1.0.0-SNAPSHOT,+,2014-05-12
+caustic-api,1.0.0-SNAPSHOT,-,2015-02-11
+react,1.0.0-SNAPSHOT,+,2013-07-17
+react,0.0.1-SNAPSHOT,-,2013-06-04
+snakeyaml,1.12,+,2013-06-04
+snakeyaml,1.12,+,2013-07-17
+snakeyaml,1.12,-,2013-09-19
+snakeyaml,1.12,-,2013-07-17
+snakeyaml,1.11,-,2013-06-04

@@ -1,0 +1,16 @@
+library,version,sign,date
+slf4j-api,1.7.7,-,2017-02-24
+junit,4.11,-,2017-06-05
+velocity-engine-core,2.0,-,2019-05-31
+velocity-engine-core,2.0,+,2017-10-06
+cayenne-server,4.1.M2,-,2019-01-10
+cayenne-server,4.1.B2,-,2019-05-31
+cayenne-server,4.0.RC1,-,2018-07-11
+cayenne-server,4.0.B2,-,2018-02-01
+cayenne-server,4.0.B2,+,2018-01-17
+cayenne-server,{version},+,2017-10-06
+mockito-core,2.23.4,-,2019-05-31
+mockito-core,2.8.9,-,2018-02-01
+mockito-core,2.8.9,+,2017-06-05
+mockito-core,2.18.3,-,2018-07-11
+velocity-tools-generic,3.0,+,2019-05-21

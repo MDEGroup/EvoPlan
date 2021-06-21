@@ -1,0 +1,15 @@
+library,version,sign,date
+hsqldb,1.8.0.7,+,2008-01-28
+hsqldb,1.8.0.7,-,2008-01-28
+commons-logging,1.1,-,2008-01-28
+commons-logging,1.1,-,2008-10-02
+commons-logging,1.1,+,2008-01-28
+glazedlists_java15,1.7.0,-,2008-01-28
+glazedlists_java15,1.7.0,+,2008-01-28
+glazedlists_java15,1.7.0,-,2009-01-16
+forms,1.0.7,-,2008-03-17
+forms,1.0.7,-,2008-01-28
+forms,1.0.7,+,2009-01-16
+forms,1.0.7,-,2008-10-31
+forms,1.2.1,+,2008-10-31
+forms,1.0.7,+,2008-01-28

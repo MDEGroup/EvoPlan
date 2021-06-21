@@ -1,0 +1,13 @@
+library,version,sign,date
+maven-plugin-testing-harness,3.3.0,+,2016-08-13
+maven-compat,3.3.9,+,2016-08-13
+perfcake,8.0,+,2016-09-21
+perfcake,8.0-SNAPSHOT,+,2016-09-21
+perfcake,7.0,-,2016-09-21
+perfcake,7.0-SNAPSHOT,+,2016-08-12
+perfcake,7.0-SNAPSHOT,+,2016-08-13
+perfcake,7.0-SNAPSHOT,+,2016-08-14
+perfcake,7.0-SNAPSHOT,-,2016-08-25
+perfcake,7.0,+,2016-08-25
+perfcake,7.0,+,2016-08-14
+perfcake,7.0-SNAPSHOT,-,2016-08-13

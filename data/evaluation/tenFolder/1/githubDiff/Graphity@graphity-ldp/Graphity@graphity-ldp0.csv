@@ -1,0 +1,11 @@
+library,version,sign,date
+jersey-servlet,1.10,-,2015-06-07
+jena-arq,3.0.1,+,2015-11-05
+jcl-over-slf4j,1.6.4,+,2013-04-24
+jersey-server,1.16,-,2015-06-07
+jersey-server,1.9,-,2012-12-19
+jersey-client,1.19,+,2015-06-12
+jersey-client,1.9,-,2013-01-31
+jersey-client,1.16,-,2015-11-05
+jersey-client,1.16,+,2013-03-24
+servlet-api,2.5,+,2015-11-05

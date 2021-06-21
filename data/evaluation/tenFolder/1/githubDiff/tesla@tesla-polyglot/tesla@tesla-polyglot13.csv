@@ -1,0 +1,8 @@
+library,version,sign,date
+polyglot-common,1.0,+,2019-02-26
+logback-classic,0.9.29,+,2018-07-18
+polyglot-maven-plugin,0.4.2-SNAPSHOT,+,2019-07-30
+polyglot-maven-plugin,0.4.3-SNAPSHOT,-,2019-08-15
+polyglot-maven-plugin,0.4.2-SNAPSHOT,-,2019-08-01
+polyglot-maven-plugin,{{takari-polyglot-version}},-,2019-08-31
+assertj-core,3.11.1,+,2018-10-20

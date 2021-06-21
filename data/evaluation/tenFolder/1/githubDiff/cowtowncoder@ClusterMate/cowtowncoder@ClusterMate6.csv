@@ -1,0 +1,9 @@
+library,version,sign,date
+slf4j-api,1.7.5,-,2014-09-05
+slf4j-api,1.7.5,+,2014-03-05
+slf4j-api,1.7.2,-,2013-03-19
+slf4j-api,1.7.2,+,2013-03-14
+jackson-dataformat-smile,2.1.4,-,2013-04-16
+jackson-dataformat-smile,2.1.4,+,2013-03-14
+jackson-databind,2.1.4,-,2013-04-16
+jackson-databind,2.1.4,+,2013-03-14

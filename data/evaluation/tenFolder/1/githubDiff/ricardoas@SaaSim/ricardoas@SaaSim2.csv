@@ -1,0 +1,15 @@
+library,version,sign,date
+commons-configuration,1.9,+,2012-12-27
+commons-configuration,1.9,-,2014-03-14
+easymock,3.1,-,2014-03-14
+easymock,3.0,-,2014-03-14
+easymock,3.2,+,2014-05-30
+easymock,3.0,+,2012-12-27
+commons-math,2.2,+,2014-05-15
+commons-math,2.2,+,2014-05-30
+junit,4.8.2,-,2014-03-14
+junit,4.11,+,2014-05-30
+junit,4.8.2,+,2012-12-27
+guice-assistedinject,3.0,+,2014-05-05
+log4j,1.2.17,+,2012-12-27
+guice,3.0,+,2014-04-03

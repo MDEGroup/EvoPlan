@@ -1,0 +1,6 @@
+library,version,sign,date
+istack-commons-runtime,3.0.8,-,2019-11-19
+jaxb-impl,2.3.2,-,2019-11-19
+jaxb-api,2.4.0-b180830.0359,-,2019-11-19
+jdom,2.0.2,-,2019-11-19
+xml-resolver,1.2,-,2019-11-19

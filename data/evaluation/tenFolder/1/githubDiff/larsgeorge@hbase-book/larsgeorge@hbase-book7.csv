@@ -1,0 +1,10 @@
+library,version,sign,date
+libthrift,0.6.1,+,2011-06-20
+libthrift,0.6.1,-,2011-09-21
+hbase-book-common,2.0,+,2015-01-22
+protobuf-java,2.3.0,-,2011-09-21
+protobuf-java,2.6.1,+,2015-01-22
+hbase-rest,1.0.0,+,2015-02-17
+json-simple,1.1,+,2011-06-20
+json-simple,1.1,-,2011-09-21
+pig,0.8.0,-,2011-09-21

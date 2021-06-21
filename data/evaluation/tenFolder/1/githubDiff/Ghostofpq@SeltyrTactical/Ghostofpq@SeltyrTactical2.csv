@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.10,-,2013-09-02
+junit,4.11,+,2013-09-02
+logback-classic,0.9.18,+,2013-08-07
+logback-classic,0.9.18,-,2013-08-11
+logback-classic,0.9.18,-,2013-08-07
+lombok,0.11.6,+,2013-08-07
+lombok,0.11.6,-,2013-08-09
+lombok,0.12.0,+,2013-08-11
+lombok,0.11.6,-,2013-08-07
+commons,0.0.1,+,2013-08-07
+commons,0.0.1,-,2013-09-02

@@ -1,0 +1,5 @@
+library,version,sign,date
+bukkit,RELEASE,+,2013-04-17
+bukkit,LATEST,-,2013-11-22
+bukkit,RELEASE,-,2013-04-17
+bukkit,RELEASE,-,2013-06-25

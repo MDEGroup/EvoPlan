@@ -1,0 +1,4 @@
+library,version,sign,date
+akka-actor,2.0,+,2012-03-03
+lwjgl,2.8.2,-,2012-03-03
+scalatest,1.2,-,2012-03-03

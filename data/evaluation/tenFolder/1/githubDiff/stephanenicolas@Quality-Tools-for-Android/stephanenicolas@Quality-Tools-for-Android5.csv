@@ -1,0 +1,12 @@
+library,version,sign,date
+robolectric,1.2,-,2013-06-18
+robolectric,2.1.1,+,2013-06-18
+easymock,3.2,+,2013-08-05
+easymock,3.2-SNAPSHOT,-,2013-08-05
+junit,3.8.2,-,2013-06-18
+junit,4.8.2,+,2013-05-11
+junit,4.8.2,+,2013-06-18
+junit,4.8.2,-,2013-05-11
+compatibility-v4,18,-,2013-08-10
+compatibility-v4,12,-,2013-08-10
+compatibility-v4,18,+,2013-08-10

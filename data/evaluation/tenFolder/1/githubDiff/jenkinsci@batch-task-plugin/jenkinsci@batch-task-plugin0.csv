@@ -1,0 +1,5 @@
+library,version,sign,date
+envinject-lib,1.7,+,2012-04-06
+envinject-lib,1.16,-,2013-02-24
+envinject-lib,1.23,-,2016-06-07
+envinject-lib,1.7,-,2012-05-01

@@ -1,0 +1,7 @@
+library,version,sign,date
+testng,6.2,-,2012-09-23
+testng,6.2,-,2013-11-03
+testng,6.2,+,2015-11-13
+jreadline,0.17,-,2013-11-03
+jreadline,0.17,+,2015-11-13
+jreadline,0.17,+,2016-07-04

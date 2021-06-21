@@ -1,0 +1,12 @@
+library,version,sign,date
+jpatchaca-test-operators,1.0-SNAPSHOT,-,2009-09-30
+junit,4.8.1,+,2011-10-20
+junit,4.5,-,2009-11-11
+junit,4.5,+,2009-09-30
+junit,4.6,+,2011-10-25
+junit,4.5,+,2009-11-11
+junit,4.5,-,2011-10-20
+junit,4.5,-,2009-09-30
+datecalc-joda,1.2.0,+,2011-12-21
+jira-soap,4.0,+,2009-11-12
+jollyday,0.4.7,+,2011-12-21

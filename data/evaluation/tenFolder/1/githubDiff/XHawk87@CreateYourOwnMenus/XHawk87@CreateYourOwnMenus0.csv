@@ -1,0 +1,6 @@
+library,version,sign,date
+LanguageAPI,0.2,-,2015-12-06
+LanguageAPI,0.2,+,2013-12-11
+bukkit,1.13.1-R0.1-SNAPSHOT,-,2019-05-17
+VaultAPI,1.6,+,2015-12-06
+VaultAPI,1.6,-,2019-05-17

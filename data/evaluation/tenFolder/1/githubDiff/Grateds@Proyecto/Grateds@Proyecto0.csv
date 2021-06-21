@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.10,-,2013-05-12
+junit,4.10,+,2013-04-26
+junit,3.8.1,-,2013-04-25
+slf4j-simple,1.6.4,-,2013-05-12
+slf4j-simple,1.6.4,+,2013-04-25
+slf4j-simple,1.6.4,+,2013-04-26
+mysql-connector-java,5.0.4,-,2013-05-12
+mysql-connector-java,5.0.4,+,2013-04-26
+mysql-connector-java,5.0.4,+,2013-04-25
+spark-core,0.9.9.7-SNAPSHOT,+,2013-05-12
+activejdbc,1.4.1,+,2013-04-25
+activejdbc,1.4.1,-,2013-05-12
+activejdbc,1.4.1,+,2013-04-26

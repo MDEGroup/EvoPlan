@@ -1,0 +1,15 @@
+library,version,sign,date
+jackson-annotations,2.0.5,+,2013-03-11
+jackson-annotations,2.0.5,+,2013-03-12
+jackson-annotations,2.0.5,-,2013-03-12
+hibernate-validator,4.3.0.Final,+,2013-03-11
+hibernate-validator,4.3.1.Final,+,2013-03-12
+jackson-databind,2.0.5,+,2013-03-11
+jackson-databind,2.0.5,+,2013-03-12
+jackson-databind,2.0.5,-,2013-03-12
+jackson-core,2.0.5,+,2013-03-12
+jackson-core,2.0.5,-,2013-03-12
+commons-dbcp,1.4,+,2013-03-09
+commons-io,2.0.1,-,2013-03-12
+commons-io,2.0.1,+,2013-03-12
+commons-io,2.0.1,+,2013-03-10

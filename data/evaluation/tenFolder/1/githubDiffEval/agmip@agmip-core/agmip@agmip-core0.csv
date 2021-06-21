@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.10,-,2012-07-02
+junit,4.4,-,2012-02-22
+junit,4.10,+,2012-07-02
+logback-classic,1.0.7,-,2013-01-30
+logback-classic,1.0.7,+,2012-08-31
+jackson-mapper-asl,1.9.6,+,2012-04-07
+jackson-mapper-asl,1.9.6,-,2012-07-02
+jackson-mapper-asl,1.9.6,+,2012-07-02
+guava,12.0,+,2012-07-02
+guava,12.0,-,2013-04-09

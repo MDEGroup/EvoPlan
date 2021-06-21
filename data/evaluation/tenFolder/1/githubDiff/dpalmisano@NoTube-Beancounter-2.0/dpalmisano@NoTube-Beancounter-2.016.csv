@@ -1,0 +1,4 @@
+library,version,sign,date
+gson,1.7.2,+,2011-11-13
+httpclient,4.1.2,+,2011-11-13
+httpclient,4.1.2,-,2011-11-13

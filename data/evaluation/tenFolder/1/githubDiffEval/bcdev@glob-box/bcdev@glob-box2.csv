@@ -1,0 +1,6 @@
+library,version,sign,date
+beam-netcdf,1.1.2-SNAPSHOT,-,2013-04-04
+beam-merisl3-reader,1.2.1,+,2013-04-04
+beam-merisl3-reader,1.2.1,-,2013-04-04
+beam-envi-reader,3.1-SNAPSHOT,-,2013-04-04
+beam-geotiff,1.2.2-SNAPSHOT,-,2013-04-04

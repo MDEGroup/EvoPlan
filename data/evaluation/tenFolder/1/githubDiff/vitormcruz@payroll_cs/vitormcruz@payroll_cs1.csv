@@ -1,0 +1,12 @@
+library,version,sign,date
+spring-orm,2.5.6,-,2012-06-24
+slf4j-simple,1.7.1,+,2012-06-30
+hsqldb,2.2.8,+,2012-06-30
+payroll_cs_domain,1.0-SNAPSHOT,+,2012-03-09
+payroll_cs_domain,1.0-SNAPSHOT,-,2012-06-24
+payroll_cs_domain,1.0-SNAPSHOT,-,2012-10-10
+commons-dbcp,1.4,+,2012-06-30
+hibernate-core,3.6.10.Final,+,2012-06-30
+modelmapper,0.5.4,+,2013-01-23
+cloning,1.7.9,+,2012-03-09
+javassist,3.16.1-GA,+,2012-06-30

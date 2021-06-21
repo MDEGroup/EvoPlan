@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.11,-,2016-04-09
+junit,4.11,+,2016-04-09
+logback-classic,1.1.2,-,2016-04-09
+logback-classic,1.1.1,-,2015-09-08
+logback-classic,1.1.7,-,2017-04-18
+logback-classic,1.1.7,+,2016-04-09
+jackson-databind,2.3.1,-,2015-03-23

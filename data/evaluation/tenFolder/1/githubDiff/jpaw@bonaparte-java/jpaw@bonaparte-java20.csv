@@ -1,0 +1,17 @@
+library,version,sign,date
+hazelcast,3.4.6,+,2015-09-18
+hazelcast,3.3.5,-,2015-03-10
+hazelcast,3.4.1,+,2015-03-10
+hazelcast,3.4.1,+,2015-03-23
+hazelcast,3.5.3,+,2015-10-06
+hazelcast,3.5.5,+,2018-08-09
+hazelcast,3.5.3,-,2016-02-25
+hazelcast,3.4.1,-,2015-03-23
+hazelcast,3.4.6,-,2015-10-06
+hazelcast,3.4.4,+,2015-05-09
+hazelcast,3.4.1,-,2015-03-26
+hazelcast,3.4.2,+,2015-03-26
+hazelcast,3.5.5,+,2016-02-25
+hazelcast,3.5.5,-,2018-08-09
+hazelcast,3.4.4,-,2015-09-18
+hazelcast,3.4.2,-,2015-05-09

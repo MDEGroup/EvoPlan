@@ -1,0 +1,16 @@
+library,version,sign,date
+commons-dublincore,1.0-SNAPSHOT,-,2012-07-17
+commons-dublincore,1.0-SNAPSHOT,+,2012-07-17
+junit,3.8.1,-,2012-07-17
+junit,3.8.1,+,2012-07-17
+javaee-api,6.0,-,2012-07-17
+javaee-api,6.0,+,2012-07-17
+hibernate-entitymanager,3.3.1.ga,+,2012-07-17
+hibernate-entitymanager,3.3.1.ga,-,2012-07-17
+concurrent,1.3.2,-,2012-07-17
+concurrent,1.3.2,+,2012-07-17
+integration,1.6.1,+,2012-07-17
+integration,1.6.1,-,2012-07-17
+hibernate,3.2.4.ga,+,2012-07-17
+hibernate,3.2.4.ga,-,2012-07-17
+postgis,1.5.2,+,2012-07-26

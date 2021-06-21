@@ -1,0 +1,10 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,-,2018-12-04
+junit,4.12,+,2018-12-04
+junit,4.12,+,2019-01-09
+junit,4.12,-,2018-12-04
+junit,4.12,-,2020-02-01
+junit,4.12,-,2019-01-09
+junit,4.13,+,2020-02-01
+jrds-jsonp,1.0-SNAPSHOT,-,2019-03-01
+jrds-jsonp,1.0-SNAPSHOT,+,2018-12-18

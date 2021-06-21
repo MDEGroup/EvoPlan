@@ -1,0 +1,14 @@
+library,version,sign,date
+cache-api,1.1.1,+,2019-08-21
+cache-api,1.0.0,-,2019-08-21
+cache-api,1.0.0,+,2017-10-02
+derbyLocale_zh_TW,10.9.1.0,-,2016-09-23
+derbyLocale_zh_TW,10.9.1.0,+,2011-07-20
+derbyLocale_zh_TW,10.9.1.0,+,2016-09-23
+javax.interceptor-api,1.2.1,+,2017-09-21
+multithreadedtc,1.01,+,2016-02-02
+spring-shell,1.2.0.RELEASE,+,2016-11-17
+el-api,2.2,+,2017-09-21
+antlr,2.7.7,+,2016-02-02
+snappy,0.4,+,2017-11-18
+geronimo-jcdi_2.0_spec,1.0.1,+,2017-09-21

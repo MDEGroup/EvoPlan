@@ -1,0 +1,4 @@
+library,version,sign,date
+jaxb-xjc,2.1.2,+,2011-11-02
+jaxb-xjc,2.1.2,-,2011-11-02
+jaxb-xjc,2.1.2,+,2011-08-25

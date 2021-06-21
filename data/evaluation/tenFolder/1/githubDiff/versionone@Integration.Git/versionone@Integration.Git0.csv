@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.11,+,2013-07-27
+derby,10.10.1.1,+,2013-07-27
+hibernate-core,4.2.3.Final,+,2013-07-27
+org.eclipse.jgit,3.0.0.201306101825-r,-,2013-07-27
+org.eclipse.jgit,2.3.1.201302201838-r,+,2013-07-27
+log4j,1.2.17,+,2013-07-27

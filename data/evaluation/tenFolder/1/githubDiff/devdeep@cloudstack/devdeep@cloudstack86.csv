@@ -1,0 +1,5 @@
+library,version,sign,date
+cloud-framework-ipc,0.0.1-SNAPSHOT,-,2012-09-07
+cloud-utils,4.1.0-SNAPSHOT,-,2013-01-12
+cloud-utils,4.2.0-SNAPSHOT,-,2013-02-20
+cloud-utils,4.1.0-SNAPSHOT,+,2012-09-07

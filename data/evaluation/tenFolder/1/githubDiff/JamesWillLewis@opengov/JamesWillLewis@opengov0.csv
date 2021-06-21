@@ -1,0 +1,12 @@
+library,version,sign,date
+cglib,2.2,+,2013-07-24
+mysql-connector-java,5.1.25,+,2013-07-14
+mail,1.4.3,-,2013-09-25
+mail,1.4.3,+,2013-09-25
+mail,1.4.3,+,2013-09-22
+validation-api,1.0.0.GA,+,2013-10-04
+hibernate-entitymanager,4.2.3.Final,-,2013-07-24
+hibernate-entitymanager,4.1.9.Final,+,2013-07-24
+hibernate-entitymanager,4.2.3.Final,+,2013-07-14
+joda-time,2.3,+,2013-09-25
+hibernate-validator-annotation-processor,4.1.0.Final,+,2013-10-04

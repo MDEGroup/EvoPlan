@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.8.1,+,2012-01-11
+drools-mas-util,1.0-SNAPSHOT,+,2012-01-25
+drools-mas-util,1.0-SNAPSHOT,+,2012-01-11
+drools-mas-util,1.0-SNAPSHOT,-,2012-01-25
+drools-mas-generic-client,1.0-SNAPSHOT,+,2012-01-11
+webservices-api,1.4,+,2012-01-11
+webservices-rt,1.4,+,2012-01-11

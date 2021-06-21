@@ -1,0 +1,10 @@
+library,version,sign,date
+bas-t2,2.0.0-SNAPSHOT,+,2012-04-21
+bas-t2,2.0.0-SNAPSHOT,-,2012-12-13
+bas-jvmhack,2.0.0-SNAPSHOT,+,2011-09-16
+bas-jvmhack,0.10.1-SNAPSHOT,+,2011-01-14
+bas-jvmhack,2.0.0-SNAPSHOT,-,2012-04-21
+bas-jvmhack,0.10.1-SNAPSHOT,-,2011-09-16
+bas-jvmhack,2.0.0-SNAPSHOT,-,2012-12-13
+bas-jvmhack,0.0.1-SNAPSHOT,-,2011-06-03
+bas-jvmhack,0.0.1-SNAPSHOT,-,2011-01-14

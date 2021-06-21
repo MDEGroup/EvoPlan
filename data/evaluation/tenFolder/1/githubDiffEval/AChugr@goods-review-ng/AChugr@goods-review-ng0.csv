@@ -1,0 +1,11 @@
+library,version,sign,date
+mockito-all,1.9.0,+,2012-06-23
+mysql-connector-java,5.1.20,+,2012-06-22
+commons-httpclient,3.1,-,2012-07-08
+commons-httpclient,3.1,+,2012-06-23
+json,20090211,-,2012-07-08
+json,20090211,+,2012-06-23
+json,20090211,+,2012-06-17
+gson,1.7.1,+,2012-06-17
+commons-dbcp,1.4,+,2012-06-23
+log4j,1.2.15,-,2012-06-17

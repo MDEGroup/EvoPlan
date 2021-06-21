@@ -1,0 +1,7 @@
+library,version,sign,date
+morphia-logging-slf4j,0.102,+,2013-08-26
+mongo-java-driver,2.10.1,-,2013-06-04
+mongo-java-driver,2.10.1,+,2013-01-31
+activemq-camel,5.5.1,-,2013-01-31
+morphia,0.99,-,2013-01-31
+morphia,1.2.3,-,2013-06-04

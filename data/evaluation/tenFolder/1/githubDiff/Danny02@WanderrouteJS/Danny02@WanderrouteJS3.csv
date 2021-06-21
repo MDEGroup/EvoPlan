@@ -1,0 +1,9 @@
+library,version,sign,date
+jackson-core-asl,1.8.0,+,2012-07-09
+jackson-core-asl,1.8.0,-,2012-07-09
+jackson-core-asl,1.5.2,+,2012-06-25
+jackson-core-asl,1.5.2,-,2012-07-08
+jackson-core-asl,1.8.0-SNAPSHOT,-,2012-07-04
+jackson-core-asl,1.5.2,-,2012-07-02
+junit,4.4,-,2012-07-09
+junit,4.4,+,2012-07-09

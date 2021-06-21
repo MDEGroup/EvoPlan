@@ -1,0 +1,8 @@
+library,version,sign,date
+mps,0.1.0-SNAPSHOT,-,2013-07-09
+mps,0.1.0-SNAPSHOT,+,2013-06-13
+mps,0.1.0-SNAPSHOT,+,2013-04-15
+testng,6.8,-,2013-07-23
+testng,6.8,+,2013-04-15
+mockito-core,1.9.0,+,2013-04-15
+mockito-core,1.9.0,-,2013-07-23

@@ -1,0 +1,8 @@
+library,version,sign,date
+shrinkwrap-impl-base,1.2.0,-,2013-09-28
+shrinkwrap-impl-base,1.2.0,+,2013-06-07
+shrinkwrap-resolver-impl-maven,2.0.0,+,2013-06-07
+shrinkwrap-resolver-impl-maven,2.0.0,-,2013-09-28
+atinject-core,1.0.0-SNAPSHOT,-,2013-03-25
+atinject-core,1.0.0-SNAPSHOT,+,2013-03-25
+atinject-core,1.0.0-SNAPSHOT,-,2013-09-28

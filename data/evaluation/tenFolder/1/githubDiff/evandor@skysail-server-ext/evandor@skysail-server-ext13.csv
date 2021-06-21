@@ -1,0 +1,20 @@
+library,version,sign,date
+org.apache.felix.framework,3.2.2,+,2012-09-08
+org.apache.felix.framework,3.2.2,+,2012-09-04
+junit,4.10,+,2012-09-08
+skysail.server,[0.2.4, 1.0),-,2012-09-10
+skysail.server,[0.2.4-SNAPSHOT, 1.0),+,2012-09-04
+skysail.server,[0.2.4, 1.0),-,2012-09-04
+skysail.server,[0.2.4-SNAPSHOT, 1.0),+,2012-09-08
+skysail.server,[0.2.4-SNAPSHOT, 1.0),-,2012-09-04
+skysail.server,[0.2.4-SNAPSHOT, 1.0),-,2012-09-10
+skysail.server,[0.2.4, 1.0),+,2012-09-08
+skysail.server,[0.2.4, 1.0),+,2012-09-04
+skysail.server,[0.2.4, 1.0),-,2012-09-08
+jgraphx-osgi,1.10.3.1,+,2012-09-04
+skysail.common,[0.3.6, 1.0),+,2012-09-04
+skysail.common,[0.3.6, 1.0),-,2012-09-10
+skysail.common,[0.3.6, 1.0),-,2012-09-04
+skysail.common,[0.3.6, 1.0),+,2012-09-08
+javax.inject,1,+,2012-09-04
+javax.inject,1,+,2012-09-08

@@ -1,0 +1,17 @@
+library,version,sign,date
+spring-integration-mail,2.2.3.RELEASE,-,2013-06-06
+spring-integration-mail,2.2.3.RELEASE,+,2013-06-05
+spring-integration-mail,2.2.3.RELEASE,+,2013-06-06
+jstl,1.2,-,2013-06-06
+jstl,1.2,+,2013-06-06
+javax.mail,1.5.0,-,2013-06-06
+javax.mail,1.5.0,+,2013-06-06
+javax.mail,1.5.0,+,2013-06-05
+junit,4.11,-,2013-06-06
+junit,4.11,+,2013-06-06
+spring-jdbc,3.2.2.RELEASE,-,2013-06-06
+spring-jdbc,3.2.2.RELEASE,+,2013-06-06
+hsqldb,2.2.9,-,2013-06-06
+hsqldb,2.2.9,+,2013-06-06
+hamcrest-all,1.3,-,2013-06-06
+hamcrest-all,1.3,+,2013-06-06

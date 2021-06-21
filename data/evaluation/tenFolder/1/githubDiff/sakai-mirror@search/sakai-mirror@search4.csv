@@ -1,0 +1,6 @@
+library,version,sign,date
+elasticsearch,0.20.5,+,2013-01-16
+elasticsearch,0.90.7,+,2013-11-15
+elasticsearch,0.20.0.RC1,-,2013-01-16
+elasticsearch,0.90.7,-,2014-02-18
+elasticsearch,0.20.5,-,2013-11-15

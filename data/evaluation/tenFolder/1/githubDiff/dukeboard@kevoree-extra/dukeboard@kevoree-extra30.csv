@@ -1,0 +1,7 @@
+library,version,sign,date
+org.kevoree.extra.osgi.twitter.library,2.3.3,-,2011-12-08
+org.kevoree.extra.osgi.twitter.library,2.3.3,+,2011-12-07
+org.kevoree.extra.googleguava,10,+,2011-12-07
+org.kevoree.extra.googleguava,10,-,2011-12-08
+org.kevoree.extra.googleguava,1.0,+,2011-11-30
+org.kevoree.extra.googleguava,10,+,2011-11-30

@@ -1,0 +1,11 @@
+library,version,sign,date
+grpc-all,1.2.0,-,2017-05-06
+javax.annotation-api,1.3.2,+,2018-10-18
+javax.annotation-api,1.3.1,-,2018-06-21
+javax.annotation-api,1.2,-,2017-11-27
+javax.annotation-api,1.3.2,-,2018-10-18
+javax.annotation-api,1.3.1,+,2017-11-27
+javax.annotation-api,1.3.2,+,2018-09-30
+javax.annotation-api,1.2,-,2018-01-25
+javax.annotation-api,1.2,+,2017-05-10
+javax.annotation-api,1.2,-,2017-05-10

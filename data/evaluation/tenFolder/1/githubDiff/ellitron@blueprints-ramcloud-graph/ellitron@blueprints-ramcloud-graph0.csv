@@ -1,0 +1,11 @@
+library,version,sign,date
+blueprints-test,2.4.0,+,2013-08-22
+gremlin,2.0.0,+,2013-09-07
+furnace,0.1-SNAPSHOT,+,2013-09-07
+protobuf-java,2.5.0,-,2013-08-25
+protobuf-java,2.5.0,+,2013-08-24
+blueprints-graph-jung,2.4.0,+,2013-09-17
+rexster-core,2.4.0,+,2013-08-08
+blueprints-core,2.4.0,+,2013-08-08
+gremlin-java,2.0.0,+,2013-09-07
+pipes,2.0.0,+,2013-09-07

@@ -1,0 +1,7 @@
+library,version,sign,date
+log4j-slf4j-impl,2.11.0,+,2018-07-11
+log4j-slf4j-impl,2.11.0,-,2018-09-06
+slf4j-api,1.7.25,+,2017-12-22
+slf4j-api,1.7.25,+,2018-09-06
+slf4j-api,1.7.25,-,2018-09-06
+slf4j-api,1.7.25,-,2018-11-30

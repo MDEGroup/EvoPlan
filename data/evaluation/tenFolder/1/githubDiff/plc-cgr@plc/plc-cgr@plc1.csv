@@ -1,0 +1,11 @@
+library,version,sign,date
+standard,1.1.2,-,2012-03-14
+standard,1.1.2,+,2012-03-07
+jstl,1.2,+,2012-03-07
+jstl,1.2,-,2012-03-14
+mail,1.4,+,2012-03-02
+javaee-web-api,6.0,+,2012-02-23
+struts2-jquery-plugin,3.2.1,+,2012-03-07
+sitemesh,2.4.2,-,2012-03-14
+sitemesh,2.4.2,+,2012-03-07
+guice,3.0,+,2012-02-27

@@ -1,0 +1,6 @@
+library,version,sign,date
+beam-core,4.10.3,-,2012-07-16
+beam-geotiff,1.1.1,+,2011-06-30
+beam-geotiff,1.1.1,-,2011-07-19
+beam-geotiff,1.2.1,+,2011-07-19
+beam-geotiff,1.2.1,-,2013-01-11

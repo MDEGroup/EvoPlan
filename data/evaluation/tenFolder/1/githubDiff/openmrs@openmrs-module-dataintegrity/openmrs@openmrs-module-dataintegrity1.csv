@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.3,-,2016-11-02
+junit,4.11,+,2016-11-02
+groovy,1.8.3,+,2016-11-02
+powermock-core,1.6.5,+,2016-11-02
+powermock-core,1.6.5,-,2016-11-02
+openmrs-api,1.12.0,-,2016-11-02
+commons-lang3,3.1,+,2016-11-02
+commons-lang3,3.3.2,-,2016-11-02
+commons-lang3,3.3.2,+,2016-11-02
+powermock-api-mockito,1.6.5,+,2016-11-02
+powermock-api-mockito,1.6.5,-,2016-11-02
+mockito-core,2.0.1-beta,+,2016-11-02

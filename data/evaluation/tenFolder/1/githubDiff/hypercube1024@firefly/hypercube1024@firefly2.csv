@@ -1,0 +1,17 @@
+library,version,sign,date
+slf4j-api,1.7.21,+,2016-10-31
+slf4j-api,1.7.21,-,2016-10-24
+slf4j-api,1.7.25,+,2018-11-13
+slf4j-api,1.7.25,+,2018-09-18
+slf4j-api,1.7.25,-,2018-11-13
+slf4j-api,1.7.21,+,2016-10-24
+slf4j-api,1.7.21,-,2017-02-27
+slf4j-api,1.7.21,-,2016-10-31
+firefly-common,4.0.3.2-SNAPSHOT,-,2016-05-13
+firefly-common,4.0.2,-,2016-05-06
+firefly-common,3.0.4.5,-,2017-02-09
+firefly-common,4.0.4-SNAPSHOT,-,2016-07-28
+firefly-common,4.0.3.2,-,2016-07-28
+firefly-common,4.0.1-SNAPSHOT,-,2016-04-16
+firefly-common,4.0.3-SNAPSHOT,-,2016-05-06
+firefly-common,3.0.4,-,2017-02-09

@@ -1,0 +1,9 @@
+library,version,sign,date
+Cloudental-ejb,1.0-SNAPSHOT,-,2012-03-31
+Cloudental-ejb,1.0-SNAPSHOT,+,2012-03-31
+primefaces,3.1.1,-,2012-03-31
+primefaces,3.1.1,+,2012-03-31
+mobile,0.9.1,+,2012-03-31
+mobile,0.9.1,-,2012-03-31
+javaee-web-api,6.0,-,2012-03-31
+javaee-web-api,6.0,+,2012-03-31

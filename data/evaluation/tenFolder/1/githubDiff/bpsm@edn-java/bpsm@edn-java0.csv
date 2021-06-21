@@ -1,0 +1,7 @@
+library,version,sign,date
+caliper,0.5-rc1,+,2012-10-01
+caliper,0.5-rc1,-,2012-10-19
+caliper,0.5-rc1,+,2012-10-19
+junit,4.11,-,2017-03-28
+junit,4.8.1,-,2012-10-15
+junit,4.10,-,2012-11-03

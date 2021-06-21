@@ -1,0 +1,7 @@
+library,version,sign,date
+agent,0.8-SNAPSHOT,+,2012-03-18
+agent,0.7-SNAPSHOT,-,2012-03-08
+book,0.7-SNAPSHOT,-,2012-03-08
+vwap,0.7-SNAPSHOT,-,2012-03-08
+noise,0.7-SNAPSHOT,-,2012-03-08
+client,0.7-SNAPSHOT,-,2012-03-08

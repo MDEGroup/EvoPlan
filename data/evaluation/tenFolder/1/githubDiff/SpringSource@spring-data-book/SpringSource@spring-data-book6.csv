@@ -1,0 +1,6 @@
+library,version,sign,date
+spring-data-gemfire,1.2.1.RELEASE,-,2013-01-28
+spring-data-gemfire,1.2.0.RELEASE,-,2012-10-10
+spring-data-gemfire,1.2.0.BUILD-SNAPSHOT,-,2012-08-08
+spring-tx,3.1.2.RELEASE,-,2012-08-08
+spring-expression,3.1.2.RELEASE,-,2012-08-08

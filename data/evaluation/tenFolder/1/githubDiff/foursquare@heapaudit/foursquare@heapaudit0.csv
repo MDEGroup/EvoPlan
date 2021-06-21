@@ -1,0 +1,5 @@
+library,version,sign,date
+asm-all,3.3.1,+,2011-12-10
+asm-all,3.3.1,-,2011-12-10
+junit,4.10,+,2011-12-10
+junit,4.0,-,2011-12-10

@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.8.1,-,2012-03-02
+junit,4.10,+,2012-03-02
+commons-codec,1.6,+,2012-03-02
+commons-codec,1.5,-,2012-03-02
+cm4j-dao,0.0.1-SNAPSHOT,-,2012-03-02

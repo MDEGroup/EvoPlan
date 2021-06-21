@@ -1,0 +1,4 @@
+library,version,sign,date
+datanucleus-core,2.2.3,+,2011-08-13
+httpcore,4.1,-,2011-06-28
+httpcore,4.1,+,2011-06-04

@@ -1,0 +1,8 @@
+library,version,sign,date
+javax.servlet-api,2.4,-,2013-12-02
+jsp-api,2.0,-,2011-01-31
+jsp-api,2.0,+,2011-11-03
+jsp-api,2.0,+,2011-01-31
+jsp-api,2.0,-,2011-11-03
+jsp-api,2.0,+,2010-08-16
+jsp-api,2.0,-,2013-12-02

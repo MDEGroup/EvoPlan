@@ -1,0 +1,14 @@
+library,version,sign,date
+org.bridgedb.utils,2.0.2-SNAPSHOT,-,2015-04-15
+org.bridgedb.utils,2.0.1.openphacts,-,2015-04-15
+org.bridgedb.utils,2.0.3-SNAPSHOT,-,2015-08-04
+org.bridgedb.utils,2.0.2.openphacts,-,2015-05-08
+junit-jupiter-api,RELEASE,+,2018-10-17
+junit-jupiter-api,RELEASE,-,2019-06-09
+junit-jupiter-api,5.5.0-RC1,+,2018-10-17
+junit-jupiter-api,RELEASE,+,2019-06-09
+junit-jupiter-api,5.2.0,+,2019-06-09
+org.bridgedb,2.0.1.openphacts,-,2015-04-15
+org.bridgedb,2.0.2-SNAPSHOT,-,2015-04-15
+org.bridgedb,2.0.3-SNAPSHOT,-,2015-08-04
+org.bridgedb,2.0.2.openphacts,-,2015-05-08

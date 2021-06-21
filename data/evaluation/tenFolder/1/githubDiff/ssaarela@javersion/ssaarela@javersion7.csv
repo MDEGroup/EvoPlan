@@ -1,0 +1,8 @@
+library,version,sign,date
+antlr4-runtime,4.5,-,2015-04-23
+javersion-util,0.1-SNAPSHOT,+,2015-04-22
+javersion-util,0.1-SNAPSHOT,-,2015-04-23
+commons-lang3,3.3.2,-,2016-03-08
+commons-lang3,3.3.2,-,2015-04-23
+guava,18.0,-,2016-03-08
+guava,19.0,-,2017-05-22

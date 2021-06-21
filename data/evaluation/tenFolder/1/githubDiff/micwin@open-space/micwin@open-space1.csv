@@ -1,0 +1,8 @@
+library,version,sign,date
+ehcache,1.5.0,+,2014-01-14
+ehcache,1.5.0,-,2014-01-14
+hsqldb,1.8.0.7,+,2014-01-14
+hsqldb,1.8.0.7,-,2014-01-14
+hibernate-entitymanager,3.6.7.Final,-,2012-06-29
+commons-dbcp,1.2.2,+,2014-01-14
+commons-dbcp,1.2.2,-,2014-01-14

@@ -1,0 +1,7 @@
+library,version,sign,date
+xercesImpl,2.10.0,-,2013-08-02
+slf4j-api,1.5.10,-,2013-10-24
+slf4j-log4j12,1.5.10,-,2013-10-24
+joda-time,2.2,+,2013-10-21
+jaxen,1.1.1,-,2013-08-02
+saxon,8.7,+,2013-09-16

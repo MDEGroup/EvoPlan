@@ -1,0 +1,5 @@
+library,version,sign,date
+jboss-servlet-api_3.0_spec,1.0.1.Final,+,2012-04-24
+jboss-servlet-api_3.0_spec,1.0.1.Final,+,2016-07-30
+shiro-web,1.2.0,+,2012-02-24
+shiro-web,1.2.0,-,2012-04-19

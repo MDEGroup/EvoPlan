@@ -1,0 +1,4 @@
+library,version,sign,date
+newspaper-autonomous-component,1.12-SNAPSHOT,+,2014-10-10
+newspaper-autonomous-component,1.12-SNAPSHOT,-,2014-10-15
+commons-beanutils-bean-collections,1.8.3,+,2015-06-16

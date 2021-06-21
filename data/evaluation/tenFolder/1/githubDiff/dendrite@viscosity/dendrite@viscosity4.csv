@@ -1,0 +1,5 @@
+library,version,sign,date
+kundera-cassandra,2.3,-,2013-05-08
+kundera-cassandra,2.3,+,2013-05-07
+junit,3.8.1,-,2013-05-07
+junit,3.8.1,+,2013-05-07

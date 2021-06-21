@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.7,-,2012-04-26
+junit,4.10,-,2013-10-03
+junit,4.11,+,2013-10-03
+junit,4.7,+,2011-06-07
+junit,4.10,+,2012-04-26
+geronimo-servlet_3.0_spec,1.0,+,2013-10-03

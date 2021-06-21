@@ -1,0 +1,6 @@
+library,version,sign,date
+org.flowframe.kernel.datasource.mysql,0.0.1,+,2012-12-29
+org.flowframe.kernel.datasource.mysql,0.0.1,-,2012-12-31
+org.flowframe.thirdparty.com.mysql.jdbc,5.1.20,-,2012-12-29
+org.flowframe.thirdparty.com.mysql.jdbc,5.1.20,+,2012-12-29
+org.flowframe.thirdparty.com.mysql.jdbc,5.1.20,-,2012-12-31

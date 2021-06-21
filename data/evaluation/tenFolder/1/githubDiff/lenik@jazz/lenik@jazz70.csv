@@ -1,0 +1,4 @@
+library,version,sign,date
+jacob,1.14.3,+,2013-09-17
+jacob,1.14.3,-,2013-09-17
+bas-natives-win32,2.0.0-SNAPSHOT,-,2013-09-17

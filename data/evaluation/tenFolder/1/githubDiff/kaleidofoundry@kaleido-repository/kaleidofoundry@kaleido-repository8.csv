@@ -1,0 +1,4 @@
+library,version,sign,date
+jersey-servlet,1.13,-,2013-05-28
+jersey-server,1.13,-,2013-05-28
+jersey-json,1.13,-,2013-05-28

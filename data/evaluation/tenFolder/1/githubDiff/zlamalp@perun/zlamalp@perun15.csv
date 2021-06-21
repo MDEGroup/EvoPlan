@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.11,+,2013-10-24
+junit,4.11,-,2017-01-24
+junit,4.11,-,2013-10-24
+perun-base,3.1.0-SNAPSHOT,-,2018-06-29
+perun-core,3.1.0-SNAPSHOT,-,2018-06-29

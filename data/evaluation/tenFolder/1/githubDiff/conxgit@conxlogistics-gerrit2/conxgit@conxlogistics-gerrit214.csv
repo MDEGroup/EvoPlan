@@ -1,0 +1,12 @@
+library,version,sign,date
+com.conx.logistics.mdm.domain,1.0.0,+,2012-06-11
+com.conx.logistics.mdm.domain,1.0.0,+,2012-06-26
+com.conx.logistics.mdm.domain,1.0.0,+,2012-07-02
+com.conx.logistics.mdm.domain,1.0.0,-,2012-06-19
+com.conx.logistics.mdm.domain,1.0.0,+,2012-06-19
+vaadin,6.7.5,+,2012-06-26
+vaadin,6.7.5,+,2012-06-11
+vaadin,6.7.5,+,2012-06-19
+com.conx.logistics.app.whse.domain,1.0.0,+,2012-07-02
+com.conx.logistics.app.whse.rcv.asn.domain,1.0.0,+,2012-06-11
+com.conx.logistics.app.whse.rcv.asn.domain,1.0.0,+,2012-06-26

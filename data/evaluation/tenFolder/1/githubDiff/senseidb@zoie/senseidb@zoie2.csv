@@ -1,0 +1,15 @@
+library,version,sign,date
+commons-configuration,1.6,+,2011-09-29
+commons-configuration,1.6,-,2013-04-13
+commons-configuration,1.6,+,2013-04-13
+metrics-core,2.0.0-BETA18-SNAPSHOT,-,2012-09-18
+metrics-core,2.0.0-BETA17,-,2011-11-03
+metrics-core,2.0.0-BETA17,+,2011-09-29
+metrics-core,2.0.0-BETA18,-,2013-04-13
+metrics-core,2.0.0-BETA18,+,2013-04-13
+json,20080701,+,2011-09-29
+json,20080701,-,2013-04-13
+json,20080701,+,2013-04-13
+jetty,6.1.26,+,2013-04-13
+jetty,6.1.26,+,2011-10-28
+jetty,6.1.26,-,2013-04-13

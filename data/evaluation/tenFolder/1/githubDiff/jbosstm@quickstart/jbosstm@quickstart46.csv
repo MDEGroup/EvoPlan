@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.8.1,-,2018-07-05
+junit,3.8.1,+,2016-04-01
+junit,4.8.2,-,2018-07-05
+junit,4.8.1,-,2017-10-19
+junit,4.6,-,2018-07-05
+persistence-api,1.0.2,-,2013-10-10
+persistence-api,1.0.2,+,2013-10-10
+jboss-transaction-api_1.1_spec,1.0.0.Final,+,2014-12-11
+jboss-transaction-api_1.1_spec,1.0.0.Final,+,2017-12-06
+cdi-api,1.2,+,2019-08-07

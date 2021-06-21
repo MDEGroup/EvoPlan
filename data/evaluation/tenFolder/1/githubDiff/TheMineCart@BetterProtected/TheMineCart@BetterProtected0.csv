@@ -1,0 +1,6 @@
+library,version,sign,date
+craftbukkit,1.2.5-R1.0,-,2012-09-28
+BukkitTestUtilities,0.2.0-SNAPSHOT,-,2012-05-17
+joda-time,2.0,-,2012-05-17
+gson,2.2.2,+,2012-09-28
+gson,2.1,-,2012-05-17

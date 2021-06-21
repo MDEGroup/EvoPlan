@@ -1,0 +1,7 @@
+library,version,sign,date
+ovation-ui-common-interfaces,2.0-SNAPSHOT,-,2013-06-26
+ovation-ui-test,2.0-SNAPSHOT,-,2013-06-26
+swing-layout,1.0.3,-,2014-07-22
+balloontip,1.2.4.1,+,2014-05-05
+ovation-ui-database-connection-provider,2.0-SNAPSHOT,-,2013-06-26
+scrollable-table-tree,2.0-SNAPSHOT,-,2013-06-26

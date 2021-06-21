@@ -1,0 +1,9 @@
+library,version,sign,date
+core,5.8.7,-,2013-01-08
+core,5.8.2,+,2012-06-26
+core,5.8.2,-,2012-07-17
+lib-common,1.0,+,2012-01-03
+lib-common,1.0,-,2012-09-18
+lib-common,1.0,-,2012-01-03
+compiler,5.8.7,-,2013-01-08
+compiler,5.8.7,+,2012-07-26

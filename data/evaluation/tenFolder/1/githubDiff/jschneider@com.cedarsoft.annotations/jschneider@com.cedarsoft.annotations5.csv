@@ -1,0 +1,8 @@
+library,version,sign,date
+test-utils,5.1.2,-,2013-11-13
+test-utils,5.1.2,+,2012-08-24
+test-utils,5.1.2,-,2013-03-13
+test-utils,5.1.2,-,2012-08-24
+test-utils,5.1.7,-,2013-03-18
+jsr305,2.0.1,-,2013-03-29
+jsr305,2.0.1,+,2012-10-17

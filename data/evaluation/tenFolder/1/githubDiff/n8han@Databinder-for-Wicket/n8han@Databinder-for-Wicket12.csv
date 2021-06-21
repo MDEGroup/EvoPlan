@@ -1,0 +1,7 @@
+library,version,sign,date
+scala-library,2.6.1,-,2008-03-03
+scala-library,2.6.1,+,2008-01-21
+httpclient,4.0-alpha3,+,2008-03-12
+httpclient,4.0-alpha3,-,2008-05-11
+httpclient,4.0-alpha3,+,2008-03-22
+httpclient,4.0-alpha4,-,2008-10-26

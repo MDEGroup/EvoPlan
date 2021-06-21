@@ -1,0 +1,15 @@
+library,version,sign,date
+core,1.0-SNAPSHOT,-,2011-12-28
+core,1.0-SNAPSHOT,+,2012-02-06
+core,1.0-SNAPSHOT,-,2011-12-29
+core,1.0-SNAPSHOT,+,2011-12-29
+core,1.0-SNAPSHOT,+,2011-12-28
+android,2.2.1,+,2011-12-28
+android,2.2.1,+,2011-12-29
+android,1.0.0-SNAPSHOT,-,2011-12-28
+android,1.0.0-SNAPSHOT,-,2011-12-29
+android,1.0.0-SNAPSHOT,+,2011-12-28
+android,2.2.1,-,2011-12-28
+android,2.2.1,-,2011-12-29
+android,1.0.0-SNAPSHOT,+,2011-12-29
+scala-library,2.9.1,-,2011-12-24

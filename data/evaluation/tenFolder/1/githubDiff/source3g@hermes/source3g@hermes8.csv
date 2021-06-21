@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-email,1.3.1,+,2013-01-30
+hermes-common,0.0.1-SNAPSHOT,-,2012-11-08
+hermes-common,0.0.1-SNAPSHOT,-,2013-01-21
+hermes-common,0.0.1-SNAPSHOT,+,2012-11-08

@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.12,+,2013-05-01
+junit,4.12,-,2018-09-20
+junit,4.8.1,-,2013-05-01
+junit,4.8.1,-,2018-09-20
+jetty-test-helper,1.6,-,2013-05-01
+jetty-test-helper,1.6,-,2018-09-20
+jetty-test-helper,1.6,+,2012-11-02
+javaparser,1.0.8,-,2012-11-02
+javaparser,1.0.8,+,2012-11-02
+jetty-util,9.0.2.v20130417,+,2012-11-02

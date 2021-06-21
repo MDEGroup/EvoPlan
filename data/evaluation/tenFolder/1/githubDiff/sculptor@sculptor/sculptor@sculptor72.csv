@@ -1,0 +1,9 @@
+library,version,sign,date
+usertype.core,3.0.0.GA,+,2015-01-03
+usertype.core,3.0.0.GA,+,2015-03-14
+usertype.core,3.0.0.GA,-,2019-05-30
+ehcache,3.7.1,+,2019-06-12
+dbunit,2.5.0,-,2019-07-12
+validation-api,1.1.0.Final,+,2019-05-30
+validation-api,1.1.0.Final,-,2019-06-12
+HikariCP,3.4.1,+,2019-07-12

@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.11,-,2017-06-05
+derby,10.13.1.1,+,2017-10-06
+derby,10.12.1.1,-,2018-07-11

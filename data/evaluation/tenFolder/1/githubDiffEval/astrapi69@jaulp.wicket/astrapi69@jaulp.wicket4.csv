@@ -1,0 +1,4 @@
+library,version,sign,date
+jaulp-wicket-components,7.5.0,+,2017-04-13
+jaulp-wicket-components,7.5.0,-,2017-04-17
+jaulp-wicket-components,${jaulp-wicket.version},+,2017-04-21

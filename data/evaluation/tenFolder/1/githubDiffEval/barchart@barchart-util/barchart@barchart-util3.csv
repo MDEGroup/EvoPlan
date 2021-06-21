@@ -1,0 +1,11 @@
+library,version,sign,date
+barchart-util-guice,1.0.0-SNAPSHOT,-,2014-11-25
+barchart-util-guice,1.0.1-SNAPSHOT,-,2015-01-07
+barchart-util-guice,[1.0.0-SNAPSHOT,2-SNAPSHOT),-,2014-11-26
+barchart-util-guice,1.0.4-SNAPSHOT,-,2015-03-19
+barchart-util-guice,1.0.6-SNAPSHOT,-,2015-04-14
+barchart-util-test,4.0.2-SNAPSHOT,-,2014-11-26
+barchart-util-test,4.0.1-SNAPSHOT,-,2014-11-25
+logstash-logback-encoder,4.2,+,2015-03-03
+barchart-netty-rest-server,[1-SNAPSHOT,2-SNAPSHOT),+,2015-03-06
+janino,2.6.1,+,2014-11-26

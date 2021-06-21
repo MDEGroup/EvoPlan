@@ -1,0 +1,12 @@
+library,version,sign,date
+commons-logging,1.2,-,2019-05-06
+commons-logging,1.2,+,2019-02-02
+commons-logging,1.2,-,2019-05-22
+shiro-spring,1.4.2-SNAPSHOT,-,2019-04-18
+shiro-spring,1.4.1-SNAPSHOT,-,2019-03-31
+shiro-spring,1.4.0-SNAPSHOT,-,2016-11-10
+shiro-spring,1.4.1,-,2019-04-18
+shiro-spring,1.4.0-RC2,-,2016-11-10
+shiro-spring,1.5.0-SNAPSHOT,-,2019-05-22
+shiro-spring,1.4.0-SNAPSHOT,-,2016-11-07
+shiro-spring,2.alpha.0-SNAPSHOT,-,2016-10-17

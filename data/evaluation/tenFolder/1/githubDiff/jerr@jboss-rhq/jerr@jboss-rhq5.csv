@@ -1,0 +1,10 @@
+library,version,sign,date
+hibernate-jpa-2.0-api,1.0.1.Final,+,2013-09-10
+hibernate-jpa-2.0-api,1.0.1.Final,-,2013-09-10
+postgresql,9.2-1002.jdbc4,-,2013-09-10
+postgresql,9.1-901.jdbc4,-,2013-09-10
+postgresql,9.2-1002.jdbc4,+,2013-09-10
+commons-logging,1.1.0.jboss,-,2013-09-10
+commons-logging,1.1.0.jboss,+,2013-09-10
+log4j,1.2.16,-,2013-09-10
+log4j,1.2.16,+,2013-09-10

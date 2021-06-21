@@ -1,0 +1,10 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,-,2018-12-14
+highlightjs,9.8.0,-,2019-01-22
+highlightjs,9.15.10,+,2019-01-22
+spring-boot,2.1.2.RELEASE,-,2019-01-22
+spring-boot,2.2.7.RELEASE,+,2019-01-22
+spring-boot,2.1.2.RELEASE,+,2018-12-14
+javax.persistence-api,2.2,+,2019-01-21
+jquery,3.5.1,+,2019-01-22
+jquery,3.3.1-1,-,2019-01-22

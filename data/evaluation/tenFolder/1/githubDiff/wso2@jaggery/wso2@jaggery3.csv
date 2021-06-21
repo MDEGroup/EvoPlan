@@ -1,0 +1,16 @@
+library,version,sign,date
+org.eclipse.wst.jsdt.debug.transport,1.0.100.v201109150330,-,2012-09-17
+org.eclipse.wst.jsdt.debug.transport,1.0.100.v201109150330,+,2012-08-07
+org.eclipse.wst.jsdt.debug.transport,1.0.100.v201109150330,+,2012-09-17
+commons-logging,1.1.1,-,2015-01-30
+commons-logging,1.1.1,-,2012-08-06
+commons-logging,1.1.1,-,2014-04-21
+commons-logging,1.1.1,+,2014-04-21
+org.eclipse.wst.jsdt.debug.rhino.debugger,1.0.300.v201109150503,+,2012-09-17
+org.eclipse.wst.jsdt.debug.rhino.debugger,1.0.300.v201109150503,-,2012-09-17
+org.eclipse.wst.jsdt.debug.rhino.debugger,1.0.300.v201109150503,+,2012-08-07
+gson,2.1,+,2014-04-21
+org.wso2.carbon.utils,4.2.0,-,2014-04-21
+org.wso2.carbon.utils,4.2.0,+,2013-05-14
+org.wso2.carbon.utils,4.0.2,-,2014-04-21
+org.wso2.carbon.utils,4.0.2,+,2012-09-17

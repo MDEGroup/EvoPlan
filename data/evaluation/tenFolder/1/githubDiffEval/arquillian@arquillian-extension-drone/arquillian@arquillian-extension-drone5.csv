@@ -1,0 +1,13 @@
+library,version,sign,date
+json,20160212,-,2017-03-18
+json,20160212,-,2019-08-06
+json,20160212,+,2017-03-18
+commons-lang3,3.4,+,2017-03-18
+commons-lang3,3.4,+,2016-03-15
+commons-lang3,3.4,-,2017-03-18
+commons-lang3,3.4,-,2018-03-20
+arquillian-spacelift,1.0.0.Alpha9,-,2017-08-24
+arquillian-spacelift,1.0.0.Alpha9,-,2017-03-18
+arquillian-spacelift,1.0.0.Alpha9,+,2017-03-18
+arquillian-spacelift,1.0.0.Alpha9,+,2016-09-14
+arquillian-spacelift,1.0.0.Alpha9,+,2016-03-15

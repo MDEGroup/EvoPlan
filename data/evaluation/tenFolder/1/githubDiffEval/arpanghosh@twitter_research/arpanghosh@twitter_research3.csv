@@ -1,0 +1,11 @@
+library,version,sign,date
+core,1.0-SNAPSHOT,-,2013-03-05
+core,1.0-SNAPSHOT,+,2013-03-05
+core,1.0-SNAPSHOT,+,2013-03-14
+core,1.0-SNAPSHOT,+,2013-04-16
+jsoup,1.7.2,+,2013-03-21
+ark-tweet-nlp-with-deps,1.0-SNAPSHOT,-,2013-04-07
+ark-tweet-nlp-with-deps,1.0-SNAPSHOT,+,2013-04-10
+ark-tweet-nlp-with-deps,1.0-SNAPSHOT,-,2013-04-10
+ark-tweet-nlp-with-deps,1.0-SNAPSHOT,+,2013-03-25
+weka-stable,3.6.7,+,2013-04-16

@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.10,+,2012-01-21
+commons-httpclient,3.1-rc1,-,2012-02-25
+commons-httpclient,3.1-rc1,+,2011-02-09
+commons-httpclient,3.1-rc1,-,2011-02-09
+commons-logging,1.0.4,+,2012-02-25
+log4j,1.2.9,+,2012-02-25

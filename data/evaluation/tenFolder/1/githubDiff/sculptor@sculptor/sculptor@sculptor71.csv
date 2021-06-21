@@ -1,0 +1,7 @@
+library,version,sign,date
+usertype.core,3.0.0.GA,-,2019-05-30
+spring-data-jpa,2.1.8.RELEASE,+,2019-06-12
+spring-data-jpa,1.7.2.RELEASE,-,2019-06-12
+ehcache,3.7.1,+,2019-06-26
+dbunit,2.5.0,-,2019-07-12
+HikariCP,3.4.1,+,2019-07-12

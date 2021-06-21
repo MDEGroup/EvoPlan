@@ -1,0 +1,13 @@
+library,version,sign,date
+spigot-api,1.9-SNAPSHOT,-,2016-05-11
+spigot-api,1.13.2-R0.1-SNAPSHOT,-,2019-03-12
+spigot-api,1.12.2-R0.1-SNAPSHOT,-,2018-05-22
+spigot-api,1.13.1-R0.1-SNAPSHOT,-,2019-01-06
+spigot-api,1.11-R0.1-SNAPSHOT,-,2018-02-25
+spigot-api,1.9.2-R0.1-SNAPSHOT,-,2016-06-18
+spigot-api,1.9-R0.1-SNAPSHOT,-,2016-05-12
+spigot-api,1.9-SNAPSHOT,+,2016-03-04
+logblock,1.13.2-SNAPSHOT,-,2019-03-12
+logblock,1.13.2-SNAPSHOT,+,2019-01-06
+gson,2.1,+,2013-09-10
+api,5.0,+,2019-03-12

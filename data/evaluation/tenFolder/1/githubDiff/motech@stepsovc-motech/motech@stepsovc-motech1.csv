@@ -1,0 +1,6 @@
+library,version,sign,date
+commcare-case-gateway,0.1-SNAPSHOT,+,2012-04-24
+commcare-case-gateway,0.1-SNAPSHOT,-,2012-05-30
+case-service,0.1-SNAPSHOT,-,2012-05-17
+case-service,0.1-SNAPSHOT,-,2012-05-30
+case-service,0.1-SNAPSHOT,+,2012-04-27

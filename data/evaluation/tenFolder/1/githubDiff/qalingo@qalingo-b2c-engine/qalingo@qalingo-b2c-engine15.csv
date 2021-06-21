@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.8.1,-,2016-07-24
+quartz,2.2.2,-,2016-03-04
+quartz,1.5.2,-,2015-11-25
+quartz,1.5.2,+,2013-11-15
+quartz,1.5.2,-,2013-11-15

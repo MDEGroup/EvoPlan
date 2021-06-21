@@ -1,0 +1,13 @@
+library,version,sign,date
+nifty-style-black,1.3.1,-,2012-04-29
+nifty-style-black,1.3.1,+,2012-04-27
+nifty-slick-renderer,1.3.1,-,2012-04-29
+nifty-slick-renderer,1.3.1,+,2012-04-27
+lwjgl,2.8.2,+,2012-04-26
+org.blockout.common,1.0.0-SNAPSHOT,-,2012-04-26
+nifty-default-controls,1.3.1,-,2012-04-29
+nifty-default-controls,1.3.1,+,2012-04-27
+slick,250,-,2012-04-27
+nifty,1.3.1,-,2012-04-29
+nifty,1.3.1,+,2012-04-27
+nifty,1.3.1,+,2012-04-29

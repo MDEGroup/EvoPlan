@@ -1,0 +1,10 @@
+library,version,sign,date
+itext-pdfa,5.5.7,-,2016-11-28
+itext-pdfa,5.5.7,+,2016-11-28
+itext-pdfa,5.5.7,+,2015-09-02
+itextpdf,5.5.7,+,2016-11-28
+itextpdf,5.4.1,-,2015-01-20
+itextpdf,5.5.7,-,2016-11-28
+itextpdf,5.5.7-SNAPSHOT,-,2015-09-01
+itextpdf,5.4.1,+,2014-08-30
+itextpdf,5.5.1,-,2014-06-10

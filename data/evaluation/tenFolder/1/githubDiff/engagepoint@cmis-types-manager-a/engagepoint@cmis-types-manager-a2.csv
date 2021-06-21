@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,3.8.1,-,2013-11-25
+primefaces,4.0,-,2013-11-19
+ui-bootstrap-components,2.0.7,+,2013-11-19

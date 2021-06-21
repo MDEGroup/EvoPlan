@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.10,-,2013-10-03
+junit,4.11,+,2013-10-03
+junit,4.10,+,2012-04-20
+junit,4.7,-,2012-04-20
+commons-lang3,3.3.2,-,2018-09-21
+commons-lang3,3.8.1,+,2018-09-21
+commons-lang3,3.3.2,+,2015-08-26

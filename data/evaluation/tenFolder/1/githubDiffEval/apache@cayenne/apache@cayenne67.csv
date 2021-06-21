@@ -1,0 +1,8 @@
+library,version,sign,date
+maven-plugin-api,3.3.9,-,2017-06-05
+cayenne-server,4.0.RC1,+,2017-10-06
+cayenne-server,4.1.B2,-,2019-05-21
+cayenne-server,4.0.RC1,-,2018-07-11
+cayenne-server,4.1.M2,-,2018-12-26
+cayenne-server,{version},+,2017-10-06
+maven-artifact,3.3.9,-,2017-06-05

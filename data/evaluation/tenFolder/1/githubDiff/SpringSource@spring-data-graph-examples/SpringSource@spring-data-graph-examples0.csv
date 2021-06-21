@@ -1,0 +1,15 @@
+library,version,sign,date
+jstl,1.2,-,2010-12-23
+junit,4.8.1,-,2010-12-23
+junit,4.8.1,+,2010-12-23
+hibernate-validator,4.1.0.Final,-,2010-12-23
+tiles-core,2.2.1,-,2010-12-23
+validation-api,1.0.0.GA,-,2010-12-23
+el-api,1.0,-,2010-12-23
+joda-time,1.6,-,2010-12-23
+commons-digester,2.0,-,2010-12-23
+commons-fileupload,1.2.1,-,2010-12-23
+tiles-jsp,2.2.1,-,2010-12-23
+flexjson,2.0,-,2010-12-23
+servlet-api,2.5,-,2010-12-23
+log4j,1.2.16,-,2010-12-23

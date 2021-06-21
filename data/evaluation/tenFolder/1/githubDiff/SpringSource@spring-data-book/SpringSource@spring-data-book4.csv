@@ -1,0 +1,13 @@
+library,version,sign,date
+neo4j-cypher-dsl,1.8,+,2012-10-10
+neo4j-cypher-dsl,1.8.M07,-,2012-09-12
+neo4j-cypher-dsl,1.8.M07,+,2012-08-21
+lucene-queries,3.5.0,+,2012-08-21
+validation-api,1.0.0.GA,+,2012-10-30
+validation-api,1.0.0.GA,+,2012-07-25
+spring-tx,3.1.2.RELEASE,-,2012-08-24
+spring-tx,3.1.2.RELEASE,+,2012-07-25
+spring-data-neo4j,2.1.0.RELEASE,-,2012-10-30
+spring-data-neo4j,2.1.0.BUILD-SNAPSHOT,-,2012-08-21
+spring-data-neo4j,2.1.0.RC1,-,2012-07-25
+spring-data-neo4j,2.1.0.RC3,-,2012-09-12

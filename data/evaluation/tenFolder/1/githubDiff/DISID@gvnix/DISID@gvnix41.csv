@@ -1,0 +1,14 @@
+library,version,sign,date
+javax.servlet.jsp.jstl-api,1.2.1,+,2015-07-01
+hibernate-jpa-2.1-api,1.0.0.Final,+,2015-08-21
+hibernate-jpa-2.1-api,1.0.0.Final,+,2015-05-18
+hibernate-jpa-2.1-api,1.0.0.Final,+,2015-04-17
+javax.servlet.jsp-api,2.2.1,+,2015-07-01
+commons-lang3,3.3.2,+,2015-04-14
+commons-lang3,3.1,+,2015-04-30
+commons-lang3,3.3.2,-,2015-04-14
+commons-lang3,3.3.2,-,2015-04-16
+servlet-api,2.5,-,2015-04-14
+servlet-api,2.5,+,2015-07-01
+servlet-api,2.5,+,2015-04-14
+servlet-api,2.5,+,2015-05-18

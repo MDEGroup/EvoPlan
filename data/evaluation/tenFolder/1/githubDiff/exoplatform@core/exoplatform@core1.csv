@@ -1,0 +1,16 @@
+library,version,sign,date
+groovy-all,1.8.9,+,2014-01-23
+groovy-all,1.8.9,-,2017-02-09
+groovy-all,1.6.5,-,2011-01-25
+groovy-all,1.6.5,+,2010-04-01
+groovy-all,1.7.6,-,2013-10-30
+groovy-all,1.8.9,-,2014-02-27
+groovy-all,1.6.5,-,2009-11-16
+groovy-all,1.6.5,-,2009-11-18
+groovy-all,1.5.7,-,2009-10-26
+groovy-all,1.8.9,-,2014-07-05
+groovy-all,1.6.5,+,2009-11-18
+groovy-all,1.6.5,+,2009-10-26
+groovy-all,1.8.9,+,2014-05-21
+groovy-all,1.6.5,-,2010-04-01
+groovy-all,1.6.5,+,2009-11-16

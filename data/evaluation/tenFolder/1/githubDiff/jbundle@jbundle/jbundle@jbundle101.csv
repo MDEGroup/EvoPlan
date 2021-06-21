@@ -1,0 +1,6 @@
+library,version,sign,date
+org.jbundle.base.message.trx,1.0.1-SNAPSHOT,+,2012-01-26
+org.jbundle.base.message.trx,1.0.10-SNAPSHOT,-,2020-01-23
+org.jbundle.base.message.trx,0.8.0-SNAPSHOT,-,2012-01-26
+org.jbundle.base.message.trx,1.0.10,-,2020-01-23
+org.jbundle.base.message.trx,1.0.1-SNAPSHOT,-,2013-01-15

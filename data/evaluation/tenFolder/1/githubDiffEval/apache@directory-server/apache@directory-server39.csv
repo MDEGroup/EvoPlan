@@ -1,0 +1,6 @@
+library,version,sign,date
+ldapsdk,4.1,-,2007-04-01
+ldapsdk,4.1,-,2009-08-18
+ldapsdk,4.1,+,2007-04-01
+ldapsdk,4.1,+,2009-08-18
+ldapsdk,4.1,+,2006-07-31

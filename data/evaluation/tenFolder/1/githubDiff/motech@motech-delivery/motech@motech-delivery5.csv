@@ -1,0 +1,11 @@
+library,version,sign,date
+spring-test,3.0.5.RELEASE,+,2012-05-29
+spring-test,3.0.5.RELEASE,-,2012-10-29
+spring-webmvc,3.0.5.RELEASE,-,2012-10-29
+xerces,2.4.0,+,2012-10-29
+ant,1.8.4,+,2012-10-29
+quartz,1.8.5,-,2012-06-13
+spring-context-support,3.0.5.RELEASE,-,2012-10-29
+spring-context-support,3.0.5.RELEASE,+,2012-06-12
+spring-context,3.0.5.RELEASE,-,2012-10-29
+spring-context,3.0.5.RELEASE,+,2012-06-12

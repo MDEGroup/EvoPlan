@@ -1,0 +1,8 @@
+library,version,sign,date
+hessian,4.0.38,-,2015-01-29
+hessian,4.0.33,-,2015-01-29
+commons-codec,1.9,-,2015-01-29
+hibernate-validator,5.2.0.Alpha1,-,2015-01-29
+hibernate-entitymanager,4.3.7.Final,-,2015-01-29
+openpojo,0.6.2,-,2015-01-29
+burlap,2.1.7,-,2015-01-29

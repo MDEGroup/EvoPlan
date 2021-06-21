@@ -1,0 +1,79 @@
+library,version,sign,date
+spnt-extract,0.2,-,2010-10-28
+spnt-extract,0.1,+,2010-02-12
+spnt-extract,0.0.1-SNAPSHOT,+,2010-02-12
+spnt-extract,0.0.1-SNAPSHOT,+,2009-09-15
+spnt-extract,0.0.1-SNAPSHOT,-,2010-02-12
+spnt-extract,0.0.1-SNAPSHOT,-,2009-02-12
+spnt-extract,0.3-SNAPSHOT,-,2011-08-23
+spnt-extract,0.2-SNAPSHOT,-,2010-03-08
+spnt-extract,0.2,+,2010-03-08
+spnt-extract,0.1,-,2010-02-12
+spnt-extract,0.3-SNAPSHOT,+,2012-04-15
+spnt-extract,0.3-SNAPSHOT,-,2012-04-15
+spnt-extract,0.3-SNAPSHOT,+,2011-08-23
+spnt-extract,0.3-SNAPSHOT,-,2010-11-25
+spnt-extract,0.0.1-SNAPSHOT,+,2009-02-12
+spnt-extract,0.0.1-SNAPSHOT,-,2010-01-14
+spnt-extract,0.1,+,2010-01-14
+spnt-chart,0.2,-,2010-10-28
+spnt-chart,0.1,+,2010-02-12
+spnt-chart,0.0.1-SNAPSHOT,+,2010-02-12
+spnt-chart,0.0.1-SNAPSHOT,-,2010-02-12
+spnt-chart,0.3-SNAPSHOT,-,2011-08-23
+spnt-chart,0.2-SNAPSHOT,-,2010-03-08
+spnt-chart,0.2,+,2010-03-08
+spnt-chart,0.1,-,2010-02-12
+spnt-chart,0.3-SNAPSHOT,+,2012-04-15
+spnt-chart,0.3-SNAPSHOT,-,2012-04-15
+spnt-chart,0.3-SNAPSHOT,+,2011-08-23
+spnt-chart,0.0.1-SNAPSHOT,+,2009-02-12
+spnt-chart,0.0.1-SNAPSHOT,-,2010-01-14
+spnt-chart,0.1,+,2010-01-14
+mvel2,2.0.19,+,2010-11-25
+jlayer,1.0.1,-,2010-03-08
+jlayer,1.0,-,2010-03-07
+jlayer,1.0,+,2010-02-12
+jlayer,1.0.1,+,2010-03-08
+xstream,1.2.2,+,2009-02-12
+xstream,1.2.2,-,2010-03-08
+xstream,1.2.2,+,2010-03-08
+xstream,1.3.1,-,2012-04-15
+xstream,1.2.2,-,2011-02-14
+xstream,1.2.2,+,2009-09-15
+xstream,1.2.2,-,2009-09-15
+xstream,1.4.2,+,2012-04-15
+spnt-mpeg7,0.2,-,2010-10-28
+spnt-mpeg7,0.1,+,2010-02-12
+spnt-mpeg7,0.0.1-SNAPSHOT,+,2010-02-12
+spnt-mpeg7,0.0.1-SNAPSHOT,-,2010-02-12
+spnt-mpeg7,0.3-SNAPSHOT,-,2011-08-23
+spnt-mpeg7,0.2-SNAPSHOT,-,2010-03-08
+spnt-mpeg7,0.2,+,2010-03-08
+spnt-mpeg7,0.1,-,2010-02-12
+spnt-mpeg7,0.3-SNAPSHOT,+,2012-04-15
+spnt-mpeg7,0.3-SNAPSHOT,-,2012-04-15
+spnt-mpeg7,0.3-SNAPSHOT,+,2011-08-23
+spnt-mpeg7,0.0.1-SNAPSHOT,+,2009-02-12
+spnt-mpeg7,0.0.1-SNAPSHOT,-,2010-01-14
+spnt-mpeg7,0.1,+,2010-01-14
+tritonus_share,0.3.6,+,2010-03-08
+tritonus_share,1.0,-,2010-03-07
+tritonus_share,1.0,+,2010-02-12
+tritonus_share,0.3.6,-,2010-03-08
+spnt-segment,0.0.1-SNAPSHOT	,-,2010-01-14
+spnt-segment,0.1	,+,2010-01-14
+spnt-segment,0.1	,+,2010-02-12
+spnt-segment,0.0.1-SNAPSHOT	,-,2010-02-12
+spnt-segment,0.0.1-SNAPSHOT	,+,2010-02-12
+spnt-segment,0.3-SNAPSHOT	,-,2011-08-23
+spnt-segment,0.2	,-,2010-10-28
+spnt-segment,0.2-SNAPSHOT	,-,2010-03-08
+spnt-segment,0.3-SNAPSHOT,+,2012-04-15
+spnt-segment,0.3-SNAPSHOT,-,2012-04-15
+spnt-segment,0.1	,-,2010-02-12
+spnt-segment,0.3-SNAPSHOT,+,2011-08-23
+spnt-segment,0.2	,+,2010-03-08
+mp3spi,1.9.4,+,2010-02-12
+mp3spi,1.9.4,+,2010-03-08
+mp3spi,1.9.4,-,2010-03-08

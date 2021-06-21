@@ -1,0 +1,7 @@
+library,version,sign,date
+jetty-all-server,[8.1,9.0),+,2013-03-30
+gson,1.7.1,+,2013-02-18
+maven-artifact,3.0.3,+,2013-02-18
+jmdns,3.4.0,-,2013-03-30
+jmdns,3.2.1,-,2010-12-02
+jmdns,3.2.2,-,2010-12-25

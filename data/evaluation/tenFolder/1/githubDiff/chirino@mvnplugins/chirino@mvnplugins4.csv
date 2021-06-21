@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.8.1,+,2010-07-22
+maven-plugin-api,2.2.1,+,2010-07-22
+maven-plugin-api,2.0,+,2010-07-22
+plexus-container-default,1.0-alpha-9,+,2010-07-22
+plexus-utils,1.5.15,+,2010-08-05
+maven-project,2.2.1,+,2010-07-22

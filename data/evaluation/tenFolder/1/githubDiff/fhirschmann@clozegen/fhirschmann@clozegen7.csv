@@ -1,0 +1,10 @@
+library,version,sign,date
+commons-cli,1.2,+,2012-05-21
+clozegen-plugins-all,1.0-SNAPSHOT,-,2012-07-03
+clozegen-plugins-all,1.0-SNAPSHOT,+,2012-06-28
+clozegen-lib,1.0-SNAPSHOT,+,2012-06-11
+clozegen-lib,1.0-SNAPSHOT,+,2012-05-21
+clozegen-lib,1.0-SNAPSHOT,+,2012-07-03
+clozegen-lib,1.0-SNAPSHOT,-,2012-07-03
+clozegen-lib,1.0-SNAPSHOT,+,2012-06-28
+clozegen-lib,1.0-SNAPSHOT,-,2012-06-07

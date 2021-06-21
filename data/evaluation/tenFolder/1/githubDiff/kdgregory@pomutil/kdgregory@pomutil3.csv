@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.10,-,2012-09-02
+junit,4.10,+,2013-01-04
+junit,4.10,+,2012-09-02
+junit,4.11,+,2013-01-04
+junit,4.6,+,2013-01-04
+junit,4.10,-,2013-01-04
+commons-codec,1.6,+,2012-09-02
+bcelx,1.0-SNAPSHOT,-,2012-09-05
+spring-core,3.2.6.RELEASE,+,2013-01-04
+commons-logging,1.1.1,+,2012-09-03
+commons-io,2.4,+,2013-01-04
+commons-io,2.4,+,2012-09-02

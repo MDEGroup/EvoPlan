@@ -1,0 +1,8 @@
+library,version,sign,date
+common,0.1-SNAPSHOT,+,2014-05-11
+common,0.1-SNAPSHOT,+,2014-05-12
+jetty,0.1-SNAPSHOT,+,2014-05-11
+jetty,0.1-SNAPSHOT,+,2014-05-12
+jetty,7.6.3.v20120416,-,2014-05-11
+httpclient,0.1-SNAPSHOT,+,2014-05-12
+httpclient,4.3.3,-,2014-05-11

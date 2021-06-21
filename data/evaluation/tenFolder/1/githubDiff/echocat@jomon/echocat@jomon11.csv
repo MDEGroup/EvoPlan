@@ -1,0 +1,5 @@
+library,version,sign,date
+common,-- version --,-,2013-08-31
+testing,-- version --,-,2013-08-31
+commons-lang3,3.1,-,2015-04-20
+commons-io,2.1,-,2015-04-20

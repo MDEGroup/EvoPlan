@@ -1,0 +1,5 @@
+library,version,sign,date
+craftbukkit,1.5.1-R0.1-SNAPSHOT,+,2013-03-15
+craftbukkit,1.5.2-R1.0,+,2013-03-15
+craftbukkit,1.4.7-R0.1,-,2013-03-15
+tagapi-api,API,+,2013-03-15

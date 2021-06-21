@@ -1,0 +1,4 @@
+library,version,sign,date
+joda-time,2.1,+,2012-10-19
+guava,11.0.2,+,2012-10-19
+log4j,1.2.16,+,2012-10-19

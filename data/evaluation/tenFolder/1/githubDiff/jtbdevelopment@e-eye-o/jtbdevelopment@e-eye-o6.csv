@@ -1,0 +1,17 @@
+library,version,sign,date
+Interfaces,1.0-SNAPSHOT,+,2014-06-07
+Interfaces,1.0-SNAPSHOT,+,2014-06-09
+Interfaces,1.0-SNAPSHOT,-,2014-06-09
+javax.servlet-api,3.1.0,-,2014-06-09
+javax.servlet-api,3.1.0,+,2014-06-07
+javax.servlet-api,3.1.0,+,2014-06-09
+javax.servlet-api,3.1.0,-,2014-06-07
+jersey-server,1.18,-,2014-06-09
+jersey-spring,1.18,-,2014-06-07
+jersey-spring,1.18,-,2014-06-09
+jersey-spring,1.18,+,2014-06-07
+spring-security-config,3.2.0.RELEASE,-,2014-06-09
+spring-security-config,3.2.0.RELEASE,+,2014-06-09
+spring-security-web,3.2.0.RELEASE,-,2014-06-09
+spring-security-web,3.2.0.RELEASE,+,2014-06-09
+spring-security-web,3.2.0.RELEASE,+,2014-06-07

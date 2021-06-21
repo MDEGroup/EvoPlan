@@ -1,0 +1,16 @@
+library,version,sign,date
+org.eclipse.jgit,2.3.1.1.0-UNOFFICIAL-ROBERTO-RELEASE,-,2013-03-11
+org.eclipse.jgit,2.0.0.0.1-UNOFFICIAL-ROBERTO-RELEASE,-,2013-03-02
+org.eclipse.jgit,1.2.0.0.2-UNOFFICIAL-ROBERTO-RELEASE,-,2012-06-13
+org.eclipse.jgit,2.0.0.0.1-UNOFFICIAL-ROBERTO-RELEASE,-,2013-02-01
+org.eclipse.jgit,1.0.99.0.7-UNOFFICIAL-ROBERTO-RELEASE,-,2011-09-03
+org.eclipse.jgit,0.11.99.4-UNOFFICIAL-ROBERTO-RELEASE,-,2011-04-15
+org.eclipse.jgit,1.0.99.0.2-UNOFFICIAL-ROBERTO-RELEASE,-,2011-08-22
+org.eclipse.jgit,1.0.99.0.1-UNOFFICIAL-ROBERTO-RELEASE,-,2011-07-29
+org.eclipse.jgit,2.2.0.0.2-UNOFFICIAL-ROBERTO-RELEASE,-,2013-02-01
+org.eclipse.jgit,1.0.0.0.1-UNOFFICIAL-ROBERTO-RELEASE,-,2011-07-05
+org.eclipse.jgit,0.9.9.99.2-UNOFFICIAL-ROBERTO-RELEASE,-,2011-06-25
+madgag-hamcrest-matchers,0.3,-,2012-03-05
+madgag-hamcrest-matchers,0.3,-,2013-12-22
+madgag-hamcrest-matchers,0.3,+,2012-03-05
+madgag-hamcrest-matchers,0.5,-,2014-08-26

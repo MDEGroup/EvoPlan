@@ -1,0 +1,10 @@
+library,version,sign,date
+dempsy-serialization.java,2.0.1-SNAPSHOT,-,2017-04-28
+dempsy-cluster.zookeeper,2.0.1-SNAPSHOT,-,2017-04-28
+metrics-ganglia,3.2.6,+,2019-11-15
+dempsy-serialization.jackson,2.0.1-SNAPSHOT,-,2017-04-28
+dempsy-cluster.local,2.0.1-SNAPSHOT,-,2017-04-28
+quartz,2.0.1,-,2017-05-14
+quartz,2.3.0,+,2017-05-14
+dempsy-serialization.kryo,2.0.1-SNAPSHOT,-,2017-04-28
+dempsy-test-utils,2.0.1-SNAPSHOT,-,2017-04-28

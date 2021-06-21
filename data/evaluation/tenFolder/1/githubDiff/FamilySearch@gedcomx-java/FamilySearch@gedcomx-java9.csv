@@ -1,0 +1,7 @@
+library,version,sign,date
+jena-arq,3.1.0,+,2016-10-07
+jena-arq,3.1.0,+,2018-12-27
+jena-arq,3.1.0,-,2018-12-27
+handy-uri-templates,2.0.1,-,2016-10-07
+handy-uri-templates,2.1.6,+,2016-10-07
+handy-uri-templates,2.1.6,-,2018-12-27

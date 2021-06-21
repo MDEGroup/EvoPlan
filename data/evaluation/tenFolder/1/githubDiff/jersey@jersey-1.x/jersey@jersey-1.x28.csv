@@ -1,0 +1,6 @@
+library,version,sign,date
+grizzly-servlet-webserver,1.9.45,+,2012-06-28
+grizzly-servlet-webserver,1.9.45,-,2012-06-28
+jersey-core,1.14-SNAPSHOT,-,2012-06-28
+jersey-core,1.20-SNAPSHOT,-,2016-03-11
+jersey-core,1.19-SNAPSHOT,-,2015-02-05

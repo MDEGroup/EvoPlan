@@ -1,0 +1,4 @@
+library,version,sign,date
+serialization-engine-jackson,0.3.5,-,2013-08-26
+bristleback-core,0.3.5,-,2013-08-26
+action-validation,0.3.5,-,2013-08-26

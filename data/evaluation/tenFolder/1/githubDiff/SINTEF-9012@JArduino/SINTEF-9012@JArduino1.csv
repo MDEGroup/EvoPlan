@@ -1,0 +1,14 @@
+library,version,sign,date
+org.jivesoftware.smackx-debug,3.2.2,+,2011-07-01
+org.jivesoftware.smack,3.2.2,+,2011-07-01
+jcommon,1.0.15,+,2011-07-01
+org.jivesoftware.smackx-jingle,3.2.2,+,2011-07-01
+org.kevoree.extra.osgi.rxtx,2.2.0,+,2011-05-10
+org.kevoree.extra.osgi.rxtx,2.2.0,+,2013-04-23
+org.kevoree.extra.osgi.rxtx,2.2.0,-,2013-01-18
+org.kevoree.extra.osgi.rxtx,2.2.0,+,2013-01-18
+org.kevoree.extra.osgi.rxtx,2.2.0,+,2011-05-04
+org.jivesoftware.smackx,3.2.2,+,2011-07-01
+jfreechart,1.0.13,-,2011-07-01
+jfreechart,1.0.13,+,2011-07-01
+jfreechart,1.0.13,+,2011-05-31

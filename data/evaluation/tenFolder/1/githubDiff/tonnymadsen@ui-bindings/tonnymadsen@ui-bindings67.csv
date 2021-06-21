@@ -1,0 +1,3 @@
+library,version,sign,date
+${project.artifactId}.rap,5.0.1-SNAPSHOT,-,2013-05-16
+${project.artifactId}.rcp,5.0.1-SNAPSHOT,-,2013-05-16

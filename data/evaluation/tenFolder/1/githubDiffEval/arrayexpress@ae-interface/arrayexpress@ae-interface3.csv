@@ -1,0 +1,5 @@
+library,version,sign,date
+quartz,2.1.1,-,2012-06-22
+quartz,2.1.1,+,2012-06-22
+quartz,2.1.1,-,2012-06-24
+lucene-queryparser,5.0.0,+,2014-12-06

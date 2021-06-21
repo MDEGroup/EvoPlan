@@ -1,0 +1,8 @@
+library,version,sign,date
+spark-core,1.0-SNAPSHOT,-,2012-03-13
+spark-core,1.0-SNAPSHOT,+,2012-02-14
+spark-core,1.0-SNAPSHOT,+,2012-03-13
+spark-core,1.0-SNAPSHOT,-,2012-02-14
+log4j,1.2.16,+,2012-02-14
+log4j,1.2.16,-,2012-02-14
+log4j,1.2.16,+,2012-02-22

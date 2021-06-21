@@ -1,0 +1,7 @@
+library,version,sign,date
+jboss-ejb3-ext-api,1.0.0,-,2012-04-18
+jboss-ejb3-ext-api,2.0.0,+,2012-04-18
+jboss-ejb-api_3.1_spec,1.0.2.Final,+,2012-04-18
+jboss-ejb-api_3.1_spec,1.0.1.Final,-,2012-05-16
+log4j-core,2.13.0,+,2019-12-04
+log4j-api,2.13.0,+,2019-12-04

@@ -1,0 +1,6 @@
+library,version,sign,date
+maven-plugin-api,3.0.3,+,2011-10-13
+carrot-osgi-feature-jackson,1.0.0-SNAPSHOT,+,2011-05-10
+jackson-mapper-asl,1.8.6,+,2011-05-31
+jackson-mapper-asl,1.8.6,-,2011-10-13
+jackson-mapper-asl,1.9.7,+,2012-04-13

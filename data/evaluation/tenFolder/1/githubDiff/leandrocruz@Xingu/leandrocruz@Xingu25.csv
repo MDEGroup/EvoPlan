@@ -1,0 +1,9 @@
+library,version,sign,date
+aws-java-sdk,1.1.5,-,2016-09-26
+aws-java-sdk,1.11.37,-,2016-09-26
+aws-java-sdk,1.6.2,-,2016-09-26
+aws-java-sdk,1.6.2,-,2016-12-05
+aws-java-sdk,1.6.2,+,2014-11-19
+aws-java-sdk,1.6.2,-,2017-05-10
+aws-java-sdk,1.1.5,-,2016-12-05
+aws-java-sdk,1.1.5,-,2017-05-10

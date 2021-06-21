@@ -1,0 +1,10 @@
+library,version,sign,date
+akka-actor,1.2,-,2011-11-08
+slf4j-api,1.6.2,-,2012-03-30
+slf4j-api,1.6.4,+,2012-03-30
+slf4j-api,1.6.3,+,2011-10-17
+slf4j-api,1.6.2,+,2011-11-08
+slf4j-api,1.6.2,-,2011-11-08
+scala-library,2.9.2,+,2012-03-30
+scala-library,2.9.1,+,2011-10-02
+scala-library,2.9.0-1,-,2011-10-02

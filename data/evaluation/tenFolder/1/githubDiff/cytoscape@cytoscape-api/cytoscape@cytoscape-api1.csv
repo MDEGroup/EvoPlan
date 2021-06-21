@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.4,+,2011-08-06
+junit,4.8.1,+,2013-12-11
+junit,4.4,-,2011-08-08
+org.osgi.util.tracker,1.5.1,+,2017-11-06

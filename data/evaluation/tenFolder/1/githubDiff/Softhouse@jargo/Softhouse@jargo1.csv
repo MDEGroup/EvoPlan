@@ -1,0 +1,17 @@
+library,version,sign,date
+guava-testlib,14.0.1,-,2015-11-27
+guava-testlib,13.0.1,-,2013-03-17
+guava-testlib,13.0.1,-,2013-03-18
+guava-testlib,14.0.1,+,2013-04-28
+guava-testlib,13.0.1,+,2013-03-17
+fest-assert,1.4,+,2013-04-04
+fest-assert,1.4,-,2013-03-17
+fest-assert,1.4,-,2013-03-26
+fest-assert,1.4,+,2013-03-17
+guava,20.0,+,2015-11-27
+guava,14.0.1,-,2015-11-27
+guava,13.0.1,-,2013-03-17
+guava,20.0,-,2018-04-04
+guava,13.0.1,-,2013-03-18
+guava,13.0.1,+,2013-03-17
+guava,24.1-jre,+,2018-04-04

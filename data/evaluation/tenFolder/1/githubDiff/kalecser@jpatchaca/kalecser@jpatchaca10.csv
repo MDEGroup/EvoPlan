@@ -1,0 +1,15 @@
+library,version,sign,date
+jpatchaca-test-operators,1.0-SNAPSHOT,-,2009-04-02
+junit,4.8.1,+,2011-10-20
+junit,4.5,-,2009-11-11
+junit,4.5,-,2009-04-02
+junit,4.5,+,2009-11-11
+junit,4.5,-,2011-10-20
+junit,4.5,+,2009-04-02
+jpatchaca-ui,1.0-SNAPSHOT,-,2009-04-02
+jpatchaca-model,1.0-SNAPSHOT,-,2009-04-02
+jemmy,2.2.7.5,+,2009-11-11
+jemmy,2.2.7.5,-,2009-11-11
+jemmy,2.2.7.5,-,2011-10-20
+jemmy,2.2.7.5,-,2009-04-02
+jemmy,2.2.7.5,+,2009-04-02

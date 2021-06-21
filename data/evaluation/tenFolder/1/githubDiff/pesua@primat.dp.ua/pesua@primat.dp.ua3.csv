@@ -1,0 +1,12 @@
+library,version,sign,date
+easymock,3.0,+,2010-07-23
+junit,4.4,-,2010-07-26
+junit,4.7,-,2010-07-26
+junit,3.8.2,+,2010-07-02
+slf4j-log4j12,1.4.2,+,2010-07-02
+commons-collections,3.2.1,+,2010-07-18
+portlet-api,2.0,-,2010-07-02
+portlet-api,2.0,+,2010-07-02
+servlet-api,2.4,+,2010-07-01
+log4j,1.2.14,+,2010-07-02
+wicket,1.4.9,+,2010-07-02

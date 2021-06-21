@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.8.1,-,2012-06-14
+junit,4.10,-,2013-03-06
+junit,4.10,-,2012-06-15
+junit,4.10,+,2012-06-15
+protobuf-java,2.5.0,+,2013-06-17
+commons-beanutils,1.8.3,+,2012-06-16
+jcommander,1.29,+,2012-10-16
+gson,2.5,+,2015-12-04
+commons-io,2.3,+,2012-06-14

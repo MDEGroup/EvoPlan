@@ -1,0 +1,5 @@
+library,version,sign,date
+derby,10.10.1.1,-,2016-04-22
+derby,10.11.1.1,+,2016-04-22
+falcon-common,0.10-SNAPSHOT,-,2016-04-22
+falcon-common,0.10-SNAPSHOT,+,2016-04-13

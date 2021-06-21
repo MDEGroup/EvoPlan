@@ -1,0 +1,13 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2015-12-09
+slf4j-api,1.6.4,+,2015-03-07
+slf4j-api,1.7.13,-,2015-12-09
+slf4j-api,1.7.13,+,2015-12-09
+junit,4.7,-,2015-03-07
+junit,4.12,+,2015-12-09
+junit,4.12,+,2015-03-07
+junit,4.12,-,2015-12-09
+jcl-over-slf4j,1.7.13,-,2015-12-09
+jcl-over-slf4j,1.7.13,+,2015-12-09
+mockito-core,2.0.31-beta,-,2015-12-09
+mockito-core,2.0.31-beta,+,2015-12-09

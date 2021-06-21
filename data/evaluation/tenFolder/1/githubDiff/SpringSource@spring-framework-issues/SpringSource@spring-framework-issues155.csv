@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.8,+,2011-11-24
+junit,4.8,-,2011-11-24
+spring-webmvc,3.1.0.BUILD-SNAPSHOT,-,2011-11-24
+spring-webmvc,3.1.0.BUILD-SNAPSHOT,+,2011-11-24
+servlet-api,2.5,+,2011-11-24
+servlet-api,2.5,-,2011-11-24
+log4j,1.2.16,-,2011-11-24
+log4j,1.2.16,+,2011-11-24
+spring-context,3.1.0.BUILD-SNAPSHOT,-,2011-11-24
+spring-context,3.1.0.BUILD-SNAPSHOT,+,2011-11-24

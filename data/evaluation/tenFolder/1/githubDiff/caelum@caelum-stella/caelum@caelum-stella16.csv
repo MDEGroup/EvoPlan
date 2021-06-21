@@ -1,0 +1,13 @@
+library,version,sign,date
+jsp-api,2.1,+,2011-05-10
+jsp-api,2.0,-,2008-02-18
+jsp-api,2.1,-,2008-03-04
+jsp-api,2.1,+,2008-02-18
+jsp-api,2.1,+,2008-03-04
+caelum-stella-faces,0.1-SNAPSHOT,-,2008-03-04
+caelum-stella-faces,0.1-SNAPSHOT,+,2008-02-18
+servlet-api,2.5,+,2008-02-18
+servlet-api,2.5,+,2011-05-10
+servlet-api,2.4,+,2009-01-15
+servlet-api,2.4,-,2013-04-30
+servlet-api,2.5,-,2011-05-10

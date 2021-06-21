@@ -1,0 +1,12 @@
+library,version,sign,date
+mysql-connector-java,5.1.6,-,2013-05-15
+mysql-connector-java,5.1.6,+,2013-05-15
+mysql-connector-java,5.1.6,+,2013-05-04
+postgresql,9.1-901.jdbc4,+,2013-09-11
+postgresql,9.1-901.jdbc4,+,2013-05-15
+postgresql,9.1-901.jdbc4,-,2013-05-15
+monetdb-jdbc,2.11,+,2014-07-15
+monetdb-jdbc,2.11,+,2013-09-11
+commons-io,2.4,+,2014-08-15
+log4j,1.2.17,+,2014-08-15
+log4j,1.2.17,+,2013-09-11

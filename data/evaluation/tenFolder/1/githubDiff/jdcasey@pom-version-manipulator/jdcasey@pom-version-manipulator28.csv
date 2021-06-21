@@ -1,0 +1,7 @@
+library,version,sign,date
+xbean-reflect,3.7,+,2011-01-31
+xbean-reflect,3.7-redhat-1,+,2011-01-31
+log4j,1.2.14-redhat-1,+,2011-01-31
+log4j,1.2.14,+,2011-01-31
+log4j,1.2.14-redhat-1,-,2011-01-31
+log4j,1.2.12,+,2011-01-31

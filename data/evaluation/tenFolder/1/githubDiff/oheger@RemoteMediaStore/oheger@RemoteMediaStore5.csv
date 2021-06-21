@@ -1,0 +1,9 @@
+library,version,sign,date
+easymock,3.0,-,2011-09-05
+commons-configuration,1.9,+,2011-09-05
+junit,4.8.2,-,2011-09-05
+jl,1.0,+,2011-09-05
+tritonus_share,1.0,+,2011-09-05
+commons-lang3,3.1,+,2011-09-05
+commons-lang3,3.0,-,2011-09-05
+mp3spi,1.9.4,+,2011-09-05

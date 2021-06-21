@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-api,1.7.2,+,2012-10-14
+slf4j-api,1.7.2,+,2013-01-02
+hibernate-core,4.0.1.Final,+,2012-10-14
+config,0.0.1-SNAPSHOT,+,2012-10-14

@@ -1,0 +1,8 @@
+library,version,sign,date
+nephele-server,0.1,-,2011-01-21
+nephele-server,0.2,-,2011-09-05
+guava,r09,+,2012-03-08
+pact-common,0.2,+,2011-11-20
+pact-common,0.1,-,2011-01-21
+pact-common,0.2,-,2011-09-05
+pact-common,0.2,-,2012-03-08

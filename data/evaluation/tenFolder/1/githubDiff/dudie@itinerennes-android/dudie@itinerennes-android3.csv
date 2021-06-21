@@ -1,0 +1,16 @@
+library,version,sign,date
+android-test,2.3.3,+,2012-02-18
+android-test,2.3.3,-,2012-02-23
+android,2.3.3,+,2012-02-18
+android,2.3.3,-,2012-02-23
+nominatim-api,1.0.1,-,2012-02-26
+nominatim-api,1.0.1,-,2012-02-23
+nominatim-api,1.0.1,+,2012-02-18
+nominatim-api,1.1-SNAPSHOT,-,2011-12-06
+rennes-data-api,1.0.1,-,2012-02-26
+rennes-data-api,1.0.1,-,2012-02-23
+rennes-data-api,1.0.1,+,2012-02-18
+rennes-data-api,1.1-SNAPSHOT,-,2011-12-06
+acra,4.2.3,-,2012-02-23
+acra,4.2.3,+,2012-02-18
+acra,4.2.3,-,2012-02-26

@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.12,+,2014-09-23
+junit,4.12,+,2018-10-29
+junit,4.5,-,2014-09-23

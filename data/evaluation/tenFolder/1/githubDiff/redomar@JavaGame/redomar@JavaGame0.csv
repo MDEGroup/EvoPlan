@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-text,+,+,2019-02-17
+junit,4.12,-,2019-02-17
+commons-lang3,3.+,+,2019-02-17
+commons-lang3,3.4,-,2019-02-17

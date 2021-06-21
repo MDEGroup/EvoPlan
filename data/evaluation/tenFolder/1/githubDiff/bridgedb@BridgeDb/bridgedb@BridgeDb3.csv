@@ -1,0 +1,7 @@
+library,version,sign,date
+junit-jupiter-engine,5.2.0,+,2018-10-17
+junit-vintage-engine,5.2.0,+,2018-10-17
+junit-platform-surefire-provider,1.2.0,+,2018-10-17
+junit-jupiter-api,RELEASE,+,2018-10-17
+junit-jupiter-api,5.5.0-RC1,+,2018-10-17
+junit-jupiter-api,5.2.0,+,2018-10-17

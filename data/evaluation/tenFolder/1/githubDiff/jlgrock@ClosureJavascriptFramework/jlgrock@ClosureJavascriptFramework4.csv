@@ -1,0 +1,5 @@
+library,version,sign,date
+maven-assembly-plugin,2.2.1,-,2012-05-22
+maven-assembly-plugin,2.2.1,+,2012-05-22
+log4j,1.2.16,-,2012-05-22
+log4j,1.2.16,+,2012-05-22

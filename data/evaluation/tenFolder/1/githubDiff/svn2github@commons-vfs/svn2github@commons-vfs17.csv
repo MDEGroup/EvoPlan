@@ -1,0 +1,13 @@
+library,version,sign,date
+maven-scm-api,1.4,-,2011-08-14
+maven-scm-api,1.4,+,2010-12-21
+maven-scm-api,1.4,-,2011-08-16
+maven-scm-api,1.4,+,2011-08-18
+maven-scm-api,1.4,+,2011-08-14
+maven-scm-api,1.4,+,2011-08-16
+maven-scm-provider-svnexe,1.4,-,2011-08-14
+maven-scm-provider-svnexe,1.4,+,2010-12-21
+maven-scm-provider-svnexe,1.4,-,2011-08-16
+maven-scm-provider-svnexe,1.4,+,2011-08-18
+maven-scm-provider-svnexe,1.4,+,2011-08-14
+maven-scm-provider-svnexe,1.4,+,2011-08-16

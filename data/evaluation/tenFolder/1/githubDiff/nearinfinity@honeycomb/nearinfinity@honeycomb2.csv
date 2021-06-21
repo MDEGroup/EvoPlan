@@ -1,0 +1,17 @@
+library,version,sign,date
+honeycomb,0.1,-,2013-05-15
+honeycomb,0.1-SNAPSHOT,+,2013-05-15
+honeycomb,0.1-SNAPSHOT,-,2013-05-20
+honeycomb,0.1-SNAPSHOT,-,2013-05-22
+honeycomb,0.1-SNAPSHOT,-,2013-05-21
+honeycomb,0.1-SNAPSHOT,+,2013-05-21
+honeycomb,0.1-SNAPSHOT,+,2013-05-20
+honeycomb-memory,0.1-SNAPSHOT,-,2013-05-22
+honeycomb-memory,0.1-SNAPSHOT,+,2013-05-15
+honeycomb-hbase,0.1-SNAPSHOT,-,2013-05-20
+honeycomb-hbase,0.1-SNAPSHOT,-,2013-05-22
+honeycomb-hbase,0.1-SNAPSHOT,+,2013-05-15
+honeycomb-hbase,0.1-SNAPSHOT,+,2013-05-20
+guava,14.0.1,+,2013-05-15
+guava,14.0.1,+,2013-05-21
+guava,14.0.1,-,2013-05-21

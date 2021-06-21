@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.7,+,2013-10-12
+commons-httpclient,3.1,-,2013-05-31
+jersey-apache-client,1.16,-,2013-05-31
+jersey-json,1.12,-,2013-05-31
+jersey-client,1.12,-,2013-05-31

@@ -1,0 +1,5 @@
+library,version,sign,date
+validation-api,2.0.1.Final,-,2019-11-25
+validation-api,2.0.1.Final,+,2019-11-25
+auto-service,1.0-rc4,-,2019-03-18
+auto-service,1.0-rc4,+,2018-05-17

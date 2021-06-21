@@ -1,0 +1,17 @@
+library,version,sign,date
+slf4j-api,1.6.6,+,2012-08-13
+hibernate-jpa-2.0-api,1.0.1.Final,-,2012-09-29
+hibernate-jpa-2.0-api,1.0.1.Final,+,2012-09-25
+junit,4.9,-,2012-05-02
+junit,4.9,+,2012-05-02
+slf4j-log4j12,1.6.6,+,2012-08-13
+postgresql,9.0-801.jdbc4,+,2012-08-13
+hibernate-entitymanager,4.1.6.Final,+,2012-08-13
+hibernate-entitymanager,4.1.6.Final,-,2012-09-29
+hibernate-core,4.1.6.Final,+,2012-08-13
+hibernate-core,4.1.6.Final,-,2012-09-29
+hibernate-c3p0,4.1.6.Final,+,2012-09-25
+hibernate-c3p0,4.1.6.Final,-,2012-09-29
+log4j,1.2.17,+,2012-08-13
+spring-context,3.1.2.RELEASE,-,2012-09-29
+spring-context,3.1.2.RELEASE,+,2012-05-10

@@ -1,0 +1,16 @@
+library,version,sign,date
+guava,25.1-jre,+,2018-06-29
+guava,14.0.1,+,2013-09-04
+guava,14.0.1,-,2014-05-29
+guava,14.0.1,+,2013-07-23
+guava,17.0,-,2018-06-29
+guava,14.0.1,-,2013-07-23
+guava,14.0.1,-,2013-09-04
+guava,25.1-jre,-,2018-09-28
+guava,17.0,+,2014-05-29
+guava,27.0-jre,+,2018-09-28
+commons-lang,2.4,+,2013-07-23
+jt-iterators,1.0-SNAPSHOT,+,2013-07-23
+jt-iterators,1.0-SNAPSHOT,-,2014-05-29
+jt-iterators,1.0-SNAPSHOT,-,2013-07-23
+jt-iterators,1.0-SNAPSHOT,+,2013-09-04

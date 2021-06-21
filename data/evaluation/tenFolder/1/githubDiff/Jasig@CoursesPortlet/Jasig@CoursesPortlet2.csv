@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.8.2,-,2012-02-23
+junit,4.10,-,2013-01-22
+junit,4.11,+,2013-01-22
+joda-time,2.1,+,2013-01-22
+commons-lang,2.3,-,2012-11-02

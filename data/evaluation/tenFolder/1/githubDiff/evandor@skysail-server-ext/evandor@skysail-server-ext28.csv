@@ -1,0 +1,76 @@
+library,version,sign,date
+skysail.server.um,0.0.2-SNAPSHOT,+,2013-08-19
+skysail.server.um,0.0.2-SNAPSHOT,-,2013-10-01
+org.apache.felix.framework,3.2.2,+,2012-06-26
+org.apache.felix.framework,3.2.2,-,2012-06-26
+org.apache.felix.framework,3.2.2,+,2012-06-12
+org.apache.felix.framework,3.2.2,+,2012-06-21
+mockito-all,1.9.0,+,2012-06-26
+mockito-all,1.9.0,-,2013-06-14
+junit,4.10,+,2013-07-22
+junit,4.8.2,-,2012-06-26
+junit,4.10,+,2012-06-21
+junit,4.10,+,2013-06-27
+junit,4.8.2,+,2012-06-26
+junit,4.10,+,2012-06-24
+junit,4.10,+,2012-06-25
+junit,4.10,-,2013-07-22
+junit,4.10,-,2012-06-26
+junit,4.10,+,2012-05-25
+junit,4.10,+,2012-06-26
+junit,4.10,-,2012-06-24
+junit,4.10,-,2012-06-25
+skysail.server,[0.3.2-SNAPSHOT, 1.0),-,2013-10-01
+skysail.server,[0.3.2-SNAPSHOT, 1.0),-,2013-10-03
+skysail.server,[0.2.13, 1.0),-,2013-06-14
+skysail.server,[0.2.4, 1.0),+,2012-06-26
+skysail.server,[0.3.0, 1.0),-,2013-07-22
+skysail.server,[0.3.1-SNAPSHOT, 1.0),+,2013-08-30
+skysail.server,[0.2.13-SNAPSHOT, 1.0),-,2013-06-14
+skysail.server,[0.2.13-SNAPSHOT, 1.0),+,2012-06-26
+skysail.server,[0.3.1-SNAPSHOT, 1.0),+,2013-06-27
+skysail.server,[0.2.14-SNAPSHOT, 1.0),+,2012-06-26
+skysail.server,[0.2.1-SNAPSHOT, 1.0),+,2012-06-26
+skysail.server,[0.2.0,0.3),-,2012-06-26
+skysail.server,[0.3.2-SNAPSHOT, 1.0),+,2013-09-14
+skysail.server,0.2.12-SNAPSHOT,+,2012-06-26
+skysail.server,[0.3.3-SNAPSHOT, 1.0),+,2013-10-03
+skysail.server,[0.2.14-SNAPSHOT, 1.0),+,2013-06-22
+skysail.server,[0.2.13, 1.0),-,2013-06-22
+skysail.server,[0.2.4-SNAPSHOT, 1.0),+,2012-06-26
+skysail.server,[0.3.0, 1.0),+,2013-06-27
+skysail.server,[0.2.14-SNAPSHOT, 1.0),+,2013-06-14
+skysail.server,[0.2.5-SNAPSHOT, 1.0),+,2012-06-26
+skysail.server,[0.3.2-SNAPSHOT, 1.0),+,2013-08-30
+skysail.server,[0.3.3, 1.0),+,2013-10-03
+skysail.server,[0.3.2, 1.0),-,2013-10-03
+skysail.server,[0.3.1-SNAPSHOT, 1.0),+,2013-07-22
+skysail.server,[0.1.6,0.2),-,2012-06-26
+skysail.server,[0.3.1-SNAPSHOT, 1.0),-,2013-08-30
+skysail.server,[0.3.0, 1.0),-,2013-06-27
+skysail.server,[0.2.13-SNAPSHOT, 1.0),-,2013-06-27
+skysail.server,[0.2.13, 1.0),+,2012-06-26
+skysail.server,[0.3.0, 1.0),-,2013-08-30
+skysail.server,[0.3.1, 1.0),-,2013-09-14
+skysail.server,[0.2.14-SNAPSHOT, 1.0),-,2013-06-27
+skysail.server,[0.3.2, 1.0),+,2013-10-01
+skysail.server,[0.3.1-SNAPSHOT, 1.0),-,2013-09-14
+skysail.server,[0.3.1, 1.0),+,2013-08-30
+javax.persistence,2.0.3,+,2012-06-26
+skysail.server.um.db,0.0.2-SNAPSHOT,-,2013-10-01
+skysail.server.um.db,0.0.2-SNAPSHOT,+,2013-09-15
+derby,10.8.2.2,-,2013-10-03
+derby,10.8.2.2,+,2013-08-30
+derby,10.8.2.2,+,2012-06-26
+derby,10.8.2.2,+,2013-07-22
+derby,10.8.2.2,+,2013-10-03
+derby,10.8.2.2,+,2013-06-27
+skysail.server.ext.notes.db,0.2.1-SNAPSHOT,+,2013-10-03
+skysail.server.ext.notes.db,0.2.1-SNAPSHOT,-,2013-10-03
+skysail.server.ext.notes.db,0.0.4-SNAPSHOT,-,2013-10-01
+skysail.server.ext.notes.db,0.0.4-SNAPSHOT,+,2013-09-15
+skysail.server.ext.notes.db,0.0.4-SNAPSHOT,+,2013-08-30
+javax.inject,1,+,2012-06-21
+javax.inject,1,+,2012-06-12
+javax.inject,1,-,2012-06-26
+javax.inject,1,+,2012-06-26

@@ -1,0 +1,9 @@
+library,version,sign,date
+switchyard-component-resteasy,0.8.0.Final,-,2013-05-26
+switchyard-component-resteasy,0.8.0.Final,+,2013-04-18
+switchyard-component-soap,0.8.0.Final,-,2013-05-26
+switchyard-component-soap,0.7.0.Final,-,2013-04-18
+switchyard-component-soap,0.7.0.Final,+,2013-04-14
+camel-soap,2.10.0,+,2013-04-03
+camel-soap,2.10.0,-,2013-05-26
+resteasy-jaxrs,2.3.4.Final,-,2013-04-18

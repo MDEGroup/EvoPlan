@@ -1,0 +1,5 @@
+library,version,sign,date
+org.osgi.enterprise,4.2.0,+,2012-01-16
+org.osgi.enterprise,4.2.0,+,2012-01-17
+org.osgi.core,4.2.0,+,2012-01-16
+org.osgi.core,4.2.0,+,2012-01-17

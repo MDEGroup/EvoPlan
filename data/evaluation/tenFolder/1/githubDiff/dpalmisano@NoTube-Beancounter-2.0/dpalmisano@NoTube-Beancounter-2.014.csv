@@ -1,0 +1,7 @@
+library,version,sign,date
+commons-configuration,1.6,+,2011-11-16
+commons-configuration,1.6,-,2011-11-16
+mysql-connector-java,5.1.18,+,2011-11-16
+mybatis,3.0.6,+,2011-11-16
+model,1.0-SNAPSHOT,-,2011-11-16
+model,1.0-SNAPSHOT,+,2011-11-16

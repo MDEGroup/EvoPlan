@@ -1,0 +1,7 @@
+library,version,sign,date
+fr.opensagres.xdocreport.remoting.reporting.server,1.0.0-SNAPSHOT,-,2012-11-30
+logback-classic,1.0.1,+,2013-05-16
+logback-classic,1.0.1,-,2013-05-16
+logback-classic,0.9.29,+,2012-12-01
+logback-classic,1.0.1,+,2012-12-01
+servlet-api,2.5,+,2012-12-01

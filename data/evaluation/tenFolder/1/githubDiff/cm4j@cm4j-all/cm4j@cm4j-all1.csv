@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.8.1,+,2011-03-20
+junit,4.8.1,-,2011-03-20
+mail,1.4.1,-,2011-03-20
+mail,1.4.1,+,2011-03-20
+cm4j-dao,0.0.1-SNAPSHOT,+,2011-03-20
+cm4j-dao,0.0.1-SNAPSHOT,-,2011-03-20

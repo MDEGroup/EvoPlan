@@ -1,0 +1,5 @@
+library,version,sign,date
+maven,2.0,+,2012-12-29
+maven,2.0,-,2012-12-29
+some.artifact,1.0,+,2012-12-29
+some.artifact,1.0,-,2012-12-29

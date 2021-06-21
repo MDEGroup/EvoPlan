@@ -1,0 +1,10 @@
+library,version,sign,date
+hamcrest-all,1.1,+,2011-07-21
+aws-java-sdk-cloudformation,1.9.27,+,2014-12-10
+mockito-core,1.8.0,+,2011-07-02
+httpclient,4.3.4,-,2016-02-16
+httpclient,4.3.4,+,2015-04-02
+httpclient,4.4.1,-,2016-02-23
+httpcore,4.3.2,+,2015-04-02
+httpcore,4.4.1,-,2016-02-23
+httpcore,4.3.2,-,2016-02-16

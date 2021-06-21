@@ -1,0 +1,3 @@
+library,version,sign,date
+jedis,2.9.0,+,2018-05-06
+jedis,2.9.0,-,2018-05-06

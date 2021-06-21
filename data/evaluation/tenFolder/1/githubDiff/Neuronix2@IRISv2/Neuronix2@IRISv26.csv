@@ -1,0 +1,6 @@
+library,version,sign,date
+iris-common,1.0-SNAPSHOT,+,2014-01-03
+iris-common,1.0-SNAPSHOT,-,2014-10-01
+iris-common,1.0-SNAPSHOT,-,2014-09-30
+iris-common,1.0-SNAPSHOT,+,2013-10-24
+iris-common-model,1.0-SNAPSHOT,+,2014-10-01

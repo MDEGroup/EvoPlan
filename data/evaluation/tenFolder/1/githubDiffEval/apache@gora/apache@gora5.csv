@@ -1,0 +1,5 @@
+library,version,sign,date
+testcontainers,1.1.0,+,2017-06-22
+testcontainers,1.1.0,-,2017-07-26
+avro,1.8.2,+,2018-11-20
+avro,1.8.1,-,2018-11-20

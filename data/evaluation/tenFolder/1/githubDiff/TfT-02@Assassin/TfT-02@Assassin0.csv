@@ -1,0 +1,15 @@
+library,version,sign,date
+Ghosts,LATEST,+,2013-07-22
+Ghosts,LATEST,-,2013-12-18
+Ghosts,LATEST,-,2013-07-22
+bukkit,LATEST,+,2013-07-22
+bukkit,LATEST,-,2013-07-22
+tagapi,LATEST,+,2013-07-22
+tagapi,LATEST,-,2013-07-22
+tagapi,LATEST,-,2013-08-19
+Vault,LATEST,+,2013-07-22
+Vault,1.2.27,-,2013-07-22
+metrics,R7,+,2013-07-22
+metrics,R7,-,2013-07-22
+worldguard,LATEST,+,2013-07-22
+worldguard,LATEST,-,2013-07-22

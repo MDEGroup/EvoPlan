@@ -1,0 +1,5 @@
+library,version,sign,date
+astive-commons,[1.0.0-RC1,),-,2018-07-09
+astive-commons,[1.0.0-RC1,),+,2018-07-09
+httpclient,4.3.3,-,2018-07-09
+httpclient,4.3.3,+,2018-07-09

@@ -1,0 +1,6 @@
+library,version,sign,date
+jbossws-cxf-client,4.1.1.Final,+,2013-03-18
+jbossws-cxf-client,4.1.1.Final,+,2013-03-07
+jbossws-cxf-client,4.1.1.Final,-,2013-05-03
+jbossws-cxf-client,4.1.1.Final,+,2013-03-10
+jbossws-cxf-client,4.1.1.Final,-,2013-03-11

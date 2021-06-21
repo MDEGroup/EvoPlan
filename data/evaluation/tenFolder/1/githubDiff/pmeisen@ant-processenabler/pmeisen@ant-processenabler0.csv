@@ -1,0 +1,7 @@
+library,version,sign,date
+net-meisen-general-server-http-listener,TRUNK-SNAPSHOT,+,2013-07-28
+slf4j-simple,1.7.2,+,2013-01-04
+svnkit,1.7.6,+,2013-01-04
+ant,1.8.4,-,2013-01-04
+js,1.7R2,+,2013-01-04
+maven-ant-tasks,2.1.3,+,2013-01-04

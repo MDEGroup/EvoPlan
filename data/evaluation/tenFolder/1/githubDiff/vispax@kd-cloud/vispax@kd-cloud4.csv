@@ -1,0 +1,4 @@
+library,version,sign,date
+org.restlet,2.2-SNAPSHOT,-,2012-09-14
+weka-stripped,3.7.7-SNAPSHOT,-,2012-10-05
+weka-stripped,3.7.7-SNAPSHOT,+,2012-10-05

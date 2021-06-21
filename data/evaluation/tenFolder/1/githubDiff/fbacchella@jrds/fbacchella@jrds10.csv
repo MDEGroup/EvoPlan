@@ -1,0 +1,5 @@
+library,version,sign,date
+log4j-slf4j-impl,2.13.0,+,2020-03-03
+log4j-jul,2.13.0,+,2020-03-03
+lombok,1.18.10,-,2020-03-03
+lombok,1.18.10,+,2020-03-03

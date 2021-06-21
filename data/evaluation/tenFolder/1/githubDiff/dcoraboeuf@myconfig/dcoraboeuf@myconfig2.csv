@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.8.1,-,2012-07-31
+commons-dbcp,1.4,+,2012-07-05
+commons-dbcp,1.4,-,2012-07-05
+guava,12.0,-,2012-07-05
+guava,12.0,-,2012-07-31
+guava,12.0,+,2012-07-05

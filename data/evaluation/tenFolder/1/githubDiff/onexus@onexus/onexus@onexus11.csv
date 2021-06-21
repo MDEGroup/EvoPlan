@@ -1,0 +1,9 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2012-11-17
+org.ops4j.pax.wicket.service,2.0.0-SNAPSHOT,-,2012-11-17
+org.ops4j.pax.wicket.service,2.0.0-SNAPSHOT,+,2012-07-23
+commons-collections,3.2.1,+,2012-11-17
+commons-collections,3.2.1,-,2012-11-17
+servlet-api,2.5,-,2012-11-17
+servlet-api,2.5,+,2012-11-11
+javax.inject,1,+,2013-10-09

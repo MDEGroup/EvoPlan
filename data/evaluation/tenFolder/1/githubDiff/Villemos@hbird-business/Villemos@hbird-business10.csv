@@ -1,0 +1,4 @@
+library,version,sign,date
+camel-spring,2.4.0,-,2013-04-03
+business-core,0.0.1-SNAPSHOT,+,2012-04-03
+business-core,0.0.1-SNAPSHOT,-,2012-12-11

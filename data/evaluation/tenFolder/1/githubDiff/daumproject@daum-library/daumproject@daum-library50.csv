@@ -1,0 +1,10 @@
+library,version,sign,date
+org.daum.common.genmodel.android.root,1.3,-,2013-01-29
+org.daum.common.genmodel.android.root,1.1-SNAPSHOT,+,2012-07-06
+org.daum.common.genmodel.android.root,1.2-SNAPSHOT,-,2012-10-25
+org.daum.common.genmodel.android.root,1.2-SNAPSHOT,-,2012-11-20
+org.daum.common.genmodel.android.root,1.1-SNAPSHOT,+,2012-07-11
+org.daum.common.genmodel.android.root,1.2-SNAPSHOT,+,2012-09-19
+org.daum.common.genmodel.android.root,1.2-SNAPSHOT,+,2012-07-31
+org.daum.common.genmodel.android.root,1.1-SNAPSHOT,-,2012-07-19
+org.daum.corelibrary.javase.ormH,2.0.0-SNAPSHOT,+,2013-02-08

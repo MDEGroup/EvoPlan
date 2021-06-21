@@ -1,0 +1,13 @@
+library,version,sign,date
+mongo-java-driver,2.9.3,-,2015-09-19
+gson,2.6.2,+,2016-08-23
+gson,2.3.1,+,2015-02-26
+gson,2.3.1,+,2015-06-19
+gson,2.3.1,+,2015-09-19
+gson,2.2.4,+,2015-09-19
+gson,2.2.4,+,2015-02-26
+de.flapdoodle.embed.mongo,1.46.0,-,2015-09-19
+appsensor-core,2.2.0,-,2017-01-05
+appsensor-core,2.0.1,-,2015-09-19
+appsensor-core,2.0.0-RC3,-,2015-02-26
+appsensor-core,2.0.0-RC3,+,2015-01-08

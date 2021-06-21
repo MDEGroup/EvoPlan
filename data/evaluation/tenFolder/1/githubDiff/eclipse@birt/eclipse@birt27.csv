@@ -1,0 +1,12 @@
+library,version,sign,date
+org.eclipse.birt.build,4.6.0-SNAPSHOT,-,2015-11-13
+org.eclipse.birt.build,4.6.0-SNAPSHOT,-,2016-08-26
+org.eclipse.birt.build,4.5.0-SNAPSHOT,-,2015-10-23
+org.eclipse.birt.build,4.5.0-SNAPSHOT,-,2015-10-20
+org.eclipse.birt.build,4.5.0-SNAPSHOT,+,2015-10-20
+birt-runtime-osgi,4.6.0-SNAPSHOT,+,2015-11-13
+birt-runtime-osgi,4.6.0-SNAPSHOT,-,2015-11-13
+birt-runtime-osgi,4.6.0-SNAPSHOT,-,2016-08-26
+birt-runtime-osgi,4.5.0-SNAPSHOT,-,2015-10-23
+birt-runtime-osgi,4.5.0-SNAPSHOT,-,2015-10-20
+birt-runtime-osgi,4.5.0-SNAPSHOT,+,2015-10-20

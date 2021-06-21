@@ -1,0 +1,10 @@
+library,version,sign,date
+android,4.3_r2,+,2013-09-11
+android,4.3_r1,-,2013-09-11
+android,4.3_r1,+,2013-07-26
+gcm-client,3,-,2013-07-26
+google-play-services,9,-,2013-07-30
+google-play-services,10,+,2013-07-30
+google-play-services,10,-,2013-09-11
+google-play-services,9,+,2013-07-26
+google-play-services,11,+,2013-09-11

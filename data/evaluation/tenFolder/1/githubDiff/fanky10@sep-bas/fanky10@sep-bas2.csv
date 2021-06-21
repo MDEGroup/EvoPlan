@@ -1,0 +1,10 @@
+library,version,sign,date
+spring-data-jpa,1.0.1.RELEASE,-,2013-01-25
+spring-data-jpa,1.0.1.RELEASE,+,2013-01-25
+spring-test,3.0.6.RELEASE,-,2013-01-25
+junit,4.8.2,+,2013-01-25
+junit,4.8.2,-,2013-01-25
+junit,3.8.1,-,2013-01-25
+mysql-connector-java,5.1.22,+,2013-01-25
+hibernate-entitymanager,3.6.8.Final,-,2013-01-25
+hibernate-entitymanager,3.6.8.Final,+,2013-01-25

@@ -1,0 +1,4 @@
+library,version,sign,date
+logback-classic,0.9.15,+,2012-03-12
+joda-time,2.0,-,2012-02-29
+testng,6.2,+,2012-03-12

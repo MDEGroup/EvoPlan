@@ -1,0 +1,13 @@
+library,version,sign,date
+pubby,0.3.4-SNAPSHOT,+,2012-09-16
+snorql-webapp,1.0-SNAPSHOT,+,2012-09-16
+urlrewritefilter,4.0.4,+,2017-12-14
+urlrewritefilter,4.0.3,+,2012-09-14
+urlrewritefilter,4.0.4,-,2017-12-14
+urlrewritefilter,4.0.4,-,2016-12-08
+urlrewritefilter,4.0.4,+,2015-01-14
+urlrewritefilter,4.0.4,+,2016-12-08
+urlrewritefilter,4.0.4,+,2015-08-31
+urlrewritefilter,4.0.3,-,2013-09-26
+urlrewritefilter,4.0.4,-,2015-08-31
+urlrewritefilter,4.0.4,-,2015-01-14

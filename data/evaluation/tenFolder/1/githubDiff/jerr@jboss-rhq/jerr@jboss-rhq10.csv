@@ -1,0 +1,17 @@
+library,version,sign,date
+jboss-ejb3-all,1.0.0.Alpha9,-,2010-02-03
+jboss-ejb3-all,1.0.0.Alpha9,-,2010-01-13
+jboss-ejb3-all,1.0.0.Alpha9,-,2012-10-30
+jboss-ejb3-all,1.0.0.Alpha9,-,2010-06-16
+jboss-ejb3-all,1.0.0.Alpha9,+,2010-01-15
+jboss-ejb3-all,1.0.0.Alpha9,+,2010-01-13
+jboss-ejb3-all,1.0.0.Alpha9,-,2010-01-12
+jboss-ejb3-all,1.0.0.Alpha9,+,2010-01-12
+jboss-ejb3-all,1.0.0.Alpha9,-,2013-02-26
+jboss-ejb3-all,1.0.0.Alpha9,+,2012-09-25
+jboss-ejb3-all,1.0.0.Alpha9,+,2012-05-23
+jboss-ejb3-all,1.0.0.Alpha9,+,2013-02-26
+jboss-ejb3-all,1.0.0.Alpha9,-,2012-09-24
+jboss-ejb3-all,1.0.0.Alpha9,-,2012-05-23
+cobbler4j,0.1,+,2010-01-11
+cobbler4j,0.1,-,2010-01-12

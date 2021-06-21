@@ -1,0 +1,16 @@
+library,version,sign,date
+jakarta.annotation-api,1.3.5,+,2020-03-02
+jakarta.ws.rs-api,2.1.6,+,2020-03-02
+org.eclipse.scout.rt.dataobject,10-SNAPSHOT,-,2019-07-09
+org.eclipse.scout.rt.dataobject,10.0.0-SNAPSHOT,-,2019-05-21
+org.eclipse.scout.rt.dataobject,10.0.0-SNAPSHOT,+,2019-03-27
+org.eclipse.scout.rt.platform.test,7.1.0-SNAPSHOT,-,2018-02-08
+org.eclipse.scout.rt.platform.test,7.0.0-SNAPSHOT,-,2017-04-18
+org.eclipse.scout.rt.platform.test,10-SNAPSHOT,-,2019-07-09
+org.eclipse.scout.rt.platform.test,10.0.0-SNAPSHOT,-,2019-05-21
+org.eclipse.scout.rt.platform.test,9.0.0-SNAPSHOT,-,2018-12-19
+org.eclipse.scout.rt.platform.test,8.1.0-SNAPSHOT,-,2018-09-07
+org.eclipse.scout.rt.platform.test,7.0.100-SNAPSHOT,-,2017-07-05
+org.eclipse.scout.rt.platform.test,8.0.0-SNAPSHOT,-,2018-05-15
+jakarta.xml.bind-api,2.3.3,+,2020-03-02
+jakarta.servlet-api,4.0.3,+,2020-03-02

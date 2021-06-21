@@ -1,0 +1,10 @@
+library,version,sign,date
+item-event-framework-common,1.12-SNAPSHOT,-,2014-10-10
+centralWebservice-lib,1.7,-,2015-01-08
+centralWebservice-lib,1.6-SNAPSHOT,-,2014-11-13
+centralWebservice-lib,1.6,-,2014-11-19
+centralWebservice-lib,1.17-SNAPSHOT,-,2015-07-06
+centralWebservice-lib,1.16,-,2015-07-06
+centralWebservice-lib,1.8-SNAPSHOT,-,2015-01-08
+centralWebservice-lib,1.7,-,2015-06-16
+centralWebservice-lib,1.16,+,2015-06-16

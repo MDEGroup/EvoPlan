@@ -1,0 +1,10 @@
+library,version,sign,date
+sesame-query,2.3.3,+,2012-11-27
+sesame-model,2.3.3,+,2012-11-27
+geonames,1.0,+,2013-01-25
+geonames,1.0,-,2013-02-14
+jide-oss,3.4.9_2,-,2012-11-27
+sesame-queryresultio-sparqlxml,2.3.3,+,2012-11-27
+sesame-repository-http,2.3.3,+,2012-11-27
+sesame-queryparser-sparql,2.3.3,+,2012-11-27
+sesame-rio-rdfxml,2.3.3,+,2012-12-13

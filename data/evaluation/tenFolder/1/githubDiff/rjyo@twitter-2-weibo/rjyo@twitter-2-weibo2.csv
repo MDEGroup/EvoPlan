@@ -1,0 +1,4 @@
+library,version,sign,date
+core,1.0-SNAPSHOT,+,2011-06-28
+servlet-api,2.3,+,2011-07-30
+servlet-api,2.3,+,2011-06-28

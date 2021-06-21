@@ -1,0 +1,13 @@
+library,version,sign,date
+commons-configuration,1.8,+,2012-01-30
+junit,3.8.2,-,2011-09-17
+junit,3.8.2,+,2010-02-12
+junit,3.8.2,+,2011-09-17
+jackson-mapper-asl,1.4.2,+,2010-02-12
+jackson-mapper-asl,1.4.2,+,2011-03-02
+jackson-mapper-asl,1.4.2,+,2011-09-17
+jackson-mapper-asl,1.4.2,-,2011-10-08
+jackson-mapper-asl,1.4.2,-,2011-09-17
+spring-context,2.5.6,-,2012-01-25
+spring-context,2.5.6,+,2011-09-17
+spring-context,2.5.6,-,2011-09-17

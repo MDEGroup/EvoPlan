@@ -1,0 +1,10 @@
+library,version,sign,date
+mockito-all,1.8.5,-,2012-06-13
+mockito-all,1.8.5,+,2012-06-13
+junit,4.8.2,-,2012-06-13
+junit,4.8.2,+,2012-06-13
+junit,4.8.2,-,2013-07-01
+powermock-api-mockito,1.4.9,-,2012-06-13
+powermock-api-mockito,1.4.9,+,2012-06-13
+log4j,1.2.16,-,2012-06-13
+log4j,1.2.16,+,2012-06-13

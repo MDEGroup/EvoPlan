@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.10,+,2012-02-26
+mongo-java-driver,2.7.3,+,2012-02-28
+freemarker,2.3.9,+,2012-02-28
+morphia,0.99-SNAPSHOT,+,2012-02-28
+commons-lang,2.6,+,2012-04-26
+jbcrypt,0.3m,+,2012-02-28

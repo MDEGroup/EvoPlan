@@ -1,0 +1,9 @@
+library,version,sign,date
+libthrift,0.8.0,-,2016-06-08
+libthrift,0.8.0,-,2018-01-05
+libthrift,0.8.0,+,2012-08-03
+libthrift,0.8.0,+,2016-06-08
+spring-context,3.2.16.RELEASE,+,2017-09-11
+spring-context,4.3.10.RELEASE,-,2018-01-05
+spring-context,3.2.16.RELEASE,-,2017-11-30
+spring-context,4.3.10.RELEASE,+,2017-08-24

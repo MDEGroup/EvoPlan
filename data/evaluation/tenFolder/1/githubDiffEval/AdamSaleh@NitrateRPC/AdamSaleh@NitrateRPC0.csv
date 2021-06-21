@@ -1,0 +1,7 @@
+library,version,sign,date
+TestParser,1.0-SNAPSHOT,+,2012-03-19
+NitrateRPC,1.0-SNAPSHOT,-,2012-04-13
+NitrateRPC,1.0-SNAPSHOT,+,2012-04-13
+redstone,1.1.1,+,2012-03-19
+redstone,1.1.1,+,2012-06-08
+redstone,1.1.1,-,2012-04-27

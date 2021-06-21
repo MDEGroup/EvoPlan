@@ -1,0 +1,6 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2012-06-11
+com.conx.logistics.kernel.bpm.services,1.0.0,+,2012-06-11
+activity-monitor-model,1.0.0-Beta2,+,2012-06-11
+com.conx.logistics.distribution.common-osgi-bundles,1.0.0,+,2012-06-11
+btm,2.1.2,+,2012-06-11

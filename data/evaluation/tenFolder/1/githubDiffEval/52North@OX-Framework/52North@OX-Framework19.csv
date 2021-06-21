@@ -1,0 +1,7 @@
+library,version,sign,date
+52n-oxf-xmlbeans,2.0.0-alpha.4-SNAPSHOT,+,2013-08-02
+xmlbeans,2.6.0,+,2013-09-02
+xmlbeans,2.6.0,+,2013-12-02
+xmlbeans,2.6.0,+,2015-05-12
+xmlbeans,2.6.0,-,2013-12-02
+xmlbeans,2.6.0,-,2015-05-12

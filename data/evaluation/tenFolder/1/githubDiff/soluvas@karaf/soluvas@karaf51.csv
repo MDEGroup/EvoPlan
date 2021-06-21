@@ -1,0 +1,9 @@
+library,version,sign,date
+slf4j-api,1.4.3,-,2010-12-28
+slf4j-api,1.6.0,+,2010-10-01
+slf4j-api,1.6.0,-,2012-02-01
+org.osgi.core,4.2.0,+,2012-05-02
+org.osgi.core,4.2.0,-,2012-04-24
+org.osgi.core,4.2.0,+,2011-11-22
+de.kalpatec.pojosr.framework,0.1.4,-,2011-12-03
+de.kalpatec.pojosr.framework,0.1.4,+,2011-03-22

@@ -1,0 +1,5 @@
+library,version,sign,date
+org.eclipse.birt.p2updatesite,4.6.0-SNAPSHOT,-,2016-05-19
+org.eclipse.birt.p2updatesite,4.5.0-SNAPSHOT,-,2015-06-05
+org.eclipse.birt.p2updatesite,4.6.0-SNAPSHOT,+,2015-06-05
+org.eclipse.birt.p2updatesite,4.5.0-SNAPSHOT,+,2015-06-03

@@ -1,0 +1,17 @@
+library,version,sign,date
+rdfreactor.runtime,4.8.3-SNAPSHOT,-,2013-06-04
+rdfreactor.runtime,4.8.4-SNAPSHOT,-,2013-11-06
+rdfreactor.runtime,4.8.2,-,2013-05-16
+rdfreactor.runtime,4.7.3,-,2013-02-01
+rdfreactor.runtime,4.8.3,-,2013-06-04
+rdf2go.impl.jena,4.8.3,-,2013-10-16
+rdf2go.impl.jena,4.8.3-SNAPSHOT,-,2013-06-04
+rdf2go.impl.jena,4.8.4-SNAPSHOT,-,2013-11-06
+rdf2go.impl.jena,4.8.2,-,2013-04-29
+rdf2go.impl.jena,4.8.2,+,2013-02-11
+rdf2go.impl.jena,4.8.4-SNAPSHOT,+,2013-10-16
+rdf2go.impl.jena,4.8.2,-,2013-05-16
+rdf2go.impl.jena,4.8.3,-,2013-06-04
+rdf2go.impl.jena,4.8.1,-,2013-02-01
+play-commons-eventformat,1.1-SNAPSHOT,-,2013-01-28
+xml-apis,1.4.01,+,2013-05-16

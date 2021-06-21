@@ -1,0 +1,11 @@
+library,version,sign,date
+org.flowframe.ui.vaadin.editors,0.0.1,+,2013-01-16
+org.flowframe.ui.vaadin.expressions,0.0.1,+,2013-01-18
+org.flowframe.ui.vaadin.expressions,0.0.1,+,2013-01-16
+org.flowframe.ui.vaadin.factory,0.0.1,-,2013-01-15
+org.flowframe.ui.vaadin.factory,0.0.1,+,2013-01-16
+org.flowframe.ui.vaadin.factory,0.0.1,+,2013-01-12
+org.flowframe.ui.services,0.0.1,-,2013-01-15
+org.flowframe.ui.services,0.0.1,-,2013-01-18
+org.flowframe.ui.services,0.0.1,+,2013-01-16
+org.flowframe.ui.services,0.0.1,+,2013-01-12

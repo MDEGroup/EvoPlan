@@ -1,0 +1,17 @@
+library,version,sign,date
+org.eclipse.birt.api,4.5.0-SNAPSHOT,-,2015-06-05
+org.eclipse.birt.api,4.6.0-SNAPSHOT,-,2015-11-13
+org.eclipse.birt.api,4.6.0-SNAPSHOT,-,2016-08-26
+org.eclipse.birt.api,4.5.0-SNAPSHOT,+,2015-06-05
+org.eclipse.birt.api,4.5.0-SNAPSHOT,-,2015-10-23
+org.eclipse.birt.api,4.5.0-SNAPSHOT,+,2015-06-03
+org.eclipse.birt.api,4.5.0-SNAPSHOT,-,2015-10-20
+org.eclipse.birt.api,4.5.0-SNAPSHOT,+,2015-10-20
+org.eclipse.birt.p2updatesite,4.5.0-SNAPSHOT,-,2015-06-05
+org.eclipse.birt.p2updatesite,4.6.0-SNAPSHOT,-,2015-11-13
+org.eclipse.birt.p2updatesite,4.6.0-SNAPSHOT,-,2016-08-26
+org.eclipse.birt.p2updatesite,4.5.0-SNAPSHOT,+,2015-06-05
+org.eclipse.birt.p2updatesite,4.5.0-SNAPSHOT,-,2015-10-23
+org.eclipse.birt.p2updatesite,4.5.0-SNAPSHOT,+,2015-06-03
+org.eclipse.birt.p2updatesite,4.5.0-SNAPSHOT,-,2015-10-20
+org.eclipse.birt.p2updatesite,4.5.0-SNAPSHOT,+,2015-10-20

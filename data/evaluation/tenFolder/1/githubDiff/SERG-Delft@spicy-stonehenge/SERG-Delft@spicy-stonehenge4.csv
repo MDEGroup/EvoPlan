@@ -1,0 +1,10 @@
+library,version,sign,date
+derbyclient,10.8.2.2,+,2011-12-19
+soa-client,1.0.1.0-SNAPSHOT,-,2011-12-14
+soa-client,1.0.0,-,2011-12-14
+soa-client,1.1.0,+,2011-12-14
+derbynet,10.8.2.2,+,2011-12-19
+common-library,0.0.1-SNAPSHOT,-,2012-01-26
+soa-server,1.0.1.0-SNAPSHOT,-,2011-12-14
+soa-server,1.0.0,-,2011-12-14
+soa-server,1.1.0,+,2011-12-14

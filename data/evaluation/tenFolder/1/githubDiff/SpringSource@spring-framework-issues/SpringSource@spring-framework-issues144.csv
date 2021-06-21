@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.8,+,2013-02-16
+junit,4.8,-,2013-02-16
+junit,4.11,+,2013-02-16
+hibernate-validator,4.3.0.Final,-,2013-02-16
+hibernate-validator,4.3.0.Final,+,2013-02-16
+aspectjweaver,1.6.12,-,2013-02-16
+aspectjweaver,1.6.12,+,2013-02-16
+log4j,1.2.16,-,2013-02-16
+log4j,1.2.16,+,2013-02-16
+spring-context,3.2.2.BUILD-SNAPSHOT,+,2013-02-16
+spring-context,3.2.2.BUILD-SNAPSHOT,-,2013-02-16

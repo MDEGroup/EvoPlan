@@ -1,0 +1,6 @@
+library,version,sign,date
+database,0.2.1,+,2013-08-05
+database,0.2.1,-,2013-08-06
+netty-all,4.0.3.Final,+,2013-03-27
+reflections,0.9.9-RC1,+,2013-03-27
+commons-lang,2.1,+,2013-08-04

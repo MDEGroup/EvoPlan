@@ -1,0 +1,7 @@
+library,version,sign,date
+cdk-core,1.5.8-SNAPSHOT,-,2014-08-19
+cdk-interfaces,1.5.8-SNAPSHOT,-,2014-08-19
+jchempaint-inchi,3.4-SNAPSHOT,-,2014-08-19
+cdk-sdg,1.5.8-SNAPSHOT,-,2014-08-19
+cdk-io,1.5.8-SNAPSHOT,-,2014-08-19
+cdk-data,1.5.8-SNAPSHOT,-,2014-08-19

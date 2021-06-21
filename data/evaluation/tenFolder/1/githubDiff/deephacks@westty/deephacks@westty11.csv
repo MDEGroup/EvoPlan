@@ -1,0 +1,6 @@
+library,version,sign,date
+hibernate-entitymanager,4.0.0.Final,+,2013-07-08
+hibernate-entitymanager,4.0.0.Final,-,2013-07-08
+hibernate-entitymanager,4.0.0.Final,+,2013-02-02
+derby,10.9.1.0,+,2013-02-02
+quartz,2.1.5,+,2013-02-02

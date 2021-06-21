@@ -1,0 +1,4 @@
+library,version,sign,date
+maven-plugin-api,2.2.1,+,2010-07-22
+maven-plugin-api,2.0,+,2010-07-22
+maven-project,2.2.1,+,2010-07-22

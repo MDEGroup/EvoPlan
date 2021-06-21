@@ -1,0 +1,7 @@
+library,version,sign,date
+AspirantesUN-ejb,1.0-SNAPSHOT,-,2012-11-09
+primefaces,3.3,-,2012-10-11
+primefaces,3.4.1,-,2012-10-15
+bootstrap,1.0.8,+,2012-09-25
+commons-fileupload,1.2.2,+,2012-11-09
+commons-io,2.4,+,2012-11-09

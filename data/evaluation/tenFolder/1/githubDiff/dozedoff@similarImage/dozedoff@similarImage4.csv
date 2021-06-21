@@ -1,0 +1,15 @@
+library,version,sign,date
+argparse4j,0.7.0,-,2016-10-27
+argparse4j,0.7.0,-,2017-06-09
+argparse4j,0.7.0,+,2016-10-27
+similarImage-distributed,0.3.0-SNAPSHOT,+,2017-03-28
+similarImage-distributed,0.2.0-SNAPSHOT,-,2016-10-27
+similarImage-distributed,0.2.0-SNAPSHOT,+,2016-08-13
+similarImage-distributed,0.2.0-SNAPSHOT,+,2016-10-27
+similarImage-core,0.3.0-SNAPSHOT,+,2017-03-28
+similarImage-core,0.2.0-SNAPSHOT,+,2016-10-27
+similarImage-core,0.2.0-SNAPSHOT,-,2016-10-27
+similarImage-core,0.2.0-SNAPSHOT,+,2016-08-13
+jimfs,1.1,+,2016-10-27
+jimfs,1.1,+,2017-05-25
+jimfs,1.1,-,2017-05-25

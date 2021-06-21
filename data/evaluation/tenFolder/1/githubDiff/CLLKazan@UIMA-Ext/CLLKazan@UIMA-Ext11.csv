@@ -1,0 +1,10 @@
+library,version,sign,date
+slf4j-api,1.7.2,-,2014-11-06
+uimafit-core,2.1.0,+,2014-11-06
+logback-classic,1.0.9,-,2014-11-06
+uima-ext-dep-parser-mst,0.3-SNAPSHOT,+,2014-04-07
+uima-ext-dep-parser-mst,0.3-SNAPSHOT,-,2014-07-22
+de.tudarmstadt.ukp.dkpro.lab.uima.engine.cpe,0.9.1,-,2015-03-07
+de.tudarmstadt.ukp.dkpro.lab.uima.engine.cpe,0.9.1,+,2014-04-07
+jcommander,1.32,-,2014-11-06
+guava,14.0.1,-,2014-11-06

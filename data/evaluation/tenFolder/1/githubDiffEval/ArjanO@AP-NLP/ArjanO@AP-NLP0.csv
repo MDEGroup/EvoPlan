@@ -1,0 +1,4 @@
+library,version,sign,date
+easymock,3.1,+,2013-04-02
+junit,3.8.1,-,2013-03-26
+easymockclassextension,3.1,+,2013-04-02

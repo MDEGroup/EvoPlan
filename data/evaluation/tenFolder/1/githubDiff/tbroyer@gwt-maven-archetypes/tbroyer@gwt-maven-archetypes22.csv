@@ -1,0 +1,4 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,-,2015-10-04
+javax.servlet-api,3.0.1,+,2014-02-16
+javax.servlet-api,3.1.0,+,2015-10-04

@@ -1,0 +1,2 @@
+library,version,sign,date
+log4j-core,@log4j.version@,+,2020-03-21

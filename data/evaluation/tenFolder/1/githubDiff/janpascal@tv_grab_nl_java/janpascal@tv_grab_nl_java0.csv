@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.10,+,2012-05-10
+commons-cli,1.2,-,2012-03-21
+commons-cli,1.2,+,2012-03-21
+hsqldb,2.2.8,+,2012-03-21
+json-lib,2.4,-,2012-03-21
+json-lib,2.4,+,2012-03-21
+commons-io,2.1,-,2012-03-21
+commons-io,2.1,+,2012-03-21
+commons-lang,2.6,-,2012-03-21
+commons-lang,2.6,+,2012-03-21
+log4j,1.2.16,+,2012-04-26

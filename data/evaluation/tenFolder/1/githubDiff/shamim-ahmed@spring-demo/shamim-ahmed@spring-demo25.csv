@@ -1,0 +1,5 @@
+library,version,sign,date
+standard,1.1.2,+,2013-04-27
+jstl,1.1.2,+,2013-04-27
+commons-lang3,3.1,+,2013-04-27
+javaee-web-api,6.0,+,2013-04-27

@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.8,+,2011-09-29
+spring-webmvc,3.0.5.RELEASE,+,2011-09-29
+log4j,1.2.16,+,2011-09-29

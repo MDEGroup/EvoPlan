@@ -1,0 +1,7 @@
+library,version,sign,date
+miglayout-javafx,4.2,+,2013-04-27
+API,0.1-SNAPSHOT,-,2013-04-10
+API,0.1-SNAPSHOT,+,2013-04-27
+API,0.1-SNAPSHOT,+,2013-04-10
+javafx,2.2.3,+,2013-04-27
+commons-lang,2.6,+,2013-04-27

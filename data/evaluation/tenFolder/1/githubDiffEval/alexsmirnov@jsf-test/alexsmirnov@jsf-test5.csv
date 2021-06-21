@@ -1,0 +1,17 @@
+library,version,sign,date
+mockito-all,1.8.5,-,2011-05-08
+mockito-all,1.8.5,+,2011-05-08
+junit,3.8.1,-,2011-10-24
+junit,4.8.1,-,2011-10-24
+junit,4.8.1,-,2011-05-08
+junit,4.8.2,-,2011-10-20
+junit,4.8.2,+,2011-10-20
+el-api,2.2,+,2011-10-20
+el-api,2.2,-,2011-10-20
+javax.inject,1,+,2011-10-20
+javax.inject,1,+,2011-05-08
+javax.inject,1,+,2011-05-05
+javax.inject,1,-,2011-05-08
+javax.inject,1,-,2011-10-20
+servlet-api,2.5,+,2011-10-20
+servlet-api,2.5,-,2011-10-20

@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.10,+,2018-04-18
+junit,4.12,-,2019-02-09
+junit,4.12,+,2018-11-09
+jsr311-api,1.1.1,+,2019-02-09
+jsr311-api,1.1.1,+,2018-01-01
+guacamole-ext,0.9.13-incubating,-,2017-10-11
+guacamole-ext,1.0.0,-,2018-11-09
+guacamole-ext,0.9.14,-,2018-04-19
+guacamole-ext,1.1.0,-,2019-02-09

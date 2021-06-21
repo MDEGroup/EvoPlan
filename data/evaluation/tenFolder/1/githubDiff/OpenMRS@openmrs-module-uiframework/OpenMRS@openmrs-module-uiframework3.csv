@@ -1,0 +1,15 @@
+library,version,sign,date
+groovy,1.8.3,-,2014-02-05
+groovy,1.8.3,+,2014-02-05
+groovy,1.8.3,+,2012-03-07
+groovy,1.8.3,+,2013-10-02
+groovy,1.8.3,-,2014-01-21
+groovy,1.8.3,+,2014-01-21
+groovy,1.8.3,-,2013-10-02
+servlet-api,2.5,-,2013-10-02
+servlet-api,2.5,+,2012-03-10
+servlet-api,2.5,-,2014-01-21
+servlet-api,2.5,+,2014-02-05
+servlet-api,2.5,-,2014-02-05
+servlet-api,2.5,+,2013-10-02
+servlet-api,2.5,+,2014-01-21

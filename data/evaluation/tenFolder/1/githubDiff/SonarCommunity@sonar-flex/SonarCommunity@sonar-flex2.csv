@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.10,-,2015-10-07
+junit,4.11,-,2015-10-07
+junit,4.12,+,2015-10-07
+junit,4.11,+,2015-08-04
+junit,4.10,+,2014-09-16
+logback-classic,0.9.15,-,2015-10-07
+assertj-core,3.9.0,+,2016-07-26
+sslr-xpath,1.13-SNAPSHOT,-,2012-06-02
+sslr-xpath,1.13,-,2012-06-25
+commons-io,1.3.2,+,2015-10-07

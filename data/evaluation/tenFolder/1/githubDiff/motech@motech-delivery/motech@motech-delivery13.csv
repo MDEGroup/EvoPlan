@@ -1,0 +1,11 @@
+library,version,sign,date
+spring-test,3.0.5.RELEASE,-,2012-08-23
+spring-test,3.0.5.RELEASE,+,2012-01-24
+spring-webmvc,3.0.5.RELEASE,-,2012-08-23
+spring-webmvc,3.0.5.RELEASE,+,2012-01-24
+quartz,1.8.4,-,2011-12-26
+quartz,1.6.3,+,2012-01-24
+quartz,2.1.5,+,2012-01-24
+quartz,2.1.0,-,2012-01-02
+motech-deliverytools-common,0.3-SNAPSHOT,-,2012-01-24
+servlet-api,2.4,+,2012-01-24

@@ -1,0 +1,8 @@
+library,version,sign,date
+ojdbc6,11.1.0.7.0,+,2017-12-05
+fastjson,1.1.35,-,2016-12-30
+fastjson,1.2.28,-,2018-11-26
+mysql-connector-java,5.1.40,-,2018-11-26
+mysql-connector-java,5.1.35,-,2017-12-05
+mysql-connector-java,5.1.12,-,2014-09-23
+guava,r08,-,2016-12-30

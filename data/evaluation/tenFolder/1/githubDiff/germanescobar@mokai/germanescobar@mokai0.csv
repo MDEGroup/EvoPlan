@@ -1,0 +1,9 @@
+library,version,sign,date
+mockito-all,1.8.5,-,2011-06-23
+mockito-all,1.8.5,+,2011-06-23
+mockito-all,1.8.5,-,2010-09-14
+mockito-all,1.8.5,+,2010-09-14
+testng,5.13,+,2012-01-29
+testng,5.9,-,2012-01-29
+testng,5.13,-,2014-06-26
+testng,6.9.10,+,2014-06-26

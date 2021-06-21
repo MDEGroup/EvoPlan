@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.4,-,2012-04-28
+junit,4.8.2,+,2012-04-28
+junit,4.8.2,-,2017-05-18
+junit,4.8.1,-,2012-04-28
+junit,4.4,-,2017-05-18
+jboss-logging-processor,2.0.0.Final,+,2014-11-06
+jboss-logging-processor,1.0.0.Final,+,2012-04-28
+jboss-logging-processor,2.0.0.Final,-,2017-05-18
+jboss-logging-processor,1.0.0.Final,-,2014-11-06
+jboss-logging-annotations,2.0.0.Final,+,2014-11-06
+jboss-logging-annotations,2.0.0.Final,-,2017-05-18
+jboss-logging,3.2.1.Final,-,2017-05-18
+jboss-logging,3.1.0.GA,-,2014-11-06
+jboss-logging,3.2.1.Final,+,2014-11-06
+jboss-logging,3.1.0.GA,+,2012-04-28

@@ -1,0 +1,12 @@
+library,version,sign,date
+honeycomb,0.1-SNAPSHOT,-,2013-05-22
+honeycomb,0.1-SNAPSHOT,+,2013-05-17
+honeycomb,0.1-SNAPSHOT,-,2013-05-17
+guice-multibindings,3.0,+,2013-05-17
+guice-multibindings,3.0,-,2013-05-17
+clojure,1.5.1,+,2013-05-17
+clojure,1.5.1,-,2013-05-17
+guava,14.0.1,+,2013-05-17
+guava,14.0.1,-,2013-05-17
+guice,3.0,+,2013-05-17
+guice,3.0,-,2013-05-17

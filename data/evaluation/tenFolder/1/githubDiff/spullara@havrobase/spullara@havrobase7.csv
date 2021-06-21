@@ -1,0 +1,13 @@
+library,version,sign,date
+client,2.5.1,+,2010-06-27
+client,2.5.1,+,2010-07-05
+client,2.5.1,-,2010-06-23
+base,0.1.3-SNAPSHOT,-,2010-07-26
+base,0.1,+,2010-06-27
+base,0.1-SNAPSHOT,-,2010-06-27
+base,0.1-SNAPSHOT,+,2010-06-23
+base,0.1-SNAPSHOT,-,2010-06-23
+base,0.1.1-SNAPSHOT,-,2010-07-04
+base,0.1,-,2010-06-28
+base,0.1.4-SNAPSHOT,-,2010-08-08
+base,0.1.2-SNAPSHOT,-,2010-07-04

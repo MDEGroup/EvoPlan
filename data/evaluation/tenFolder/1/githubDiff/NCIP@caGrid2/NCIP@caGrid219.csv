@@ -1,0 +1,15 @@
+library,version,sign,date
+com.springsource.javax.persistence,1.99.0,-,2013-06-20
+com.springsource.javax.persistence,1.99.0,-,2013-12-17
+com.springsource.javax.persistence,1.99.0,+,2013-12-17
+com.springsource.javax.persistence,2.0.0,-,2013-06-13
+com.springsource.javax.persistence,1.99.0,+,2013-06-20
+com.springsource.javax.persistence,1.99.0,+,2013-06-13
+commons-dbcp,1.4,+,2013-06-20
+commons-dbcp,1.4,-,2013-06-20
+com.springsource.org.hibernate.annotations,3.4.0.GA,+,2013-06-13
+com.springsource.org.hibernate.annotations,3.4.0.GA,+,2013-12-17
+com.springsource.org.hibernate.annotations,3.4.0.GA,+,2013-06-20
+com.springsource.org.hibernate.annotations,3.3.1.ga,-,2013-06-13
+com.springsource.org.hibernate.annotations,3.4.0.GA,-,2013-12-17
+com.springsource.org.hibernate.annotations,3.4.0.GA,-,2013-06-20

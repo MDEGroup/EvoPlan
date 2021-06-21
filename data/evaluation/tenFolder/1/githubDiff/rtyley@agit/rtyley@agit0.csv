@@ -1,0 +1,10 @@
+library,version,sign,date
+android,2.1_r1,+,2010-10-11
+android,2.2.1,+,2010-10-13
+android,2.3.3,+,2012-01-18
+android,2.3.3,-,2012-05-21
+android,4.0.1.2,+,2012-05-21
+android,2.2.1,-,2011-04-04
+android,2.3.3,-,2012-01-18
+android,2.3.3,+,2011-04-04
+android,2.1_r1,-,2010-10-13

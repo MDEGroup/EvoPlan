@@ -1,0 +1,9 @@
+library,version,sign,date
+bukkit,LATEST,+,2013-09-16
+bukkit,LATEST,-,2013-09-16
+bukkit,LATEST,+,2013-04-08
+bukkit,LATEST,-,2013-04-08
+Vault,1.2.25-SNAPSHOT,+,2013-09-16
+Vault,1.2.25-SNAPSHOT,-,2013-04-08
+Vault,1.2.25-SNAPSHOT,+,2013-04-08
+Vault,1.2.25-SNAPSHOT,-,2013-09-16

@@ -1,0 +1,3 @@
+library,version,sign,date
+wildfly-ejb-client-bom,7.1.0.Alpha1-redhat-SNAPSHOT,+,2017-02-21
+wildfly-ejb-client-bom,7.1.0.Alpha1-redhat-SNAPSHOT,-,2017-03-14

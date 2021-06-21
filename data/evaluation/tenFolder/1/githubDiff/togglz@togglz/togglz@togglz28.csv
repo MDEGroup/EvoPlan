@@ -1,0 +1,8 @@
+library,version,sign,date
+jboss-servlet-api_3.0_spec,1.0.1.Final,+,2018-06-30
+hibernate-validator,6.0.17.Final,+,2019-11-20
+hibernate-validator,6.0.17.Final,-,2019-11-20
+hibernate-validator,6.0.17.Final,+,2019-11-19
+thymeleaf-spring4,3.0.11.RELEASE,+,2019-11-20
+spring-security-web,3.2.5.RELEASE,-,2018-06-30
+thymeleaf,3.0.11.RELEASE,+,2019-11-20

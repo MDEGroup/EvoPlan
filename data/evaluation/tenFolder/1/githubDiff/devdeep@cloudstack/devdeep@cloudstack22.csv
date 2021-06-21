@@ -1,0 +1,6 @@
+library,version,sign,date
+aspectjtools,1.6.2,+,2013-06-28
+aspectjtools,1.7.0,+,2013-08-02
+aspectjtools,1.6.2,-,2013-08-01
+aspectjtools,1.6.2,-,2013-08-02
+aspectjtools,1.6.2,+,2013-08-01

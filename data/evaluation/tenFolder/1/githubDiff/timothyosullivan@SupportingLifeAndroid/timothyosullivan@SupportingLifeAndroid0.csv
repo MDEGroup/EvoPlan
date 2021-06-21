@@ -1,0 +1,9 @@
+library,version,sign,date
+jackson-core-asl,1.9.12,-,2013-06-04
+jackson-core-asl,1.9.12,+,2013-05-28
+spring-android-rest-template,1.0.1.RELEASE,+,2013-05-28
+spring-android-rest-template,1.0.1.RELEASE,-,2013-06-04
+jackson-mapper-asl,1.9.12,-,2013-06-04
+jackson-mapper-asl,1.9.12,+,2013-05-28
+support-v4,r7,-,2013-06-04
+support-v4,r7,+,2013-05-27

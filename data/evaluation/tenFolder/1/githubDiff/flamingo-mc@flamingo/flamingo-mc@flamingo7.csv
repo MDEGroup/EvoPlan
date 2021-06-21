@@ -1,0 +1,17 @@
+library,version,sign,date
+jakarta.mail,1.6.5,+,2020-03-03
+jakarta.mail,1.6.4,-,2020-03-03
+jakarta.mail,1.6.4,+,2019-08-27
+jakarta.mail,1.6.3,-,2019-08-27
+postgresql,42.2.6,+,2019-05-24
+postgresql,42.2.9,+,2019-12-02
+postgresql,42.2.10,-,2020-03-03
+postgresql,42.2.9,-,2020-02-06
+postgresql,42.2.6,-,2019-08-27
+postgresql,42.2.8,+,2019-09-12
+postgresql,42.2.10,+,2020-02-06
+postgresql,42.2.8,-,2019-12-02
+postgresql,42.2.5,-,2019-05-24
+postgresql,42.2.7,+,2019-08-27
+postgresql,42.2.12,+,2020-03-03
+postgresql,42.2.7,-,2019-09-12

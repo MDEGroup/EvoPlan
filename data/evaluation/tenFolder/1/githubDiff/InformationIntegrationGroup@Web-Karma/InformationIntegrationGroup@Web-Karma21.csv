@@ -1,0 +1,10 @@
+library,version,sign,date
+sesame-repository,2.7.1,-,2014-01-23
+commands-python,0.0.1-SNAPSHOT,+,2014-01-23
+karma-common,0.0.1-SNAPSHOT,-,2014-01-23
+sesame-rio-turtle,2.7.1,-,2014-01-23
+commands-worksheet,0.0.1-SNAPSHOT,-,2014-01-23
+sesame-sail-memory,2.7.1,-,2014-01-23
+sesame-repository-http,2.7.1,-,2014-01-23
+sesame,2.7.1,-,2014-01-23
+sesame-repository-sail,2.7.1,-,2014-01-23

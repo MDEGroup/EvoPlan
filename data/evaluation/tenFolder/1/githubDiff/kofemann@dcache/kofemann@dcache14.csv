@@ -1,0 +1,16 @@
+library,version,sign,date
+logback-classic,1.0.0,+,2011-12-15
+logback-classic,1.0.6,-,2012-12-17
+logback-classic,1.0.9,+,2013-01-15
+logback-classic,1.0.9,-,2013-04-15
+logback-classic,1.1.1,-,2014-03-12
+logback-classic,1.0.0,-,2012-06-18
+logback-classic,0.9.30,+,2011-11-05
+logback-classic,0.9.30,-,2011-11-14
+logback-classic,1.0.12,-,2013-05-21
+logback-classic,1.0.9,-,2013-01-15
+logback-classic,1.0.12,-,2018-12-19
+logback-classic,1.1.3,-,2015-04-16
+logback-classic,1.1.4,-,2019-04-09
+logback-classic,1.0.13,-,2013-09-02
+logback-classic,1.0.0,-,2011-12-19

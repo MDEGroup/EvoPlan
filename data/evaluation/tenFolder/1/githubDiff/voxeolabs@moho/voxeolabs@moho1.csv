@@ -1,0 +1,66 @@
+library,version,sign,date
+moho-impl,1.0-SNAPSHOT,-,2013-01-05
+moho-impl,trunk-SNAPSHOT,-,2012-12-14
+moho-impl, 1.0-SNAPSHOT   ,-,2012-12-19
+moho-impl,trunk-SNAPSHOT,-,2013-05-13
+moho-impl,trunk-SNAPSHOT,-,2012-12-27
+moho-impl,0.8-SNAPSHOT,+,2011-10-08
+moho-impl,trunk,-,2013-03-27
+moho-impl, 1.0-SNAPSHOT   ,-,2012-11-30
+moho-impl,cpa-SNAPSHOT,-,2013-02-19
+moho-impl,trunk-SNAPSHOT,-,2013-01-08
+moho-impl,trunk-SNAPSHOT,-,2013-03-27
+moho-impl,1.1-SNAPSHOT,-,2013-05-09
+moho-impl,0.8-SNAPSHOT,-,2011-10-14
+moho-api,1.0-SNAPSHOT,-,2013-01-05
+moho-api,trunk-SNAPSHOT,-,2012-12-14
+moho-api,0.8-SNAPSHOT,+,2011-09-26
+moho-api,0.8-SNAPSHOT,+,2011-09-23
+moho-api,0.8-SNAPSHOT,-,2011-10-08
+moho-api,trunk-SNAPSHOT,-,2013-05-13
+moho-api, 1.0-SNAPSHOT   ,+,2011-10-14
+moho-api, 1.0-SNAPSHOT   ,-,2013-05-13
+moho-api,cpa-SNAPSHOT,-,2013-02-19
+moho-api,0.8-SNAPSHOT,-,2011-10-14
+moho-api,0.8-SNAPSHOT,-,2011-09-26
+moho-api,0.8-SNAPSHOT,-,2011-09-23
+moho-api, 1.0-SNAPSHOT   ,-,2012-12-19
+moho-api,trunk-SNAPSHOT,-,2012-12-27
+moho-api,0.8-SNAPSHOT,+,2011-10-08
+moho-api,trunk,-,2013-03-27
+moho-api, 1.0-SNAPSHOT   ,-,2012-11-30
+moho-api,trunk-SNAPSHOT,-,2013-01-08
+moho-api,trunk-SNAPSHOT,-,2013-03-27
+moho-api,1.1-SNAPSHOT,-,2013-05-09
+sipservlet-api,1.1-SNAPSHOT,-,2013-05-13
+sipservlet-api,1.1-SNAPSHOT,-,2011-09-23
+sipservlet-api,1.1-SNAPSHOT,-,2011-09-26
+sipservlet-api,1.1-SNAPSHOT,+,2011-09-26
+sipservlet-api,1.1-SNAPSHOT,-,2011-10-08
+sipservlet-api,1.1-SNAPSHOT,+,2011-09-23
+sipservlet-api,1.1-SNAPSHOT,+,2011-10-08
+hector-core,0.8.0-2,+,2011-09-23
+hector-core,0.8.0-2,-,2011-09-23
+hector-core,0.8.0-2,+,2011-09-26
+hector-core,0.8.0-2,-,2011-09-26
+xmppservlet-api,2.0-SNAPSHOT,+,2011-09-26
+xmppservlet-api,2.0-SNAPSHOT,+,2011-09-23
+servlet-api,2.5,-,2011-10-08
+servlet-api,2.5,-,2011-09-26
+servlet-api,2.5,+,2011-10-08
+servlet-api,2.5,-,2011-09-23
+servlet-api,2.5,+,2011-09-26
+servlet-api,2.5,+,2011-09-23
+servlet-api,2.5,-,2013-05-13
+log4j,1.2.15,-,2013-05-13
+log4j,1.2.16,+,2013-02-19
+log4j,1.2.15,-,2011-09-23
+log4j,1.2.16,+,2011-10-08
+log4j,1.2.15,+,2011-09-23
+log4j,1.2.15,+,2011-09-26
+log4j,1.2.15,-,2011-09-26
+log4j,1.2.15,+,2011-10-08
+log4j,1.2.16,+,2013-05-13
+log4j,1.2.15,-,2011-10-08
+log4j,1.2.15,-,2011-10-14
+log4j,1.2.15,+,2011-10-14

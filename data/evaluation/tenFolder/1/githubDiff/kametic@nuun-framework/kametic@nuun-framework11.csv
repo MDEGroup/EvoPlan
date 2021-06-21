@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.11,+,2013-10-09
+logback-classic,1.0.0,+,2013-10-09
+assertj-core,1.3.0,+,2013-10-09
+nuun-kernel,1.1.0.M3,+,2013-10-09

@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.12,+,2018-03-09
+junit,4.12,-,2018-03-09
+org.eclipse.persistence.jpa,2.7.1,-,2018-03-09
+org.eclipse.persistence.jpa,2.7.4,+,2018-03-09
+org.eclipse.persistence.jpa,2.6.5,-,2018-02-18
+hsqldb,2.3.5,-,2018-02-18
+hsqldb,2.4.0,-,2018-03-09
+hsqldb,2.4.1,+,2018-03-09
+h2,1.4.196,-,2018-03-09
+h2,1.4.199,+,2018-03-09
+log4j-core,{Log4jReleaseVersion},+,2018-03-09

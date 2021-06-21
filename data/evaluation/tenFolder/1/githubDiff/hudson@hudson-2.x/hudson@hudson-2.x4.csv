@@ -1,0 +1,15 @@
+library,version,sign,date
+hudson-core,2.1.0-SNAPSHOT,-,2011-06-20
+hudson-core,2.1.0,-,2011-07-22
+hudson-core,2.1.0-SNAPSHOT,-,2011-06-10
+hudson-core,2.1.0-BETA-1,-,2011-06-20
+hudson-core,2.1.2,-,2011-10-06
+hudson-core,2.1.0-BETA-1,-,2011-06-21
+hudson-core,2.2.0,-,2011-12-08
+hudson-core,2.1.0-SNAPSHOT,-,2011-06-22
+hudson-core,2.2.0,+,2011-10-06
+hudson-core,2.1.1-SNAPSHOT,-,2011-07-22
+hudson-core,2.1.2-SNAPSHOT,-,2011-08-25
+hudson-core,2.1.1,-,2011-08-25
+hudson-core,2.1.0-SNAPSHOT ,-,2011-06-21
+hudson-core,2.1.2,+,2011-08-25

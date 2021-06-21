@@ -1,0 +1,8 @@
+library,version,sign,date
+org.blockout.logic,0.0.1-SNAPSHOT,-,2012-04-26
+org.blockout.logic,1.0.0-SNAPSHOT,-,2012-04-26
+org.blockout.ui,0.0.1-SNAPSHOT,-,2012-04-26
+org.blockout.ui,1.0.0-SNAPSHOT,+,2012-04-26
+org.blockout.world,0.0.1-SNAPSHOT,-,2012-04-26
+org.blockout.world,1.0.0-SNAPSHOT,-,2012-04-26
+org.blockout.common,1.0.0-SNAPSHOT,-,2012-04-26

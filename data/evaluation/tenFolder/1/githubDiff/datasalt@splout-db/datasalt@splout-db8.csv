@@ -1,0 +1,8 @@
+library,version,sign,date
+jedis,2.2.1,-,2014-01-09
+jedis,2.2.1,+,2014-01-09
+compress-lzf,0.9.9,+,2014-01-09
+compress-lzf,0.9.9,-,2014-01-09
+embedded-redis,0.1,-,2014-01-09
+embedded-redis,0.1,+,2014-01-09
+embedded-redis,0.1,-,2014-01-02

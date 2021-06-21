@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,4.11,+,2014-03-03
+junit,4.11,+,2014-04-24
+junit,4.11,+,2014-02-21
+junit,4.11,-,2014-04-24
+junit,4.11,-,2014-02-21
+junit,4.12,+,2014-10-24
+junit,4.11,-,2014-10-24
+junit,4.11,-,2014-03-03
+signalr-client-api,0.0.1-SNAPSHOT,+,2014-04-24
+signalr-client-api,0.0.1-SNAPSHOT,-,2014-04-24
+signalr-client-api,0.0.1-SNAPSHOT,+,2014-02-18
+signalr-client-api,0.0.1-SNAPSHOT,-,2014-05-17
+signalr-client-api,0.0.1-SNAPSHOT,+,2014-03-03
+jackson-databind,2.2.3,-,2014-02-21
+jackson-core,2.2.3,-,2014-02-21
+jackson-core,2.2.3,+,2014-02-18

@@ -1,0 +1,6 @@
+library,version,sign,date
+org.openbel.parent,2.0.1,-,2012-07-23
+org.openbel.parent,2.0.0-SNAPSHOT,+,2012-05-18
+org.openbel.parent,2.0.0-SNAPSHOT,-,2012-05-18
+org.openbel.parent,2.0.0-SNAPSHOT,-,2012-06-29
+org.openbel.parent,2.0.0,-,2012-07-02

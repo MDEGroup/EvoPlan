@@ -1,0 +1,11 @@
+library,version,sign,date
+slf4j-api,1.6.2,-,2013-08-12
+scannotation,1.0.2,-,2013-08-12
+junit,4.10,-,2013-08-12
+junit,3.8.1,-,2013-08-12
+jcl-over-slf4j,1.6.2,-,2013-08-12
+slf4j-simple,1.6.2,-,2013-08-12
+jcip-annotations,1.0,-,2013-08-12
+resteasy-jaxrs,1.2.1.GA,-,2013-08-12
+activation,1.1.1,-,2013-08-12
+httpclient,4.1.2,-,2013-08-12

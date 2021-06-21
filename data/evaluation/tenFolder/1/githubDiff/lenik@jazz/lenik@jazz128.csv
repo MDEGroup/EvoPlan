@@ -1,0 +1,12 @@
+library,version,sign,date
+bas-c3,2.0.0-SNAPSHOT,+,2012-07-12
+bas-c3,2.0.0-SNAPSHOT,+,2013-01-02
+bas-c3,2.0.0-SNAPSHOT,+,2012-08-21
+bas-c3,2.0.0-SNAPSHOT,-,2012-07-12
+bas-c3,2.0.0-SNAPSHOT,-,2013-01-02
+bas-c3,2.0.0-SNAPSHOT,-,2012-08-21
+mda-xjdoc,0.0.1-SNAPSHOT,-,2012-08-21
+mda-xjdoc,0.0.1-SNAPSHOT,+,2012-07-04
+mda-xjdoc,0.0.1-SNAPSHOT,-,2013-01-02
+mda-xjdoc,0.0.1-SNAPSHOT,+,2012-07-12
+mda-xjdoc,0.0.1-SNAPSHOT,-,2012-07-04

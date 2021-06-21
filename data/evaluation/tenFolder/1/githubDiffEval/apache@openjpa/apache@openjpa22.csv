@@ -1,0 +1,6 @@
+library,version,sign,date
+openjpa-kernel,@pom.version@,+,2015-04-19
+openjpa-kernel,0.0.1,-,2006-07-11
+openjpa-kernel,0.0.1,-,2006-07-20
+openjpa-kernel,@pom.version@,+,2011-11-22
+openjpa-kernel,0.0.1,+,2006-07-12

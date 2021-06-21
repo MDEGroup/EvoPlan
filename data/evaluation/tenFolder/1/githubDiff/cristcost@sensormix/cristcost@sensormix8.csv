@@ -1,0 +1,4 @@
+library,version,sign,date
+protobuf-java,2.5.0,-,2013-12-01
+protobuf-java,2.5.0,+,2013-10-13
+httpclient,4.3.3,+,2013-12-09

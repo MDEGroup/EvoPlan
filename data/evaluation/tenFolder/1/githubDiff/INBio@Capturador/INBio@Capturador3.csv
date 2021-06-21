@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,3.8.1,-,2012-07-17
+junit,3.8.1,+,2012-07-17
+atta-ejb,2.0-SNAPSHOT,-,2012-07-17
+atta-ejb,2.0-SNAPSHOT,+,2012-07-17
+jsf-extensions-common,0.1,+,2012-07-31
+webui-jsf-suntheme,4.4.0.1,-,2012-07-31
+webui-jsf,4.4.0.1,-,2012-07-31
+jsf-extensions,0.1,+,2012-07-17
+webui-jsf-dt,4.4.0.1,-,2012-07-31

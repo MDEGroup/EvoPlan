@@ -1,0 +1,6 @@
+library,version,sign,date
+java-cup,0.11a,+,2012-04-13
+java-cup,0.11a,-,2012-04-13
+java-cup,11a,-,2012-04-13
+junit,3.8.2,-,2012-04-13
+junit,3.8.2,+,2012-04-13

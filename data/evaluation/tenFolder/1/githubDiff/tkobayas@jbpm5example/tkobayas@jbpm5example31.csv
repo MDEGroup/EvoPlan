@@ -1,0 +1,14 @@
+library,version,sign,date
+jbpm-bpmn2,5.3.0.BRMS,-,2013-01-23
+drools-compiler,5.3.0.BRMS,-,2013-01-23
+drools-persistence-jpa,5.3.0.BRMS,-,2013-01-23
+jbpm-bam,5.3.0.BRMS,-,2013-01-23
+drools-decisiontables,5.3.0.BRMS,-,2013-01-23
+jbpm-persistence-jpa,5.3.0.BRMS,-,2013-01-23
+drools-core,5.3.0.BRMS,-,2013-01-23
+jbpm-flow,5.3.0.BRMS,-,2013-01-23
+jbpm-flow-builder,5.3.0.BRMS,-,2013-01-23
+jbpm-human-task,5.3.0.BRMS,-,2013-01-23
+knowledge-api,5.3.0.BRMS,-,2013-01-23
+jbpm-workitems,5.3.0.BRMS,-,2013-01-23
+drools-templates,5.3.0.BRMS,-,2013-01-23

@@ -1,0 +1,10 @@
+library,version,sign,date
+hamcrest-library,1.3,-,2013-02-28
+elasticsearch,0.20.2,-,2013-02-20
+elasticsearch,0.19.8,+,2013-02-28
+elasticsearch,0.19.8,-,2013-02-28
+testng,6.8,+,2013-02-28
+testng,6.7,-,2013-02-28
+testng,6.8,-,2013-02-28
+httpclient,4.2.3,-,2013-02-28
+httpclient,4.2.3,+,2013-02-28

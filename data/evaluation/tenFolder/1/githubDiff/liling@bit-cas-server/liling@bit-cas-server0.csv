@@ -1,0 +1,6 @@
+library,version,sign,date
+mysql-connector-java,5.1.13,-,2011-03-01
+hibernate-entitymanager,3.5.0-CR-2,-,2011-01-29
+hibernate-entitymanager,4.1.0.Final,+,2012-07-18
+hibernate-entitymanager,3.5.1-Final,-,2011-03-01
+spring-web,3.1.1.RELEASE,+,2012-07-18

@@ -1,0 +1,6 @@
+library,version,sign,date
+jersey-server,1.8,+,2011-09-01
+jersey-core,1.8,+,2011-09-01
+asm,3.2,+,2011-09-01
+jersey-json,1.8,+,2011-09-01
+hadoop-annotations,0.23.0-SNAPSHOT,-,2011-08-25

@@ -1,0 +1,4 @@
+library,version,sign,date
+cloud-utils,4.2.0-SNAPSHOT,-,2013-04-05
+cloud-utils,4.2.0-SNAPSHOT,+,2013-02-20
+cloud-utils,4.1.0-SNAPSHOT,-,2013-02-13

@@ -1,0 +1,5 @@
+library,version,sign,date
+freemarker,2.3.14,+,2013-12-30
+mail,1.4,+,2013-12-30
+log4j,1.2.15,-,2013-10-23
+log4j,1.2.17,+,2013-10-23

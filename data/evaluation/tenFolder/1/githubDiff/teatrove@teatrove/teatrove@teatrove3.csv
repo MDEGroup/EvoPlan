@@ -1,0 +1,7 @@
+library,version,sign,date
+teaadmin,4.1.1-SNAPSHOT,+,2011-12-06
+teaadmin,4.1-SNAPSHOT,+,2011-12-06
+teaadmin,4.1-SNAPSHOT,-,2011-12-06
+teaadmin,4.1.1-SNAPSHOT,-,2011-12-06
+teaadmin,4.1-SNAPSHOT,+,2011-11-14
+servlet-api,2.3,-,2011-11-14

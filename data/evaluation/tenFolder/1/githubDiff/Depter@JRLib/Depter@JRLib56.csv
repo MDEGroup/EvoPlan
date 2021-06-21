@@ -1,0 +1,4 @@
+library,version,sign,date
+grscript-gui-script,1.0-SNAPSHOT,-,2013-05-24
+grscript-gui-util-notification,1.0-SNAPSHOT,-,2013-05-24
+grscript-gui-util-eventbus,1.0-SNAPSHOT,-,2013-05-24

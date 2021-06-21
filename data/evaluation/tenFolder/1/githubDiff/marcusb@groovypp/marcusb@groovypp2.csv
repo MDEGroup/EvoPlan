@@ -1,0 +1,8 @@
+library,version,sign,date
+asm-all,3.2,+,2010-03-17
+junit,4.7,+,2010-04-06
+groovy,1.8.0-beta-1-SNAPSHOT,-,2010-04-06
+groovy,1.8.0-beta-1-SNAPSHOT,+,2010-03-17
+groovy,1.8.0-beta-1-SNAPSHOT-gpp-@version@,-,2010-04-19
+commons-cli,1.2,+,2010-03-17
+antlr,2.7.7,+,2010-03-17

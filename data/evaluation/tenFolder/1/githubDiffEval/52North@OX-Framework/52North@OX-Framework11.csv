@@ -1,0 +1,14 @@
+library,version,sign,date
+oxf-common,2.0.0-alpha.4-SNAPSHOT,+,2013-08-02
+52n-xml-gml-v311,1.0.0,-,2012-07-13
+52n-oxf-xmlbeans,1.0.0-SNAPSHOT,-,2012-07-11
+52n-oxf-xmlbeans,2.0.0-alpha.4-SNAPSHOT,+,2013-08-02
+oxf-feature,2.0.0-alpha.4-SNAPSHOT,+,2013-08-02
+xmlbeans,2.6.0,+,2013-09-02
+xmlbeans,2.3.0,-,2012-08-17
+xmlbeans,2.6.0,+,2013-12-02
+xmlbeans,2.6.0,+,2015-05-12
+xmlbeans,2.6.0,-,2013-12-02
+xmlbeans,2.6.0,-,2015-05-12
+commons-io,2.4,+,2013-12-02
+52n-xml-sampling-v100,1.0.0,-,2012-07-13

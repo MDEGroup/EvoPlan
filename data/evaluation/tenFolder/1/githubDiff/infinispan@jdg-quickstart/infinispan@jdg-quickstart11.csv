@@ -1,0 +1,4 @@
+library,version,sign,date
+assertj-core,1.7.0,+,2019-02-11
+catch-exception,1.2.0,+,2019-02-11
+guava,18.0,+,2019-02-11

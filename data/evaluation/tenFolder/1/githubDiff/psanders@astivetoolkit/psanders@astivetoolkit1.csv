@@ -1,0 +1,17 @@
+library,version,sign,date
+jcl-core,2.7,+,2018-07-09
+jcl-core,2.7,-,2018-07-09
+junit,4.11,+,2018-07-09
+junit,4.11,-,2018-07-09
+astive-client,[1.0.0-RC1,),-,2018-07-09
+astive-client,[1.0.0-RC1,],+,2018-07-09
+astive-client,[1.0.0-RC1,),+,2018-07-09
+astive-client,[1.0.0-RC1,],-,2018-07-09
+commons-cli,1.2,+,2018-07-09
+commons-cli,1.2,-,2018-07-09
+astive-agi,[1.0.0-RC1,),-,2018-07-09
+astive-agi,[1.0.0-RC1,),+,2018-07-09
+astive-commons,[1.0.0-RC1,),-,2018-07-09
+astive-commons,[1.0.0-RC1,),+,2018-07-09
+xmlbeans,2.6.0,+,2018-07-09
+xmlbeans,2.6.0,-,2018-07-09

@@ -1,0 +1,9 @@
+library,version,sign,date
+jboss-javaee-6.0,1.0.0.Final,-,2011-10-03
+jboss-javaee-6.0,1.0.0.Final,-,2011-08-15
+jboss-javaee-6.0,1.0.0.Final,-,2011-06-01
+jboss-javaee-6.0,1.0.0.Final,+,2011-07-11
+jboss-javaee-6.0,1.0.0.Final,-,2011-07-21
+jboss-javaee-6.0,1.0.0.Final,+,2011-04-04
+cdi-api,1.0-SP4,-,2011-06-01
+cdi-api,1.0-SP4,+,2011-04-04

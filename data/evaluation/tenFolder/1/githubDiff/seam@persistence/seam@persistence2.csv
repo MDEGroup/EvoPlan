@@ -1,0 +1,7 @@
+library,version,sign,date
+hibernate-core,3.5.1-Final,+,2010-09-03
+hibernate-core,3.5.1-Final,+,2010-07-25
+hibernate-core,3.5.1-Final,-,2010-08-07
+cdi-api,1.0-SP2,-,2010-12-22
+cdi-api,1.0-SP2,+,2010-09-03
+cdi-api,1.0-SP3,-,2011-03-19

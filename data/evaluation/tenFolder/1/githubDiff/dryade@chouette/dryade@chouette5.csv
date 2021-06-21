@@ -1,0 +1,17 @@
+library,version,sign,date
+velocity-tools,2.0,+,2013-03-04
+mockito-all,1.9.5,+,2013-03-19
+spring-test,3.0.5.RELEASE,-,2013-03-15
+spring-test,3.0.5.RELEASE,-,2013-03-19
+spring-beans,3.0.5.RELEASE,-,2013-03-15
+spring-beans,3.0.5.RELEASE,-,2013-03-19
+spring-core,3.0.5.RELEASE,-,2013-03-15
+spring-core,3.0.5.RELEASE,-,2013-03-19
+vtd-xml,2.11,+,2013-02-20
+modelcitizen,0.3.0,-,2013-02-13
+lombok,0.10.8,-,2013-03-20
+lombok,0.10.0,-,2013-03-19
+log4j,1.2.13,-,2013-03-19
+spring-context-support,3.0.5.RELEASE,-,2013-03-15
+spring-context-support,3.0.5.RELEASE,+,2013-03-19
+spring-context-support,3.0.5.RELEASE,-,2013-03-19

@@ -1,0 +1,16 @@
+library,version,sign,date
+mysql-connector-java,5.1.24,+,2013-04-29
+pragmatach-ebean,1.28-SNAPSHOT,-,2013-05-03
+pragmatach-ebean,1.27-SNAPSHOT,-,2013-04-29
+pragmatach-ebean,1.32-SNAPSHOT,-,2014-01-27
+pragmatach-framework,1.41-SNAPSHOT,+,2014-01-27
+pragmatach-framework,1.28-SNAPSHOT,+,2013-04-29
+pragmatach-framework,1.32-SNAPSHOT,-,2014-01-27
+pragmatach-framework,1.27-SNAPSHOT,-,2013-04-29
+pragmatach-framework,1.32-SNAPSHOT,+,2013-05-03
+pragmatach-framework,1.28-SNAPSHOT,-,2013-05-03
+pragmatach-adminapp,1.27-SNAPSHOT,-,2013-04-29
+pragmatach-adminapp,1.41-SNAPSHOT,+,2014-01-27
+pragmatach-adminapp,1.28-SNAPSHOT,+,2013-04-29
+pragmatach-adminapp,1.28-SNAPSHOT,-,2013-05-03
+pragmatach-adminapp,1.32-SNAPSHOT,-,2014-01-27

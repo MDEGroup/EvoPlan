@@ -1,0 +1,7 @@
+library,version,sign,date
+com.ibm.websphere.security,1.0.3,+,2015-03-09
+com.ibm.websphere.security,1.0.3,-,2015-03-09
+com.ibm.ws.security.token,1.0.2,+,2015-03-09
+com.ibm.ws.security.token,1.0.2,-,2015-03-09
+com.ibm.ws.security.authentication.tai,1.0.3,+,2015-03-09
+com.ibm.ws.security.authentication.tai,1.0.3,-,2015-03-09

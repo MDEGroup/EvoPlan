@@ -1,0 +1,6 @@
+library,version,sign,date
+hsqldb,1.8.0.7,+,2013-05-10
+hsqldb,1.8.0.7,-,2013-07-07
+commons-collections,3.2.1,+,2013-05-12
+commons-dbcp,1.2.2,+,2013-05-09
+hibernate-core,3.6.10.Final,+,2013-05-09

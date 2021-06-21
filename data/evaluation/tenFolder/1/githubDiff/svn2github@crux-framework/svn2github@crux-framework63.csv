@@ -1,0 +1,17 @@
+library,version,sign,date
+crux-dev,5.2.0-SNAPSHOT,-,2014-04-16
+crux-dev,5.0.4,+,2014-04-16
+crux-dev,5.1.0,+,2014-06-06
+crux-dev,5.1.1,-,2014-05-19
+crux-dev,5.0.4,-,2014-04-16
+crux-dev,5.1.0-SNAPSHOT,-,2014-06-06
+crux-dev,5.1.0-SNAPSHOT,+,2014-04-16
+crux-dev,5.1.1,+,2014-06-06
+crux-dev,5.2.0-SNAPSHOT,-,2014-06-06
+crux-dev,5.1.2,+,2014-06-18
+crux-dev,5.1.1,-,2014-06-18
+crux-dev,5.2.0-SNAPSHOT,+,2014-04-16
+crux-dev,#version,-,2014-04-16
+crux-dev,5.1.0-SNAPSHOT,-,2014-04-16
+crux-dev,5.1.0-SNAPSHOT,-,2014-04-15
+crux-dev,#version,+,2014-04-16

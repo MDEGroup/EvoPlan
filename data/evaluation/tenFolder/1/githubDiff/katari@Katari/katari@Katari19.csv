@@ -1,0 +1,15 @@
+library,version,sign,date
+acegi-security,1.0.7,-,2010-10-21
+hsqldb,1.8.0.7,-,2010-10-21
+commons-collections,3.2,-,2010-10-21
+commons-logging,1.1.1,+,2010-12-30
+commons-logging,1.1,-,2010-10-21
+commons-beanutils,1.8.3,+,2010-06-03
+poi,3.0.2-FINAL,-,2010-10-21
+jasperreports,2.0.4,-,2010-10-21
+commons-fileupload,1.2,-,2010-10-21
+commons-lang,2.1,-,2010-07-04
+commons-lang,2.1,-,2010-06-16
+commons-lang,2.5,-,2010-10-21
+servlet-api,2.4,-,2010-10-21
+servlet-api,2.4,-,2010-12-30

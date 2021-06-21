@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.12,+,2019-10-29
+junit,4.12,-,2019-10-29
+junit,4.12,-,2019-12-03
+junit,3.8.1,+,2019-10-29

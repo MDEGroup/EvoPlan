@@ -1,0 +1,9 @@
+library,version,sign,date
+validation-api,1.0.0.GA,+,2011-03-22
+gwt-user,2.3.0,-,2011-06-28
+gwt-user,2.4.0,-,2012-11-30
+gwt-dev,2.3.0,+,2011-03-22
+gwt-dev,2.3.0,-,2011-06-28
+gwt-dev,2.4.0,-,2012-11-30
+gwtexporter,2.3.0-2,-,2011-06-28
+gwtexporter,2.4.0-SNAPSHOT,-,2011-11-09

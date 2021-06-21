@@ -1,0 +1,3 @@
+library,version,sign,date
+resteasy-multipart-provider,2.3.0.GA,+,2011-12-14
+resteasy-jackson-provider,2.3.0.GA,+,2011-12-14

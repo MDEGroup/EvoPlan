@@ -1,0 +1,6 @@
+library,version,sign,date
+hibernate-core,3.6.10.Final,-,2012-07-05
+javax.inject,1,-,2014-09-29
+javax.inject,1,+,2012-06-19
+javax.inject,1,-,2012-06-19
+javax.inject,1,+,2014-09-29

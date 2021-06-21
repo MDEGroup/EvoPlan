@@ -1,0 +1,5 @@
+library,version,sign,date
+mediasystem-core,1.0.0-SNAPSHOT,+,2013-12-29
+mediasystem-core,1.0.0-SNAPSHOT,-,2013-12-29
+vlcj,2.4.1,+,2013-10-18
+vlcj,2.4.1,-,2015-11-08

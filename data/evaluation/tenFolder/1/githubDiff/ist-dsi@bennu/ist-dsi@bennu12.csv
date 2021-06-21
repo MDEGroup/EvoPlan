@@ -1,0 +1,12 @@
+library,version,sign,date
+bennu-core,2.0-SNAPSHOT,-,2013-03-14
+fenixedu-commons,1.0.0,+,2014-01-10
+fenixedu-commons,1.0.1,-,2015-05-27
+fenixedu-commons,1.0.0,-,2014-02-04
+fenixedu-commons,1.0.1,+,2015-05-27
+gson,2.2.2,-,2013-04-22
+guava,15.0,+,2014-01-10
+guava,13.0.1,-,2013-04-22
+guava,15.0,-,2014-02-04
+guava,17.0,+,2015-05-27
+guava,17.0,-,2015-05-27

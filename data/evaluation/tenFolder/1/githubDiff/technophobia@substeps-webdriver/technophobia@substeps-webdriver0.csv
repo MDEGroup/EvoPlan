@@ -1,0 +1,11 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2012-07-03
+junit,4.11,+,2013-10-24
+junit,4.10,-,2013-10-24
+slf4j-log4j12,1.6.4,+,2012-07-03
+slf4j-log4j12,1.6.4,-,2012-07-03
+substeps-junit-runner,1.0.2-SNAPSHOT,-,2012-12-05
+substeps-junit-runner,1.0.2-SNAPSHOT,+,2012-11-01
+commons-lang3,3.1,-,2012-12-05
+commons-lang3,3.1,+,2012-12-06
+commons-lang3,3.1,+,2012-11-01

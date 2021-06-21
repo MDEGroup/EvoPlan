@@ -1,0 +1,13 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,+,2013-10-12
+javax.servlet-api,3.0.1,+,2013-09-06
+javax.servlet-api,3.0.1,+,2013-09-19
+javax.servlet-api,3.0.1,-,2014-03-01
+javax.servlet-api,3.0.1,-,2013-09-06
+javax.servlet-api,3.1.0,+,2014-06-17
+javax.servlet-api,3.1.0,-,2014-06-17
+vsb-fou-common,1.0-SNAPSHOT,+,2013-10-12
+vsb-fou-common,1.0-SNAPSHOT,+,2013-09-19
+vsb-fou-common,1.0-SNAPSHOT,+,2014-03-01
+vsb-fou-common,1.0-SNAPSHOT,+,2013-10-09
+vsb-fou-common,1.0-SNAPSHOT,+,2014-05-22

@@ -1,0 +1,5 @@
+library,version,sign,date
+jsr305,2.0.1,+,2013-05-25
+clisp-java,1.0,+,2013-06-11
+clisp-java,1.0,+,2013-05-25
+commons-lang3,3.1,+,2013-06-08

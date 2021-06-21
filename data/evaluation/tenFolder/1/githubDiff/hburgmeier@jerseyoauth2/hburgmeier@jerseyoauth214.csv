@@ -1,0 +1,16 @@
+library,version,sign,date
+hibernate-validator,4.3.1.Final,+,2013-08-31
+hibernate-validator,4.3.1.Final,-,2013-08-31
+jsr305,2.0.1,+,2013-08-31
+jsr305,2.0.1,+,2013-03-07
+jsr305,2.0.1,-,2013-08-31
+hibernate-entitymanager,4.1.10.Final,+,2013-08-31
+hibernate-entitymanager,4.1.10.Final,-,2013-08-31
+hibernate-entitymanager,4.1.10.Final,-,2013-03-06
+hibernate-entitymanager,4.1.10.Final,+,2013-03-06
+hibernate-jpa-2.1-api,1.0.0.Draft-10,+,2013-03-06
+hibernate-jpa-2.1-api,1.0.0.Draft-10,-,2013-08-31
+hibernate-jpa-2.1-api,1.0.0.Draft-10,+,2013-08-31
+ehcache-core,2.6.5,+,2013-08-31
+ehcache-core,2.6.5,+,2013-03-07
+ehcache-core,2.6.5,-,2013-08-31

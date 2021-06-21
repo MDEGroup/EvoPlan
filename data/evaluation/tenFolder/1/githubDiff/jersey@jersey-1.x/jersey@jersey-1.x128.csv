@@ -1,0 +1,11 @@
+library,version,sign,date
+org.apache.felix.http.bundle,2.0.4,-,2010-03-02
+org.apache.felix.http.bundle,2.0.4,-,2010-03-25
+org.apache.felix.http.bundle,2.0.4,+,2010-03-02
+org.apache.felix.http.bundle,2.0.4,+,2010-03-25
+osgi_R4_core,1.0,+,2011-01-14
+osgi_R4_core,1.0,-,2012-06-25
+osgi_R4_core,1.0,+,2011-09-02
+osgi_R4_core,1.0,+,2010-03-02
+osgi_R4_core,1.0,-,2010-03-02
+osgi_R4_core,1.0,-,2010-03-25

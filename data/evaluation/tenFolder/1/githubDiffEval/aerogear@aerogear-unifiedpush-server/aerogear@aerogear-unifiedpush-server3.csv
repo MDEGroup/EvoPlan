@@ -1,0 +1,15 @@
+library,version,sign,date
+weld-api,3.1.Final,+,2019-05-15
+jboss-transaction-api_1.2_spec,1.1.1.Final,+,2019-05-15
+jboss-transaction-api_1.2_spec,1.1.1.Final,+,2019-05-08
+mockserver-netty,5.6.1,+,2019-09-18
+jboss-annotations-ejb3,4.2.2.GA,+,2019-03-14
+jboss-annotations-ejb3,4.2.2.GA,+,2019-05-08
+jboss-jms-api_1.1_spec,1.0.1.Final,+,2019-05-16
+httpclient,4.0.2,-,2019-07-18
+httpclient,4.0.2,+,2019-02-26
+pushy,0.13.9,+,2019-09-30
+pushy,0.13.2,-,2019-01-28
+pushy,0.10.2,-,2018-05-02
+pushy,0.13.2,-,2019-08-14
+pushy,0.10.2,-,2019-03-01

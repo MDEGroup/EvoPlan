@@ -1,0 +1,3 @@
+library,version,sign,date
+dropwizard-core,0.6.2,-,2013-05-05
+dropwizard-core,{$dropwizard.version},+,2017-02-13

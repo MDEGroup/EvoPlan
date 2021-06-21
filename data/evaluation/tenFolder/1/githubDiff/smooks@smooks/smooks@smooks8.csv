@@ -1,0 +1,11 @@
+library,version,sign,date
+ibatis-sqlmap,2.3.0,+,2018-10-26
+ibatis-sqlmap,2.3.0,-,2018-10-26
+ibatis-sqlmap,2.3.0,-,2020-02-02
+ibatis-sqlmap,2.3.0,-,2016-08-25
+ibatis-sqlmap,2.3.0,-,2012-03-05
+ibatis-sqlmap,2.3.0,-,2011-06-18
+ibatis-sqlmap,2.3.4.726,+,2020-02-02
+ibatis-sqlmap,2.3.0,+,2016-08-25
+ibatis-sqlmap,2.3.0,+,2012-03-05
+ibatis-sqlmap,2.3.0,+,2011-06-18

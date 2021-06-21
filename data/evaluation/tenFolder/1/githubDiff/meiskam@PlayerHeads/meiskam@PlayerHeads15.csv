@@ -1,0 +1,10 @@
+library,version,sign,date
+bukkit,1.14.1-R0.1-SNAPSHOT,-,2019-05-18
+bukkit,1.14-R0.1-SNAPSHOT,-,2019-05-17
+bukkit,1.14.2-R0.1-SNAPSHOT,-,2019-07-08
+bukkit,1.14-R0.1-SNAPSHOT,-,2019-07-18
+bukkit,1.14.3-R0.1-SNAPSHOT,-,2019-07-18
+bukkit,1.14-R0.1-SNAPSHOT,+,2019-04-26
+bukkit,1.14-R0.1-SNAPSHOT,+,2019-04-28
+bukkit,1.8-R0.1-SNAPSHOT,+,2019-04-28
+annotations,15.0,+,2019-04-26

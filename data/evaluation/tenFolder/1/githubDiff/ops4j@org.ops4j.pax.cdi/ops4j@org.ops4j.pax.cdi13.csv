@@ -1,0 +1,12 @@
+library,version,sign,date
+org.osgi.core,5.0.0,-,2016-10-19
+org.osgi.core,6.0.0,+,2016-10-19
+org.osgi.core,6.0.0,+,2015-05-19
+org.osgi.core,6.0.0,-,2016-10-19
+org.osgi.core,6.0.0,-,2015-05-19
+org.osgi.core,4.3.1,-,2016-10-19
+org.osgi.compendium,4.3.1,-,2016-10-19
+javax.faces-api,2.2,+,2016-10-19
+javax.faces-api,2.2,-,2019-02-13
+undertow-servlet,1.0.15.Final,-,2019-01-14
+undertow-servlet,1.4.26.Final,+,2019-01-14

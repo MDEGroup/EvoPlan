@@ -1,0 +1,7 @@
+library,version,sign,date
+xercesImpl,2.9.1,+,2014-10-09
+xercesImpl,2.9.1,-,2014-10-09
+xalan,2.7.1,+,2014-10-09
+xalan,2.7.1,-,2014-10-09
+jdom,1.1.3,-,2014-10-09
+jdom,1.1.3,+,2014-10-09

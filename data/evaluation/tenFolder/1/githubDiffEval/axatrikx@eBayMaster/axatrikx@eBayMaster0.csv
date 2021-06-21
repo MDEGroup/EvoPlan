@@ -1,0 +1,11 @@
+library,version,sign,date
+swingx,0.9.2,+,2013-08-16
+org.jbundle.util.jcalendarbutton,1.6.2,+,2013-08-03
+derby,10.1.1.0,+,2013-08-01
+poi,3.10-beta1,+,2013-08-21
+miglayout-swing,4.2,+,2013-08-01
+miglayout-swing,4.2,-,2013-08-01
+testng,6.8.5,+,2013-08-19
+natty,0.6,+,2013-08-26
+log4j,1.2.12,+,2013-08-01
+poi-ooxml,3.10-beta1,+,2013-08-26

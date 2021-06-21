@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.8.2,-,2013-03-18
+junit,4.12,-,2019-11-16
+junit,4.11,-,2019-05-23
+junit,3.8.1,+,2013-03-18
+plexus-utils,3.0.24,-,2019-11-09
+plexus-utils,3.0.24,+,2019-10-08
+org.eclipse.sisu.plexus,0.3.3,-,2019-11-16
+org.eclipse.sisu.plexus,0.3.3,+,2019-05-23

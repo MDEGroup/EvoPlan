@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.11,-,2017-03-13
+assertj-core,2.1.0,-,2017-06-30
+assertj-core,3.6.2,-,2017-11-16
+assertj-core,3.6.2,+,2017-06-30
+assertj-core,2.2.0,-,2017-06-30
+assertj-core,2.3.0,+,2016-08-24
+assertj-core,2.3.0,-,2019-01-07
+mockito-core,2.8.9,-,2017-11-16
+mockito-core,2.8.9,+,2017-03-13

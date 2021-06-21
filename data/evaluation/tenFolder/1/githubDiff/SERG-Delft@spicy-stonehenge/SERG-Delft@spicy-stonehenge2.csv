@@ -1,0 +1,7 @@
+library,version,sign,date
+soa-client,1.0.1.0-SNAPSHOT,-,2011-12-14
+soa-client,1.0.0,-,2011-12-14
+soa-client,1.1.0,+,2011-12-14
+soa-server,1.0.1.0-SNAPSHOT,-,2011-12-14
+soa-server,1.0.0,-,2011-12-14
+soa-server,1.1.0,+,2011-12-14

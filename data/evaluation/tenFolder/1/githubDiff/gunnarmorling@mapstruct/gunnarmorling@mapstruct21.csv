@@ -1,0 +1,4 @@
+library,version,sign,date
+freemarker,2.3.19,-,2014-06-28
+mapstruct,${project.version},+,2014-06-28
+mapstruct,${mapstruct.version},+,2014-06-28

@@ -1,0 +1,7 @@
+library,version,sign,date
+org.sopeco.engine,5.0.2,-,2014-04-09
+org.sopeco.engine,5.0.2-SNAPSHOT,-,2013-01-29
+org.sopeco.persistence,5.0.2,-,2014-04-09
+org.sopeco.persistence,5.0.2-SNAPSHOT,-,2013-01-29
+org.sopeco.config,5.0.2,-,2014-04-09
+org.sopeco.config,5.0.2-SNAPSHOT,-,2013-01-29

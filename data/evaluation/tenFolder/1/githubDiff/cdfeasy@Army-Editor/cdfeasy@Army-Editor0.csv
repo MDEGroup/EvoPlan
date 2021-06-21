@@ -1,0 +1,17 @@
+library,version,sign,date
+armyeditor-entrys,1.0,+,2012-05-17
+uibinder-bridge,2.4.0,-,2012-05-17
+uibinder-bridge,2.4.0,+,2012-05-17
+junit,4.9,-,2012-05-17
+junit,4.9,+,2012-05-17
+gxt,3.0.0-rc2,-,2012-05-28
+gxt,3.0.0-rc2,-,2012-05-17
+gxt,3.0.0-rc2,+,2012-05-17
+slf4j-log4j12,1.6.4,+,2012-05-17
+hibernate-validator,4.2.0.Final,+,2012-05-23
+validation-api,1.0.0.GA,+,2012-05-17
+validation-api,1.0.0.GA,-,2012-05-17
+hibernate-entitymanager,3.5.6-Final,+,2012-05-23
+javassist,3.8.1.GA,+,2012-05-17
+gxt-legacy,3.0.0-rc2,+,2012-05-23
+gxt-legacy,3.0.0-rc2,-,2012-05-28

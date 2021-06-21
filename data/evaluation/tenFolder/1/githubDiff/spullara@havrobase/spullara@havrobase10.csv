@@ -1,0 +1,8 @@
+library,version,sign,date
+slf4j-api,1.5.11,-,2010-12-20
+slf4j-api,1.6.1,+,2010-12-20
+slf4j-api,1.5.5,-,2010-12-20
+junit,4.8.1,-,2011-03-21
+slf4j-simple,1.5.11,-,2010-12-20
+slf4j-simple,1.5.5,-,2010-12-20
+mysql,0.1.4-SNAPSHOT,-,2011-03-21

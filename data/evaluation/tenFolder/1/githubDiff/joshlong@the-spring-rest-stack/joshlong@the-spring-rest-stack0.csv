@@ -1,0 +1,4 @@
+library,version,sign,date
+assertj-core,1.5.0,+,2013-12-19
+jaxb-impl,2.2.7,+,2014-02-24
+json-path,0.9.1,+,2013-12-19

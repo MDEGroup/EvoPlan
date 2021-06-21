@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,4.10,-,2018-06-30
+junit,4.10,+,2018-06-30
+junit,4.10,-,2019-10-21
+jboss-servlet-api_3.0_spec,1.0.1.Final,+,2019-10-21
+jboss-servlet-api_3.0_spec,1.0.1.Final,+,2016-07-30
+jboss-servlet-api_3.0_spec,1.0.1.Final,+,2012-04-19
+powermock-api-mockito2,2.0.2,+,2019-10-21
+spring-security-web,3.2.5.RELEASE,-,2019-10-21
+spring-security-web,3.2.5.RELEASE,+,2014-12-15
+togglz-servlet,2.7.0-SNAPSHOT,+,2019-10-21
+mockito-core,1.9.5,-,2019-10-21
+mockito-core,1.9.0,+,2012-06-16
+mockito-core,1.9.5,+,2014-01-16
+mockito-core,1.9.5,-,2018-06-30
+mockito-core,1.9.5,+,2018-06-30
+mockito-core,1.9.0,-,2014-01-16

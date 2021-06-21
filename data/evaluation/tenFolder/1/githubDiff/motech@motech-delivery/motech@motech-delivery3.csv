@@ -1,0 +1,5 @@
+library,version,sign,date
+jackson-core-asl,1.8.6,+,2012-07-04
+spring-webmvc,3.0.5.RELEASE,+,2012-05-23
+quartz,1.6.3,+,2012-05-23
+quartz,1.8.5,-,2012-05-23

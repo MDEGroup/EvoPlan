@@ -1,0 +1,5 @@
+library,version,sign,date
+mockito-all,1.9.0,+,2012-02-19
+fest-assert,1.4,-,2012-02-19
+fest-assert,1.4,+,2012-02-19
+asamal-all,1-SNAPSHOT,+,2012-02-19

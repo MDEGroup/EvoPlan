@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.8.1,-,2018-07-05
+junit,4.8.2,-,2018-07-05
+junit,4.6,-,2018-07-05
+jaxb-api,2.3.1,+,2020-04-20
+jaxb-api,2.3.1,+,2020-01-30
+wildfly-logging,5.0.0.Beta5,+,2018-07-05
+javax.annotation-api,1.3.1,+,2020-01-30
+cdi-api,1.2,+,2019-08-07

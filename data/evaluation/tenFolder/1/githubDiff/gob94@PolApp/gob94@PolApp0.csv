@@ -1,0 +1,4 @@
+library,version,sign,date
+ormlite-jdbc,4.47,+,2013-10-19
+ormlite-core,4.47,+,2013-10-19
+ormlite-android,4.47,+,2013-10-19

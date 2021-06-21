@@ -1,0 +1,12 @@
+library,version,sign,date
+maven-reporting-api,3.0,-,2011-12-30
+maven-reporting-api,3.0,+,2011-12-30
+collections-generic,4.01,+,2011-12-30
+collections-generic,4.01,-,2011-12-30
+junit,4.10,-,2012-01-07
+junit,4.9,-,2012-01-07
+spring-core,3.0.6.RELEASE,-,2012-01-07
+maven-compat,3.0.3,-,2012-01-07
+commons-io,2.1,-,2011-12-30
+commons-io,2.1,+,2011-12-30
+commons-io,2.1,-,2012-01-07

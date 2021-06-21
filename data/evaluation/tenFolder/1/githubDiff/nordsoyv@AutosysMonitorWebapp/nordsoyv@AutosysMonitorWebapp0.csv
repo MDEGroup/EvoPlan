@@ -1,0 +1,14 @@
+library,version,sign,date
+jstl,1.2,-,2011-12-18
+junit,4.7,-,2011-12-18
+wljmxclient,1.0,+,2012-05-23
+jsp-api,2.1,-,2011-12-18
+wljmsclient,10.3.4.0,+,2012-05-23
+ojdbc,1.6,+,2012-04-23
+jackson-mapper-asl,1.9.3,+,2011-12-18
+httpclient,4.2-alpha1,+,2011-12-16
+httpcore,4.2-alpha2,+,2011-12-16
+servlet-api,2.5,-,2011-12-18
+javax.inject,1,-,2011-12-18
+log4j,1.2.15,-,2011-12-18
+wlclient,1.0,+,2012-05-23

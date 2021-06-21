@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2018-08-19
+slf4j-simple,1.6.4,+,2016-05-08
+slf4j-simple,1.6.4,-,2018-08-19
+protobuf-java,3.5.1,-,2018-08-19
+protobuf-java,3.5.1,-,2018-07-28
+protobuf-java,3.5.1,+,2018-08-19
+protobuf-java,2.6.1,-,2018-08-11
+protobuf-java,3.5.1,+,2018-02-23
+protobuf-java,3.5.1,-,2018-08-20
+protobuf-java,2.6.1,-,2018-02-23
+protobuf-java,2.5.0,-,2015-05-29
+protobuf-java,3.5.1,+,2018-08-11
+protobuf-java,2.6.1,+,2018-07-28

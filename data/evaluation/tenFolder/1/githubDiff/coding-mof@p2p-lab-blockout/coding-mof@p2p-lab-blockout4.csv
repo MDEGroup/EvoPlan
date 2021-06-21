@@ -1,0 +1,7 @@
+library,version,sign,date
+org.blockout.engine,0.0.1-SNAPSHOT,-,2012-04-26
+org.blockout.engine,1.0.0-SNAPSHOT,+,2012-04-26
+org.blockout.engine,1.0.0-SNAPSHOT,-,2012-04-26
+org.blockout.common,1.0.0-SNAPSHOT,-,2012-04-26
+org.blockout.network,0.0.1-SNAPSHOT,-,2012-04-26
+org.blockout.network,1.0.0-SNAPSHOT,-,2012-04-26

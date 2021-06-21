@@ -1,0 +1,17 @@
+library,version,sign,date
+cojen,2.0,-,2010-05-14
+cojen,2.0,+,2010-05-14
+junit,3.8,-,2010-05-14
+junit,3.7,-,2010-05-14
+junit,3.8.2,+,2010-05-14
+junit,3.8.2,-,2010-05-14
+junit,3.7,+,2010-05-05
+junit,3.8,-,2010-04-28
+javaparser,1.0.8,-,2011-01-09
+javaparser,1.0.8,-,2010-04-28
+javaparser,1.0.8,-,2010-06-06
+javaparser,1.0.8,+,2010-05-14
+javaparser,1.0.8,-,2010-05-14
+javaparser,1.0.8,+,2010-06-06
+javaparser,1.0.8,-,2011-10-26
+javaparser,1.0.8,+,2011-01-09

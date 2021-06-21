@@ -1,0 +1,4 @@
+library,version,sign,date
+android-test,2.3.1,+,2013-01-26
+android,2.3.1,+,2013-01-26
+slf4j-android,1.6.1-RC1,+,2013-01-26

@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.10,+,2012-04-14
+junit,4.10,-,2012-04-14
+hazelblast,0.1,+,2012-06-04
+hazelblast,0.1,-,2012-06-19

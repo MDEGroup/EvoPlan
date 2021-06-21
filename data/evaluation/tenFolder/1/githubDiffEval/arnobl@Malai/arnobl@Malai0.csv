@@ -1,0 +1,13 @@
+library,version,sign,date
+junit-jupiter-engine,5.0.2,-,2018-01-30
+junit-jupiter-engine,5.0.2,+,2017-11-29
+junit-jupiter-engine,5.0.2,+,2017-05-04
+junit-jupiter-engine,5.0.2,-,2018-02-01
+junit-jupiter-params,5.0.2,-,2018-01-30
+junit-jupiter-params,5.0.2,+,2017-11-29
+junit-jupiter-params,5.0.2,+,2017-05-04
+junit-jupiter-params,5.0.2,-,2018-02-01
+mockito-core,2.13.0,+,2017-11-29
+mockito-core,2.13.0,+,2018-04-10
+mockito-core,2.13.0,-,2018-04-10
+mockito-core,2.13.0,-,2018-10-10

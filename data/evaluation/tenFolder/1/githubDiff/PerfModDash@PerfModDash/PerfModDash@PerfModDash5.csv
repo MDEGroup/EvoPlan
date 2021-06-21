@@ -1,0 +1,6 @@
+library,version,sign,date
+joda-time,2.1,+,2013-01-09
+json-simple,1.1,+,2013-01-09
+json-simple,1.1.1,+,2013-01-09
+javaee-web-api,6.0,+,2013-01-09
+log4j,1.2.16,+,2013-01-09

@@ -1,0 +1,9 @@
+library,version,sign,date
+slf4j-api,1.7.10,-,2015-05-07
+slf4j-api,1.7.12,-,2015-11-17
+junit,4.11,-,2015-07-31
+guava,18.0,-,2015-07-31
+guava,19.0-rc2,-,2016-01-22
+spotbugs-annotations,3.1.2,+,2017-11-15
+guice,4.0,-,2017-11-15
+guice,4.0-beta5,-,2015-07-31

@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.1,-,2012-08-10
+junit,4.1,+,2012-08-10
+android-test,2.3.3,-,2012-08-10
+android-test,2.3.3,+,2012-08-10
+android,4.0.3,+,2012-08-10
+android,4.0.3,-,2012-08-10

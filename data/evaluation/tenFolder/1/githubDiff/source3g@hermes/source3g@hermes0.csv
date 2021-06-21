@@ -1,0 +1,14 @@
+library,version,sign,date
+commons-configuration,1.6,+,2013-05-03
+junit,3.8.1,+,2012-11-09
+commons-validator,1.4.0,+,2013-05-03
+xbean-spring,3.12,+,2013-05-03
+commons-codec,20041127.091804,-,2012-11-09
+hibernate-validator,4.3.0.Final,-,2013-05-03
+commons-httpclient,3.1,+,2013-05-03
+commons-httpclient,20020423,-,2012-11-09
+commons-digester,2.1,+,2013-05-03
+commons-beanutils,1.8.3,+,2013-05-03
+commons-beanutils,20030211.134440,-,2012-11-09
+commons-io,20030203.000550,-,2012-11-09
+mockito-core,1.9.5,+,2013-08-26

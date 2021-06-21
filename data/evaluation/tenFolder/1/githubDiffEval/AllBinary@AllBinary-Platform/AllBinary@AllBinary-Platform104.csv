@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,3.8.1,+,2015-03-22
+junit,3.8.1,-,2015-03-22
+J2SEExceptionLibrary,1.0.0-SNAPSHOT,+,2015-03-22

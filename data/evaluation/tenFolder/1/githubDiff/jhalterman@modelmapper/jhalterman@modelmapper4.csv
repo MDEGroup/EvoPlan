@@ -1,0 +1,5 @@
+library,version,sign,date
+spring-beans,3.0.5.RELEASE,+,2011-08-08
+spring-beans,3.0.5.RELEASE,-,2011-08-08
+spring-beans,3.0.5.RELEASE,+,2012-07-25
+spring-beans,3.0.5.RELEASE,-,2012-07-25

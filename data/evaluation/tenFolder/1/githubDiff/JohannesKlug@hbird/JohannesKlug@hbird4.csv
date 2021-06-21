@@ -1,0 +1,6 @@
+library,version,sign,date
+orekit,6.1,+,2014-07-19
+orekit,6.0,-,2014-07-19
+commons,0.0.1-SNAPSHOT,-,2014-07-19
+commons,0.0.1-SNAPSHOT,+,2014-07-19
+czml-writer,0.0.1-SNAPSHOT,+,2014-07-19

@@ -1,0 +1,9 @@
+library,version,sign,date
+assertj-core,1.1.0,+,2013-05-11
+assertj-core,1.1.0,+,2013-05-20
+assertj-core,1.1.0,-,2013-05-20
+assertj-core,1.1.0,-,2013-05-11
+testng,6.3.1,+,2013-05-20
+testng,6.3.1,+,2013-05-11
+testng,6.3.1,-,2013-05-20
+testng,6.3.1,-,2013-05-11

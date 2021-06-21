@@ -1,0 +1,10 @@
+library,version,sign,date
+org.xkonnex.repo.dsl.solutiondsl.ui,2.0.0-SNAPSHOT,+,2014-10-02
+org.xkonnex.repo.dsl.sladsl.ui,2.0.0-SNAPSHOT,+,2014-10-02
+org.xkonnex.repo.dsl.basedsl.ui,2.0.0-SNAPSHOT,+,2014-10-02
+org.xkonnex.repo.core,2.0.0-SNAPSHOT,+,2014-10-02
+org.xkonnex.repo.dsl.servicedsl.ui,2.0.0-SNAPSHOT,+,2014-10-02
+org.xkonnex.repo.dsl.bindingdsl.ui,2.0.0-SNAPSHOT,+,2014-10-02
+org.xkonnex.repo.dsl.profiledsl.ui,2.0.0-SNAPSHOT,+,2014-10-02
+org.xkonnex.repo.dsl.moduledsl.ui,2.0.0-SNAPSHOT,+,2014-10-02
+org.xkonnex.repo.dsl.businessdsl.ui,2.0.0-SNAPSHOT,+,2014-10-02

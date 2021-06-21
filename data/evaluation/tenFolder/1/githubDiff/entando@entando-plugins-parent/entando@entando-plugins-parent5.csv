@@ -1,0 +1,16 @@
+library,version,sign,date
+cewolf,1.0,+,2012-11-30
+cewolf,1.0,+,2012-04-06
+cewolf,1.0,-,2012-11-30
+cewolf,1.0,-,2013-02-13
+cewolf,1.0,+,2013-02-13
+cewolf,1.0,-,2012-04-06
+struts2-jasperreports-plugin,2.2.3.1,-,2012-05-11
+struts2-jasperreports-plugin,2.2.3.1,+,2012-04-06
+struts2-jasperreports-plugin,2.2.3.1,-,2012-04-06
+jasperreports,3.5.2,-,2012-11-30
+jasperreports,3.5.2,-,2012-04-06
+jasperreports,3.5.2,+,2013-02-13
+jasperreports,3.5.2,-,2013-02-13
+jasperreports,3.5.2,+,2012-11-30
+jasperreports,3.5.2,+,2012-04-06

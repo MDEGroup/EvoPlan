@@ -1,0 +1,9 @@
+library,version,sign,date
+commons-logging,1.0.4,+,2010-08-13
+commons-logging,1.1.1,+,2010-08-13
+commons-logging,1.1.1,-,2010-08-13
+commons-logging,1.0.4,-,2010-08-13
+log4j,1.2.12,-,2010-08-13
+log4j,1.2.8,+,2010-08-13
+log4j,1.2.12,+,2010-08-13
+log4j,1.2.8,-,2010-08-13

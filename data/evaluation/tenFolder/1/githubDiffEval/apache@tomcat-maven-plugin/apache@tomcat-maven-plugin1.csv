@@ -1,0 +1,6 @@
+library,version,sign,date
+log4j-slf4j-impl,2.0-beta9,-,2016-08-16
+tomcat8-war-runner,2.3-SNAPSHOT,-,2016-08-16
+tomcat8-war-runner,2.3-SNAPSHOT,+,2016-08-16
+ecj,3.7,+,2016-08-16
+log4j-core,2.0-beta9,-,2016-08-16

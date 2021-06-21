@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.11,-,2014-01-17
+junit,3.8.1,-,2014-01-17
+svm-vm,0.0.1-SNAPSHOT,-,2014-01-17
+jmock-junit4,2.6.0,+,2014-01-17
+jmock-junit4,2.6.0,-,2014-01-17
+asm-tree,4.2,-,2014-01-17

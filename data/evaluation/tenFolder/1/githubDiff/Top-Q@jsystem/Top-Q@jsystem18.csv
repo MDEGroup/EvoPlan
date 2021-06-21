@@ -1,0 +1,11 @@
+library,version,sign,date
+difido-reports-common,2.2.04,-,2018-08-13
+difido-reports-common,0.5,-,2015-11-15
+difido-reports-common,0.5-SNAPSHOT,-,2015-02-19
+difido-reports-common,1.2,-,2016-04-12
+difido-reports-common,2.0.04,-,2016-10-18
+difido-reports-common,1.4,-,2016-06-14
+difido-reports-common,2.0.05-beta1,-,2017-12-20
+difido-reports-common,0.5-SNAPSHOT,+,2014-03-20
+ant,1.7.0,-,2016-06-14
+xml-apis,1.4.01,+,2014-10-07

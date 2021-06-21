@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.10,+,2012-03-03
+commons-codec,1.6,+,2012-03-03
+protobuf-java,2.3.0,-,2012-03-26
+protobuf-java,2.3.0,-,2012-03-03
+protobuf-java,2.3.0,+,2012-03-03
+protobuf-java,2.4.1,+,2012-03-26
+protobuf-java,2.4.1,+,2012-03-03
+disruptor,2.6,+,2012-03-03
+commons-io,2.1,+,2012-03-26
+commons-io,2.1,+,2012-03-03
+log4j,1.2.14,+,2012-03-03

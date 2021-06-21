@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,3.8.1,-,2009-12-12
+junit,3.8.1,+,2009-12-12
+sections-api,1.0.0-beta01,-,2009-10-15
+sections-api,1.0-SNAPSHOT,+,2009-10-03
+sections-api,1.0-SNAPSHOT,-,2009-10-12
+sections-api,1.0.0-beta02-SNAPSHOT,-,2009-10-15
+commons-logging,1.0.4,+,2013-11-15
+sections-impl,1.0.0-beta01,-,2009-10-15
+sections-impl,1.1-SNAPSHOT,-,2009-12-12
+sections-impl,1.0-SNAPSHOT,-,2009-10-12
+sections-impl,1.0.0-beta02-SNAPSHOT,-,2009-10-15
+log4j,1.2.8,-,2009-10-03
+log4j,1.2.9,-,2009-10-03

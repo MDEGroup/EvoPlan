@@ -1,0 +1,8 @@
+library,version,sign,date
+jbehave-web-runner,[version],+,2009-10-11
+jbehave-web-runner,3.3-beta-2,+,2011-03-07
+jbehave-web-runner,3.3-beta-2,-,2011-03-07
+jbehave-web-selenium,3.3-beta-2,+,2011-03-07
+jbehave-web-selenium,3.3-beta-2,-,2011-03-07
+jbehave-web-io,3.3-beta-2,+,2011-03-07
+jbehave-web-io,3.3-beta-2,-,2011-03-07

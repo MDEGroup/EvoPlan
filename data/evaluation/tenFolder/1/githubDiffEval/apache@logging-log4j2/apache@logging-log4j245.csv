@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.12,-,2018-08-06
+junit,4.12,+,2018-08-06
+log4j-core,{Log4jReleaseVersion},+,2018-02-18
+de.flapdoodle.embed.mongo,2.1.1,-,2018-08-06
+de.flapdoodle.embed.mongo,2.0.1,-,2018-02-18
+de.flapdoodle.embed.mongo,2.2.0,+,2018-08-06

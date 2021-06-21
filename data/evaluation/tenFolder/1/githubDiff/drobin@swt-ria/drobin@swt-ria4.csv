@@ -1,0 +1,4 @@
+library,version,sign,date
+de.robind.swt,0.0.1-SNAPSHOT,+,2012-01-15
+de.robind.swt.protocol,0.0.1-SNAPSHOT,+,2012-01-15
+netty,3.2.6.Final,+,2012-01-15

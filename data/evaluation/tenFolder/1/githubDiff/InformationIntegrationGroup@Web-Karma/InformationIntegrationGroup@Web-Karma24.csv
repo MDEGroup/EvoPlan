@@ -1,0 +1,10 @@
+library,version,sign,date
+karma-common,0.0.1-SNAPSHOT,-,2014-01-23
+javax.servlet-api,3.0.1,+,2014-05-20
+javax.servlet-api,3.0.1,-,2014-05-20
+commands-common,0.0.1-SNAPSHOT,-,2014-01-23
+karma-util,0.0.1-SNAPSHOT,-,2014-01-23
+entityExtraction,0.0.1,+,2015-12-08
+entityExtraction,0.0.1,-,2015-02-25
+entityExtraction,0.0.1,+,2014-05-20
+commands-update,0.0.1-SNAPSHOT,-,2014-01-23

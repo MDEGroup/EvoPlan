@@ -1,0 +1,7 @@
+library,version,sign,date
+fabric.wsdl-schema-parser,1.0,-,2011-06-06
+fabric.wsdl-schema-parser,1.0,+,2011-06-06
+fabric.codegeneration,1.0,-,2011-06-06
+fabric.codegeneration,1.0,+,2011-06-06
+fabric.module.api,1.0,-,2011-06-06
+fabric.module.api,1.0,+,2011-06-06

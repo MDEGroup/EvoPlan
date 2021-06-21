@@ -1,0 +1,8 @@
+library,version,sign,date
+wsclient,0.4-SNAPSHOT,+,2013-09-17
+wsclient,0.6-SNAPSHOT,-,2015-07-22
+wsclient,0.4,-,2015-04-06
+wsclient,0.6.0,-,2015-09-09
+wsclient,0.4-SNAPSHOT,-,2015-04-06
+wsclient,1.0.0,+,2015-09-09
+wsclient,0.6.0-SNAPSHOT,-,2015-08-05

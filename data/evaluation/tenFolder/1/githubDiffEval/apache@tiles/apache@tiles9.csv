@@ -1,0 +1,4 @@
+library,version,sign,date
+slf4j-jdk14,1.5.8,-,2013-11-03
+slf4j-jdk14,1.7.6,-,2014-04-29
+tiles-extras,3.0.1,+,2012-07-11

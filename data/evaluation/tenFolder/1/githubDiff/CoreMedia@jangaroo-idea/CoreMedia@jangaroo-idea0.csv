@@ -1,0 +1,14 @@
+library,version,sign,date
+jangaroo-compiler-api,3.0.0,-,2015-04-01
+jangaroo-compiler-api,1.0.1,-,2014-01-10
+jangaroo-compiler-api,1.0.3,-,2014-09-12
+exml-compiler-api,3.0.0,-,2015-04-01
+exml-compiler-api,1.0.1,-,2014-01-10
+exml-compiler-api,1.0.3,-,2014-09-12
+closure-compiler,v20150126,+,2014-09-12
+jangaroo-utils,3.0.0,-,2015-04-01
+jangaroo-utils,1.0.1,-,2014-01-10
+jangaroo-utils,1.0.3,-,2014-09-12
+properties-compiler-api,3.0.0,-,2015-04-01
+properties-compiler-api,1.0.1,-,2014-01-10
+properties-compiler-api,1.0.3,-,2014-09-12

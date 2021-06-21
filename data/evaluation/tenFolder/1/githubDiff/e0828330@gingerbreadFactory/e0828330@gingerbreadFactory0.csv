@@ -1,0 +1,12 @@
+library,version,sign,date
+mozartspaces-capi3-berkeleydb,2.2-SNAPSHOT,-,2013-11-23
+mozartspaces-notifications,2.2-SNAPSHOT,-,2013-11-23
+pivot-core,2.0.3,+,2013-11-30
+geronimo-jms_1.1_spec,1.0,+,2013-11-11
+qpid-client,0.24,-,2013-12-01
+qpid-client,0.24,+,2013-11-11
+jackson-mapper-asl,1.8.5,+,2013-12-01
+mozartspaces-runtime,2.2-SNAPSHOT,-,2013-11-23
+pivot-wtk-terra,2.0.3,+,2013-11-30
+mozartspaces-xvsmp-jaxb,2.2-SNAPSHOT,-,2013-11-23
+pivot-wtk,2.0.3,+,2013-11-30

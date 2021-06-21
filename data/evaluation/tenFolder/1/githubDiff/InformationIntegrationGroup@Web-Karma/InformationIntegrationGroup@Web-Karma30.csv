@@ -1,0 +1,5 @@
+library,version,sign,date
+snappy-java,1.1.4-M3,+,2016-09-26
+jsonld-java,0.7.0,+,2015-12-08
+spark-testing-base_2.10,1.5.0_0.3.3,+,2016-09-26
+junit,4.11,-,2016-01-29

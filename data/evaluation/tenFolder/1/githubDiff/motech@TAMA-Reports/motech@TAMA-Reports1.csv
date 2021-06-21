@@ -1,0 +1,11 @@
+library,version,sign,date
+spring-data-jpa,1.2.0.RELEASE,+,2013-01-22
+cglib,2.2.2,+,2013-01-22
+hibernate-validator,4.1.0.Final,+,2013-01-22
+validation-api,1.0.0.GA,+,2013-01-22
+groovy-all,2.0.6,+,2013-01-27
+aspectjrt,1.6.8,+,2013-01-22
+joda-time,2.0,+,2013-02-27
+poi,3.7,+,2013-01-27
+jasperreports,5.0.1,+,2013-01-27
+jxl,2.6.12,+,2013-01-27

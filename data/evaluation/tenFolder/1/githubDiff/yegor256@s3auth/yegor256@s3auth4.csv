@@ -1,0 +1,6 @@
+library,version,sign,date
+s3auth-relay,1.0-SNAPSHOT,-,2017-01-05
+s3auth-relay,@project.version@,+,2017-01-05
+s3auth-relay,@project.version@,+,2012-12-17
+s3auth-relay,@project.version@,-,2017-01-05
+s3auth-relay,1.0-SNAPSHOT,+,2017-01-05

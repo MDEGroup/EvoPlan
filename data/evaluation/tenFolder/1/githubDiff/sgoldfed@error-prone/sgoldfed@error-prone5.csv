@@ -1,0 +1,5 @@
+library,version,sign,date
+ant,1.8.2,+,2013-04-29
+ant,1.8.2,-,2013-07-29
+error_prone_core,v1.0_alpha,-,2013-07-29
+error_prone_core,v1.0_alpha,+,2013-04-29

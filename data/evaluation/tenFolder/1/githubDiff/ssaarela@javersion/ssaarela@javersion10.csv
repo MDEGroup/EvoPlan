@@ -1,0 +1,8 @@
+library,version,sign,date
+jackson-annotations,2.6.4,+,2015-12-30
+joda-time,2.4,+,2015-10-15
+joda-time,2.4,-,2015-10-15
+javersion-core,0.9.1-SNAPSHOT,-,2016-01-13
+javersion-core,0.9-SNAPSHOT,+,2015-11-06
+javersion-core,0.9-SNAPSHOT,-,2015-11-29
+javersion-core,0.11.1-SNAPSHOT,-,2016-03-04

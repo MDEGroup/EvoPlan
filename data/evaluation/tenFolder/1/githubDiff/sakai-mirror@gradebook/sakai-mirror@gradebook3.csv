@@ -1,0 +1,7 @@
+library,version,sign,date
+sakai-gradebook-service-api,2.7.0-SNAPSHOT,-,2008-12-05
+sakai-gradebook-service-api,2.6.0RC1-SNAPSHOT,-,2008-09-18
+log4j,1.2.9,-,2010-09-22
+log4j,1.2.9,-,2011-12-15
+log4j,1.2.9,+,2011-04-29
+log4j,1.2.9,-,2011-08-11

@@ -1,0 +1,6 @@
+library,version,sign,date
+artemis-odb,3.0.0-SNAPSHOT,-,2018-07-16
+artemis-odb,2.2.0-SNAPSHOT,-,2019-01-05
+artemis-odb,2.1.0,-,2017-05-25
+asm,5.0.4,-,2019-01-06
+asm,7.0,+,2019-01-06

@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,3.8.1,-,2012-07-04
+junit,3.8.1,+,2012-07-04
+demoiselle-jsf,2.2.2,+,2012-07-04
+demoiselle-jsf,2.2.1,-,2012-07-04
+demoiselle-jsf,2.2.2,+,2012-07-02
+guava,11.0.2,+,2012-07-02
+demoiselle-core,2.2.2,+,2012-07-04
+demoiselle-core,2.2.2,+,2012-07-02

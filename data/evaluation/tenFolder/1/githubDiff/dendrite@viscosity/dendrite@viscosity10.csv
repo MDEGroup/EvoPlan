@@ -1,0 +1,15 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,+,2013-12-15
+javax.servlet-api,3.0.1,-,2013-12-15
+junit,4.8.1,+,2013-12-15
+junit,3.8.1,-,2013-12-15
+KeptCollections,1.0.0,+,2013-12-15
+hazelcast-wm,3.1.3,-,2013-12-15
+hazelcast-wm,3.1.3,+,2013-12-15
+curator-test,1.3.3,+,2013-12-15
+jamm,0.2.5,+,2013-12-26
+curator-framework,1.3.3,+,2013-12-15
+commons-lang3,3.1,+,2013-12-25
+hazelcast-all,3.1.3,-,2013-12-15
+hazelcast-all,3.1.3,+,2013-12-15
+kryo,2.22,+,2013-12-27

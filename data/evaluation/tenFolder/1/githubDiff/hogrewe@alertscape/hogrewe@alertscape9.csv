@@ -1,0 +1,9 @@
+library,version,sign,date
+truelicense,1.29,+,2009-04-02
+truelicense,1.29,-,2009-04-02
+junit,3.8.1,-,2009-04-02
+junit,3.8.1,+,2009-04-02
+trueswing,1.29,+,2009-04-02
+trueswing,1.29,-,2009-04-02
+commons-lang,2.4,+,2009-04-02
+commons-lang,2.4,-,2009-04-02

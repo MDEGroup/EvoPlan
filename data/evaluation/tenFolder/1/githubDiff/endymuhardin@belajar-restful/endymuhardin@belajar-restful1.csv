@@ -1,0 +1,6 @@
+library,version,sign,date
+postgresql,9.1-901.jdbc4,-,2012-10-20
+postgresql,9.1-901.jdbc4,+,2012-10-20
+postgresql,9.1-901.jdbc4,+,2011-11-17
+commons-dbcp,1.4,-,2012-10-20
+commons-dbcp,1.4,+,2012-10-20

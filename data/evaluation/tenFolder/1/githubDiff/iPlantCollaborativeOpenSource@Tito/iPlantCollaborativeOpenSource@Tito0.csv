@@ -1,0 +1,11 @@
+library,version,sign,date
+ui-commons,dev-SNAPSHOT,+,2012-03-28
+ui-commons,dev-SNAPSHOT,+,2012-01-13
+ui-commons,dev-SNAPSHOT,+,2012-03-20
+ui-commons,dev-SNAPSHOT,-,2012-03-16
+ui-commons,dev-SNAPSHOT,-,2012-03-28
+gxt,3.0.1,+,2012-04-07
+gxt,2.2.5,-,2012-04-07
+applications,dev-SNAPSHOT,+,2012-03-28
+applications,dev-SNAPSHOT,+,2012-01-13
+applications,dev-SNAPSHOT,-,2012-03-16

@@ -1,0 +1,9 @@
+library,version,sign,date
+jackson-databind,2.4.2,-,2016-10-13
+jackson-databind,2.2.0,-,2014-09-11
+jackson-databind,2.2.0,+,2013-03-29
+jackson-core,2.4.2,-,2016-10-13
+jackson-core,2.2.0,-,2014-09-11
+jackson-core,2.2.0,+,2013-03-29
+guice,3.0,-,2014-09-11
+guice,3.0,+,2013-09-27

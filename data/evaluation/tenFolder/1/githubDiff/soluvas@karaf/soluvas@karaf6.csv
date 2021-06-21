@@ -1,0 +1,4 @@
+library,version,sign,date
+org.osgi.core,4.2.0,+,2012-04-30
+commons-collections,3.2.1,-,2012-04-30
+commons-collections,3.2.1,+,2012-04-30

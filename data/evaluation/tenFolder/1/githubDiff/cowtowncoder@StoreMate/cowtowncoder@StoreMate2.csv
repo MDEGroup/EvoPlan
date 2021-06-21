@@ -1,0 +1,10 @@
+library,version,sign,date
+config-magic,0.14,+,2012-09-13
+config-magic,0.14,-,2012-10-09
+config-magic,0.17,+,2013-03-12
+joda-time,2.1,-,2014-03-05
+joda-time,2.1,+,2013-03-12
+joda-time,2.1,-,2013-03-12
+je,5.0.34,-,2013-03-12
+je,5.0.34,-,2013-03-19
+je,5.0.34,+,2013-03-12

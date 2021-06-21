@@ -1,0 +1,9 @@
+library,version,sign,date
+mockito-all,1.8.5,+,2012-05-28
+ghana-national-xforms,1.0-SNAPSHOT,-,2012-07-04
+mail,1.4.3,+,2012-05-09
+ghana-national-web,1.0-SNAPSHOT,-,2012-07-04
+ghana-national-core,1.0-SNAPSHOT,-,2012-07-04
+ghana-national-core,1.0-SNAPSHOT,+,2012-06-05
+selenium-java,2.14.0,-,2012-06-20
+ghana-national-common,1.0-SNAPSHOT,-,2012-07-04

@@ -1,0 +1,8 @@
+library,version,sign,date
+spring-security-config,3.0.5.RELEASE,+,2012-06-12
+spring-security-config,3.0.5.RELEASE,-,2012-06-12
+spring-security-web,3.0.5.RELEASE,+,2012-06-12
+spring-security-web,3.0.5.RELEASE,-,2012-06-12
+spring-security-core,3.0.5.RELEASE,+,2012-06-12
+spring-security-core,3.0.5.RELEASE,-,2012-06-12
+servlet-api,2.4,+,2012-06-12

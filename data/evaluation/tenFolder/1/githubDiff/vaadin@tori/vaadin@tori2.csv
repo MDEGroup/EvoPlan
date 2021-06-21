@@ -1,0 +1,9 @@
+library,version,sign,date
+common,2.0.0,-,2013-10-10
+common,2.0.1,-,2013-10-10
+common,2.0.0,-,2013-08-27
+common,2.0.1,+,2013-08-27
+portal-service,6.2.0-RC5,+,2014-01-30
+derby,10.10.1.1,+,2014-02-21
+portal-impl,6.2.0-RC5,+,2014-01-30
+servlet-api,2.4-20040521,-,2014-02-20

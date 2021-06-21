@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.12,+,2016-09-02
+junit,4.11,+,2016-05-16
+org.eclipse.sisu.plexus,0.3.0.M1,-,2016-05-16
+org.eclipse.sisu.plexus,0.3.2,-,2016-05-12

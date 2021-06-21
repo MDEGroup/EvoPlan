@@ -1,0 +1,9 @@
+library,version,sign,date
+javax.persistence,SNAPSHOT,+,2013-05-26
+org.eclipse.persistence.oracle,SNAPSHOT,+,2013-05-26
+org.eclipse.persistence.jpa,SNAPSHOT,+,2013-05-26
+org.eclipse.persistence.asm,SNAPSHOT,+,2013-05-26
+org.eclipse.persistence.antlr,SNAPSHOT,+,2013-05-26
+org.eclipse.persistence.moxy,SNAPSHOT,+,2013-05-26
+org.eclipse.persistence.core,SNAPSHOT,+,2013-05-26
+org.eclipse.persistence.jpa.modelgen,SNAPSHOT,+,2013-05-26

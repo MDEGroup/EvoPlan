@@ -1,0 +1,7 @@
+library,version,sign,date
+commons-cli,1.2,+,2012-03-26
+commons-cli,1.2,+,2012-02-15
+commons-cli,1.2,-,2012-03-26
+usaproxylogparser,0.0.2-SNAPSHOT,+,2012-04-13
+usaproxylogparser,0.0.1,-,2012-03-26
+commons-io,1.3.2,+,2012-04-13

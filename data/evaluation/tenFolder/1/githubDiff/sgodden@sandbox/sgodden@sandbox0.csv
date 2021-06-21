@@ -1,0 +1,6 @@
+library,version,sign,date
+jstl,1.2,+,2011-03-24
+junit,4.8.2,+,2011-03-24
+jsf-impl,2.0.3-b01,-,2011-03-24
+servlet-api,2.5,+,2011-03-24
+jsf-api,2.0.3-b01,-,2011-03-24

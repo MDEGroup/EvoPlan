@@ -1,0 +1,11 @@
+library,version,sign,date
+mail,1.4.5,+,2012-04-08
+mail,1.4.5,-,2012-04-08
+mail,1.4.1,-,2012-03-23
+commons-io,1.4,-,2012-03-23
+commons-io,2.1,+,2012-04-08
+commons-io,2.1,-,2013-02-06
+commons-io,2.1,-,2012-04-08
+commons-lang,2.6,-,2012-04-08
+commons-lang,2.5,-,2012-03-23
+commons-lang,2.6,+,2012-04-08

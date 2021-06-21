@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,3.8.1,-,2013-11-21
+junit,4.10,-,2013-06-15
+junit,3.8.1,+,2013-09-21
+junit,4.10,+,2013-02-20
+junit,3.8.1,+,2012-10-01
+junit,3.8.1,-,2013-06-15
+selenium-java-client-driver,1.0.1,+,2012-09-10
+cloud-utils,4.2.0-SNAPSHOT,+,2012-10-01
+cloud-utils,4.2.0-SNAPSHOT,-,2013-02-20

@@ -1,0 +1,9 @@
+library,version,sign,date
+jackson-annotations,2.0.5,+,2013-03-12
+jackson-annotations,2.0.5,+,2013-03-09
+jackson-annotations,2.0.5,-,2013-03-09
+hibernate-validator,4.3.0.Final,+,2013-03-12
+hibernate-validator,4.3.0.Final,-,2013-05-12
+validation-api,1.0.0.GA,+,2013-03-12
+hibernate-core,4.1.1.Final,+,2013-03-20
+hibernate-core,4.1.1.Final,-,2013-05-12

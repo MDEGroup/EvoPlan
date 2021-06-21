@@ -1,0 +1,8 @@
+library,version,sign,date
+business-core,0.0.1-SNAPSHOT,-,2012-12-11
+httpclient,4.3-alpha1,+,2013-03-28
+httpclient,4.3-alpha1,-,2013-03-28
+httpclient,4.3-alpha1,+,2013-03-22
+httpcore,4.3-alpha1,+,2013-03-28
+httpcore,4.3-alpha1,-,2013-03-28
+httpcore,4.3-alpha1,+,2013-03-22

@@ -1,0 +1,5 @@
+library,version,sign,date
+heroku-api,0.12,-,2012-08-01
+heroku-api,0.13,-,2012-09-20
+heroku-api,0.8,-,2012-06-05
+heroku-api,0.13,+,2012-09-20

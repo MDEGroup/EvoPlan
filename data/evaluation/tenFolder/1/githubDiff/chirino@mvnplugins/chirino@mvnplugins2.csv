@@ -1,0 +1,9 @@
+library,version,sign,date
+maven-plugin-api,2.2.1,+,2010-07-22
+maven-plugin-api,2.0,+,2010-07-22
+maven-reporting-api,2.2.1,+,2010-08-05
+maven-reporting-api,3.0,+,2010-07-28
+maven-dependency-tree,1.1,+,2009-08-26
+maven-project,2.2.1,+,2010-07-22
+maven-reporting-impl,2.1,+,2010-08-05
+maven-reporting-impl,2.0.2,+,2010-07-28

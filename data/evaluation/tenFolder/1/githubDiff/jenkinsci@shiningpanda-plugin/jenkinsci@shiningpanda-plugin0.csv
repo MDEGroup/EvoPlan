@@ -1,0 +1,4 @@
+library,version,sign,date
+commons-io,2.0.1,-,2013-06-30
+commons-io,2.0.1,+,2011-09-18
+matrix-project,1.6,+,2014-06-14

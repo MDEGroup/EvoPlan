@@ -1,0 +1,8 @@
+library,version,sign,date
+clipper-cli,0.2-SNAPSHOT,-,2012-07-01
+clipper-cli,0.3.0-20151122,-,2015-11-22
+clipper-cli,0.3.0-SNAPSHOT,-,2015-08-12
+clipper-reasoner,0.2-SNAPSHOT,-,2012-07-01
+clipper-reasoner,0.3.0-20151122,-,2015-11-22
+clipper-reasoner,0.3.0-SNAPSHOT,-,2015-08-12
+clipper-reasoner,0.3.0-SNAPSHOT,+,2012-07-01

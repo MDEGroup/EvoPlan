@@ -1,0 +1,6 @@
+library,version,sign,date
+servlet-api,2.5,-,2008-05-06
+servlet-api,2.3,+,2008-02-09
+servlet-api,2.5,+,2008-02-09
+servlet-api,2.3,-,2008-01-21
+servlet-api,2.3,+,2008-01-21

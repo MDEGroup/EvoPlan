@@ -1,0 +1,4 @@
+library,version,sign,date
+jersey-common,2.23.2,-,2018-10-16
+jersey-common,2.23.2,+,2018-10-16
+jersey-common,2.23.2,-,2018-11-14

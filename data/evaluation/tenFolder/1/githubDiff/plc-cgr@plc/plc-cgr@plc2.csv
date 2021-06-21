@@ -1,0 +1,13 @@
+library,version,sign,date
+hibernate-validator,4.2.0.Final,+,2012-02-27
+commons-codec,1.6,+,2012-02-28
+postgresql,9.0-801.jdbc4,+,2012-02-28
+guartz,1.1,+,2012-03-30
+hsqldb,2.2.6,+,2012-02-27
+hibernate-entitymanager,4.0.0.Final,-,2012-02-27
+hibernate-entitymanager,4.0.0.Final,+,2012-02-23
+jackson-mapper-asl,1.9.6,+,2012-04-06
+hibernate-core,4.0.0.Final,-,2012-02-27
+hibernate-core,4.0.0.Final,+,2012-02-23
+commons-io,2.1,+,2012-03-14
+guice,3.0,+,2012-02-27

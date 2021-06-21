@@ -1,0 +1,4 @@
+library,version,sign,date
+lionengine-core,6.2.0-SNAPSHOT,+,2014-04-07
+lionengine-core,6.1.0-SNAPSHOT,-,2014-04-01
+lionengine-core,6.2.0-SNAPSHOT,-,2014-04-08

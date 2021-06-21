@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.12,-,2018-01-31
+junit,4.12,+,2018-01-23
+jain-mgcp-ri,1.0,-,2018-01-23
+jain-mgcp-ri,1.0,+,2017-01-03
+jain-mgcp-ri,1.0,-,2017-01-03

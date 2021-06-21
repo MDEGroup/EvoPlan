@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.8.2,+,2013-09-22
+junit,4.8.2,-,2013-09-22
+junit,4.8.2,+,2013-09-13
+junit,4.11,+,2013-09-22
+commons-codec,1.8,+,2013-09-22
+citr-common,1.0-SNAPSHOT,+,2013-09-22
+android,2.2.1,-,2013-09-12
+mockito-core,1.9.5,+,2013-10-12
+mockito-core,1.9.5,+,2013-12-09
+mockito-core,1.9.5,-,2013-12-09

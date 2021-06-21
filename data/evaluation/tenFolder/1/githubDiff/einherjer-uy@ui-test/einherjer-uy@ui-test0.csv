@@ -1,0 +1,6 @@
+library,version,sign,date
+mail,1.4.5,+,2013-09-06
+spring-security-config,3.1.4.RELEASE,-,2013-08-05
+spring-security-web,3.1.4.RELEASE,-,2013-08-05
+velocity,1.7,+,2013-09-06
+spring-security-core,3.1.4.RELEASE,-,2013-08-05

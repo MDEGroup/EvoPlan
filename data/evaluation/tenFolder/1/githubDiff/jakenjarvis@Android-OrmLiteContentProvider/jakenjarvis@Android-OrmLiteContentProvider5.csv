@@ -1,0 +1,5 @@
+library,version,sign,date
+android,4.1.1.4,-,2013-05-27
+android,4.1.1.4,+,2013-05-27
+ormlite-content-provider-library,1.0.0-SNAPSHOT,+,2013-05-26
+ormlite-content-provider-library,1.0.0-SNAPSHOT,-,2013-05-27

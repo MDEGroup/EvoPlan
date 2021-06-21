@@ -1,0 +1,8 @@
+library,version,sign,date
+persistence-ejb,1.0-SNAPSHOT,+,2011-10-20
+persistence-ejb,1.0-SNAPSHOT,-,2011-10-20
+application-ejb,1.0-SNAPSHOT,+,2011-10-20
+application-ejb,1.0-SNAPSHOT,+,2011-10-18
+application-ejb,1.0-SNAPSHOT,-,2011-10-20
+wormstats-web,1.0-SNAPSHOT,+,2011-10-20
+wormstats-web,1.0-SNAPSHOT,-,2011-10-20

@@ -1,0 +1,5 @@
+library,version,sign,date
+maven-core,3.0,-,2017-06-28
+maven-core,3.0,+,2016-03-09
+maven-plugin-api,3.0,-,2017-06-28
+maven-plugin-api,3.0,+,2016-03-09

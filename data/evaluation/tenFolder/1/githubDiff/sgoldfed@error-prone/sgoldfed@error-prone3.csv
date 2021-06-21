@@ -1,0 +1,12 @@
+library,version,sign,date
+error_prone_annotation,v1.0_alpha,+,2013-04-29
+error_prone_annotation,v1.0_alpha,-,2013-07-29
+error_prone_annotation,0.3-SNAPSHOT,-,2011-12-29
+error_prone_annotation,0.3-SNAPSHOT,+,2011-12-28
+guava,r09,+,2011-12-29
+guava,r09,+,2013-04-29
+guava,r09,-,2011-12-29
+guava,r09,+,2012-05-08
+guava,r09,-,2013-07-29
+metainf-services,1.1,-,2013-07-29
+metainf-services,1.1,+,2013-04-29

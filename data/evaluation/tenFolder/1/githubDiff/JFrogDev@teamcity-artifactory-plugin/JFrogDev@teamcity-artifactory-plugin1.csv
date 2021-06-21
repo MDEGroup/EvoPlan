@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-lang3,3.0.1,+,2011-11-09
+testng,6.0.1,-,2011-11-09
+commons-io,2.0.1,-,2011-11-09
+guava,r09,-,2011-11-09

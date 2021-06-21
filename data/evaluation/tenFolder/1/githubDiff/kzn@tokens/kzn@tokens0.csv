@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.10,+,2012-07-22
+antlr,3.4,+,2013-06-22
+logger,0.0.1-SNAPSHOT,+,2013-08-16
+guava,12.0,+,2012-07-11
+ecj,4.2.2,+,2013-06-26
+gate-core,7.1,-,2013-06-10
+gate-core,7.1,+,2013-08-20
+gate-core,7.1,+,2012-08-03
+antlr-runtime,3.4,+,2013-06-26
+antlr-runtime,3.4,+,2013-06-22
+antlr-runtime,3.4,-,2013-06-26

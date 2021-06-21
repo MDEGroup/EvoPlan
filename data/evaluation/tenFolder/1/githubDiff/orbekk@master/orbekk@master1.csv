@@ -1,0 +1,16 @@
+library,version,sign,date
+slf4j-api,1.6.4,+,2012-02-07
+slf4j-api,1.6.4,+,2012-02-28
+mockito-all,1.9.0,-,2012-01-27
+mockito-all,1.9.0,+,2012-02-07
+mockito-all,1.9.0,+,2012-02-28
+mockito-all,1.9.0,+,2012-01-13
+mockito-all,1.9.0,+,2012-01-27
+junit,4.10,+,2012-02-28
+junit,4.10,+,2012-02-07
+slf4j-log4j12,1.6.4,+,2012-02-07
+slf4j-log4j12,1.6.4,+,2012-02-28
+hamcrest-all,1.1,+,2012-02-28
+jackson-mapper-asl,1.7.5,+,2012-02-28
+jackson-mapper-asl,1.7.5,+,2012-02-07
+protobuf-simple-rpc,1.0-SNAPSHOT,+,2012-03-12

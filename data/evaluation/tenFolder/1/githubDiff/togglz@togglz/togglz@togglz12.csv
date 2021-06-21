@@ -1,0 +1,4 @@
+library,version,sign,date
+seam-security,3.2.0.Final,+,2013-10-27
+seam-security,3.1.0.Final,-,2013-10-27
+seam-security,3.1.0.Final,+,2012-01-12

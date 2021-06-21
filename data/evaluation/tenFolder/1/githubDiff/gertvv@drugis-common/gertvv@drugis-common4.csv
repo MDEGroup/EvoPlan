@@ -1,0 +1,6 @@
+library,version,sign,date
+easymock,2.4,+,2010-10-20
+junit,4.6,+,2010-10-20
+collections-generic,4.01,+,2011-11-28
+binding,2.0.6,+,2010-10-20
+commons-math3,3.0,+,2012-03-28

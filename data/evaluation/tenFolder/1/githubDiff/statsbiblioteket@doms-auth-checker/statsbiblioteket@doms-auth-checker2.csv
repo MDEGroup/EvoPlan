@@ -1,0 +1,8 @@
+library,version,sign,date
+jersey-servlet,1.11,-,2013-11-22
+junit,4.9,+,2011-09-19
+sbutil-webservices-log4j,0.5.29,+,2015-03-17
+sbutil-webservices-common,0.5.29,+,2013-11-25
+domsutil-logappender,1.1,-,2015-05-08
+domsutil-logappender,1.1-SNAPSHOT,+,2015-03-17
+domsutil-logappender,1.1-SNAPSHOT,-,2015-03-19

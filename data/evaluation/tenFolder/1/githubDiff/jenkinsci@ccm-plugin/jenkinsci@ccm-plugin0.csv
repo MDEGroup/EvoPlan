@@ -1,0 +1,12 @@
+library,version,sign,date
+analysis-core,1.38,+,2012-03-22
+analysis-core,1.71,-,2015-05-12
+analysis-core,1.38,-,2012-04-04
+analysis-core,1.38,+,2012-04-04
+analysis-core,1.74,-,2016-04-24
+analysis-core,1.73-beta-SNAPSHOT,-,2015-08-26
+analysis-core,1.38,-,2013-08-26
+analysis-test,1.8,+,2012-04-04
+analysis-test,1.8,-,2013-08-26
+analysis-test,1.8,+,2012-03-22
+analysis-test,1.8,-,2012-04-04

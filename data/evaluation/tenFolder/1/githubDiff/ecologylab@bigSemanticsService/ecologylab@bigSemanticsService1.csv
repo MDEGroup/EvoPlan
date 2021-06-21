@@ -1,0 +1,16 @@
+library,version,sign,date
+commons-configuration,1.9,-,2013-05-17
+commons-configuration,1.9,+,2013-05-17
+commons-configuration,1.10,+,2013-05-17
+commons-configuration,1.9,+,2013-02-02
+slf4j-simple,1.7.5,-,2013-05-17
+slf4j-simple,1.7.5,+,2013-05-17
+slf4j-simple,1.7.5,+,2013-02-02
+guava,15.0,+,2013-05-17
+guava,14.0.1,+,2013-02-02
+guava,14.0.1,+,2013-05-17
+guava,14.0.1,-,2013-05-17
+jersey-client,1.14,+,2013-02-02
+jersey-client,1.14,+,2013-05-17
+jersey-client,1.14,-,2013-05-17
+jersey-client,1.14,-,2013-02-02

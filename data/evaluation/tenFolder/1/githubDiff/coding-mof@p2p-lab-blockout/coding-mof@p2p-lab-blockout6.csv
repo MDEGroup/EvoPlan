@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2012-04-26
+mockito-all,1.8.4,-,2012-04-29
+mockito-all,1.8.4,+,2012-04-26
+junit,4.10,+,2012-04-26
+jcl-over-slf4j,1.5.6,-,2012-04-26
+logback-classic,0.9.18,-,2012-04-26
+log4j-over-slf4j,1.5.6,-,2012-04-26
+jul-to-slf4j,1.6.4,+,2012-04-26
+org.synyx.hera.core,0.7.0.RELEASE,+,2012-04-27
+guava,11.0.2,-,2012-04-26
+guava,11.0.2,-,2012-05-03
+commons-lang,2.2,-,2012-04-26
+javax.inject,1,+,2012-04-26

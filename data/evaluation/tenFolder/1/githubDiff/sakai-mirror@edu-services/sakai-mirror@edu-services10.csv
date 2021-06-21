@@ -1,0 +1,6 @@
+library,version,sign,date
+sections-api,1.0.0-beta01,-,2009-10-15
+sections-api,1.0-SNAPSHOT,+,2009-10-03
+sections-api,1.0-SNAPSHOT,-,2009-10-09
+sections-api,1.0.0-beta02-SNAPSHOT,-,2009-10-15
+commons-logging,1.0.4,+,2013-11-15

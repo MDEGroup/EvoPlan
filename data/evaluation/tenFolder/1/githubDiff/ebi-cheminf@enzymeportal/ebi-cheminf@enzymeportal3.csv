@@ -1,0 +1,17 @@
+library,version,sign,date
+logback-jackson,0.1.5,+,2019-10-25
+logback-jackson,0.1.5,+,2019-11-12
+enzyme-service,0.0.2,-,2019-11-12
+enzyme-service,0.0.1-SNAPSHOT,-,2019-10-25
+enzyme-service,0.0.2,-,2020-03-27
+enzyme-service,0.0.2-SNAPSHOT,-,2019-10-28
+enzyme-service,0.0.2-SNAPSHOT,+,2019-10-25
+logback-json-classic,0.1.5,+,2019-10-25
+logback-json-classic,0.1.5,+,2019-11-12
+jackson-databind,2.9.8,-,2020-03-27
+commons-collections4,4.3,+,2019-10-25
+data-service,0.0.1-SNAPSHOT,-,2019-10-28
+data-service,0.0.1-SNAPSHOT,+,2019-10-25
+lombok,1.18.6,-,2019-11-12
+lombok,1.18.10,+,2019-11-12
+lombok,1.18.4,-,2019-11-12

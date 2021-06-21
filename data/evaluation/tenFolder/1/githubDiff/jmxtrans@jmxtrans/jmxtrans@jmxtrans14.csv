@@ -1,0 +1,9 @@
+library,version,sign,date
+slf4j-api,1.7.12,-,2015-10-15
+slf4j-api,1.7.12,-,2015-11-17
+junit,4.11,-,2015-07-31
+commons-codec,1.10,-,2017-11-15
+guava,18.0,-,2015-07-31
+guava,19.0-rc2,-,2016-01-22
+commons-io,2.4,-,2016-03-28
+commons-io,2.5,-,2017-11-15

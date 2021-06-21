@@ -1,0 +1,5 @@
+library,version,sign,date
+jdchub-core,0.9.0,+,2012-02-20
+jdchub-core,0.3.0-SNAPSHOT,-,2012-02-20
+WebManagementConsole,0.3.0-SNAPSHOT,+,2012-01-13
+WebManagementConsole,0.3.0-SNAPSHOT,-,2012-02-20

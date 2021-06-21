@@ -1,0 +1,11 @@
+library,version,sign,date
+jetty-plus,7.3.0.v20110203,-,2011-04-02
+jetty-plus,7.3.0.v20110203,+,2011-04-02
+jetty-plus,7.3.0.v20110203,-,2011-04-30
+jetty-plus,7.3.0.v20110203,+,2011-04-30
+btm,2.2.0-SNAPSHOT,-,2011-04-30
+btm,2.1.1-SNAPSHOT,-,2011-02-16
+btm,2.2.0-SNAPSHOT,+,2011-04-02
+btm,2.2.0-SNAPSHOT,+,2011-04-30
+btm,2.1.2-SNAPSHOT,-,2011-04-02
+btm,2.1.1,-,2011-04-02

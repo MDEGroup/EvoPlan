@@ -1,0 +1,5 @@
+library,version,sign,date
+spring-jms,3.2.0.RELEASE,-,2013-01-29
+spring-jms,3.2.0.RELEASE,+,2013-01-29
+spring-web,3.2.0.RELEASE,-,2013-01-29
+spring-web,3.2.0.RELEASE,+,2013-01-29

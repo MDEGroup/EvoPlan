@@ -1,0 +1,6 @@
+library,version,sign,date
+core,3.8.3.v20130121-145325,+,2012-11-10
+ant,1.6.5,+,2012-11-10
+closure-compiler,r1649,-,2012-11-10
+closure-compiler,r1649,+,2012-11-10
+jdtCompilerAdapter,3.8.3.v20130121-145325.jar,+,2012-11-10

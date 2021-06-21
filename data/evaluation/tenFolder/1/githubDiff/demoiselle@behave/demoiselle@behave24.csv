@@ -1,0 +1,15 @@
+library,version,sign,date
+demoiselle-behave-core,1.2.0-SNAPSHOT,-,2013-08-14
+demoiselle-behave-core,1.2.0-SNAPSHOT,-,2013-08-13
+demoiselle-behave-core,1.2.0-BETA5,-,2013-08-14
+demoiselle-behave-core,1.2.0-BETA5,-,2013-08-13
+phantomjsdriver,1.2.0,+,2015-06-01
+phantomjsdriver,1.2.0,-,2016-02-29
+guava,18.0,+,2014-12-01
+httpclient,4.2.4,-,2014-12-01
+httpclient,4.3.5,+,2014-12-01
+selenium-java,2.45.0,-,2015-07-14
+selenium-java,2.33.0,-,2013-10-31
+selenium-java,2.37.1,-,2014-04-22
+selenium-java,2.44.0,-,2015-03-03
+selenium-java,2.41.0,-,2014-12-01

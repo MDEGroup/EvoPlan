@@ -1,0 +1,6 @@
+library,version,sign,date
+jmockit,1.13,+,2014-11-10
+jmockit,1.5,-,2014-11-10
+jmockit,1.5,+,2013-12-05
+junit,4.10,+,2013-11-13
+junit,4.10,-,2013-11-13

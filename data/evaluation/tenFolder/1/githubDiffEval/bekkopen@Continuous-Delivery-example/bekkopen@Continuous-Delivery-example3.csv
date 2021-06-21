@@ -1,0 +1,3 @@
+library,version,sign,date
+liquibase-core,2.0.1,-,2011-09-15
+mysql-connector-java,5.1.13,-,2011-09-15

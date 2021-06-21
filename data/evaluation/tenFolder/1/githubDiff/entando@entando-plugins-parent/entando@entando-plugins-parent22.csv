@@ -1,0 +1,9 @@
+library,version,sign,date
+commons-httpclient,3.1,+,2012-11-30
+commons-httpclient,3.1,-,2012-04-06
+commons-httpclient,3.1,-,2012-11-30
+commons-httpclient,3.1,+,2012-04-06
+cas-client-core,3.1.3,-,2012-11-30
+cas-client-core,3.1.3,+,2012-11-30
+cas-client-core,3.1.3,-,2012-04-06
+cas-client-core,3.1.3,+,2012-04-06

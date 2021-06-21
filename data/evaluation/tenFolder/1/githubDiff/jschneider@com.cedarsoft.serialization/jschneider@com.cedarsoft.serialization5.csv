@@ -1,0 +1,12 @@
+library,version,sign,date
+app,3.0.0,-,2010-08-09
+app,3.0.0-SNAPSHOT,-,2010-08-05
+license,3.0.0,-,2010-08-09
+license,3.0.0-SNAPSHOT,-,2010-08-05
+registry,3.0.0,-,2010-08-09
+registry,3.0.0-SNAPSHOT,-,2010-08-05
+file,3.0.0,-,2010-08-09
+file,3.0.0-SNAPSHOT,-,2010-08-05
+joda-time,1.6,-,2010-07-14
+crypt,3.0.0,-,2010-08-09
+crypt,3.0.0-SNAPSHOT,-,2010-08-05

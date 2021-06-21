@@ -1,0 +1,4 @@
+library,version,sign,date
+gcm-server,1.0.2,+,2014-01-14
+commons-codec,1.9,+,2014-01-14
+json-simple,1.1,+,2014-01-14

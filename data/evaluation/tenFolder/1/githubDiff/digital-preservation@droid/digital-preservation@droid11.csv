@@ -1,0 +1,9 @@
+library,version,sign,date
+droid-command-line,6.0,-,2012-04-25
+droid-command-line,6.2,-,2012-10-31
+droid-command-line,6.2-SNAPSHOT,-,2012-10-31
+droid-command-line,6.3-SNAPSHOT,-,2012-10-31
+droid-ui,6.0,-,2012-04-25
+droid-ui,6.2,-,2012-10-31
+droid-ui,6.2-SNAPSHOT,-,2012-10-31
+droid-ui,6.3-SNAPSHOT,-,2012-10-31

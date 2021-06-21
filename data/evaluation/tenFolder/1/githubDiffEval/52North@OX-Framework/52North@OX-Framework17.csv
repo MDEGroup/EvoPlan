@@ -1,0 +1,7 @@
+library,version,sign,date
+Saxon-HE,9.4.0.6,-,2015-05-12
+Saxon-HE,9.4.0.6,+,2015-05-12
+xmlbeans,2.6.0,+,2013-12-02
+xmlbeans,2.6.0,+,2015-05-12
+xmlbeans,2.6.0,-,2013-12-02
+xmlbeans,2.6.0,-,2015-05-12

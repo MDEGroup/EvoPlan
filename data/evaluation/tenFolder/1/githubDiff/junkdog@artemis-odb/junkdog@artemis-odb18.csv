@@ -1,0 +1,17 @@
+library,version,sign,date
+maven-core,3.3.3,-,2016-12-09
+maven-core,3.3.3,+,2016-12-09
+maven-core,3.3.3,+,2016-09-11
+maven-plugin-api,3.3.3,-,2016-12-09
+maven-plugin-api,3.3.3,+,2016-12-09
+maven-plugin-api,3.3.3,+,2016-09-11
+maven-plugin-annotations,3.3,+,2016-12-09
+maven-plugin-annotations,3.3,+,2016-09-11
+maven-plugin-annotations,3.3,-,2016-12-09
+artemis-odb,3.0.0-SNAPSHOT,-,2018-07-16
+artemis-odb,2.2.0-SNAPSHOT,-,2019-01-05
+artemis-odb,2.0.0,-,2016-09-11
+artemis-odb,2.1.0,-,2017-05-25
+plexus-build-api,0.0.7,-,2016-12-09
+plexus-build-api,0.0.7,+,2016-09-11
+plexus-build-api,0.0.7,+,2016-12-09

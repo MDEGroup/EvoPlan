@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.5,-,2009-05-08
+junit,4.5,+,2009-05-08
+ant,1.7.1,+,2009-09-05
+jetty,6.1.14,+,2009-05-08
+jetty,6.1.14,-,2009-05-08
+ant-testutil,1.7.1,+,2009-09-05
+jetty-util,6.1.14,+,2009-05-08
+servlet-api,2.5,-,2009-05-08
+servlet-api,2.5,+,2009-05-08

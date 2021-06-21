@@ -1,0 +1,3 @@
+library,version,sign,date
+tomcat-servlet-api,7.0.22,-,2013-12-02
+tomcat-servlet-api,7.0.22,+,2013-11-15

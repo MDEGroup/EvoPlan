@@ -1,0 +1,8 @@
+library,version,sign,date
+shim-bundle-plugin,1.0,+,2020-04-09
+shim-bundle-plugin,1.1,+,2020-03-25
+shim-bundle-plugin,1.1,-,2020-04-09
+shim-bundle-plugin,1.0,-,2020-04-28
+shim-bundle-plugin,1.1,+,2020-04-28
+shim-bundle-plugin,1.0,-,2020-03-25
+jython,2.5.3,+,2020-04-09

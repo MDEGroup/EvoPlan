@@ -1,0 +1,10 @@
+library,version,sign,date
+abbot,1.0.2,-,2011-04-15
+abbot,1.0.2,+,2011-04-15
+junit,4.8,-,2012-08-16
+junit,4.8.1,-,2011-04-15
+junit,4.8.1,+,2011-04-15
+flying-saucer-pdf,9.0.0,+,2011-06-06
+flying-saucer-pdf,9.0.0,-,2012-07-24
+flying-saucer-core,9.0.0,+,2011-06-06
+flying-saucer-core,9.0.0,-,2012-07-24

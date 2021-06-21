@@ -1,0 +1,9 @@
+library,version,sign,date
+aws-ec2,1.5.0-beta.8,-,2013-02-08
+jclouds-gae,1.5.7,+,2013-02-13
+jclouds-sshj,1.5.0-beta.8,-,2013-02-08
+hpcloud-objectstorage,1.5.0-beta.8,-,2013-02-08
+hpcloud-compute,1.5.0-beta.8,-,2013-02-08
+jersey-atom,1.17,+,2013-02-15
+jclouds-enterprise,1.5.0-beta.8,-,2013-02-08
+jclouds-compute,1.5.0-beta.8,-,2013-02-08

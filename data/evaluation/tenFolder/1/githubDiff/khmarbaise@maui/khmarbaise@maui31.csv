@@ -1,0 +1,15 @@
+library,version,sign,date
+selenium-server,2.34.0,-,2013-10-23
+selenium-server,2.41.0,+,2013-10-23
+selenium-server,2.41.0,-,2014-04-26
+selenium-firefox-driver,2.34.0,-,2013-10-23
+selenium-firefox-driver,2.41.0,+,2013-10-23
+selenium-firefox-driver,2.41.0,-,2014-04-26
+fest-assert,1.4,-,2013-10-23
+fest-assert,1.4,+,2013-10-23
+selenium-api,2.41.0,+,2013-10-23
+selenium-api,2.41.0,-,2014-04-26
+testng,6.7,-,2013-10-23
+testng,6.7,+,2013-10-23
+selenium-java,2.41.0,+,2013-10-23
+selenium-java,2.41.0,-,2014-04-26

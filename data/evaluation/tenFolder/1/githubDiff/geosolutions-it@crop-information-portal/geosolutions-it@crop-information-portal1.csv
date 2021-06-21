@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.8.1,-,2013-10-31
+junit,4.11,-,2013-10-31
+junit,4.11,+,2014-01-10
+gb-action-imagemosaic,1.4-SNAPSHOT,+,2014-01-10
+jt-zonal,1.0-SNAPSHOT,+,2014-01-10
+jt-zonal,1.0-SNAPSHOT,-,2013-10-31
+nrl-core,1.1-SNAPSHOT,+,2014-01-10
+gb-actions,1.4-SNAPSHOT,+,2014-01-10
+gb-actions,1.4-SNAPSHOT,-,2013-10-31

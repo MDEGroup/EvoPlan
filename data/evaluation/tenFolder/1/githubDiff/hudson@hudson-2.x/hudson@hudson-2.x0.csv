@@ -1,0 +1,11 @@
+library,version,sign,date
+animal-sniffer-annotation,1.0,-,2011-08-29
+animal-sniffer-annotation,1.0,+,2008-11-17
+animal-sniffer-annotation,1.0,+,2011-08-29
+test-annotations,1.0,+,2011-01-20
+test-annotations,1.0,+,2011-05-20
+test-annotations,1.0,-,2011-08-29
+test-annotations,1.0,-,2011-02-08
+test-annotations,1.0,+,2011-02-08
+test-annotations,1.0,+,2011-08-29
+test-annotations,1.0,-,2011-05-20

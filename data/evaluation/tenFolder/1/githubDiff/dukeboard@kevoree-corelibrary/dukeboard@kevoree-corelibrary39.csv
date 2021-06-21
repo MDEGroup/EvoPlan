@@ -1,0 +1,4 @@
+library,version,sign,date
+akka-actor,1.2,+,2013-06-25
+junit,4.8.1,+,2013-06-27
+spray-can_2.9.1,0.9.0,+,2013-06-25

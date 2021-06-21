@@ -1,0 +1,11 @@
+library,version,sign,date
+libvirt,0.4.8,-,2012-09-05
+libvirt,0.4.9,-,2013-02-27
+libvirt,0.4.8,+,2012-08-22
+libvirt,0.4.8,-,2012-08-17
+libvirt,0.4.8,+,2012-08-17
+libvirt,0.4.8,-,2012-08-22
+jna,3.5.1,-,2013-02-27
+jna,3.5.1,+,2013-02-20
+cloud-plugin-network-ovs,4.0.0-SNAPSHOT,-,2012-08-17
+cloud-agent,4.0.0-SNAPSHOT,-,2012-08-17

@@ -1,0 +1,15 @@
+library,version,sign,date
+spring-data-jpa,1.4.2.RELEASE,+,2013-11-01
+spring-data-jpa,1.4.2.RELEASE,-,2013-11-01
+spring-data-jpa,1.4.1.RELEASE,+,2013-11-01
+javax.servlet-api,3.0.1,+,2013-11-01
+mockito-all,1.8.4,+,2013-11-02
+spring-test,3.1.4.RELEASE,+,2013-11-02
+cglib,2.2.2,+,2013-11-01
+mysql-connector-java,5.1.26,+,2013-11-01
+hibernate-validator,5.0.1.Final,+,2013-11-01
+spring-core,3.1.4.RELEASE,+,2013-11-01
+validation-api,1.1.0.Final,+,2013-11-01
+hibernate-entitymanager,4.2.2.Final,+,2013-11-01
+persistence-api,1.0.2,+,2013-11-01
+gson,2.2.4,+,2013-11-06

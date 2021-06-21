@@ -1,0 +1,14 @@
+library,version,sign,date
+commons-logging-api,1.1,+,2008-07-22
+idea,0.7.0-SNAPSHOT,-,2008-07-22
+pax-runner-idea-model,1.5.0-SNAPSHOT,-,2010-01-26
+pax-runner-idea-model,1.2.0-SNAPSHOT,-,2009-07-05
+pax-runner-idea-model,1.3.0-SNAPSHOT,-,2009-09-25
+pax-runner-idea-model,1.2.2-SNAPSHOT,-,2009-09-23
+pax-runner-idea-model,1.1.0-SNAPSHOT,-,2009-06-24
+pax-runner-idea-model,1.1.2-SNAPSHOT,-,2009-06-28
+pax-runner-idea-model,1.2.1-SNAPSHOT,-,2009-09-23
+pax-runner-idea-model,1.2.1-SNAPSHOT,-,2009-09-20
+pax-runner-idea-model,1.4.0-SNAPSHOT,-,2009-10-21
+pax-runner-idea-model,1.1.1-SNAPSHOT,-,2009-06-27
+pax-runner-idea-model,1.1.0-SNAPSHOT,+,2008-11-05

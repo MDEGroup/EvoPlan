@@ -1,0 +1,6 @@
+library,version,sign,date
+jersey-client,1.8,+,2014-10-03
+jersey-client,1.17.1,-,2014-01-28
+jersey-client,1.8,+,2014-01-28
+jersey-client,1.8,-,2014-10-03
+jersey-client,2.0,+,2014-10-03

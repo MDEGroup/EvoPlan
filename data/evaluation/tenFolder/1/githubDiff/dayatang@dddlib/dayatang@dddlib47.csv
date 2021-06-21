@@ -1,0 +1,8 @@
+library,version,sign,date
+shiro-core,1.2.3,-,2016-10-24
+shiro-core,1.2.3,-,2016-04-25
+commons-dbcp2,2.1,-,2016-04-25
+aspectjweaver,1.7.4,-,2016-04-25
+aspectjweaver,1.8.5,-,2015-09-01
+ehcache-core,2.6.11,+,2016-10-24
+ehcache-core,2.6.11,-,2016-04-25

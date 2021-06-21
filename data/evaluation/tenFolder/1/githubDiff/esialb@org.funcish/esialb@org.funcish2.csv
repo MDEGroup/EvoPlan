@@ -1,0 +1,15 @@
+library,version,sign,date
+clojure,1.5.0,+,2013-03-18
+funcish-core,0.0.5,-,2013-05-22
+funcish-core,0.0.3-SNAPSHOT,-,2013-03-20
+funcish-core,0.1.0-SNAPSHOT,-,2013-07-16
+funcish-core,0.0.1-SNAPSHOT,-,2013-03-18
+funcish-core,0.0.6-SNAPSHOT,-,2013-05-22
+funcish-core,0.0.2-SNAPSHOT,-,2013-03-19
+funcish-core,0.0.6-itr-SNAPSHOT,-,2013-07-16
+funcish-core,0.0.1-SNAPSHOT,+,2013-03-18
+funcish-core,0.0.4-SNAPSHOT,-,2013-04-02
+funcish-core,0.0.5-SNAPSHOT,-,2013-04-25
+funcish-core,0.0.2,-,2013-03-20
+funcish-core,0.0.1,-,2013-03-19
+funcish-core,0.1.0,-,2013-07-25

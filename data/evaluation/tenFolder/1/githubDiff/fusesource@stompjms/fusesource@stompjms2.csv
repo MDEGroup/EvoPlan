@@ -1,0 +1,9 @@
+library,version,sign,date
+apollo-selector,99-trunk-SNAPSHOT,+,2012-05-03
+apollo-selector,99-trunk-SNAPSHOT,-,2012-07-31
+geronimo-jms_1.1_spec,1.1,+,2012-09-20
+geronimo-jms_1.1_spec,1.1,+,2011-07-14
+geronimo-jms_1.1_spec,1.1,-,2011-07-14
+xstream,1.3.1,+,2011-07-14
+xstream,1.4.4,+,2012-09-20
+xstream,1.3.1,-,2011-07-14

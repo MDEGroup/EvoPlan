@@ -1,0 +1,15 @@
+library,version,sign,date
+slf4j-api,1.7.5,+,2016-12-09
+slf4j-api,1.7.5,-,2016-12-09
+matrix-artemis,0.2.0,+,2016-12-09
+matrix-artemis,0.2.0,-,2016-12-09
+groovy-all,2.3.6,+,2016-12-09
+groovy-all,2.3.6,-,2016-12-09
+artemis-odb,3.0.0-SNAPSHOT,-,2018-07-16
+artemis-odb,2.2.0-SNAPSHOT,-,2019-01-05
+artemis-odb,2.0.0,-,2016-09-11
+artemis-odb,2.1.0,-,2017-05-25
+gradle-tooling-api,2.1,-,2016-12-09
+gradle-tooling-api,2.1,+,2016-12-09
+gradle-core,2.1,-,2016-12-09
+gradle-core,2.1,+,2016-12-09

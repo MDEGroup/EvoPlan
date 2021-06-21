@@ -1,0 +1,4 @@
+library,version,sign,date
+hadoop-client,2.0.0-mr1-cdh4.4.0,+,2013-11-23
+junit,4.8.2,+,2013-11-23
+mrunit,1.0.0,+,2013-11-23

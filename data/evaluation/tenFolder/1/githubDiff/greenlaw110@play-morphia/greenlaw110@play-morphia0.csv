@@ -1,0 +1,13 @@
+library,version,sign,date
+play,1.2.4,-,2014-06-01
+play,1.2.4,+,2012-04-26
+play,1.2.7,+,2014-06-01
+play,1.2,-,2012-04-26
+osgl-logging,0.3-SNAPSHOT,+,2014-06-01
+mongo-java-driver,2.7.3,-,2014-06-01
+mongo-java-driver,2.12.2,-,2015-03-20
+mongo-java-driver,2.6.5a,-,2012-04-26
+osgl-storage,0.3-SNAPSHOT,+,2014-06-01
+morphia,0.107,-,2015-03-20
+morphia,1.00-20110403,-,2014-06-01
+osgl-tool,0.3-SNAPSHOT,+,2014-06-01

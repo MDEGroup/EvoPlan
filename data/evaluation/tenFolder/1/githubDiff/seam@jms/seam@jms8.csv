@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.8.1,+,2010-05-07
+junit,4.8.1,+,2010-04-26
+junit,4.8.1,-,2010-04-26
+junit,4.8.1,-,2011-05-08
+junit,4.8.1,+,2011-02-03
+junit,4.8.1,-,2010-05-28
+junit,4.8.1,-,2010-05-07
+jboss-javaee-6.0,1.0.0.Final,-,2011-05-08
+jboss-javaee-6.0,1.0.0.Final,-,2011-08-30
+jboss-javaee-6.0,1.0.0.Final,-,2011-10-03
+jboss-javaee-6.0,1.0.0.Final,+,2011-07-11
+jboss-javaee-6.0,1.0.0.Final,-,2011-07-21
+jboss-javaee-6.0,1.0.0.Final,+,2011-04-04
+cdi-api,1.0-SP4,-,2011-05-08
+cdi-api,1.0-SP4,+,2011-04-04

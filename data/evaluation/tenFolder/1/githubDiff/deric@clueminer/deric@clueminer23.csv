@@ -1,0 +1,17 @@
+library,version,sign,date
+org-openide-util-lookup,RELEASE80,-,2015-05-06
+org-openide-util-lookup,RELEASE80,+,2014-08-30
+org-openide-modules,RELEASE80,-,2015-05-06
+perspective-api,0.1-SNAPSHOT,-,2015-10-26
+perspective-api,0.1-SNAPSHOT,-,2015-05-06
+perspective-api,0.1-SNAPSHOT,+,2015-05-06
+org-netbeans-api-annotations-common,RELEASE80,-,2015-05-06
+org-netbeans-api-annotations-common,RELEASE80,+,2014-08-30
+org-openide-windows,RELEASE80,-,2015-05-06
+org-openide-windows,RELEASE80,+,2014-08-30
+org-openide-util,RELEASE80,-,2015-05-06
+org-openide-util,RELEASE80,+,2014-08-30
+gui-utils,0.1-SNAPSHOT,-,2015-10-26
+gui-utils,0.1-SNAPSHOT,-,2015-05-06
+gui-utils,0.1-SNAPSHOT,+,2014-08-30
+gui-utils,0.1-SNAPSHOT,+,2015-05-06

@@ -1,0 +1,4 @@
+library,version,sign,date
+archaius-core,0.7.6,+,2019-08-21
+jersey-apache-client4,1.19.1,+,2019-08-21
+xstream,1.4.10,+,2019-08-21

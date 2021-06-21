@@ -1,0 +1,5 @@
+library,version,sign,date
+jetty-schemas,4.0.3,+,2018-11-26
+jetty-schemas,4.0.3,-,2018-11-26
+jakarta.servlet-api,4.0.2,-,2019-02-04
+jakarta.servlet-api,4.0.2,+,2019-02-04

@@ -1,0 +1,5 @@
+library,version,sign,date
+dime-semantic,0.0.1-SNAPSHOT,+,2013-06-26
+dime-semantic,0.0.1-SNAPSHOT,-,2013-06-26
+mysql-connector-java,5.1.17,+,2013-06-26
+mysql-connector-java,5.1.17,-,2013-06-26

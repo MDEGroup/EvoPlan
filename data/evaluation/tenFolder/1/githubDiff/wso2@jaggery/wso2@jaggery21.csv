@@ -1,0 +1,11 @@
+library,version,sign,date
+org.jaggeryjs.hostobjects.stream,0.9.0.ALPHA4.wso2v4,-,2014-04-09
+org.jaggeryjs.hostobjects.stream,0.9.0-SNAPSHOT,-,2013-09-25
+org.jaggeryjs.hostobjects.stream,0.9.0.ALPHA4,-,2014-04-08
+org.jaggeryjs.hostobjects.stream,0.9.0-SNAPSHOT,+,2012-08-09
+org.jaggeryjs.hostobjects.stream,0.9.0-SNAPSHOT,-,2014-04-21
+commons-logging,1.1.1,-,2015-01-30
+commons-logging,1.1.1,-,2012-08-06
+commons-logging,1.1.1,-,2014-04-21
+commons-logging,1.1.1,+,2014-04-21
+gson,2.1,+,2014-04-21

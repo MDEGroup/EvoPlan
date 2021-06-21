@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.8.2,-,2013-05-31
+hibernate-validator,4.3.1.Final,+,2013-04-01
+hibernate-validator,4.3.1.Final,+,2013-04-22
+hibernate-validator,4.3.1.Final,-,2013-04-19
+logback-classic,1.0.10,-,2013-05-31
+ical4j,1.0.4,+,2013-04-26

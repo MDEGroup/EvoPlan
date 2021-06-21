@@ -1,0 +1,10 @@
+library,version,sign,date
+lucene-highlighter,3.6.0,-,2016-05-13
+lucene-highlighter,4.10.4,-,2016-05-13
+lucene-highlighter,5.3.1,-,2016-01-19
+lucene-core,4.10.4,-,2016-05-13
+lucene-core,5.3.1,-,2016-01-19
+lucene-queries,4.10.4,-,2016-05-13
+lucene-queries,5.3.1,-,2016-01-19
+lucene-queryparser,4.10.4,-,2016-05-13
+lucene-queryparser,5.3.1,-,2016-01-19

@@ -1,0 +1,13 @@
+library,version,sign,date
+jaxb2-basics-runtime,0.6.0,+,2012-11-30
+jaxb2-basics-runtime,0.6.0,-,2012-11-30
+jaxb2-basics-runtime,0.6.0,+,2011-09-09
+slf4j-api,1.6.1,-,2012-11-30
+slf4j-api,1.6.1,+,2012-11-30
+logback-classic,0.9.29,+,2012-11-30
+logback-classic,0.9.29,-,2012-11-30
+joda-time,1.5.2,+,2012-11-30
+joda-time,1.5.2,-,2012-11-30
+jaxb-visitor,1.5,-,2012-11-30
+jaxb-visitor,1.5,-,2012-12-18
+jaxb-visitor,1.5,+,2012-11-30

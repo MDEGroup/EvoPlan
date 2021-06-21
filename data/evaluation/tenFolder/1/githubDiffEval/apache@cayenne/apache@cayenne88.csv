@@ -1,0 +1,12 @@
+library,version,sign,date
+cayenne-server,4.1.B2,-,2019-09-03
+cayenne-server,4.1.M2,-,2018-12-26
+cayenne-server,4.0.B2,-,2018-01-31
+cayenne-server,4.0.RC1,-,2018-07-16
+cayenne-server,4.0.B2,+,2018-01-04
+asciidoctorj,1.6.0-alpha.6,-,2018-07-11
+asciidoctorj,1.6.2,+,2019-05-21
+asciidoctorj,1.6.0-alpha.7,-,2019-05-21
+asciidoctorj,1.6.0-alpha.7,+,2018-07-11
+asciidoctorj,1.5.6,-,2018-01-31
+asciidoctorj,1.6.0-alpha.6,+,2018-01-31

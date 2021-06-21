@@ -1,0 +1,16 @@
+library,version,sign,date
+pentaho-metastore-locator-api,9.0.0.0-SNAPSHOT,-,2018-05-11
+gateway-shell,1.0.0.3.0.0.0-1634,-,2019-10-10
+gateway-shell,1.0.0.3.0.0.0-1634,+,2018-05-11
+gateway-shell,1.0.0.3.0.0.0-1634,+,2019-10-10
+shim-api,9.0.0.0-SNAPSHOT,-,2019-11-22
+org.osgi.core,4.3.1,+,2019-10-17
+org.osgi.core,4.3.1,-,2018-05-11
+pentaho-hadoop-shims-common-mapreduce,9.0.0.0-SNAPSHOT,+,2019-10-10
+pentaho-hadoop-shims-common-mapreduce,9.0.0.0-SNAPSHOT,-,2019-11-22
+xstream,1.4.9,-,2019-10-02
+aws-java-sdk-core,1.11.275,+,2019-10-23
+aws-java-sdk-core,1.11.275,-,2019-10-10
+aws-java-sdk-core,1.11.275,+,2019-10-10
+pentaho-hadoop-shims-common-services-api,9.0.0.0-SNAPSHOT,+,2019-10-10
+pentaho-hadoop-shims-common-services-api,9.0.0.0-SNAPSHOT,-,2019-11-22

@@ -1,0 +1,17 @@
+library,version,sign,date
+SerialProvider-bundle,0.1-SNAPSHOT,+,2013-02-26
+nrjavaserial,3.8.9,+,2013-02-26
+nrjavaserial,3.8.8,+,2013-02-26
+org.apache.felix.main,4.0.2,+,2012-05-17
+javaosc-core,0.2-SNAPSHOT,-,2013-02-26
+javaosc-core,0.2-SNAPSHOT,+,2012-06-04
+javaosc-core,0.2,+,2012-11-07
+phidgets-api,1.0,-,2012-07-20
+phidgets-api,1.0,+,2012-06-27
+phidgets-api,1.0,+,2013-02-26
+phidgets-api,1.0,+,2012-07-20
+jmdns,1.0,+,2012-06-27
+jmdns,3.4.1,+,2012-05-22
+jmdns,3.4.1,+,2012-07-20
+jmdns,3.4.1,+,2012-06-10
+jmdns,3.4.1,-,2012-07-20

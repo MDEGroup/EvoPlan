@@ -1,0 +1,6 @@
+library,version,sign,date
+perfcake,8.0,+,2016-09-21
+perfcake,8.0-SNAPSHOT,+,2016-09-21
+perfcake,7.0,-,2016-09-21
+perfcake,7.0,+,2016-08-14
+perfcake,7.0-SNAPSHOT,-,2016-08-14

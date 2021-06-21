@@ -1,0 +1,12 @@
+library,version,sign,date
+bas-meta,0.10.1-SNAPSHOT,+,2011-09-16
+bas-meta,0.10.1-SNAPSHOT,+,2011-08-29
+bas-meta,2.0.0-SNAPSHOT,-,2012-04-20
+bas-meta,0.10.1-SNAPSHOT,-,2011-09-15
+bas-meta,0.10.1-SNAPSHOT,-,2011-09-16
+bas-meta,0.10.1-SNAPSHOT,-,2012-04-19
+commons-lang,2.6,-,2013-08-29
+commons-lang,2.6,-,2012-04-20
+commons-lang,2.6,+,2013-08-29
+commons-lang,2.6,+,2012-04-20
+javax.inject,1,+,2013-08-29

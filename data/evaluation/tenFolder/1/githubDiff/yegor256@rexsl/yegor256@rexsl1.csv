@@ -1,0 +1,6 @@
+library,version,sign,date
+jcabi-xml,0.7.8,-,2014-05-14
+jaxb-api,2.0,-,2014-05-14
+rexsl,1.0,-,2014-05-14
+rexsl,@project.version@,-,2014-05-14
+servlet-api,2.4,-,2014-08-13

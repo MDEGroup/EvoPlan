@@ -1,0 +1,12 @@
+library,version,sign,date
+common-core,1.0.5-SNAPSHOT,-,2013-05-20
+common-core,1.0.7-SNAPSHOT,-,2013-10-10
+common-core,1.0.6,-,2013-10-10
+common-core,1.0.4-SNAPSHOT,+,2013-03-03
+common-core,1.0.4-SNAPSHOT,-,2013-03-03
+common-core,1.0.4,-,2013-05-20
+common-core,1.0.5,-,2013-07-01
+common-core,1.0.4-SNAPSHOT,-,2013-05-20
+common-core,1.0.6-SNAPSHOT,-,2013-07-01
+common-core,1.0.6,+,2013-07-01
+common-core,1.0.7,-,2013-11-28

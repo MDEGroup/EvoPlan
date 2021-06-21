@@ -1,0 +1,10 @@
+library,version,sign,date
+streams-testing,0.5.2-SNAPSHOT,+,2018-01-08
+streams-pojo,0.1-SNAPSHOT,+,2014-01-09
+streams-pojo,0.1-SNAPSHOT,+,2014-03-24
+streams-pojo,0.1-SNAPSHOT,+,2014-02-10
+streams-pojo,0.1-SNAPSHOT,-,2014-09-15
+streams-pojo,0.1-SNAPSHOT,-,2014-03-24
+streams-pojo,0.1-SNAPSHOT,-,2014-02-10
+streams-pojo,0.1-SNAPSHOT,-,2014-12-06
+streams-pojo,0.5.2-SNAPSHOT,+,2018-01-08

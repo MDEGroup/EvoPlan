@@ -1,0 +1,5 @@
+library,version,sign,date
+cxf-bundle-minimal,2.6.0,-,2013-03-06
+junit,3.8.1,-,2013-03-06
+junit,4.10,+,2013-03-06
+junit,3.8.1,+,2013-03-06

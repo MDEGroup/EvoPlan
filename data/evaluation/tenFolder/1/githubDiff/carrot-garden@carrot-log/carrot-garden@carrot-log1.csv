@@ -1,0 +1,14 @@
+library,version,sign,date
+carrot-wrap-aws-java-sdk,1.4.1-build001,+,2013-03-31
+carrot-wrap-aws-java-sdk,1.4.1-build001,-,2013-03-31
+carrot-log4j-aws-sns-pax,1.1.2,+,2013-03-31
+carrot-log4j-aws-sns-pax,1.1.2,-,2013-03-31
+jackson-core-asl,1.9.9,+,2013-03-31
+jackson-core-asl,1.9.9,-,2013-03-31
+com.springsource.org.apache.commons.logging,1.1.1,+,2013-03-31
+com.springsource.org.apache.httpcomponents.httpcore,4.1,-,2013-03-31
+jackson-mapper-asl,1.9.9,+,2013-03-31
+jackson-mapper-asl,1.9.9,-,2013-03-31
+com.springsource.org.apache.commons.codec,1.6.0,-,2013-03-31
+guava,14.0.1,-,2013-03-31
+guava,14.0.1,+,2013-03-31

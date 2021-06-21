@@ -1,0 +1,11 @@
+library,version,sign,date
+logback-classic,1.0.9,-,2015-01-26
+scalatest_2.11,2.1.5,+,2014-12-20
+scalatest_2.11,2.1.5,-,2015-01-26
+scalatest_2.11,2.1.5,-,2014-12-20
+scalatest_2.11,2.1.5,+,2015-01-26
+scala-logging_2.11,3.1.0,+,2014-12-19
+scala-logging_2.11,3.1.0,-,2014-12-20
+scala-logging_2.11,3.1.0,+,2014-12-20
+scopt_2.11,3.2.0,+,2014-12-20
+scopt_2.11,3.2.0,-,2014-12-20

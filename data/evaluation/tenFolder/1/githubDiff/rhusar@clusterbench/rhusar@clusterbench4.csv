@@ -1,0 +1,7 @@
+library,version,sign,date
+clusterbench-common,3.0.1.Final-SNAPSHOT,-,2019-06-05
+clusterbench-common,3.0.0.Final,-,2019-06-05
+clusterbench-common,3.0.0.Alpha1-SNAPSHOT,-,2018-06-26
+javaee-api,6.0,-,2019-06-21
+javaee-api,7.0-b81,-,2018-06-26
+javaee-api,5,-,2019-06-05

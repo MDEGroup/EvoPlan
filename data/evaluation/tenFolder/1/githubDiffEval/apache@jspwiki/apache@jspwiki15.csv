@@ -1,0 +1,11 @@
+library,version,sign,date
+jspwiki-main,2.11.0.M6,+,2019-12-12
+selenide,5.5.1,+,2019-09-14
+selenide,5.3.1,-,2019-09-14
+selenide,5.3.1,+,2019-05-13
+selenide,5.1.0,+,2019-01-20
+selenide,5.11.1,+,2019-12-12
+selenide,5.5.1,-,2019-12-12
+selenide,5.1.0,-,2019-03-04
+selenide,5.2.2,+,2019-03-04
+selenide,5.2.2,-,2019-05-13

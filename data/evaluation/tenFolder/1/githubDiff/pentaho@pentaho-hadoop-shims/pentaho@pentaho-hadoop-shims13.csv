@@ -1,0 +1,7 @@
+library,version,sign,date
+pentaho-hadoop-shims-common-fragment-V1,9.0.0.0-SNAPSHOT,+,2019-10-07
+pentaho-hadoop-shims-common-fragment-V1,9.0.0.0-SNAPSHOT,-,2019-11-13
+pentaho-hadoop-shims-common-dependencies-V1,9.0.0.0-SNAPSHOT,+,2019-10-07
+pentaho-hadoop-shims-common-dependencies-V1,9.0.0.0-SNAPSHOT,-,2019-11-13
+pentaho-hadoop-shims-cdh514-driver,9.0.0.0-SNAPSHOT,+,2019-10-07
+pentaho-hadoop-shims-cdh514-driver,9.0.0.0-SNAPSHOT,-,2019-11-13

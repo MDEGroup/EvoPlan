@@ -1,0 +1,10 @@
+library,version,sign,date
+guacamole-auth-jdbc-base,1.0.0,-,2018-09-29
+guacamole-auth-jdbc-base,0.9.13-incubating,-,2017-12-06
+guacamole-auth-jdbc-base,1.1.0,-,2019-02-09
+guacamole-auth-jdbc-base,0.9.14,-,2017-12-06
+guacamole-ext,1.0.0,+,2017-12-06
+guacamole-ext,0.9.14,-,2017-12-06
+guacamole-ext,1.0.0,-,2018-09-29
+guacamole-ext,0.9.13-incubating,-,2017-12-06
+guacamole-ext,1.1.0,-,2019-02-09

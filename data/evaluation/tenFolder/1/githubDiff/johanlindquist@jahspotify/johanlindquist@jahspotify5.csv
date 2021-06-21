@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.8.1,+,2011-06-10
+junit,4.8.1,+,2011-06-28
+junit,3.8.1,+,2011-06-14
+junit,3.8.1,-,2011-06-14
+commons-logging,1.0.4,+,2011-06-14
+commons-logging,1.0.4,-,2011-06-14
+commons-logging,1.0.4,+,2011-06-28
+jahspotify-native-jar,0.0.1-SNAPSHOT,+,2011-06-28
+gson,1.7.1,+,2011-06-14
+gson,1.7.1,-,2011-06-14
+httpclient,4.1,+,2011-06-14
+httpclient,4.1,-,2011-06-14
+httpcore,4.1,+,2011-06-14
+httpcore,4.1,-,2011-06-14

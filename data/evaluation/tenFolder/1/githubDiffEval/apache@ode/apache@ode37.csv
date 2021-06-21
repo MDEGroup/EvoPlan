@@ -1,0 +1,6 @@
+library,version,sign,date
+spring-osgi-core,1.2.0,+,2010-05-27
+spring-osgi-core,1.2.0,+,2010-12-02
+org.osgi.core,4.2.0,+,2010-12-02
+org.osgi.core,4.2.0,+,2010-05-27
+org.osgi.compendium,4.2.0,+,2010-12-02

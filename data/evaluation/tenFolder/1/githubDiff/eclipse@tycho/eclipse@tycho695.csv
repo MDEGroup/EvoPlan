@@ -1,0 +1,16 @@
+library,version,sign,date
+hamcrest-core,1.3,+,2014-11-24
+hamcrest-core,1.3,-,2019-10-08
+junit,4.8.2,-,2013-03-18
+junit,4.12,-,2019-10-08
+junit,4.11,-,2019-03-22
+junit,3.8.1,+,2013-03-18
+junit,4.1,-,2011-09-19
+maven-plugin-testing-harness,2.0-alpha-1,-,2012-05-27
+maven-plugin-testing-harness,2.0,-,2013-03-18
+maven-verifier,1.3,+,2014-03-07
+maven-verifier,1.3,-,2018-01-26
+maven-verifier,1.2,+,2012-05-26
+maven-verifier,1.2,-,2012-05-26
+maven-verifier,1.3,-,2014-03-07
+maven-verifier,1.2,-,2012-07-08

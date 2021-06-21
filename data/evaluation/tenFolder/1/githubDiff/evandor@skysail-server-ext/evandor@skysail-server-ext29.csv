@@ -1,0 +1,16 @@
+library,version,sign,date
+skysail.server,[0.2.13-SNAPSHOT, 1.0),+,2012-01-15
+skysail.server,[0.2.5-SNAPSHOT, 1.0),+,2012-01-15
+skysail.server,[0.2.1-SNAPSHOT, 1.0),+,2012-01-15
+skysail.server,[0.2.10, 1.0),+,2012-01-15
+skysail.server,[0.1.8-SNAPSHOT,0.2),+,2012-01-15
+skysail.server,[0.1.13,0.2),+,2012-01-15
+skysail.server,[0.2.4-SNAPSHOT, 1.0),+,2012-01-15
+skysail.server,[0.1.6,0.2),-,2012-01-15
+skysail.server,0.2.12-SNAPSHOT,+,2012-01-15
+skysail.server,[0.2.4, 1.0),+,2012-01-15
+skysail.server,[0.2.12, 1.0),+,2012-01-15
+atmosphere-annotations,0.8.2,-,2012-01-15
+com.springsource.javax.mail,1.4.5,+,2012-01-15
+atmosphere-redis,1.1.0.RC1,+,2012-01-15
+atmosphere-runtime,0.8.2,-,2012-01-15

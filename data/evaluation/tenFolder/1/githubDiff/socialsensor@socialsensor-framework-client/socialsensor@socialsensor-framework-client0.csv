@@ -1,0 +1,11 @@
+library,version,sign,date
+httpmime,4.2.1,-,2013-11-25
+httpmime,4.2.1,+,2013-11-25
+socialsensor-framework-common,0.2.1-SNAPSHOT,-,2014-07-08
+socialsensor-framework-common,0.2.2,-,2014-11-06
+socialsensor-framework-common,0.1,-,2013-10-16
+socialsensor-framework-common,0.2-SNAPSHOT,-,2014-04-24
+socialsensor-framework-common,0.2.2-SNAPSHOT,-,2014-09-24
+jedis,2.1.0,-,2013-10-16
+jedis,2.1.0,+,2013-10-16
+jedis,2.1.0,-,2014-05-09

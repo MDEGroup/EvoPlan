@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,3.8.1,-,2013-03-05
+junit,4.8.2,-,2012-01-09
+webstart-jnlp-servlet,1.0-6.0-02_ea_b02,-,2012-04-01
+webstart-jnlp-servlet,1.0-beta-3,-,2016-05-18
+javaee-web-api,6.0,+,2013-03-05

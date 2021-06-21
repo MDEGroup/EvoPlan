@@ -1,0 +1,8 @@
+library,version,sign,date
+hibernate-jpa-2.0-api,1.0.0.Final,+,2018-03-13
+mongodb-driver-reactivestreams,1.7.1,-,2018-03-13
+mongodb-driver-reactivestreams,1.7.1,+,2018-03-11
+jackson-databind,2.8.1,-,2018-03-11
+spring-data-mongodb,2.0.5.RELEASE,+,2018-03-11
+spring-webreactive-reactor-context-enrich,1.0-SNAPSHOT,+,2018-03-26
+jsr250-api,1.0,+,2018-03-13

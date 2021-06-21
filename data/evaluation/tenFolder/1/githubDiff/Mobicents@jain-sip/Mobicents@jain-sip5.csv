@@ -1,0 +1,6 @@
+library,version,sign,date
+jain-sip-ri,1.2.122-SNAPSHOT,-,2009-10-20
+jain-sip-ri,1.2.X-SNAPSHOT,+,2009-10-20
+jain-sip-api,1.2,-,2012-03-30
+jain-sip-api,1.2,-,2009-10-20
+jain-sip-api,1.2,+,2009-10-20

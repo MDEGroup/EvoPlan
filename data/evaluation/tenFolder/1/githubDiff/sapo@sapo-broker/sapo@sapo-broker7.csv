@@ -1,0 +1,15 @@
+library,version,sign,date
+netty-all,4.0.21.Final,-,2014-12-19
+netty-all,4.0.21.Final,-,2014-07-24
+netty-all,4.0.21.Final,-,2014-08-06
+netty-all,4.0.18.Final,-,2014-12-19
+netty-all,4.0.19.Final,+,2014-06-04
+netty-all,4.0.18.Final,+,2014-06-04
+netty-all,4.0.18.Final,+,2014-08-06
+netty-all,4.0.19.Final,-,2014-07-10
+netty-all,4.0.21.Final,+,2014-08-06
+netty-all,4.0.18.Final,-,2014-08-06
+netty-all,4.0.18.Final,-,2014-06-04
+je,5.0.84,-,2014-08-06
+je,5.0.84,+,2014-08-06
+javakpi-helper,1.0.0,+,2014-08-06

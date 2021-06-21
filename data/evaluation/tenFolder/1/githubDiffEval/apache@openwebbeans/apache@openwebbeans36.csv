@@ -1,0 +1,7 @@
+library,version,sign,date
+openwebbeans-impl,@project.version@,+,2019-04-26
+junit,4.11,-,2019-04-26
+junit,4.11,+,2019-04-26
+geronimo-servlet_3.0_spec,1.0,+,2019-04-26
+geronimo-interceptor_1.2_spec,1.0,+,2019-04-26
+openwebbeans-web,@project.version@,+,2019-04-26

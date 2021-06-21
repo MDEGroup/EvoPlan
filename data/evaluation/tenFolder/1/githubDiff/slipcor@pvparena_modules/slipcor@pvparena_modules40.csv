@@ -1,0 +1,7 @@
+library,version,sign,date
+pvparena,1.3.2-SNAPSHOT,-,2016-04-17
+pvparena,1.3.4-SNAPSHOT,+,2016-06-14
+pvparena,1.3.3-SNAPSHOT,-,2016-06-14
+bukkit,1.11.2-R0.1-SNAPSHOT,+,2016-06-14
+bukkit,1.9.4-R0.1-SNAPSHOT,-,2016-06-14
+bukkit,1.8.8-R0.1-SNAPSHOT,-,2016-04-17

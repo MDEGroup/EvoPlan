@@ -1,0 +1,6 @@
+library,version,sign,date
+vaadin,6.8.6,+,2013-03-16
+vaadin,6.8.6,-,2013-03-16
+vaadin,6.4.0,+,2013-03-16
+org.flowframe.ds.domain,0.0.1,+,2013-03-13
+org.flowframe.ui.vaadin.mvp.core,0.0.1,+,2013-03-16

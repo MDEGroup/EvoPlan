@@ -1,0 +1,6 @@
+library,version,sign,date
+log4j-slf4j-impl,2.13.0,+,2020-04-22
+junit,4.12,+,2020-02-18
+log4j-1.2-api,2.13.0,+,2020-04-22
+ibis-adapterframework-core,7.5-SNAPSHOT,-,2020-01-30
+mockito-core,2.24.5,+,2020-02-18

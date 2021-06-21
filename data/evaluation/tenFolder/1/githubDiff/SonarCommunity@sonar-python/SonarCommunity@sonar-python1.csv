@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.12,+,2016-03-23
+junit,4.10,-,2016-03-23
+junit,4.10,+,2012-06-30
+junit,4.10,+,2015-04-01
+logback-classic,0.9.15,+,2012-06-30
+logback-classic,0.9.15,-,2015-04-01
+logback-classic,0.9.30,-,2016-03-23
+assertj-core,3.6.1,+,2016-07-15
+guava,25.1-jre,-,2019-07-12
+guava,25.1-jre,+,2019-07-09
+guava,22.0,+,2017-05-11

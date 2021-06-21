@@ -1,0 +1,16 @@
+library,version,sign,date
+metrics-core,3.0.0-RC1,-,2014-10-07
+metrics-core,3.0.0-RC1,+,2013-01-05
+metrics-core,3.0.0-RC1,+,2014-08-06
+junit,4.8.2,-,2013-01-05
+junit,4.8.2,-,2014-10-07
+junit,4.7,-,2011-06-16
+junit,4.8.2,+,2014-08-06
+junit,4.7,+,2010-10-16
+junit,4.8.2,+,2013-01-05
+gitana-objects,1.0.0-SNAPSHOT,-,2013-01-05
+gitana-objects,1.0.0-SNAPSHOT,-,2017-03-23
+gitana-objects,1.0.0-SNAPSHOT,+,2013-01-05
+gitana-objects,1.0.0-SNAPSHOT,+,2014-08-06
+gitana-objects,1.0.0-SNAPSHOT,-,2014-10-07
+gitana-objects,1.0.0-SNAPSHOT,+,2010-10-16

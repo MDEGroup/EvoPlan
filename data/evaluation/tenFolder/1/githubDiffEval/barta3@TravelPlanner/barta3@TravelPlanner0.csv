@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.11,+,2013-10-04
+javax.persistence,2.1.0,+,2013-10-08
+hsqldb,2.3.0,+,2013-10-08
+eclipselink,2.5.1,+,2013-10-08
+jgraph,5.13.0.0,+,2013-10-05
+jgrapht,0.7.3,+,2013-10-05

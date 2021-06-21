@@ -1,0 +1,4 @@
+library,version,sign,date
+microemu-midp,3.0.0-SNAPSHOT,+,2014-07-08
+microemu-midp,3.0.0-SNAPSHOT,-,2014-07-08
+microemu-midp,2.0.2-SPECIAL-SNAPSHOT,+,2014-07-08

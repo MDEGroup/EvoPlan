@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,3.8.2,-,2013-01-24
+junit,4.8.2,-,2013-03-07
+junit,4.8.1,-,2013-01-24
+junit,4.8.2,+,2013-02-11
+junit,4.9,-,2013-02-07
+jaxws-tools,2.1.4,+,2013-03-07
+centralWebservice-interface,0.0.26,-,2014-03-04
+centralWebservice-interface,0.0.26,+,2013-09-25
+centralWebservice-interface,0.0.23,-,2013-01-24
+javassist,3.9.0.GA,+,2013-01-24
+javassist,3.9.0.GA,-,2013-02-07

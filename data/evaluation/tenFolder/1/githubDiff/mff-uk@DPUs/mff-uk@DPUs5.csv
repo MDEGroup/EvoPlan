@@ -1,0 +1,12 @@
+library,version,sign,date
+utils-dataunit-rdf,[1.1.0, 2.0.0),-,2014-08-11
+utils-dataunit-rdf,1.1.0,-,2014-08-11
+utils-dataunit-rdf,[1.1.0,2.0.0),-,2014-08-11
+boost-dpu,1.1.0,-,2014-08-11
+boost-dpu,[1.1.0,2.0.0),-,2014-08-11
+service-serialization-rdf,1.1.1,-,2014-11-16
+service-serialization-rdf,1.1.0,-,2014-08-11
+service-serialization-rdf,[1.1.0,2.0.0),+,2014-11-16
+service-serialization-rdf,[1.1.0,2.0.0),-,2014-08-11
+service-serialization-xml,1.1.0,-,2014-08-11
+service-serialization-xml,[1.1.0,2.0.0),-,2014-08-11

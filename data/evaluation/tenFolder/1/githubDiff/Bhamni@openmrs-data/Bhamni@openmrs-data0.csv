@@ -1,0 +1,4 @@
+library,version,sign,date
+json,20090211,+,2013-03-12
+flyway-ant,2.1,+,2013-03-14
+flyway-core,1.6.1,-,2013-03-14

@@ -1,0 +1,6 @@
+library,version,sign,date
+cache,-- version --,-,2013-08-31
+testing,-- version --,-,2013-08-31
+runtime,-- version --,-,2013-08-31
+jansi,1.8,-,2015-04-20
+jansi,1.8,+,2015-01-05

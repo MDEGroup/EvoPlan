@@ -1,0 +1,5 @@
+library,version,sign,date
+hsqldb,2.3.6,+,2017-09-12
+hsqldb,2.3.4,-,2017-09-12
+hsqldb,2.3.6,-,2018-10-31
+hsqldb,2.5.0,+,2018-10-31

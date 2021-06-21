@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.12,+,2016-08-12
+slf4j-simple,1.6.4,+,2015-12-19
+slf4j-simple,1.6.4,-,2019-06-08
+slf4j-simple,1.7.25,+,2019-06-08
+javafaker,1.0.1,+,2019-06-08
+powermock-module-junit4,1.5.5,+,2016-08-12
+powermock-module-junit4,1.5.5,-,2019-04-29
+powermock-module-junit4,1.6.6,-,2019-04-29
+awaitility,4.0.1,+,2019-06-08
+powermock-api-mockito2,2.0.2,+,2019-04-29
+lombok,1.14.2,+,2014-10-12
+lombok,1.14.2,+,2015-03-10
+lombok,1.14.2,-,2015-03-10
+lombok,1.14.2,-,2019-04-29

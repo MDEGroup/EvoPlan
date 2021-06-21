@@ -1,0 +1,17 @@
+library,version,sign,date
+easymock,3.0,+,2010-09-23
+easymock,2.5.2,-,2012-01-16
+easymock,2.5.2,+,2011-09-21
+easymock,3.0,-,2011-06-08
+easymock,3.1,+,2012-01-16
+easymock,2.4,-,2011-09-21
+slf4j-api,1.4.3,-,2010-12-28
+slf4j-api,1.6.0,+,2010-10-01
+slf4j-api,1.6.0,-,2012-01-16
+slf4j-jdk14,1.4.3,-,2010-12-28
+org.osgi.core,4.2.0,+,2010-10-01
+org.osgi.core,4.2.0,+,2012-04-30
+org.osgi.core,4.2.0,-,2010-10-29
+org.osgi.core,4.2.0,+,2011-12-03
+org.osgi.compendium,4.2.0,+,2010-10-01
+org.osgi.compendium,4.2.0,-,2010-10-29

@@ -1,0 +1,17 @@
+library,version,sign,date
+malai.javafx,3.1-SNAPSHOT,-,2018-10-11
+malai.javafx,3.1,-,2019-05-11
+malai.javafx,3.0-SNAPSHOT,-,2017-12-05
+malai.javafx,3.0-SNAPSHOT,+,2014-09-21
+malai.javafx,2.0-SNAPSHOT,-,2014-09-21
+malai.javafx,3.0,-,2018-04-10
+malai.core,3.1-SNAPSHOT,-,2018-10-11
+malai.core,3.1,-,2019-05-11
+malai.core,3.0-SNAPSHOT,-,2017-12-05
+malai.core,2.0-SNAPSHOT,-,2014-09-21
+malai.core,3.0,-,2018-04-10
+malai.core,3.0-SNAPSHOT,+,2014-09-21
+malai.core,1.1,-,2014-09-21
+malai.core,0.2-SNAPSHOT,-,2014-09-21
+malai.core,3.1-SNAPSHOT,+,2018-04-10
+malai.core,3.1-SNAPSHOT,-,2018-04-10

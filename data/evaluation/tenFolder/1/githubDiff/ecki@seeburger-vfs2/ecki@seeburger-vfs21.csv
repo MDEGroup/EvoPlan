@@ -1,0 +1,5 @@
+library,version,sign,date
+vfs2provider-jdbctable,1.6.0,-,2018-07-30
+vfs2provider-jdbctable,1.5.1,-,2017-04-06
+vfs2provider-jdbctable,1.3.0,-,2016-08-03
+vfs2provider-jdbctable,1.3.0,+,2014-10-01

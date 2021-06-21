@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.8.1,+,2011-12-16
+junit,4.8.1,+,2012-02-18
+junit,4.8.1,-,2012-02-18
+mysql-connector-java,5.1.20,+,2012-04-07
+postgresql,9.1-901-1.jdbc4,+,2012-07-08
+pljava-public,1.0.0b4,+,2012-07-08
+jfreechart,1.0.13,+,2012-02-18

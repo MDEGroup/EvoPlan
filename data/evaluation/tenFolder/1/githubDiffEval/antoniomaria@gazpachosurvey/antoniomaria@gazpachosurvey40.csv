@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.11,+,2014-04-15
+junit,4.11,+,2014-09-20
+junit,4.11,-,2014-04-30
+junit,4.11,-,2014-09-20
+junit,4.11,-,2014-08-08
+junit,4.11,+,2014-08-08
+org.osgi.core,5.0.0,+,2015-07-02
+org.osgi.compendium,5.0.0,+,2015-07-02
+fest-assert-core,2.0M10,+,2014-08-08
+fest-assert-core,2.0M10,-,2014-09-20
+fest-assert-core,2.0M10,+,2014-04-30
+fest-assert-core,2.0M10,+,2014-09-20
+fest-assert-core,2.0M10,-,2014-08-08
+fest-assert-core,2.0M10,-,2014-04-30
+fest-assert-core,2.0M10,+,2014-04-15

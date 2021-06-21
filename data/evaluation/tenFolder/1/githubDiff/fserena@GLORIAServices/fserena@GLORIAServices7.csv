@@ -1,0 +1,12 @@
+library,version,sign,date
+gloria-commons,0.0.2-SNAPSHOT,-,2014-03-24
+gloria-commons,0.0.2-SNAPSHOT,+,2014-03-24
+cxf-rt-bindings-soap,2.7.8,+,2014-03-24
+cxf-rt-bindings-soap,2.7.8,-,2014-03-24
+jackson-mapper-asl,1.9.11,-,2014-03-24
+jackson-mapper-asl,1.9.11,-,2014-03-13
+jackson-mapper-asl,1.9.11,+,2014-03-24
+cxf-rt-ws-security,2.7.8,+,2014-03-24
+cxf-rt-ws-security,2.7.8,-,2014-03-24
+spring-web,3.2.1.RELEASE,-,2014-03-24
+spring-web,3.2.1.RELEASE,+,2014-03-24

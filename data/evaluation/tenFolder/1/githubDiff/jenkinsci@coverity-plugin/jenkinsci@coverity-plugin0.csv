@@ -1,0 +1,15 @@
+library,version,sign,date
+saaj-api,1.3,+,2011-06-25
+mockito-all,1.10.19,+,2017-01-11
+junit,4.11,+,2016-06-14
+xws-security,3.0,+,2011-06-25
+xws-security,3.0,-,2013-03-25
+powermock-module-junit4,1.6.6,+,2017-01-11
+credentials,1.18,+,2017-07-07
+json-simple,1.1.1,+,2015-06-23
+json-simple,1.1.1,-,2015-07-10
+activation,1.1.1,+,2015-12-23
+powermock-api-mockito,1.6.6,+,2017-01-11
+symbol-annotation,1.1,+,2017-04-20
+jersey-client,1.13,-,2018-09-25
+jersey-client,1.13,+,2017-07-04

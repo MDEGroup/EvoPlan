@@ -1,0 +1,7 @@
+library,version,sign,date
+google-http-client,1.15.0-rc,-,2013-06-17
+google-http-client,1.15.0-rc,+,2013-06-17
+google-http-client,1.15.0-rc,-,2013-06-19
+google-http-client,1.15.0-rc,+,2013-06-19
+jetty-server,7.6.4.v20120524,-,2013-06-19
+jetty-server,7.6.4.v20120524,+,2013-06-19

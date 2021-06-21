@@ -1,0 +1,11 @@
+library,version,sign,date
+org.wso2.carbon.registry.search,4.0.1,-,2012-11-13
+org.wso2.carbon.registry.search,4.0.1,+,2012-09-25
+commons-logging,1.1.1,-,2015-01-30
+commons-logging,1.1.1,-,2012-08-06
+commons-logging,1.1.1,-,2014-04-21
+commons-logging,1.1.1,+,2014-04-21
+org.wso2.carbon.registry.indexing,4.0.2,+,2012-09-25
+org.wso2.carbon.registry.indexing,4.0.2,-,2012-11-13
+org.wso2.carbon.registry.core,4.0.2,+,2012-09-25
+org.wso2.carbon.registry.core,4.0.2,-,2012-11-13

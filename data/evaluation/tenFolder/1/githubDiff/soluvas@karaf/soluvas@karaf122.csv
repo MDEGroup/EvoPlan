@@ -1,0 +1,12 @@
+library,version,sign,date
+easymock,2.5.2,-,2012-01-16
+easymock,3.1,+,2012-01-16
+slf4j-api,1.6.0,-,2012-01-16
+org.osgi.core,4.2.0,+,2012-04-30
+org.osgi.core,4.2.0,+,2011-12-03
+region,1.0.0.v20110506,-,2012-01-16
+region,3.0.0-SNAPSHOT,+,2012-01-05
+region,3.0.0-SNAPSHOT,+,2012-04-24
+region,1.0.0.v20110506,+,2012-04-24
+region,1.0.0.v20110506,-,2012-04-24
+region,3.0.0-SNAPSHOT,-,2012-04-24

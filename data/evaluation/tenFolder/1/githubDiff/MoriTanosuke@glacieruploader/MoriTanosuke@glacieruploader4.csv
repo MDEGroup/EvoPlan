@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.12,+,2016-08-17
+junit,4.12,-,2016-08-17
+json,20160810,+,2016-08-28

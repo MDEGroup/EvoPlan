@@ -1,0 +1,5 @@
+library,version,sign,date
+cilia-core,1.6.3-SNAPSHOT,+,2012-12-20
+cilia-core,1.6.3-SNAPSHOT,-,2013-02-12
+cilia-runtime,1.6.3-SNAPSHOT,+,2012-12-20
+cilia-runtime,1.6.3-SNAPSHOT,-,2013-02-12

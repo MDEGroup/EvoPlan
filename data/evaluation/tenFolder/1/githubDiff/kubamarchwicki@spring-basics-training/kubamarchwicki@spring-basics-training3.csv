@@ -1,0 +1,16 @@
+library,version,sign,date
+jstl,1.2,-,2015-12-09
+jstl,1.2,+,2017-01-25
+jstl,1.2,+,2015-12-08
+javax.servlet-api,3.0.1,+,2017-01-25
+jackson-databind,2.8.5,+,2017-01-25
+jackson-databind,2.5.0,-,2017-01-20
+jackson-core,2.8.5,+,2017-01-25
+jackson-core,2.5.0,-,2017-01-20
+training-spring-app,1.0-SNAPSHOT,-,2015-12-09
+training-spring-app,1.0-SNAPSHOT,-,2015-12-08
+training-spring-app,1.0-SNAPSHOT,+,2015-12-08
+json-path,2.1.0,+,2015-12-08
+json-path,2.1.0,+,2017-01-25
+jackson-dataformat-xml,2.8.5,+,2017-01-20
+jackson-dataformat-xml,2.8.5,+,2017-01-25

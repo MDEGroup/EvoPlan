@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,3.8.1,+,2013-07-25
+sesame-rio-turtle,2.7.5,+,2013-08-19
+sesame-sail-memory,2.7.5,+,2013-08-19
+commons-httpclient,3.1,+,2013-07-25
+json,20090211,+,2013-07-25
+sesame-repository-sail,2.7.5,+,2013-08-19

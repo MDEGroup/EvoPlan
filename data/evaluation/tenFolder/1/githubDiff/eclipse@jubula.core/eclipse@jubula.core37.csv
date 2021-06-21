@@ -1,0 +1,14 @@
+library,version,sign,date
+org.eclipse.jubula.toolkit.rcp.api,[3.1.0,3.1.0),-,2015-09-30
+org.eclipse.jubula.toolkit.rcp.api,[3.0.0,3.1.0),-,2015-02-09
+org.eclipse.jubula.toolkit.rcp.api,3.0.0-SNAPSHOT,-,2015-02-01
+org.eclipse.jubula.toolkit.rcp.api,[3.1.0,3.2.0),-,2016-08-02
+org.eclipse.jubula.toolkit.rcp.api,3.0.0-SNAPSHOT,-,2015-02-09
+org.eclipse.jubula.toolkit.rcp.api,3.1.0-SNAPSHOT,-,2015-09-30
+org.eclipse.jubula.toolkit.swt.api,[3.1.0,3.1.0),-,2015-09-30
+org.eclipse.jubula.toolkit.swt.api,[3.0.0,3.1.0),-,2015-02-09
+org.eclipse.jubula.toolkit.swt.api,3.0.0-SNAPSHOT,-,2015-02-01
+org.eclipse.jubula.toolkit.swt.api,[3.1.0,3.2.0),-,2016-08-02
+org.eclipse.jubula.toolkit.swt.api,3.2.0-SNAPSHOT,-,2015-09-30
+org.eclipse.jubula.toolkit.swt.api,3.1.0-SNAPSHOT,-,2015-03-27
+org.eclipse.jubula.toolkit.swt.api,3.0.0-SNAPSHOT,-,2015-02-09

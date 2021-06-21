@@ -1,0 +1,5 @@
+library,version,sign,date
+maven-filtering,1.1,+,2013-04-30
+maven-filtering,1.1,+,2013-03-20
+maven-filtering,1.1,-,2013-04-30
+maven-filtering,1.0,-,2013-03-20

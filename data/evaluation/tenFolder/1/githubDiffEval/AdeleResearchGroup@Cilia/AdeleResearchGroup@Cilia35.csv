@@ -1,0 +1,6 @@
+library,version,sign,date
+org.apache.felix.eventadmin,1.2.14,-,2012-09-21
+cilia-runtime,1.6.3-SNAPSHOT,+,2012-12-20
+cilia-runtime,1.5.0,-,2012-09-20
+cilia-runtime,1.6.3-SNAPSHOT,-,2013-02-12
+cilia-runtime,1.5.1-SNAPSHOT,-,2012-09-20

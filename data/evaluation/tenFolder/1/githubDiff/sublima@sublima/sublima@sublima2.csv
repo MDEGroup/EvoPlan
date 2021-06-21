@@ -1,0 +1,17 @@
+library,version,sign,date
+cocoon-core,2.2.0-RC2,-,2008-04-13
+cocoon-core,2.2.0-RC2,+,2008-01-30
+cocoon-core,2.2.0,+,2008-04-13
+cocoon-core,2.2.0-RC2,-,2008-01-30
+cocoon-template-impl,1.0.0-RC2,+,2008-01-30
+cocoon-template-impl,1.1.0,+,2008-04-13
+cocoon-template-impl,1.0.0-RC2,-,2008-01-30
+cocoon-template-impl,1.0.0-RC2,-,2008-04-13
+cocoon-flowscript-impl,1.0.0-RC2,+,2008-01-30
+cocoon-flowscript-impl,1.0.0,+,2008-04-13
+cocoon-flowscript-impl,1.0.0-RC2,-,2008-01-30
+cocoon-flowscript-impl,1.0.0-RC2,-,2008-04-13
+cocoon-servlet-service-components,1.0.0-RC1,+,2008-01-30
+cocoon-servlet-service-components,1.0.0,+,2008-04-13
+cocoon-servlet-service-components,1.0.0-RC1,-,2008-01-30
+cocoon-servlet-service-components,1.0.0-RC1,-,2008-04-13

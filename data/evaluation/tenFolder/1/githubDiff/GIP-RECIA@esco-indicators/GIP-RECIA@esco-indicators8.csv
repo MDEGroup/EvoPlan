@@ -1,0 +1,5 @@
+library,version,sign,date
+easymock,2.0,-,2012-06-01
+easymock,2.0,+,2012-06-01
+indicators-domain-services,1.0.0-0,-,2012-06-01
+jackson-mapper-asl,1.5.3,-,2012-06-01

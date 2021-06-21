@@ -1,0 +1,8 @@
+library,version,sign,date
+sdb,1.3.4,+,2012-10-30
+mysql-connector-java,5.1.21,+,2012-10-30
+mysql-connector-java,5.1.21,-,2012-10-30
+entities,0.0.1-SNAPSHOT,+,2012-10-30
+entities,0.0.1-SNAPSHOT,-,2012-10-31
+entities,0.0.1-SNAPSHOT,+,2012-10-29
+entities,0.0.1-SNAPSHOT,-,2012-10-30

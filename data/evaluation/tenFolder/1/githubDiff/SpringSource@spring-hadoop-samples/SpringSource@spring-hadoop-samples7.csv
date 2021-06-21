@@ -1,0 +1,4 @@
+library,version,sign,date
+spring-boot-starter-web,1.2.1.RELEASE,-,2015-02-03
+spring-yarn-boot,2.1.0.RELEASE,-,2015-02-03
+spring-boot-starter-actuator,1.2.1.RELEASE,-,2015-02-03

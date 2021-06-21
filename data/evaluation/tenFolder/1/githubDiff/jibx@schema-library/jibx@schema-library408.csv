@@ -1,0 +1,6 @@
+library,version,sign,date
+org.jibx.schema.org.opentravel._2011B.touractivity,1.0.4-SNAPSHOT,-,2012-05-02
+org.jibx.schema.org.opentravel._2011B.touractivity,1.1.5-SNAPSHOT,-,2014-12-31
+org.jibx.schema.org.opentravel._2011B.touractivity,1.0.6-SNAPSHOT,-,2012-09-04
+org.jibx.schema.org.opentravel._2011B.touractivity,1.0.9-SNAPSHOT,-,2013-02-01
+org.jibx.schema.org.opentravel._2011B.touractivity,1.0.9-SNAPSHOT,+,2012-09-04

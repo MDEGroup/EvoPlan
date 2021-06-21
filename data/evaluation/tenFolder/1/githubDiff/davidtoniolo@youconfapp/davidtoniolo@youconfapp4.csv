@@ -1,0 +1,11 @@
+library,version,sign,date
+actionbarsherlock,4.4.0,+,2013-10-21
+robospice-spring-android,1.4.8,+,2013-10-23
+robospice,1.4.9,+,2013-10-23
+robospice-ormlite,1.4.8,+,2013-10-23
+support-v4,r7,+,2013-10-04
+google-play-services,3.2.65,+,2013-10-13
+google-play-services,7,-,2013-10-06
+google-play-services,7,+,2013-10-12
+google-play-services,7,-,2013-10-12
+google-play-services,7,+,2013-10-06

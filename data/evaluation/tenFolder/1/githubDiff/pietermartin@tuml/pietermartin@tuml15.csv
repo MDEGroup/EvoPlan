@@ -1,0 +1,5 @@
+library,version,sign,date
+runtime-domain,0.0.1-SNAPSHOT,+,2013-07-22
+runtime-domain,0.0.1-SNAPSHOT,-,2014-04-06
+commons-lang,2.4,-,2014-08-01
+commons-lang,2.6,-,2014-08-01

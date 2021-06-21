@@ -1,0 +1,9 @@
+library,version,sign,date
+named-entity-recog,0.0.1-SNAPSHOT,+,2013-07-11
+neogeo-twitter,0.0.1-SNAPSHOT,+,2013-09-14
+neogeo-twitter,0.0.1-SNAPSHOT,+,2013-09-19
+json-simple,1.1,+,2013-09-19
+json-simple,1.1,+,2013-07-09
+javaee-web-api,6.0,-,2013-07-09
+javaee-web-api,6.0,+,2013-09-19
+javaee-web-api,6.0,+,2013-07-09

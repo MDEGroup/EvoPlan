@@ -1,0 +1,12 @@
+library,version,sign,date
+samoa-api,0.0.1-SNAPSHOT,+,2013-11-13
+samoa-api,0.0.1-SNAPSHOT,-,2013-10-18
+samoa-api,0.0.1-SNAPSHOT,-,2013-11-13
+slf4j-log4j12,1.7.2,-,2013-11-29
+slf4j-log4j12,1.7.2,-,2013-11-13
+slf4j-log4j12,1.7.2,+,2013-11-13
+slf4j-log4j12,1.7.2,+,2013-11-29
+storm,0.8.2,-,2013-11-29
+storm,0.8.2,+,2013-11-29
+storm,0.8.2,+,2013-11-13
+storm,0.8.2,-,2013-11-13

@@ -1,0 +1,7 @@
+library,version,sign,date
+gson,2.2.4,-,2014-08-30
+commons-lang3,3.1,-,2015-08-07
+jena-fuseki,1.1.0,-,2014-09-26
+jena-fuseki,1.0.1,-,2014-08-30
+httpclient,4.3.3,-,2014-08-30
+javax.ws.rs-api,2.0.1,+,2014-09-26

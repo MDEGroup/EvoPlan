@@ -1,0 +1,10 @@
+library,version,sign,date
+commons-codec,1.4,+,2012-06-08
+logback-classic,1.0.13,+,2012-10-10
+json-parser,1.0-SNAPSHOT,+,2012-03-07
+json-parser,1.0-SNAPSHOT,-,2012-03-07
+json-parser,1.0-SNAPSHOT,+,2012-06-08
+joda-time,2.2,+,2014-01-11
+paranamer,2.4.1,-,2012-03-07
+paranamer,2.4.1,+,2012-06-08
+paranamer,2.4.1,+,2012-03-07

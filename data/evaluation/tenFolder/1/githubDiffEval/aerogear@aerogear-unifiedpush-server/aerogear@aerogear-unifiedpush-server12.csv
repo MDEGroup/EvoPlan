@@ -1,0 +1,6 @@
+library,version,sign,date
+jboss-jms-api_1.1_spec,1.0.1.Final,+,2019-03-14
+resteasy-multipart-provider,2.3.2.Final,-,2014-03-12
+json-patch,1.7,+,2014-09-09
+json-patch,1.7,-,2018-05-02
+guava,27.0.1-jre,+,2019-02-26

@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.12,+,2014-12-23
+junit,4.11,-,2014-12-23
+org.apache.servicemix.bundles.javax-inject,1_2,-,2019-04-20

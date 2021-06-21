@@ -1,0 +1,6 @@
+library,version,sign,date
+jackson-core-asl,1.8.6,+,2012-01-24
+jackson-core-asl,1.7.3,+,2012-01-24
+spring-webmvc,3.0.5.RELEASE,+,2012-01-24
+motech-deliverytools-common,0.3-SNAPSHOT,-,2012-01-24
+servlet-api,2.4,+,2012-01-24

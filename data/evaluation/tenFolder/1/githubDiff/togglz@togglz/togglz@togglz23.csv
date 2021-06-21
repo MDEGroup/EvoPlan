@@ -1,0 +1,6 @@
+library,version,sign,date
+jboss-servlet-api_3.0_spec,1.0.1.Final,+,2018-06-30
+spring-mobile-device,1.1.4.RELEASE,-,2018-06-30
+togglz-servlet,2.7.0-SNAPSHOT,+,2018-06-30
+mockito-core,1.9.5,-,2018-06-30
+mockito-core,3.1.0,+,2018-06-30

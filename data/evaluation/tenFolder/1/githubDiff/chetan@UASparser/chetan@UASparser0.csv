@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.6,+,2013-10-10
+junit,4.6,-,2013-10-10
+jregex,1.2_01,+,2013-10-10
+jregex,1.2_01,-,2013-10-10
+jregex,1.2_01,+,2011-05-19
+commons-lang,2.5,+,2013-10-10
+commons-lang,2.5,+,2011-05-19
+commons-lang,2.5,-,2013-10-10

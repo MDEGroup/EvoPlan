@@ -1,0 +1,7 @@
+library,version,sign,date
+org.apache.felix.bundlerepository,1.2.1,+,2010-07-19
+org.apache.felix.bundlerepository,1.2.1,-,2011-11-22
+org.apache.felix.bundlerepository,1.2.1,-,2010-07-19
+org.osgi.core,4.2.0,+,2010-10-01
+org.osgi.core,4.2.0,+,2011-11-22
+org.osgi.core,4.2.0,-,2010-10-29

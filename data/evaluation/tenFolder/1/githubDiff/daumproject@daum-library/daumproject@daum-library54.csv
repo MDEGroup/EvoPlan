@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2013-02-08
+slf4j-api,1.6.4,-,2013-01-29
+slf4j-api,1.6.4,+,2013-02-08
+com.couchbase.jtouchdb,0.5-SNAPSHOT,+,2012-12-17

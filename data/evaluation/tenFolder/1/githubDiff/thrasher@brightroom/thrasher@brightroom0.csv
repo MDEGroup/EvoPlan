@@ -1,0 +1,11 @@
+library,version,sign,date
+jstl,1.2,+,2013-03-14
+junit,4.7,+,2012-07-11
+junit,4.7,-,2012-07-11
+validation-api,1.0.0.GA,-,2012-07-11
+validation-api,1.0.0.GA,+,2012-07-11
+mgwt,1.2.0-SNAPSHOT,+,2013-03-14
+mgwt,1.2.0-SNAPSHOT,-,2013-03-14
+mgwt,1.1.2-SNAPSHOT,-,2012-09-16
+mgwt,1.1.2-SNAPSHOT,+,2012-07-11
+servlet-api,2.5,+,2013-03-14

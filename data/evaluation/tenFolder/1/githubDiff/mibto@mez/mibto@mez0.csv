@@ -1,0 +1,10 @@
+library,version,sign,date
+mockito-all,1.9.5,+,2013-11-05
+junit,3.8.1,-,2013-09-21
+junit,4.8.1,+,2013-09-24
+junit,3.8.1,-,2013-09-24
+junit,3.8.1,+,2013-09-21
+sqlite-jdbc,3.7.2,+,2013-09-21
+seaglasslookandfeel,0.2,+,2013-10-14
+hibernate-core,4.2.6.Final,+,2013-09-24
+log4j,1.2.17,+,2013-10-03

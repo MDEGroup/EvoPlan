@@ -1,0 +1,8 @@
+library,version,sign,date
+org.xkonnex.repo.dsl.profiledsl,2.0.0-SNAPSHOT,+,2014-10-02
+org.xkonnex.repo.dsl.basedsl,2.0.0-SNAPSHOT,-,2016-02-05
+org.xkonnex.repo.dsl.basedsl,2.0.0-SNAPSHOT,+,2016-02-05
+org.xkonnex.repo.dsl.basedsl,1.6.2-SNAPSHOT,-,2014-10-02
+org.xkonnex.repo.dsl.basedsl,2.0.0-SNAPSHOT,+,2014-10-02
+org.xkonnex.repo.dsl.semanticsdsl,2.0.0-SNAPSHOT,+,2014-10-02
+org.xkonnex.repo.dsl.businessdsl,2.0.0-SNAPSHOT,+,2014-10-02

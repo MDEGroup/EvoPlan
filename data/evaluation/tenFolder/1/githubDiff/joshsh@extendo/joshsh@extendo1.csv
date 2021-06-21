@@ -1,0 +1,4 @@
+library,version,sign,date
+validation-api,1.1.0.Final,+,2016-11-23
+org.eclipse.jgit,4.6.1.201703071140-r,+,2017-03-21
+org.eclipse.jgit,4.6.1.201703071140-r,-,2017-05-05

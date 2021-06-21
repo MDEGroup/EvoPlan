@@ -1,0 +1,14 @@
+library,version,sign,date
+hibernate-validator,4.0.2.GA,-,2014-07-09
+hibernate-validator,4.2.0.Final,+,2014-07-09
+hibernate-validator,4.0.2.GA,-,2011-11-06
+jboss-modules,1.1.1.GA,+,2013-10-17
+jboss-modules,1.1.1.GA,+,2014-01-16
+reflections,0.9.9,+,2014-10-06
+reflections,0.9.9-RC1,-,2014-10-06
+reflections,0.9.9-RC1,+,2014-08-25
+jackson-mapper-asl,1.9.9,+,2013-08-13
+jackson-mapper-asl,1.9.4,-,2013-08-13
+jackson-mapper-asl,1.9.9,-,2015-08-05
+jackson-mapper-asl,1.9.4,+,2012-04-04
+jackson-mapper-asl,1.6.3,-,2012-04-04

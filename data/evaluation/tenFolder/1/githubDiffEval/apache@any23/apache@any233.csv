@@ -1,0 +1,5 @@
+library,version,sign,date
+apache-any23-api,0.9.0-SNAPSHOT,+,2013-06-20
+apache-any23-api,0.9.0-SNAPSHOT,-,2013-06-26
+commons-csv,1.5,-,2018-03-01
+commons-csv,1.0-SNAPSHOT-rev1148315,-,2018-01-25

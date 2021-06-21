@@ -1,0 +1,3 @@
+library,version,sign,date
+brave-instrumentation-http-tests,@project.version@,+,2020-02-25
+brave-instrumentation-http-tests,@project.version@,+,2020-01-22

@@ -1,0 +1,17 @@
+library,version,sign,date
+bukkit,1.6.4-R2.1-SNAPSHOT,-,2013-11-19
+bukkit,1.7.9-R0.1-SNAPSHOT,-,2014-05-04
+bukkit,1.7.9-R0.1-SNAPSHOT,+,2014-04-24
+bukkit,1.7.5-R0.1-SNAPSHOT,-,2014-04-20
+VaultAPI,1.4,+,2014-05-04
+worldedit,6.0.0-SNAPSHOT,+,2014-08-17
+worldedit,5.7-SNAPSHOT,+,2014-08-02
+worldedit,5.7-SNAPSHOT,-,2014-08-17
+worldedit,5.5.8-SNAPSHOT,-,2014-05-04
+worldedit,6.0.0-SNAPSHOT,-,2014-08-17
+worldedit,5.5.8,-,2014-08-02
+worldedit,5.5.8-SNAPSHOT,+,2014-04-24
+lwc,4.4.0-SNAPSHOT,+,2014-04-24
+lwc,4.4.0-SNAPSHOT,-,2014-05-04
+metrics,R6,+,2014-04-24
+metrics,R6,-,2014-05-04

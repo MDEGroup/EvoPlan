@@ -1,0 +1,8 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2011-12-11
+slf4j-log4j12,1.6.1,-,2011-12-11
+QUPC_AR004040UV_Service,0.1,-,2011-12-11
+icardea-atnalog-client,1.0-SNAPSHOT,+,2012-01-29
+icardea-atnalog-client,1.0-SNAPSHOT,+,2012-01-12
+phrs-dataexchange-client,1.0-SNAPSHOT,+,2011-12-11
+phrs-dataexchange-client,1.0-SNAPSHOT,+,2012-01-12

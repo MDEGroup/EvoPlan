@@ -1,0 +1,8 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,+,2014-11-24
+javax.servlet-api,3.1.0,-,2014-11-24
+javax.servlet-api,3.1.0,+,2014-04-09
+javax.servlet-api,3.1.0,-,2014-11-28
+javax.servlet-api,3.1.0,-,2014-10-16
+weld-core,1.2.0-SNAPSHOT,-,2012-08-13
+weld-servlet-core,1.2.0-SNAPSHOT,-,2012-08-13

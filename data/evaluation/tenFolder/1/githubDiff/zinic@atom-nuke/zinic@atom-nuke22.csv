@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.10,-,2012-12-17
+httpclient,4.2,-,2012-10-23
+httpclient,4.2,+,2012-10-23

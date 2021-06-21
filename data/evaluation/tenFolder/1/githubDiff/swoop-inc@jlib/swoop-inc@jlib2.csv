@@ -1,0 +1,3 @@
+library,version,sign,date
+junit,4.10,+,2013-09-27
+slf4j-log4j12,1.7.4,+,2013-09-05

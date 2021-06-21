@@ -1,0 +1,11 @@
+library,version,sign,date
+dbunit,2.4.9,+,2013-07-02
+mysql-connector-java,5.1.6,+,2012-10-26
+slf4j-log4j12,1.7.5,+,2013-07-02
+handlebars,1.0.0,+,2014-12-12
+handlebars,1.0.0,-,2018-10-10
+handlebars,1.0.0,+,2013-07-02
+hamcrest-all,1.3,+,2012-10-26
+commons-io,2.6,+,2018-10-10
+commons-lang,2.3,+,2014-12-12
+selenium-java,2.25.0,-,2018-10-10

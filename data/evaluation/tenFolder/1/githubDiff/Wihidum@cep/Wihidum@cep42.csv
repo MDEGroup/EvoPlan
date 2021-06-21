@@ -1,0 +1,10 @@
+library,version,sign,date
+org.wso2.carbon.cep.admin,4.0.5,+,2013-07-23
+org.wso2.carbon.brokermanager.stub,4.0.0,+,2013-07-26
+hazelcast,2.2,+,2013-07-04
+org.wso2.carbon.automation.api,4.0.2,+,2013-07-12
+org.wso2.carbon.brokermanager.core,4.0.2,+,2013-07-16
+org.wso2.carbon.brokermanager.core,4.0.2,+,2013-07-26
+org.wso2.carbon.brokermanager.core,4.0.2,-,2013-07-23
+org.wso2.carbon.cep.core,4.0.7,+,2013-07-12
+org.wso2.carbon.cep.core,4.0.7,+,2013-07-26

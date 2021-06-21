@@ -1,0 +1,7 @@
+library,version,sign,date
+jtar,1.0.4,+,2014-06-04
+jtar,1.0.4,+,2012-06-20
+jtar,1.0.4,-,2014-06-04
+beam-geotiff,1.1.1,-,2012-06-20
+beam-geotiff,1.2,-,2012-06-20
+beam-geotiff,1.2.1,-,2013-04-11

@@ -1,0 +1,14 @@
+library,version,sign,date
+test-utils,5.1.2,-,2012-10-17
+test-utils,5.1.2,-,2013-11-13
+test-utils,5.1.7,-,2013-03-18
+jsr305,2.0.1,-,2013-03-29
+jsr305,2.0.1,+,2012-10-17
+fest-reflect,1.4,-,2013-11-13
+fest-reflect,1.4,+,2012-08-27
+fest-reflect,1.4,+,2012-10-08
+fest-reflect,1.4,+,2013-10-29
+javassist,3.8.0.GA,-,2012-10-08
+javassist,3.17.1-GA,-,2013-03-29
+javassist,3.16.1-GA,-,2013-03-18
+javassist,3.18.1-GA,-,2013-11-13

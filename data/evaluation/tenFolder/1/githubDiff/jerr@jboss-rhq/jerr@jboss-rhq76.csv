@@ -1,0 +1,7 @@
+library,version,sign,date
+jboss-msc,1.0.2.GA,+,2012-09-25
+jboss-msc,1.0.2.GA,-,2013-09-10
+jboss-msc,1.0.2.GA,+,2013-09-10
+jboss-dmr,1.1.1.Final,-,2013-09-10
+jboss-dmr,1.1.1.Final,+,2012-09-25
+jboss-dmr,1.1.1.Final,+,2013-09-10

@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,3.8.1,-,2010-07-22
+junit,4.8.1,-,2010-07-27
+junit,4.8.1,+,2010-07-22
+junit,3.8.1,-,2010-07-27
+junit,4.11,+,2010-07-27
+junit,3.8.1,+,2010-07-22
+cglib-nodep,2.1_3,+,2010-07-27
+cglib-nodep,2.1_3,-,2014-03-26
+cglib-nodep,2.1_3,-,2010-07-27
+cglib-nodep,2.1_3,-,2010-07-22
+cglib-nodep,2.1_3,+,2010-07-22
+commons-lang3,3.3.1,+,2010-07-27
+commons-lang3,3.0-SNAPSHOT,+,2010-07-22
+commons-lang3,3.0-SNAPSHOT,-,2010-07-27

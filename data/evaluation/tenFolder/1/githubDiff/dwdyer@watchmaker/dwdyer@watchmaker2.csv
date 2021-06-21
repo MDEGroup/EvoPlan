@@ -1,0 +1,12 @@
+library,version,sign,date
+uncommons-maths,1.2.2,+,2010-10-20
+uncommons-maths,1.2.1,-,2010-01-01
+uncommons-maths,1.2.2,-,2010-10-20
+uncommons-maths,1.2,-,2009-11-05
+uncommons-maths,1.2,-,2010-01-01
+fest-swing,1.2.1,+,2010-10-20
+watchmaker-framework,@VERSION@,-,2010-10-20
+watchmaker-framework,@VERSION@,-,2009-11-05
+testng,6.2.1,+,2010-10-20
+jfreechart,1.0.13,-,2010-10-20
+jfreechart,1.0.13,+,2010-10-20

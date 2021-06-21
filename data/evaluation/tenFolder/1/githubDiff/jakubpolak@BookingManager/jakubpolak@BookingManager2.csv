@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.6,-,2013-12-09
+junit,4.6,+,2013-12-09
+resteasy-client,3.0.4.Final,-,2013-12-09
+resteasy-client,3.0.4.Final,+,2013-12-09
+resteasy-jackson-provider,3.0.4.Final,-,2013-12-09
+resteasy-jackson-provider,3.0.4.Final,+,2013-12-09
+forms_rt,5.0,+,2013-12-09
+forms_rt,5.0,-,2013-12-09
+activemq-core,5.3.0,-,2013-12-09
+activemq-core,5.3.0,+,2013-12-09
+javax.ws.rs-api,2.0,-,2013-12-09
+javax.ws.rs-api,2.0,+,2013-12-09

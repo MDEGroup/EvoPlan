@@ -1,0 +1,14 @@
+library,version,sign,date
+hibernate-validator,4.0.2.GA,+,2010-03-02
+hibernate-annotations,3.5.0-CR-2,-,2010-04-08
+hibernate-annotations,3.4.0.GA,-,2010-03-02
+hibernate-annotations,3.4.0.GA,-,2010-02-18
+hibernate-annotations,3.4.0.GA,+,2010-02-18
+time,1.0-SNAPSHOT,+,2010-12-22
+time,1.0-SNAPSHOT,+,2010-10-18
+commons-lang,2.4,+,2010-02-19
+spring-context,3.0.2.RELEASE,-,2010-10-18
+spring-context,3.0.2.RELEASE,+,2010-04-23
+spring-context,3.0.1.RELEASE,-,2010-04-08
+spring-context,3.0.0.RELEASE,+,2010-03-02
+spring-context,3.0.0.RELEASE,-,2010-03-16

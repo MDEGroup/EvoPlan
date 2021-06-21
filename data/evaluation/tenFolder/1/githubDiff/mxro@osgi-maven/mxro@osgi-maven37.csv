@@ -1,0 +1,11 @@
+library,version,sign,date
+xsdlib,20050913,-,2013-10-31
+xsdlib,20050913,+,2013-10-31
+pull-parser,2.1.10,-,2013-10-31
+pull-parser,2.1.10,+,2013-10-31
+jaxen,1.0-FCS,+,2013-10-31
+jaxen,1.0-FCS,-,2013-10-31
+dom4j,1.6.1,+,2013-10-31
+dom4j,1.6.1,-,2013-10-31
+relaxngDatatype,20050913,-,2013-10-31
+relaxngDatatype,20050913,+,2013-10-31

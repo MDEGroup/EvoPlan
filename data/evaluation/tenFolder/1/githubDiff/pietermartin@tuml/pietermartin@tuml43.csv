@@ -1,0 +1,8 @@
+library,version,sign,date
+umlg-test-blueprints,0.0.1-SNAPSHOT,-,2014-01-31
+runtime-domain,0.0.1-SNAPSHOT,-,2013-06-16
+runtime-domain,0.0.1-SNAPSHOT,-,2014-01-31
+runtime-domain,0.0.1-SNAPSHOT,+,2013-06-16
+runtime-test,0.0.1-SNAPSHOT,-,2014-01-31
+runtime-test,0.0.1-SNAPSHOT,+,2013-06-15
+runtime-test,0.0.1-SNAPSHOT,+,2013-06-16

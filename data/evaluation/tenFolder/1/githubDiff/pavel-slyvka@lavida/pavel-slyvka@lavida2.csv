@@ -1,0 +1,7 @@
+library,version,sign,date
+groovy,1.8.6,+,2013-08-26
+commons-cli,1.2,+,2013-08-26
+service,1.0,+,2013-08-02
+commons-httpclient,3.1,+,2013-08-26
+tagsoup,1.2.1,+,2013-08-26
+ivy,2.2.0,+,2013-08-26

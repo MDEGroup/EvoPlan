@@ -1,0 +1,9 @@
+library,version,sign,date
+barchart-util-common,1.0.12-SNAPSHOT,-,2015-02-03
+barchart-util-common,1.0.18-SNAPSHOT,+,2015-04-14
+barchart-util-common,1.0.11-SNAPSHOT,-,2014-11-14
+barchart-util-common,1.0.15-SNAPSHOT,-,2015-04-14
+barchart-util-common,1.0.13-SNAPSHOT,-,2015-03-17
+barchart-util-common,1.0.10-SNAPSHOT,-,2014-09-25
+barchart-util-test,4.0.2-SNAPSHOT,-,2014-11-26
+barchart-util-test,4.0.1-SNAPSHOT,-,2014-11-14

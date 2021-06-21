@@ -1,0 +1,15 @@
+library,version,sign,date
+gradebook-service-hibernate,1.0-SNAPSHOT,+,2008-12-05
+gradebook-service-hibernate,1.0-SNAPSHOT,-,2009-10-04
+commons-logging,1.0.4,-,2007-07-12
+commons-logging,1.0.4,-,2008-12-05
+commons-logging,1.0.4,-,2007-03-04
+commons-logging,1.0.4,-,2010-09-22
+commons-logging,1.0.4,-,2011-12-15
+commons-logging,1.0.4,+,2007-03-04
+log4j,1.2.9,-,2010-09-22
+log4j,1.2.9,-,2011-12-15
+log4j,1.2.9,-,2007-03-04
+log4j,1.2.8,-,2007-07-12
+log4j,1.2.9,+,2007-03-04
+log4j,1.2.9,-,2007-07-12

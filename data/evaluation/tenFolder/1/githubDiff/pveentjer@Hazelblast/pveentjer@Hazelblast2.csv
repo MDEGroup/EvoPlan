@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.10,+,2012-04-14
+junit,4.10,-,2012-04-14
+freemarker,2.3.24-incubating,+,2013-10-20
+commons-cli,1.2,+,2012-04-22
+hazelcast,3.6,+,2013-10-20
+hazelcast,2.1.2,+,2012-06-04
+hazelcast,3.1,+,2012-06-30
+hazelcast,2.1.1,+,2012-05-13
+hazelcast,2.1.2,-,2012-06-30
+hazelcast,3.1,-,2013-10-20
+hazelcast,2.0.2,-,2012-05-13
+hazelcast,2.1.1,-,2012-06-04

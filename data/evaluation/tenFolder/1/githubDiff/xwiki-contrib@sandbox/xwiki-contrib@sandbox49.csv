@@ -1,0 +1,5 @@
+library,version,sign,date
+xwiki-core-annotations-core,2.3,+,2010-01-27
+junit,4.6,-,2010-01-27
+junit,4.6,+,2010-01-27
+junit,4.5,+,2010-01-27

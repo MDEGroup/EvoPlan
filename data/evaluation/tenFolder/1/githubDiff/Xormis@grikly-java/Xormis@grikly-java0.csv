@@ -1,0 +1,9 @@
+library,version,sign,date
+httpmime,4.0-alpha3,-,2013-10-02
+httpmime,4.0-alpha3,+,2013-08-26
+junit,3.8.1,-,2013-10-02
+joda-time,2.3,+,2013-10-26
+httpclient,4.2.5,+,2013-10-19
+httpclient,4.2.5,-,2013-10-19
+httpclient,4.2.5,+,2013-07-11
+guice,3.0,+,2013-10-28

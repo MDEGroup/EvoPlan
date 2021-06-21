@@ -1,0 +1,10 @@
+library,version,sign,date
+httpmime,4.2,-,2012-08-21
+httpmime,4.2,+,2012-08-21
+ldsmobile-commons,1.1.0.3,+,2012-08-21
+ldsmobile-commons,1.1.0.3,-,2012-08-21
+robolectric,1.1,+,2012-09-13
+junit,4.8.2,+,2012-09-13
+stack-test-unit,3.0.2,+,2012-08-21
+commons-lang3,3.1,+,2012-08-31
+gson,2.2.2,+,2012-09-17

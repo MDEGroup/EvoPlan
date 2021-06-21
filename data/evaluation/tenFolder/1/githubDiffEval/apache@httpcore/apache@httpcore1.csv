@@ -1,0 +1,4 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2016-10-31
+junit,4.12,-,2020-01-07
+junit,4.13,+,2020-01-07

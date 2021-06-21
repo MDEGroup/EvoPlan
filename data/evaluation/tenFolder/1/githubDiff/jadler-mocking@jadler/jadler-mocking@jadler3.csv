@@ -1,0 +1,4 @@
+library,version,sign,date
+spring-core,3.1.2.RELEASE,-,2014-04-10
+fluent-hc,4.5.2,+,2017-02-24
+httpclient,4.5.2,+,2017-02-24

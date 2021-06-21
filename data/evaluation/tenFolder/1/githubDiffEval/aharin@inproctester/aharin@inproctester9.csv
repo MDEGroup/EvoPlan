@@ -1,0 +1,15 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,-,2013-12-16
+javax.servlet-api,3.0.1,+,2012-06-21
+javax.servlet-api,3.0.1,+,2012-05-05
+inproctester-core,1.0.13,-,2012-06-21
+inproctester-core,1.0.13-SNAPSHOT,-,2012-05-16
+inproctester-core,1.0.15,-,2013-12-16
+inproctester-core,1.0.13-SNAPSHOT,+,2012-02-28
+inproctester-core,1.0.14,-,2012-08-29
+inproctester-core,1.0.14-SNAPSHOT,-,2012-06-21
+inproctester-core,1.0.15-SNAPSHOT,-,2012-09-03
+jetty-io,9.1.0.v20131115,+,2013-12-16
+jetty-webapp,7.4.2.v20110526,-,2011-07-26
+jetty-webapp,9.1.0.v20131115,+,2013-12-16
+jetty-http,9.1.0.v20131115,+,2013-12-16

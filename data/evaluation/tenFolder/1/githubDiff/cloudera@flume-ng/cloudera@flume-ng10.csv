@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2012-03-16
+flume-ng-sdk,1.1.0-cdh4.0.0-SNAPSHOT,-,2012-05-09
+flume-ng-sdk,1.1.0-incubating-SNAPSHOT,+,2012-02-06
+flume-ng-sdk,1.1.0-incubating-SNAPSHOT,-,2012-03-13
+flume-ng-sdk,1.1.0-incubating,-,2012-03-15
+flume-ng-sdk,1.1.0-cdh4b2-SNAPSHOT,-,2012-03-16
+flume-ng-core,1.1.0-cdh4.0.0-SNAPSHOT,-,2012-05-09
+flume-ng-core,1.1.0-incubating-SNAPSHOT,-,2012-03-13
+flume-ng-core,1.1.0-incubating,-,2012-03-15
+flume-ng-core,1.1.0-cdh4b2-SNAPSHOT,-,2012-03-16
+slf4j-log4j12,1.6.4,-,2012-03-16
+flume-ng-configuration,1.1.0-cdh4.0.0-SNAPSHOT,-,2012-05-09
+flume-ng-configuration,1.1.0-cdh4.0.0-SNAPSHOT,+,2012-03-16

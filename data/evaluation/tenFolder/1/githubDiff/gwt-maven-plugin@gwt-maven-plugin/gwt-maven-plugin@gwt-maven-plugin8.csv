@@ -1,0 +1,3 @@
+library,version,sign,date
+gwt-user,@gwt.version@,-,2010-11-25
+gwt-user,@gwt.version@,+,2010-11-25

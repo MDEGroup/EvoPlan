@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.6.4,+,2012-01-30
+slf4j-api,1.6.4,+,2012-01-24
+slf4j-api,1.6.4,-,2012-01-30
+junit,4.8.1,-,2012-01-30
+junit,4.8.1,+,2012-01-30
+slf4j-log4j12,1.6.4,+,2012-01-30
+slf4j-log4j12,1.6.4,+,2012-01-24
+slf4j-log4j12,1.6.4,-,2012-01-30
+spring-core,3.1.0.RELEASE ,-,2012-01-30
+spring-core,3.1.0.RELEASE,+,2012-01-30
+spring-core,3.1.0.RELEASE ,+,2012-01-30
+drools-mas-acl,1.0.Final,+,2012-01-30
+drools-mas-core,1.0.Final,+,2012-01-30

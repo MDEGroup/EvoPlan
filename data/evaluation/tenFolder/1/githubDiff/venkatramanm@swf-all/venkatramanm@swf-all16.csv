@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.8.2,+,2013-03-16
+junit,4.10,+,2012-06-14
+junit,4.10,-,2012-06-24
+junit,4.10,+,2012-11-25
+swf,1.6-SNAPSHOT,-,2012-07-02
+swf,1.9-SNAPSHOT,-,2012-11-25
+swf,1.8-SNAPSHOT,-,2012-11-13
+swf,1.7-SNAPSHOT,-,2012-09-14
+swf,1.6-SNAPSHOT,+,2012-06-24
+derby,10.6.2.1,-,2012-06-24
+derby,10.6.2.1,-,2014-01-30
+derby,10.6.2.1,+,2014-01-30

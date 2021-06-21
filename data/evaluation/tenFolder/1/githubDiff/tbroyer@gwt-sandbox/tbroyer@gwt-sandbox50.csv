@@ -1,0 +1,5 @@
+library,version,sign,date
+xercesImpl,2.9.1,+,2012-11-12
+xercesImpl,2.9.1,-,2012-11-12
+xercesImpl,2.9.1,+,2012-11-10
+protobuf-java,2.2.0-gwt-rebased,+,2012-11-10

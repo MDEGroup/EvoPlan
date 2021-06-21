@@ -1,0 +1,5 @@
+library,version,sign,date
+jsr305,3.0.1,-,2018-08-30
+jsr305,3.0.2,+,2018-08-30
+sonar-channel,4.1,+,2018-07-31
+mockito-core,1.10.19,-,2018-08-27

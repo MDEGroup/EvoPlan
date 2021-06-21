@@ -1,0 +1,6 @@
+library,version,sign,date
+aopalliance,1.0,-,2010-07-28
+guice,2.0.1,-,2010-01-19
+guice,2.0.1,+,2009-09-28
+guice,2.0.1,-,2009-09-28
+guice,2.0,-,2010-07-28

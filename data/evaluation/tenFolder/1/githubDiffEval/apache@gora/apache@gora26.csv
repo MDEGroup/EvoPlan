@@ -1,0 +1,6 @@
+library,version,sign,date
+ignite-indexing,2.4.0,+,2018-05-08
+ignite-indexing,2.4.0,-,2018-06-06
+sqlbuilder,2.1.7,+,2018-07-30
+avro,1.8.1,-,2018-09-10
+avro,1.8.2,+,2018-09-10

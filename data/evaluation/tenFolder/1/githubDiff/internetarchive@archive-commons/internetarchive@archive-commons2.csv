@@ -1,0 +1,11 @@
+library,version,sign,date
+archive-commons,0.0.1-SNAPSHOT,-,2012-12-11
+junit,3.8.1,-,2013-01-29
+junit,4.4,-,2011-11-19
+access-control,0.0.1-SNAPSHOT,-,2011-11-19
+access-control,0.1.0-SNAPSHOT,+,2013-01-29
+pig,0.8.0,-,2013-01-24
+pig,0.8.0,-,2011-11-19
+pig,0.8.0,-,2012-06-19
+pig,0.10.0,+,2012-06-19
+pig,0.8.0,+,2011-11-19

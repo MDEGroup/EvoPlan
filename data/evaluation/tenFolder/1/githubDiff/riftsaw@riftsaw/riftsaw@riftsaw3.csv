@@ -1,0 +1,7 @@
+library,version,sign,date
+postgresql,8.3-603.jdbc3,+,2012-03-16
+postgresql,8.3-603.jdbc3,-,2012-03-16
+postgresql,8.3-603.jdbc3,-,2013-10-31
+jtds,1.2.2,+,2012-03-16
+jtds,1.2.2,-,2012-03-16
+jtds,1.2.2,-,2013-10-31

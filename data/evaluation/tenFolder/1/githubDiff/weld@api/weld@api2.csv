@@ -1,0 +1,6 @@
+library,version,sign,date
+weld-api,1.0.0-SNAPSHOT,-,2009-10-11
+testng,5.9,+,2009-10-11
+testng,5.10,+,2016-01-26
+testng,5.9,-,2009-10-13
+testng,5.10,-,2016-01-26

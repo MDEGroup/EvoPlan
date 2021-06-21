@@ -1,0 +1,5 @@
+library,version,sign,date
+org.apache.servicemix.specs.jsr339-api-m10,2.3.0,-,2016-07-05
+org.apache.servicemix.specs.jsr339-api-m10,2.3.0,+,2015-11-03
+org.apache.servicemix.specs.jsr339-api-m10,2.3.0,-,2015-11-03
+org.apache.servicemix.specs.jsr339-api-m10,2.3.0,+,2016-07-05

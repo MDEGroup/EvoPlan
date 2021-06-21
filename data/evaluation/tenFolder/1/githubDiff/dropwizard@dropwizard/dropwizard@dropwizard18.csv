@@ -1,0 +1,17 @@
+library,version,sign,date
+jakarta.ws.rs-api,2.1.6,+,2020-02-20
+jakarta.validation-api,2.0.2,+,2020-02-20
+commons-lang3,3.9,-,2020-03-27
+commons-lang3,3.8.1,-,2019-03-24
+commons-lang3,3.4,-,2015-10-17
+commons-lang3,3.9,+,2019-08-08
+commons-lang3,3.9,-,2019-08-08
+commons-lang3,3.4,-,2016-10-20
+commons-lang3,3.3.2,+,2015-04-12
+commons-lang3,3.4,+,2015-10-17
+commons-lang3,3.10,+,2020-03-27
+commons-lang3,3.7,-,2018-10-02
+commons-lang3,3.3.2,-,2015-04-12
+commons-lang3,3.6,-,2018-01-19
+commons-lang3,3.3.2,-,2015-04-25
+commons-lang3,3.5,-,2017-08-18

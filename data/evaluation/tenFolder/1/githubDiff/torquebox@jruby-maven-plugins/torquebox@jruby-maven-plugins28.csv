@@ -1,0 +1,4 @@
+library,version,sign,date
+jruby-complete,1.7.11,+,2013-04-16
+jruby-complete,1.6.8,-,2013-04-16
+jruby-complete,1.6.2,-,2013-04-16

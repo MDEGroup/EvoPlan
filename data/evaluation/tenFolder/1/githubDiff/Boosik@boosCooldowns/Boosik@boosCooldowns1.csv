@@ -1,0 +1,11 @@
+library,version,sign,date
+spigot,1.12-R0.1-SNAPSHOT,+,2016-12-11
+spigot,1.9.2-R0.1-SNAPSHOT,-,2016-06-13
+spigot,1.8.8-R0.1-SNAPSHOT,-,2016-06-13
+spigot,1.8-R0.1-SNAPSHOT,-,2016-06-13
+spigot,1.12-R0.1-SNAPSHOT,-,2017-08-03
+spigot,1.8.3-R0.1-SNAPSHOT,-,2016-06-13
+Vault,1.6.6,-,2017-08-03
+Vault,LATEST,-,2016-06-13
+PlayerPoints,2.1.3,+,2016-06-13
+PlayerPoints,2.1.3,-,2017-08-03

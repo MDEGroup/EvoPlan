@@ -1,0 +1,6 @@
+library,version,sign,date
+mysql-connector-java,5.1.26,-,2014-06-05
+mysql-connector-java,5.1.26,+,2014-06-05
+mysql-connector-java,5.1.22,+,2014-06-05
+httpclient,4.0.1,+,2014-06-05
+httpclient,4.0.1,-,2014-06-05

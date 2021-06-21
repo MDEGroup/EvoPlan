@@ -1,0 +1,13 @@
+library,version,sign,date
+slf4j-api,1.5.10,+,2010-10-05
+mockito-all,1.8.1,+,2010-10-05
+logback-classic,0.9.15,+,2010-10-05
+hibernate-validator,4.0.2.GA,+,2010-10-05
+hibernate-validator,4.1.0.Final,+,2010-10-05
+javax.persistence,2.0.0-SNAPSHOT,-,2010-10-05
+validation-api,1.0.0.GA,+,2010-10-05
+h2,1.2.124,+,2010-10-05
+testng,5.9,+,2010-10-05
+testng,6.0.1,+,2010-10-05
+aopalliance,1.0,+,2010-10-05
+guice,2.0,+,2010-10-05

@@ -1,0 +1,15 @@
+library,version,sign,date
+selenium-server,2.21.0,+,2012-03-15
+selenium-server,1.0.1,+,2012-02-17
+selenium-server,1.0.1,-,2012-02-17
+selenium-server,1.0.1,-,2012-03-15
+dbunit,2.2,+,2012-03-15
+dbunit,2.2,-,2012-03-15
+dbunit,2.2,-,2011-06-03
+jboss-seam,@seam.version@,-,2011-06-03
+jboss-seam,2.2.0.GA,-,2012-06-04
+testng,5.10,+,2011-10-08
+testng,5.10,-,2012-05-26
+testng,5.10,-,2012-02-17
+jboss-seam-resteasy,@seam.version@,-,2011-06-03
+selenium-java,2.21.0,+,2012-03-15

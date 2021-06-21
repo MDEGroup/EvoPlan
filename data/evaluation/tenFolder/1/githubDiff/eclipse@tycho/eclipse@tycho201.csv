@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.12,+,2019-10-29
+junit,4.12,-,2019-10-29
+junit,3.8.1,+,2019-10-29
+junit,4.12,-,2019-11-15
+maven-plugin-testing-harness,2.1,+,2019-10-29
+maven-archiver,2.5,-,2019-10-29
+maven-archiver,2.5,+,2019-10-29
+maven-archiver,2.5,-,2019-11-15

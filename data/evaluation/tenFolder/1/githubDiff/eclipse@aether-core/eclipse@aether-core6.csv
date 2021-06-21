@@ -1,0 +1,11 @@
+library,version,sign,date
+hamcrest-library,1.3,+,2013-07-28
+junit,4.8.2,-,2013-07-28
+logback-classic,0.9.26,+,2013-06-23
+logback-classic,0.9.26,-,2013-07-28
+sisu-guice,3.1.6,+,2014-01-03
+jetty-server,7.6.11.v20130520,+,2013-06-23
+jetty-server,7.6.14.v20131031,-,2014-05-18
+jetty-server,7.6.11.v20130520,-,2014-02-26
+httpclient,4.2.5,-,2013-08-17
+httpclient,4.2.6,-,2014-11-11

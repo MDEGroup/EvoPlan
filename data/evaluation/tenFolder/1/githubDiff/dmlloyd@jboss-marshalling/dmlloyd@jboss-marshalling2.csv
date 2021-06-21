@@ -1,0 +1,14 @@
+library,version,sign,date
+jboss-modules,1.0.0.Beta11,-,2010-12-14
+jboss-modules,1.0.0.Beta12,-,2011-07-06
+jboss-modules,1.0.0.Beta1,+,2010-07-30
+jboss-modules,1.0.0.Beta5,-,2010-09-08
+jboss-modules,1.0.0.Beta12,+,2010-12-20
+jboss-modules,1.1.0.Beta1,-,2017-06-29
+jboss-modules,1.0.0.Beta7,-,2010-10-15
+jboss-modules,1.0.0.Beta12,-,2010-12-20
+jboss-modules,1.0.0.Beta1,-,2010-09-07
+testng,5.12.1,-,2014-02-25
+testng,5.12.1,+,2010-12-20
+testng,5.8,+,2010-03-02
+testng,5.8,-,2010-12-20

@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.11,-,2015-09-15
+junit,4.11,-,2015-08-11
+junit,4.11,+,2015-08-11
+commons-cli,1.2,-,2015-09-15
+commons-cli,1.2,+,2015-08-11
+commons-cli,1.2,-,2015-08-12
+symmetry-core,2.0.1-SNAPSHOT,-,2019-01-07
+symmetry-core,1.1.1-SNAPSHOT,-,2015-08-11
+symmetry-core,1.1.1-SNAPSHOT,-,2015-08-12
+symmetry-core,2.0.0-SNAPSHOT,-,2016-03-22
+symmetry-core,2.0.0,-,2018-07-01
+symmetry-core,2.1.0,-,2019-01-09
+symmetry-core,1.1.1-SNAPSHOT,+,2015-08-11
+symmetry-core,2.0.0-SNAPSHOT,-,2018-06-30
+symmetry-core,1.1.2-SNAPSHOT,-,2016-03-22

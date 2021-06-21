@@ -1,0 +1,6 @@
+library,version,sign,date
+mysql-connector-java,5.1.17,-,2013-04-21
+mysql-connector-java,5.1.17,+,2013-04-20
+mysql-connector-java,5.1.17,+,2013-04-21
+mail,1.4.7,+,2013-04-18
+c3p0,0.9.1.2,+,2013-04-21

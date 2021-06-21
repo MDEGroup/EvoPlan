@@ -1,0 +1,17 @@
+library,version,sign,date
+spring-test,3.0.4.RELEASE,-,2011-06-23
+spring-beans,3.0.4.RELEASE,-,2011-06-23
+junit,4.8.1,-,2012-02-20
+junit,4.8.1,-,2012-05-01
+junit,4.10,+,2012-05-01
+junit,4.10,+,2012-08-09
+junit,4.8.1,+,2012-02-20
+spring-core,3.0.4.RELEASE,-,2011-06-23
+infinispan-core,4.0.0.FINAL,+,2011-06-23
+infinispan-core,4.0.0.FINAL,-,2011-08-24
+infinispan-core,4.0.0.FINAL,+,2011-03-20
+spring-context,3.0.4.RELEASE,-,2011-06-23
+javax.inject,1,+,2012-04-19
+javax.inject,1,+,2013-03-03
+javax.inject,1,-,2012-04-28
+javax.inject,1,-,2013-03-03

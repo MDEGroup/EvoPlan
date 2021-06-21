@@ -1,0 +1,7 @@
+library,version,sign,date
+barchart-udt-bundle,2.2.5,-,2013-05-14
+barchart-udt-bundle,2.2.2,-,2013-03-05
+barchart-udt-bundle,2.2.3-SNAPSHOT,-,2013-03-06
+barchart-udt-bundle,2.2.2,+,2012-06-12
+netty,3.6.3.Final,+,2012-06-12
+netty,3.6.3.Final,-,2013-05-14

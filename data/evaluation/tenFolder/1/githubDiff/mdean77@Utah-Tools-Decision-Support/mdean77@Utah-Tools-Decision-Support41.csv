@@ -1,0 +1,3 @@
+library,version,sign,date
+edu.utah.cdmcc.decisionsupport.application.core,1.0.0-SNAPSHOT,+,2012-02-18
+edu.utah.cdmcc.decisionsupport.application.core,1.0.0-SNAPSHOT,-,2012-02-18

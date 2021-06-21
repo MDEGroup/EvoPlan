@@ -1,0 +1,9 @@
+library,version,sign,date
+slf4j-api,1.6.6,-,2013-09-01
+junit,4.10,-,2013-09-01
+hamcrest-all,1.3,+,2013-02-23
+hamcrest-all,1.3,-,2013-09-01
+htmlunit,2.11,-,2013-09-01
+htmlunit,2.11,+,2013-02-23
+commons-lang,2.6,+,2012-09-30
+commons-lang,2.6,-,2013-09-01

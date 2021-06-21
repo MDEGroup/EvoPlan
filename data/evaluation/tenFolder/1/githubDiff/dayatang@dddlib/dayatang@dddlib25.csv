@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,3.8.1,-,2015-04-23
+junit,4.11,-,2015-06-06
+junit,4.11,+,2015-06-06
+junit,4.11,-,2015-09-11
+assertj-core,3.1.0,+,2015-06-06
+assertj-core,3.5.2,+,2015-09-11
+assertj-core,3.1.0,-,2015-09-11
+reflections,0.9.10,+,2015-09-11
+reflections,0.9.9,-,2015-09-11
+reflections,0.9.9,+,2015-04-23

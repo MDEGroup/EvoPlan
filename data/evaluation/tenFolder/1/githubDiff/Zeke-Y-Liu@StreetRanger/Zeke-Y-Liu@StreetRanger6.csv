@@ -1,0 +1,11 @@
+library,version,sign,date
+spring-beans,3.2.4.RELEASE,+,2013-08-21
+spring-core,3.2.4.RELEASE,+,2013-08-21
+spring-jdbc,3.2.4.RELEASE,+,2013-08-21
+spring-tx,3.2.4.RELEASE,+,2013-08-21
+spring-expression,3.2.4.RELEASE,+,2013-08-21
+spring-dao,2.0.8,+,2013-08-21
+commons-dbcp,1.4,+,2013-09-04
+aopalliance,1.0,+,2013-09-26
+spring-context,3.2.4.RELEASE,+,2013-08-21
+spring-context,3.2.4.RELEASE,-,2013-09-26

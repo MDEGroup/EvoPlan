@@ -1,0 +1,7 @@
+library,version,sign,date
+confluence4j-soap,3.4.3-SNAPSHOT,+,2011-01-21
+confluence4j-soap,3.4.3-SNAPSHOT,-,2011-03-10
+sappho-configuration,0.1.0-SNAPSHOT,+,2011-02-28
+sappho-configuration,0.1.0-SNAPSHOT,-,2011-03-10
+atlassian-jira,4.0.1,-,2012-07-19
+log4j,1.2.14,+,2011-01-21

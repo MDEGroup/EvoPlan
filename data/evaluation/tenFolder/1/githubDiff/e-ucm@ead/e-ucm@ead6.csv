@@ -1,0 +1,5 @@
+library,version,sign,date
+android,4.1.1.4,-,2013-12-09
+android,2.3.3,-,2014-03-24
+android,2.3.3,+,2013-12-09
+android,4.1.1.4,+,2014-03-24

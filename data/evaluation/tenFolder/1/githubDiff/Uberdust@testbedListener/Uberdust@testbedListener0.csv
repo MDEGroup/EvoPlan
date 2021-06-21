@@ -1,0 +1,15 @@
+library,version,sign,date
+protobuf-java,2.3.0,-,2012-03-11
+protobuf-java,2.4.1,+,2012-03-13
+maven-pmd-plugin,2.7,+,2012-03-15
+maven-pmd-plugin,2.5,-,2012-02-08
+XbeeLib,1.0,+,2012-06-26
+XbeeLib,1.0,-,2012-06-26
+XbeeLib,1,+,2012-03-25
+XbeeLib,1,-,2012-04-28
+tr.scripting-client,0.7.2,-,2012-06-26
+tr.scripting-client,0.8.1,+,2012-06-26
+tr.iwsn-server,0.8.4,+,2012-06-26
+NetworkManager,1.0,+,2012-02-08
+californium,1.0,+,2012-05-05
+log4j,1.2.9,+,2012-09-02

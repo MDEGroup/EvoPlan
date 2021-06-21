@@ -1,0 +1,8 @@
+library,version,sign,date
+commons-logging,1.0.4,-,2010-10-05
+loop-fs-iso-impl,2.0.1,-,2015-09-30
+loop-fs-iso-impl,2.0.1-SNAPSHOT,-,2013-01-29
+loop-fs-iso-impl,1.2.3-SNAPSHOT,-,2010-10-05
+loop-fs-iso-impl,2.0.0-SNAPSHOT,-,2010-10-06
+loop-fs-iso-impl,2.0.0,-,2013-01-29
+commons-vfs,1.0,-,2010-10-05

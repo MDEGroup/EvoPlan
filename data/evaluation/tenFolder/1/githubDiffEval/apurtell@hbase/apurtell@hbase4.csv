@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.13,+,2019-05-21
+junit,4.12,-,2019-05-21
+hbase-shaded-client,2.0.0,+,2018-01-30
+log4j,1.2.16,-,2016-02-23

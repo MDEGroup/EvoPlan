@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-collections,3.2.2,-,2019-10-17
+commons-collections,3.2.2,+,2019-10-17
+commons-lang3,3.5,+,2019-10-17
+commons-lang3,3.5,-,2019-10-17

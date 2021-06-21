@@ -1,0 +1,5 @@
+library,version,sign,date
+joda-time,2.0,-,2016-11-14
+joda-time,2.0,-,2016-05-16
+joda-time,2.0,+,2016-05-16
+joda-time,2.0,+,2016-11-14

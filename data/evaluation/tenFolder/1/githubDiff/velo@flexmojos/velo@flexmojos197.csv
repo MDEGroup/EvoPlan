@@ -1,0 +1,5 @@
+library,version,sign,date
+hamcrest-library,1.1,+,2011-03-02
+hamcrest-library,1.1,-,2011-03-02
+lambdaj,2.1,-,2011-03-02
+lambdaj,2.1,+,2011-03-02

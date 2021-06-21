@@ -1,0 +1,15 @@
+library,version,sign,date
+hibernate-jpa-2.0-api,1.0.1.Final,+,2013-06-22
+junit,4.8.1,+,2013-10-22
+junit,4.9,+,2013-06-19
+joda-time,2.2,+,2013-07-30
+hibernate-entitymanager,3.6.4.Final,-,2013-10-22
+hibernate-entitymanager,3.6.4.Final,+,2013-06-22
+hibernate-entitymanager,3.6.4.Final,-,2013-06-22
+spring-data-mongodb,1.2.1.RELEASE,+,2013-07-02
+spring-data-mongodb,1.2.0.RELEASE,+,2013-06-19
+org.openscada.jinterop.core,1.1.0.v20130529,-,2013-10-22
+gson,2.2.4,-,2013-07-19
+gson,2.2.4,+,2013-06-19
+gson,2.2.4,+,2013-07-19
+velocity,1.6.4,+,2013-07-31

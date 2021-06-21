@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,3.8.1,-,2017-01-07
+junit,3.8.1,-,2014-09-15
+junit,3.8.1,+,2017-01-07
+junit,3.8.1,+,2014-09-15
+bukkit,LATEST,-,2017-11-10
+bukkit,LATEST,+,2017-01-07
+bukkit,LATEST,+,2014-09-15
+bukkit,LATEST,-,2017-01-07

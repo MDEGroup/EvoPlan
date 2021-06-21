@@ -1,0 +1,6 @@
+library,version,sign,date
+cxf-bundle-minimal,2.5.2-0002-SNAPSHOT,+,2012-10-25
+cxf-bundle-minimal,2.5.2-0001-SNAPSHOT,-,2012-11-07
+cxf-bundle-minimal,2.5.2-0002,-,2013-05-29
+cxf-bundle-minimal,2.5.2-0002-SNAPSHOT,-,2012-12-05
+cxf-bundle-minimal,2.5.2-0002-SNAPSHOT,-,2013-04-10

@@ -1,0 +1,8 @@
+library,version,sign,date
+javaee-api,6.0,+,2013-05-15
+javaee-api,6.0,+,2013-05-13
+javaee-api,6.0,-,2013-05-29
+javaee-api,6.0,-,2013-05-15
+javaee-api,6.0,+,2013-05-29
+SDDomain,1.0-SNAPSHOT,-,2013-05-15
+SDDomain,1.0-SNAPSHOT,+,2013-05-15

@@ -1,0 +1,10 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,+,2013-12-13
+javax.servlet-api,3.1.0,+,2013-12-21
+dcsysUtils,1.0-SNAPSHOT,+,2013-12-21
+authModel,1.0-SNAPSHOT,+,2013-12-20
+authModel,1.0-SNAPSHOT,+,2013-12-12
+authModel,1.0-SNAPSHOT,+,2013-12-21
+postgresql,1.0-SNAPSHOT,+,2013-12-21
+cdiUtils,1.0-SNAPSHOT,+,2013-12-12
+cdiUtils,1.0-SNAPSHOT,+,2013-12-21

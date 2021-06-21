@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.5,+,2012-10-31
+portlet-api,2.0,+,2012-10-31
+portlet-api,2.0,-,2012-11-19
+servlet-api,2.5,-,2012-11-19
+servlet-api,2.5,+,2012-10-31

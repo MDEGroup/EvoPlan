@@ -1,0 +1,5 @@
+library,version,sign,date
+scalatestplus-play_2.11,1.5.1,+,2016-09-30
+commons-lang3,3.5,+,2016-09-30
+commons-io,2.5,+,2016-09-30
+commons-io,2.4,-,2016-09-30

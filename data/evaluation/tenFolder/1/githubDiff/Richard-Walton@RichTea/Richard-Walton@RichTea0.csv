@@ -1,0 +1,9 @@
+library,version,sign,date
+junit-dep,4.10,+,2012-07-29
+commons-collections,3.2.1,+,2012-07-29
+commons-beanutils,1.8.3,-,2012-07-29
+commons-beanutils,1.8.3,+,2012-07-29
+antlr-runtime,3.4,-,2012-07-29
+antlr-runtime,3.4,+,2012-07-29
+log4j,1.2.17,-,2012-07-29
+log4j,1.2.17,+,2012-07-29

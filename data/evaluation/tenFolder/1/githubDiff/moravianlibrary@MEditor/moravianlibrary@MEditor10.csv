@@ -1,0 +1,15 @@
+library,version,sign,date
+gwt-log,3.1.6,+,2012-03-11
+editor-confutils,1.0-SNAPSHOT,-,2012-11-25
+editor-confutils,1.0-SNAPSHOT,+,2012-09-20
+junit,3.8.1,-,2013-04-07
+junit,4.7,-,2012-03-11
+junit,3.8.1,+,2012-03-11
+aopalliance,1.0,+,2012-03-11
+gwt-image-loader,1.1.1,+,2012-03-11
+gwt-image-loader,1.1.1,-,2012-09-20
+gin,2.1.2,+,2013-04-07
+gin,1.5.0,+,2012-03-11
+gin,1.5.0,-,2013-04-07
+guice,3.0,+,2012-03-11
+log4j,1.2.12,+,2012-03-11

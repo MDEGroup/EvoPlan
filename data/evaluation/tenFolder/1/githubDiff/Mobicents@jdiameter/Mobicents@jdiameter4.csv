@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.11,+,2012-10-11
+junit,4.10,-,2012-10-11
+junit,4.11,-,2016-02-06
+junit,4.11,+,2016-02-06
+junit,4.10,+,2012-10-03
+picocontainer,2.13.5,+,2016-02-06
+picocontainer,1.2,+,2016-02-06
+picocontainer,2.13.5,+,2012-10-03
+picocontainer,2.13.5,+,2013-01-25
+picocontainer,2.13.5,-,2016-02-06
+picocontainer,2.13.5,-,2013-01-25
+picocontainer,1.2,-,2016-02-06
+picocontainer,1.2,+,2016-07-15
+picocontainer,1.2,-,2012-10-03

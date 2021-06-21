@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.8.2,+,2012-07-24
+hibernate-validator,4.0.2.GA,-,2011-10-30
+hibernate-annotations,3.5.1-Final,-,2011-10-30
+slf4j-log4j12,1.5.8,+,2012-07-24
+postgresql,9.1-901.jdbc4,+,2012-09-11
+postgresql,8.4-702.jdbc4,-,2012-07-24
+jersey-json,1.5,-,2012-07-24
+commons-lang,2.6,+,2012-07-24
+httpclient,4.1,+,2012-07-24
+jsr250-api,1.0,+,2012-09-11
+log4j,1.2.16,+,2012-07-24

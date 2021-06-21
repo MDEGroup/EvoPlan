@@ -1,0 +1,7 @@
+library,version,sign,date
+vaadin,6.8.6,-,2012-12-06
+vaadin,6.6.2,+,2012-12-06
+org.osgi.core,4.3.0,-,2013-01-25
+imgscalr-lib,3.1,-,2012-12-06
+imgscalr-lib,3.1,+,2012-12-06
+servlet-api,2.5,+,2013-01-25

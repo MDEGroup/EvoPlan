@@ -1,0 +1,10 @@
+library,version,sign,date
+websocket-api,9.1.0.v20131115,+,2014-04-16
+javax.servlet-api,3.1.0,+,2014-06-13
+logback-classic,1.0.13,+,2014-02-21
+guice-multibindings,3.0,+,2014-06-13
+websocket-server,9.1.0.v20131115,+,2014-04-16
+jul-to-slf4j,1.7.4,+,2014-02-21
+jersey-client,2.5,-,2014-02-21
+jersey-client,2.5,+,2014-02-21
+websocket-client,9.1.0.v20131115,+,2014-06-13

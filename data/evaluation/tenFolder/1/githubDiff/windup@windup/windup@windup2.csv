@@ -1,0 +1,13 @@
+library,version,sign,date
+windup-test-harness,4.0.0.Beta2.1,+,2017-06-06
+windup-test-harness,4.0.0.Beta2.1,-,2017-06-07
+windup-exec,4.0.0.Beta2.1,+,2017-06-06
+windup-exec,4.0.0-20170606.150605-36,-,2017-06-07
+windup-exec,4.0.0-20170606.150605-36,+,2017-06-06
+windup-exec,4.0.0.Beta2.1,-,2017-06-07
+windup-java-ast,4.0.0.Beta2.1,+,2017-06-06
+windup-java-ast,4.0.0-20170606.150841-36,+,2017-06-06
+windup-java-ast,4.0.0.Beta2.1,-,2017-06-07
+windup-java-ast,4.0.0-20170606.150841-36,-,2017-06-07
+cdi,2.25.4.Final,-,2017-06-07
+cdi,2.25.4.Final,+,2017-06-06

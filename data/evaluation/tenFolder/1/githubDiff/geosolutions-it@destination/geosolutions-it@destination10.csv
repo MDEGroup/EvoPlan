@@ -1,0 +1,6 @@
+library,version,sign,date
+gb-destination-ingestion,1.0-SNAPSHOT,+,2013-09-30
+gb-destination-ingestion,1.0-SNAPSHOT,-,2013-09-30
+jai_imageio,1.1,+,2013-12-06
+log4j,1.2.17,+,2013-09-30
+log4j,1.2.17,-,2013-09-30

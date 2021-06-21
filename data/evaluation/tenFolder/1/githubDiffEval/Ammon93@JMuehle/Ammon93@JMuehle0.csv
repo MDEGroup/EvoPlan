@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,3.8.2,-,2013-09-10
+junit,3.8.2,+,2013-10-15
+joda-convert,1.2,-,2013-09-10
+joda-convert,1.2,+,2013-10-15

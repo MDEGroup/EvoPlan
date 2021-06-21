@@ -1,0 +1,8 @@
+library,version,sign,date
+testFx,3.1.0,-,2015-07-01
+testFx,3.1.0,+,2015-07-01
+testFx,3.1.2,+,2015-07-01
+assertj-core,3.11.1,+,2018-08-14
+junit-jupiter-api,5.0.0-RC2,+,2017-05-15
+junit-jupiter-api,5.0.0-RC2,-,2018-08-14
+doc-annotations,0.1,-,2015-05-04

@@ -1,0 +1,15 @@
+library,version,sign,date
+slf4j-api,1.7.2,+,2013-03-18
+junit,4.11,+,2013-03-18
+service-registry-client,2.0.0,-,2013-03-27
+service-registry-client,2.1.0-SNAPSHOT,-,2013-04-22
+service-registry-client,1.0.0,+,2013-03-18
+service-registry-client,2.0.1-SNAPSHOT,-,2013-03-27
+service-registry-client,2.0.0-SNAPSHOT,-,2013-03-18
+service-registry-client,2.0.0,+,2013-03-18
+service-registry-client,2.1.0,-,2013-04-22
+service-registry-curator,2.0.0,-,2013-03-27
+service-registry-curator,2.0.0-SNAPSHOT,-,2013-03-18
+service-registry-curator,2.1.0-SNAPSHOT,-,2013-04-22
+service-registry-curator,2.1.0,-,2013-04-22
+service-registry-curator,2.0.1-SNAPSHOT,-,2013-03-27

@@ -1,0 +1,5 @@
+library,version,sign,date
+lambdaj,2.3.3,-,2012-11-20
+htmlcleaner,2.2,-,2012-11-20
+pressgang-ccms-model,1.1-SNAPSHOT,+,2012-11-20
+log4j,1.2.16,-,2012-11-20

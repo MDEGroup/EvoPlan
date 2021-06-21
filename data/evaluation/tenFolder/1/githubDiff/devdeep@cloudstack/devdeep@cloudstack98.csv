@@ -1,0 +1,10 @@
+library,version,sign,date
+aspectjrt,1.7.1,+,2013-05-13
+aspectjrt,1.7.1,-,2013-05-13
+cloud-engine-storage,4.2.0-SNAPSHOT,+,2013-05-13
+cloud-engine-storage,4.3.0-SNAPSHOT,-,2013-08-01
+cloud-engine-storage,4.2.0-SNAPSHOT,-,2013-07-27
+testng,6.1.1,+,2012-12-20
+httpclient,4.2.2,+,2012-12-06
+httpclient,4.2.2,-,2012-12-20
+httpclient,4.2.2,+,2012-12-20

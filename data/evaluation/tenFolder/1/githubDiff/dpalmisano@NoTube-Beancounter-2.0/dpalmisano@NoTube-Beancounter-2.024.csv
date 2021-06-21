@@ -1,0 +1,14 @@
+library,version,sign,date
+core,1.0-SNAPSHOT,-,2011-11-15
+core,1.0-SNAPSHOT,+,2011-11-09
+core,1.0-SNAPSHOT,+,2011-11-15
+core,1.0-SNAPSHOT,+,2011-11-24
+configuration,1.0-SNAPSHOT,+,2011-11-24
+kvs,1.0-SNAPSHOT,+,2011-11-24
+model,1.0-SNAPSHOT,-,2011-11-24
+model,1.0-SNAPSHOT,+,2011-11-15
+model,1.0-SNAPSHOT,+,2011-11-24
+httpclient,4.1.2,+,2011-11-18
+httpclient,4.1.2,-,2011-11-18
+httpclient,4.1.2,+,2011-11-09
+scribe,1.2.3,+,2011-11-18

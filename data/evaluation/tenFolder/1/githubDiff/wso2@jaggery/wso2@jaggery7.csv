@@ -1,0 +1,10 @@
+library,version,sign,date
+tomcat-catalina,8.0.33,+,2016-05-10
+tomcat-catalina,8.0.33,+,2016-06-29
+tomcat-catalina,8.0.33,-,2016-06-27
+tomcat-util-scan,8.0.33,+,2016-05-10
+tomcat-util-scan,8.0.33,-,2016-06-27
+org.wso2.carbon.utils,4.2.0,-,2014-04-21
+org.wso2.carbon.utils,4.0.2,-,2014-04-21
+org.wso2.carbon.utils,4.0.2,+,2012-08-06
+org.wso2.carbon.utils,4.2.0,+,2013-09-17

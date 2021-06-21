@@ -1,0 +1,7 @@
+library,version,sign,date
+flume-config-web,0.9.4-SNAPSHOT,-,2011-05-01
+flume-core,0.9.4-SNAPSHOT,-,2011-05-01
+flume-core,0.9.4-SNAPSHOT,+,2011-04-21
+flume-docs,0.9.4-SNAPSHOT,-,2011-05-01
+flume-docs,0.9.4-SNAPSHOT,+,2011-04-21
+flume-node-web,0.9.4-SNAPSHOT,-,2011-05-01

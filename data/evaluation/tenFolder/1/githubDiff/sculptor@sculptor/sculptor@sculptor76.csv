@@ -1,0 +1,11 @@
+library,version,sign,date
+dbunit,2.5.0,-,2019-07-11
+javax.interceptor-api,1.2.2,+,2019-07-11
+javax.jms-api,2.0.1,+,2019-07-11
+jaxws-ri,2.3.2-1,+,2019-12-18
+javax.ejb-api,3.2.2,+,2019-07-11
+jbossws-api,1.0.1.Final,-,2019-07-11
+openejb-core,4.5.2,-,2019-06-12
+javax.persistence-api,2.2,+,2019-06-12
+HikariCP,3.4.1,+,2019-12-18
+HikariCP,3.4.1,+,2019-07-14

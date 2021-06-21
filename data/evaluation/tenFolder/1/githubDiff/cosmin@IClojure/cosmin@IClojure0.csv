@@ -1,0 +1,17 @@
+library,version,sign,date
+cd-client,0.3.6,+,2012-11-02
+class-finder,1.0.0-SNAPSHOT,-,2012-02-21
+class-finder,1.0.0-SNAPSHOT,+,2012-02-14
+junit,4.8.1,-,2013-03-17
+clojure,1.5.1,+,2013-03-17
+clojure,1.4.0,-,2013-03-17
+clojure,1.5.1,-,2013-03-17
+clojure,1.4.0-alpha5,-,2012-02-24
+clojure,1.4.0-alpha4,-,2012-02-01
+jline,2.10,+,2013-03-17
+jline,2.6,-,2012-11-02
+jline,2.9,-,2013-03-17
+jline,2.6-SNAPSHOT,-,2012-02-22
+jline,2.10,-,2013-03-17
+clj-stacktrace,0.2.4,+,2012-01-23
+log4j,1.2.16,+,2012-01-31

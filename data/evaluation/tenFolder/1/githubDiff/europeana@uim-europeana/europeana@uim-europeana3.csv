@@ -1,0 +1,16 @@
+library,version,sign,date
+europeana-datamodel-definitions,1.3.0-SNAPSHOT,+,2011-06-22
+europeana-datamodel-definitions,1.3.0-SNAPSHOT,+,2011-09-07
+europeana-datamodel-definitions,1.3.0-SNAPSHOT,-,2011-11-11
+europeana-datamodel-definitions,1.3.0-SNAPSHOT,-,2011-09-07
+europeana-uim-plugin-clientbindings,1.2.0-SNAPSHOT,-,2011-05-30
+europeana-uim-plugin-clientbindings,1.2.0-SNAPSHOT,-,2011-06-03
+europeana-uim-plugin-clientbindings,1.2.0-SNAPSHOT,+,2011-04-11
+europeana-uim-plugin-clientbindings,1.2.0,+,2011-04-11
+europeana-uim-plugin-clientbindings,1.3.1-SNAPSHOT,-,2012-05-17
+europeana-uim-plugin-clientbindings,1.3.0-SNAPSHOT,-,2011-09-07
+europeana-uim-plugin-clientbindings,1.3.0-SNAPSHOT,-,2012-01-30
+europeana-uim-plugin-clientbindings,1.2.0-SNAPSHOT,+,2011-05-30
+europeana-uim-plugin-clientbindings,1.2.0,-,2011-06-03
+stax-ex,1.7.7,+,2015-02-04
+saaj-impl,1.3.25,+,2015-02-04

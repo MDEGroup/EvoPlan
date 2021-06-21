@@ -1,0 +1,11 @@
+library,version,sign,date
+cas-server-support-oidc-services,6.2.0-SNAPSHOT,-,2020-04-14
+cas-server-support-oidc-services,6.2.0-SNAPSHOT,+,2020-04-09
+cas-server-core-services-authentication,6.2.0-SNAPSHOT,-,2020-04-14
+cas-server-core-services-authentication,6.2.0-SNAPSHOT,+,2020-04-09
+bcpkix-jdk15on,1.65,-,2020-04-09
+bcpkix-jdk15on,1.65,-,2020-05-08
+bcpkix-jdk15on,1.65,+,2020-04-09
+bcpkix-jdk15on,1.64,-,2020-03-20
+cas-server-core-authentication-attributes,6.2.0-SNAPSHOT,-,2020-04-14
+cas-server-core-authentication-attributes,6.2.0-SNAPSHOT,+,2020-04-09

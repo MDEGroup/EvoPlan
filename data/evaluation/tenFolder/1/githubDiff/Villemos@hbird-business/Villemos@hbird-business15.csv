@@ -1,0 +1,6 @@
+library,version,sign,date
+core,0.0.1-SNAPSHOT,+,2012-04-03
+core,0.0.1-SNAPSHOT,-,2012-04-03
+core,0.0.1-SNAPSHOT,-,2012-12-11
+business-core,0.0.1-SNAPSHOT,+,2012-04-03
+business-core,0.0.1-SNAPSHOT,-,2012-12-11

@@ -1,0 +1,5 @@
+library,version,sign,date
+jackson-datatype-hibernate5,2.8.1,-,2018-06-21
+jackson-databind,2.9.9.2,+,2019-08-02
+gson,2.6.2,+,2016-08-02
+appsensor-core,2.2.0,-,2017-01-05

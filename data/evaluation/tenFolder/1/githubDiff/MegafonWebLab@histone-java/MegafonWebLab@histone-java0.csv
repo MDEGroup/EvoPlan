@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.12,+,2014-02-06
+junit,4.11,-,2014-02-06
+junit,4.10,-,2012-11-28
+junit,4.11,+,2012-11-28
+commons-collections,3.2.1,-,2015-01-26
+commons-collections,3.2.2,+,2015-01-26
+commons-collections,3.2.1,+,2013-08-08
+commons-io,2.4,+,2013-08-08
+commons-lang,2.6,+,2013-08-08

@@ -1,0 +1,9 @@
+library,version,sign,date
+common,1.0-SNAPSHOT,-,2011-12-05
+common,1.0-SNAPSHOT,+,2011-12-03
+android,1.6_r2,+,2011-12-03
+android,1.6_r2,-,2011-12-03
+android,1.0-SNAPSHOT,+,2011-12-03
+gson,1.7.1,-,2011-12-05
+gson,1.7.1,+,2011-12-03
+gson,1.7.1,+,2011-12-05

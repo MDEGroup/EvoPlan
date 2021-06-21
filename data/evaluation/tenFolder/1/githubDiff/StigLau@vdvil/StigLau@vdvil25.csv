@@ -1,0 +1,5 @@
+library,version,sign,date
+tagger-model,0.3,-,2010-01-05
+tagger-model,0.4-SNAPSHOT,-,2010-03-23
+topicmapapi,0.2,-,2010-01-05
+topicmapapi,0.3,-,2010-03-23

@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,3.8.2,+,2010-11-15
+junit,3.8.2,-,2010-10-26
+protobuf-java,2.3.0,-,2011-04-14
+gson,1.7-SNAPSHOT,-,2011-04-12
+gson,1.6,-,2010-11-15
+gson,1.5,-,2010-10-26
+gson,1.7-SNAPSHOT,-,2011-04-14
+gson,1.7-SNAPSHOT,+,2010-11-15

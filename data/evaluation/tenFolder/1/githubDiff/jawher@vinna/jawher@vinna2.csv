@@ -1,0 +1,17 @@
+library,version,sign,date
+logback-classic,1.0.6,+,2012-08-11
+logback-classic,1.0.6,+,2012-08-28
+vinna,0.0.3-SNAPSHOT,-,2012-08-11
+vinna,${project.version},-,2012-08-28
+vinna,${project.version},+,2012-08-27
+vinna,0.0.2,+,2012-08-02
+vinna,0.0.2,-,2012-08-11
+vinna,0.0.3-SNAPSHOT,-,2012-08-27
+vinna,0.0.3-SNAPSHOT,+,2012-08-11
+vinna,0.0.2-SNAPSHOT,-,2012-08-02
+servlet-api,2.5,+,2012-08-28
+servlet-api,2.5,-,2012-08-11
+servlet-api,2.5,-,2012-08-02
+servlet-api,2.5,+,2012-08-02
+servlet-api,2.5,-,2012-08-28
+servlet-api,2.5,+,2012-08-11

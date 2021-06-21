@@ -1,0 +1,14 @@
+library,version,sign,date
+mockito-all,1.8.5,+,2010-08-02
+jbehave-core,2.2-SNAPSHOT,-,2009-02-22
+jbehave-core,2.2-rc3,-,2009-04-21
+jbehave-core,2.4-SNAPSHOT,-,2010-01-10
+jbehave-core,2.2,-,2009-08-26
+jbehave-core,2.3,-,2009-12-22
+jbehave-core,2.4.1,-,2010-02-06
+jbehave-core,2.2-SNAPSHOT,-,2009-04-06
+jbehave-core,2.2-rc2,-,2009-04-05
+jbehave-core,2.4,-,2010-01-21
+jbehave-core,2.1.1,-,2009-02-21
+jbehave-core,2.2-rc1,-,2009-02-25
+maven-default-skin,1.0,+,2011-03-01

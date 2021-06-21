@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-cli,1.1,-,2012-08-13
+commons-cli,20040117.000000,+,2013-08-21
+commons-cli,20040117.000000,-,2013-08-21
+commons-cli,20040117.000000,-,2015-09-01

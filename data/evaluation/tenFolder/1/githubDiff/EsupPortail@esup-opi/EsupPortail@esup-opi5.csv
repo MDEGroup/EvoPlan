@@ -1,0 +1,4 @@
+library,version,sign,date
+commons-beanutils,1.8.3,+,2012-10-25
+commons-beanutils,1.8.3,-,2012-11-22
+commons-beanutils,1.8.3,+,2012-11-23

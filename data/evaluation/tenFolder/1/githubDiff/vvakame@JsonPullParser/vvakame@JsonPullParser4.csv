@@ -1,0 +1,9 @@
+library,version,sign,date
+hamcrest-library,1.1,-,2013-04-24
+hamcrest-library,1.1,-,2011-01-16
+hamcrest-library,1.1,-,2013-02-06
+hamcrest-library,1.1,+,2011-01-16
+junit,4.8.1,-,2013-02-06
+junit,4.8.1,-,2011-01-16
+junit,4.8.1,-,2013-04-24
+junit,4.8.1,+,2011-01-16

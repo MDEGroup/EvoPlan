@@ -1,0 +1,31 @@
+library,version,sign,date
+datecalc-joda,1.2.0,+,2014-01-07
+datecalc-joda,1.2.0,-,2014-01-07
+datecalc-joda,1.2.0,+,2013-11-27
+barchart-feed-proto,1.0.1-SNAPSHOT,-,2014-05-07
+barchart-feed-proto,1.0.2-SNAPSHOT,-,2014-05-07
+barchart-feed-proto,[1.0-SNAPSHOT,1.1-SNAPSHOT),+,2014-02-20
+barchart-feed-proto,1.0.1-SNAPSHOT,+,2014-02-20
+protobuf-java,2.5.0,-,2014-04-08
+protobuf-java,2.5.0,+,2014-08-20
+datecalc-common,1.2.0,+,2014-01-07
+datecalc-common,1.2.0,-,2014-01-07
+datecalc-common,1.2.0,+,2013-11-27
+barchart-feed-api,[2-SNAPSHOT,3-SNAPSHOT),-,2013-11-27
+barchart-feed-api,[2-SNAPSHOT,3-SNAPSHOT),-,2013-12-18
+barchart-feed-api,[2.2.3-SNAPSHOT,3-SNAPSHOT),-,2014-04-08
+barchart-feed-api,[2-SNAPSHOT,3-SNAPSHOT),-,2013-12-12
+barchart-feed-api,2.2.2-SNAPSHOT,-,2013-12-06
+barchart-feed-api,[2.3,2.4-SNAPSHOT),+,2014-09-25
+barchart-feed-api,[2.2.3-SNAPSHOT,3-SNAPSHOT),+,2014-04-08
+openfeed,[2.2-SNAPSHOT, 2.3-SNAPSHOT),-,2015-01-09
+openfeed,[2-SNAPSHOT, 3-SNAPSHOT),+,2014-02-20
+openfeed,[2.1.6-SNAPSHOT,2.2-SNAPSHOT),-,2014-12-04
+openfeed,[2-SNAPSHOT, 3-SNAPSHOT),-,2014-04-08
+openfeed,[2.1.6-SNAPSHOT,3-SNAPSHOT),-,2015-01-09
+openfeed,[2.1.4, 2.2-SNAPSHOT),+,2014-05-30
+openfeed,[2.1.4, 2.2-SNAPSHOT),-,2014-12-04
+openfeed,[2-SNAPSHOT, 3-SNAPSHOT),+,2014-04-08
+openfeed,[2.1.4, 3-SNAPSHOT),-,2015-01-09
+openfeed,[2.1.6-SNAPSHOT,2.2-SNAPSHOT),+,2014-09-25
+openfeed,[2-SNAPSHOT, 3-SNAPSHOT),-,2014-12-11

@@ -1,0 +1,4 @@
+library,version,sign,date
+quartz,2.1.5,+,2013-03-26
+quartz,1.6.5,-,2015-10-14
+quartz,2.1.5,-,2015-07-17

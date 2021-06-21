@@ -1,0 +1,4 @@
+library,version,sign,date
+slf4j-api,1.7.1,+,2012-09-16
+logback-classic,1.0.7,+,2012-09-16
+mockito-core,1.9.0,+,2012-09-01

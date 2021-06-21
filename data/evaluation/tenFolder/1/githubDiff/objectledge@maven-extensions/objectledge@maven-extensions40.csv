@@ -1,0 +1,6 @@
+library,version,sign,date
+ckpackager-library,1.1.0-SNAPSHOT,-,2011-07-13
+ckpackager-library,1.0.0-SNAPSHOT,-,2011-07-09
+js,1.7R2,+,2011-06-14
+js,1.7R2,+,2011-06-22
+js,1.7R2,-,2011-06-14

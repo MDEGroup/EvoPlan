@@ -1,0 +1,6 @@
+library,version,sign,date
+openejb-core,4.6.0,+,2016-07-05
+openejb-core,4.6.0,-,2015-11-03
+openejb-core,4.6.0,-,2016-07-05
+openejb-core,4.6.0,+,2013-11-26
+openejb-core,4.6.0,+,2015-11-03

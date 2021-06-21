@@ -1,0 +1,16 @@
+library,version,sign,date
+slf4j-api,1.5.10,-,2011-08-30
+slf4j-api,1.5.2,-,2009-12-19
+slf4j-api,1.5.10,+,2009-12-19
+httpmime,4.0.1,-,2012-11-15
+httpmime,4.0.1,+,2010-08-20
+httpmime,4.0.1,-,2010-08-20
+httpmime,4.0.1,+,2010-02-18
+log4j-over-slf4j,1.5.10,-,2011-08-30
+log4j-over-slf4j,1.5.10,+,2009-12-19
+xmldb-exist,1.4.2,+,2011-03-27
+httpclient,4.0.1,-,2012-11-15
+httpclient,4.0,-,2010-02-18
+httpclient,4.0.1,+,2010-08-20
+httpclient,4.0.1,-,2010-08-20
+servlet-api,2.4,-,2011-08-30

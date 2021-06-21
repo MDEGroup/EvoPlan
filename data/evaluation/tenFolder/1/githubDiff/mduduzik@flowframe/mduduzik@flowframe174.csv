@@ -1,0 +1,4 @@
+library,version,sign,date
+org.flowframe.kernel.common.utils,0.0.1,+,2013-04-26
+org.flowframe.kernel.common.mdm.domain,0.0.1,+,2013-04-26
+org.flowframe.erp.app.contractmanagement.domain,0.0.1,+,2013-04-26

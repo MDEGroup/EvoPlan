@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.8.2,-,2019-11-21
+junit,4.8.2,+,2019-05-17
+junit,4.8.2,-,2019-06-21
+junit,4.8.2,-,2019-06-05
+junit,4.8.2,-,2019-05-17
+clusterbench-ee8-ejb,3.0.1.Final-SNAPSHOT,-,2019-06-05
+clusterbench-ee8-ejb,3.0.0.Final,-,2019-06-05
+clusterbench-ee8-ejb,3.0.0.Alpha1-SNAPSHOT,-,2019-05-27
+clusterbench-ee8-web,3.0.1.Final-SNAPSHOT,-,2019-06-05
+clusterbench-ee8-web,3.0.0.Final,-,2019-06-05
+clusterbench-ee8-web,3.0.0.Alpha1-SNAPSHOT,-,2019-05-27
+httpclient,4.5.6,+,2019-05-17
+httpclient,4.5.6,-,2019-11-20

@@ -1,0 +1,14 @@
+library,version,sign,date
+bonaparte-core,1.0-SNAPSHOT,-,2012-10-29
+bonaparte-core,1.0-SNAPSHOT,-,2013-02-25
+bonaparte-core,1.0-SNAPSHOT,+,2012-10-29
+vertx-core,1.3.0.final,-,2012-10-29
+vertx-core,3.0.0-dev_preview1,-,2015-03-10
+vertx-core,3.0.0,-,2014-11-18
+vertx-core,3.0.0-milestone4,-,2015-12-07
+vertx-core,3.0.0-SNAPSHOT,-,2015-02-13
+vertx-core,1.2.1.final,-,2012-08-26
+vertx-core,3.0.0,+,2014-09-25
+vertx-core,3.0.0-milestone3,-,2015-04-06
+vertx-core,1.3.1.final,-,2013-05-31
+vertx-core,3.0.1-SNAPSHOT,-,2014-11-18

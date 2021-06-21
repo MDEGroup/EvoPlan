@@ -1,0 +1,10 @@
+library,version,sign,date
+polyglot-common,0.4.3,-,2020-02-21
+junit,4.12,+,2019-10-29
+junit,4.12,-,2019-10-29
+junit,4.12,-,2019-11-09
+junit,3.8.1,+,2019-10-29
+plexus-utils,3.0.24,-,2019-11-09
+org.eclipse.sisu.plexus,0.3.0,-,2019-10-29
+org.eclipse.sisu.plexus,0.3.3,+,2019-10-29
+org.eclipse.sisu.plexus,0.3.3,-,2019-11-09

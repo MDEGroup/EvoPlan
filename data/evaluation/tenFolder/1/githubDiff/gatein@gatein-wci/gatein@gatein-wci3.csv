@@ -1,0 +1,5 @@
+library,version,sign,date
+tomcat-catalina,7.0.2,-,2011-06-15
+tomcat-catalina,7.0.2,+,2011-06-15
+tomcat-catalina,7.0.2,-,2011-06-22
+tomcat-catalina,7.0.19,-,2012-09-19

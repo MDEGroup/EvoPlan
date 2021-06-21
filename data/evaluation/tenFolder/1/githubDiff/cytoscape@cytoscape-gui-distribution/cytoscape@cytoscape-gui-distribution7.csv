@@ -1,0 +1,5 @@
+library,version,sign,date
+ops4j-base-exec,1.4.0,+,2014-07-30
+org.ops4j.pax.tipi.junit,4.11.0.1,+,2014-07-30
+javax.inject,2.1.3,-,2014-07-30
+javax.inject,1,+,2014-07-30

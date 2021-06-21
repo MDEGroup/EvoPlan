@@ -1,0 +1,8 @@
+library,version,sign,date
+commons-codec,1.10,-,2019-07-15
+commons-codec,1.10,+,2017-10-02
+commons-codec,1.10,-,2019-09-03
+commons-codec,1.12,-,2019-09-03
+gson,2.8.5,+,2019-02-13
+gson,2.2.2,-,2018-10-17
+gson,2.8.5,+,2018-10-17

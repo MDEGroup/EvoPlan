@@ -1,0 +1,11 @@
+library,version,sign,date
+streams-testing,0.5.2-SNAPSHOT,+,2018-01-08
+streams-config,0.1-SNAPSHOT,-,2014-12-12
+streams-config,0.5.2-SNAPSHOT,+,2018-01-08
+jcl-over-slf4j,1.7.25,+,2018-01-08
+jackson-databind,2.7.9,+,2018-01-08
+streams-pojo,0.1-SNAPSHOT,-,2014-12-12
+streams-pojo,0.5.2-SNAPSHOT,+,2018-01-08
+httpclient,4.5.4,+,2018-01-08
+httpclient,4.3.5,-,2014-11-11
+httpcore,4.4.8,+,2018-01-08

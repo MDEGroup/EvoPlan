@@ -1,0 +1,5 @@
+library,version,sign,date
+jackson-core-asl,1.9.9,-,2012-11-29
+commons-codec,1.7,-,2013-08-09
+commons-codec,1.6,-,2012-11-29
+jackson-mapper-asl,1.9.9,-,2012-11-29

@@ -1,0 +1,3 @@
+library,version,sign,date
+hamcrest-library,1.3,+,2013-07-28
+junit,4.8.2,-,2013-07-28

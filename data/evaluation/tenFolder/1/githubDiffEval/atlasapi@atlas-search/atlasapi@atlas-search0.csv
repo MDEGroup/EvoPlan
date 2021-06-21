@@ -1,0 +1,12 @@
+library,version,sign,date
+mockito-all,1.9.0,+,2013-03-04
+lucene-core,3.0.1,-,2013-12-13
+common,1.0-SNAPSHOT,+,2012-12-27
+common,1.0-SNAPSHOT,-,2011-11-14
+common,1.5-SNAPSHOT,+,2011-11-14
+common,1.5-SNAPSHOT,-,2012-12-27
+lucene-queries,3.0.1,-,2013-12-13
+lucene-misc,3.0.1,-,2013-12-13
+lucene-analyzers,3.0.1,-,2013-12-13
+gson,1.4,+,2016-02-25
+gson,1.4,-,2016-02-25

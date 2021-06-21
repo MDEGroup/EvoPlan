@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.10,-,2014-12-01
+junit,4.10,+,2012-03-16
+junit,4.10,-,2012-03-16
+junit,4.10,-,2012-09-05
+randomizedtesting-runner,@project.version@,+,2012-03-16
+randomizedtesting-runner,@project.version@,-,2012-03-16

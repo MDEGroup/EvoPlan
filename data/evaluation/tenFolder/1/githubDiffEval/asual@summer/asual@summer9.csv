@@ -1,0 +1,16 @@
+library,version,sign,date
+jackson-core-asl,1.9.0,-,2013-12-05
+jackson-core-asl,1.9.0,+,2012-05-27
+jackson-core-asl,1.8.1,-,2011-10-11
+jackson-core-asl,1.7.1,-,2011-05-12
+jsf-impl,2.0.3,-,2011-07-18
+rhino,1.7R3,+,2011-10-20
+summer-el,1.0.0.M3-SNAPSHOT,-,2011-04-10
+jackson-mapper-asl,1.9.0,-,2013-12-05
+jackson-mapper-asl,1.9.0,+,2012-05-27
+jackson-mapper-asl,1.9.0,+,2011-10-11
+jackson-mapper-asl,1.8.1,-,2011-10-11
+jackson-mapper-asl,1.7.1,-,2011-05-12
+nekohtml,1.9.14,+,2011-04-07
+nekohtml,1.9.14,-,2011-04-07
+jsf-api,2.0.3,-,2011-07-18

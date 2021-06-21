@@ -1,0 +1,11 @@
+library,version,sign,date
+jstl,1.2,-,2015-08-07
+jstl,1.2,+,2015-04-28
+junit,4.5,-,2015-08-07
+junit,4.12,+,2017-04-12
+junit,4.8.2,-,2015-08-07
+geronimo-interceptor_1.2_spec,1.0,+,2015-08-07
+httpclient,4.5.2,+,2015-08-07
+httpclient,4.2.1,-,2015-05-03
+httpclient,4.2.1,-,2015-08-07
+httpclient,4.2.1,+,2015-04-28

@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.6.4,-,2012-12-10
+junit,4.8.1,-,2012-12-10
+junit,4.8.1,-,2013-02-13
+drools-compiler,5.5.0.Final,-,2012-12-10
+drools-compiler,5.5.1-SNAPSHOT,-,2013-02-09
+drools-compiler,5.5.0-SNAPSHOT,-,2012-12-10
+owlapi-api,3.4,-,2013-02-09
+owlapi-api,3.4.2,-,2013-02-13
+owlapi-api,3.4.2,+,2013-02-09
+owlapi-apibinding,3.4,-,2013-02-09
+owlapi-apibinding,3.4.2,-,2013-02-13
+owlapi-apibinding,3.4.2,+,2013-02-09
+drools-shapes-utilities,5.5.0-SNAPSHOT,-,2012-12-10

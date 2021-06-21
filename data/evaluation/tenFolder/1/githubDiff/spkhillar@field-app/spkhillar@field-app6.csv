@@ -1,0 +1,17 @@
+library,version,sign,date
+jstl,1.2,+,2013-06-02
+jstl,1.2,-,2013-05-03
+telenoetica.field.service.app.scheduler,1.0.0,-,2013-05-03
+telenoetica.field.service.app.scheduler,1.0.0,+,2013-05-01
+telenoetica.field.service.app.scheduler,1.0.0,+,2013-06-02
+jsp-api,2.1,+,2013-06-02
+jsp-api,2.1,-,2013-05-03
+telenoetica.field.service.app.integration,1.0.0,-,2013-05-03
+telenoetica.field.service.app.integration,1.0.0,+,2013-05-01
+telenoetica.field.service.app.integration,1.0.0,+,2013-04-21
+telenoetica.field.service.app.integration,1.0.0,+,2013-06-02
+servlet-api,2.5,+,2013-05-03
+servlet-api,2.5,+,2013-06-02
+servlet-api,2.5,-,2013-05-03
+javax.inject,1,+,2013-06-02
+javax.inject,1,-,2013-05-03

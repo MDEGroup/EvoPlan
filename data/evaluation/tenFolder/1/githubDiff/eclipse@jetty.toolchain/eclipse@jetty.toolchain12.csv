@@ -1,0 +1,5 @@
+library,version,sign,date
+jetty-test-helper,1.6,-,2015-04-13
+jetty-test-helper,2.0,-,2013-03-16
+jetty-test-helper,2.0,+,2012-12-06
+jetty-test-helper,1.6,+,2013-03-16

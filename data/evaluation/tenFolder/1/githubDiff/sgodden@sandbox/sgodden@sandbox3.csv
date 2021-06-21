@@ -1,0 +1,6 @@
+library,version,sign,date
+easymock,3.0,+,2011-03-10
+issue-domain,1.0-SNAPSHOT,+,2011-03-10
+dozer,5.3.1,+,2011-03-10
+testng,5.9,+,2011-03-10
+testng,5.9,-,2011-03-24

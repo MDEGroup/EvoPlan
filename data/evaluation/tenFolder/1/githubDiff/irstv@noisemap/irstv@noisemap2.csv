@@ -1,0 +1,11 @@
+library,version,sign,date
+h2gis-utilities,1.5.0,+,2019-10-03
+junit,4.10,-,2019-04-19
+junit,4.10,+,2019-11-20
+cts,1.5.2,+,2019-04-04
+slf4j-simple,1.7.4,-,2019-04-19
+slf4j-simple,1.7.12,+,2019-04-26
+slf4j-simple,1.6.4,+,2019-11-20
+jackson-databind,2.9.6,+,2019-04-05
+jackson-databind,2.9.10,-,2019-10-15
+jackson-databind,2.9.6,-,2019-04-26

@@ -1,0 +1,15 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2012-02-20
+mysql-connector-java,5.1.17,-,2012-02-20
+mysql-connector-java,5.1.17,-,2011-11-24
+mysql-connector-java,5.1.17,+,2011-11-24
+slf4j-log4j12,1.6.1,-,2012-02-20
+jython-standalone,2.5.2,+,2011-12-12
+sqlite-jdbc,3.7.2,+,2011-11-24
+mina-core,2.0.4,-,2012-09-04
+mina-filter-compression,2.0.4,-,2012-09-04
+mina-filter-compression,2.0.4,+,2011-12-27
+testng,6.1.1,-,2012-02-20
+testng,6.1.1,+,2011-12-01
+bcprov-jdk14,138,-,2012-02-20
+lombok,0.10.4,+,2012-08-06

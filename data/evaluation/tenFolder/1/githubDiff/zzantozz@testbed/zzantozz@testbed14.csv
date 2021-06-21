@@ -1,0 +1,11 @@
+library,version,sign,date
+slf4j-log4j12,1.5.11,+,2011-07-31
+slf4j-log4j12,1.6.1,+,2011-07-31
+slf4j-log4j12,1.6.1,+,2011-07-21
+slf4j-log4j12,1.6.1,-,2011-07-21
+h2,1.3.149,+,2011-07-31
+h2,1.3.149,+,2011-07-21
+hibernate-core,3.6.5.Final,+,2011-07-31
+hibernate-core,3.6.5.Final,+,2011-07-21
+javassist,3.8.0.GA,+,2011-07-31
+javassist,3.8.0.GA,+,2011-07-21

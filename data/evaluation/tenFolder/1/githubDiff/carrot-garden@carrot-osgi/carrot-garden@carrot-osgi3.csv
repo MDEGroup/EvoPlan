@@ -1,0 +1,8 @@
+library,version,sign,date
+logback-classic,0.9.30,+,2011-10-13
+carrot-util-json,1.0.0-SNAPSHOT,-,2011-05-13
+jackson-mapper-asl,1.8.0,+,2011-05-13
+jackson-mapper-asl,1.8.0,-,2011-09-13
+jackson-mapper-asl,1.9.0,-,2011-10-13
+jackson-mapper-asl,1.9.0,+,2011-09-13
+carrot-osgi-feature,1.0.0-SNAPSHOT,+,2011-10-13

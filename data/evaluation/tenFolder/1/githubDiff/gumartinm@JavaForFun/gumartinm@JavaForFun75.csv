@@ -1,0 +1,6 @@
+library,version,sign,date
+slf4j-api,1.7.5,+,2013-08-29
+cglib,2.2.2,+,2013-08-29
+slf4j-log4j12,1.7.5,+,2013-08-29
+mysql-connector-java,5.1.9,+,2013-08-29
+mybatis,3.2.2,+,2013-08-29

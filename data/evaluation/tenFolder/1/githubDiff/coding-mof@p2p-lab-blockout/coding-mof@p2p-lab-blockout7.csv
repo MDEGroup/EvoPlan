@@ -1,0 +1,4 @@
+library,version,sign,date
+org.blockout.ai,1.0.0-SNAPSHOT,+,2012-06-13
+jcommander,1.25,+,2012-05-01
+org.blockout.ui,1.0.0-SNAPSHOT,+,2012-06-13

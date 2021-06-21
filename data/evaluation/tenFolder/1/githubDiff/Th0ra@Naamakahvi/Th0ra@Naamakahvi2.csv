@@ -1,0 +1,9 @@
+library,version,sign,date
+httpmime,4.2,+,2012-07-02
+httpmime,4.2,+,2012-07-06
+mockito-all,1.9.0,+,2012-07-02
+junit,4.10,-,2012-06-25
+gson,2.2.1,+,2012-07-06
+gson,2.2.1,-,2012-06-25
+httpclient,4.2,-,2012-06-25
+httpclient,4.2,+,2012-07-06

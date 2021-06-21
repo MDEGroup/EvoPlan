@@ -1,0 +1,16 @@
+library,version,sign,date
+core,0.0.1-SNAPSHOT,+,2012-04-02
+core,0.0.1-SNAPSHOT,+,2012-11-04
+core,0.0.1-SNAPSHOT,-,2012-12-11
+core,0.0.1-SNAPSHOT,-,2012-11-04
+core,0.0.1-SNAPSHOT,-,2012-04-02
+business-navigation,0.0.1-SNAPSHOT,+,2012-04-02
+business-navigation,0.0.1-SNAPSHOT,-,2012-12-11
+business-commanding,0.0.1-SNAPSHOT,+,2012-04-02
+business-commanding,0.0.1-SNAPSHOT,-,2012-12-11
+log4j,1.2.17,+,2012-11-04
+log4j,1.2.17,+,2013-03-22
+log4j,1.2.16,-,2012-11-04
+log4j,1.2.17,+,2013-04-09
+log4j,1.2.17,-,2013-03-22
+camel-test,2.10.2,+,2013-04-09

@@ -1,0 +1,13 @@
+library,version,sign,date
+org.chiba.web,2.0.2-SNAPSHOT,-,2008-01-29
+org.chiba.web,2.0.0rc1,-,2007-04-18
+org.chiba.web,2.0.0rc1,+,2007-02-28
+org.chiba.web,2.0.1,-,2008-01-29
+org.chiba.web,2.0.1-SNAPSHOT,-,2008-01-29
+org.chiba.web,2.0.0,-,2008-01-29
+org.chiba.web,2.0.0,+,2007-11-15
+org.chiba.web,2.0.0,-,2007-04-20
+com.idega.core,3.5.0,-,2007-03-28
+com.idega.core,4.0.0,-,2008-01-29
+com.idega.core,4.0.0,+,2007-11-15
+com.idega.core,4.0-SNAPSHOT,-,2007-04-20

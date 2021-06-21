@@ -1,0 +1,11 @@
+library,version,sign,date
+sakai-component-manager,1.0.18-SNAPSHOT,-,2010-08-13
+sakai-component-manager,1.0RC2-SNAPSHOT,+,2010-08-13
+sakai-component-manager,1.0.18,+,2010-08-13
+sakai-component-manager,1.0.18,-,2010-08-13
+commons-logging,1.0.4,+,2010-08-13
+commons-logging,1.1.1,+,2010-08-13
+commons-logging,1.1.1,-,2010-08-13
+commons-logging,1.0.4,-,2010-08-13
+servlet-api,2.4,-,2010-08-13
+servlet-api,2.4,+,2010-08-13

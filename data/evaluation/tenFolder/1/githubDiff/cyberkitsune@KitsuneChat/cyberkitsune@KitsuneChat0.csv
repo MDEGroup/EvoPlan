@@ -1,0 +1,13 @@
+library,version,sign,date
+spigot-api,1.15.2-R0.1-SNAPSHOT,+,2015-09-03
+bungeecord-api,1.15-SNAPSHOT,+,2020-05-08
+reflections,0.9.12,+,2020-05-08
+Factions,3.3.0,+,2020-05-09
+VaultAPI,1.7,+,2015-09-03
+Multiverse-Core,2.4,+,2012-11-25
+Multiverse-Core,2.4,+,2012-09-08
+Multiverse-Core,2.4,+,2015-09-03
+Multiverse-Core,2.4,-,2012-11-25
+Multiverse-Core,2.4,-,2020-05-08
+Multiverse-Core,2.4,-,2015-09-03
+MassiveCore,3.3.0,+,2020-05-09

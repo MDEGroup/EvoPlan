@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-api,1.7.5,+,2013-11-29
+slf4j-api,1.6.4,-,2013-11-29
+org.apache.sling.commons.json,2.0.6,+,2013-11-29
+org.apache.sling.api,2.1.0,-,2013-11-28

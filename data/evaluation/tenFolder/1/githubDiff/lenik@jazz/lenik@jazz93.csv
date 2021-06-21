@@ -1,0 +1,4 @@
+library,version,sign,date
+postgresql,9.4.1208.jre7,+,2016-04-26
+postgresql,9.1-901.jdbc4,-,2016-04-26
+postgresql,9.1-901.jdbc4,+,2014-09-23

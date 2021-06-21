@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.11,-,2015-10-17
+junit,4.11,+,2014-10-06
+aws-java-sdk-s3,1.10.27,+,2015-10-02
+aws-java-sdk-s3,1.10.27,-,2015-10-17
+aws-java-sdk-s3,1.10.27,+,2015-10-17
+netty-all,4.0.7.Final,-,2014-05-27
+commons-collections,3.2.1,-,2015-11-05
+log4j,1.2.17,+,2014-10-06

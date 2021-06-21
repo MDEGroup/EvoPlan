@@ -1,0 +1,5 @@
+library,version,sign,date
+mysql-connector-java,5.1.24,+,2013-11-19
+hokan_ng-jeplite-custom,1.0.0-custom,-,2014-03-07
+hokan_ng-jeplite-custom,0.8.7a-custom,+,2014-03-07
+hokan_ng-jeplite-custom,1.0.0-custom,+,2013-11-19

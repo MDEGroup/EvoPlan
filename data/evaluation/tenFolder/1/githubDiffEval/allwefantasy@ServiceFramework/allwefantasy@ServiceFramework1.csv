@@ -1,0 +1,7 @@
+library,version,sign,date
+druid,0.2.26,+,2018-12-22
+hibernate-entitymanager,4.1.3.Final,-,2017-08-20
+hibernate-jpa-2.1-api,1.0.2.Final,+,2017-08-20
+hibernate-jpa-2.1-api,1.0.2.Final,+,2018-12-22
+hibernate-core,4.1.3.Final,-,2017-08-20
+quill-jdbc_${scala.binary.version},3.4.10,+,2019-05-09

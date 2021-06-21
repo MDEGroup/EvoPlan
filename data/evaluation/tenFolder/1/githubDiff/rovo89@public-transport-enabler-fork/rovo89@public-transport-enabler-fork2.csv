@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.4,+,2012-02-23
+ksoap2-android,2.6.0,+,2012-03-01
+json,20090211,+,2012-02-23
+kxml2,2.3.0,+,2012-02-23

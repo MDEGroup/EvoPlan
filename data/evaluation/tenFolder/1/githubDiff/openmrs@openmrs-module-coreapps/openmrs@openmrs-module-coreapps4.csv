@@ -1,0 +1,10 @@
+library,version,sign,date
+compass,0.11.7,-,2013-10-03
+compass,0.11.7,+,2013-05-29
+compass,0.11.7,+,2014-09-25
+compass,0.11.7,-,2014-09-25
+compass,0.11.7,+,2013-10-03
+event-api,2.1,+,2013-10-03
+event-api,2.1,-,2014-07-14
+event-api,2.1,-,2013-10-03
+event-api,2.1,+,2013-07-30

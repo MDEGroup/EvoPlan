@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-compress,1.5,+,2018-01-17
+commons-compress,1.3,-,2018-01-17
+de.flapdoodle.embed.mongo,2.0.3,+,2018-01-17
+de.flapdoodle.embed.mongo,1.45,-,2018-01-17

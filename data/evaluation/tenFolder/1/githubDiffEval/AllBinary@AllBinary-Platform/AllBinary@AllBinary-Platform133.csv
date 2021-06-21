@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,3.8.1,-,2012-10-09
+junit,3.8.1,-,2013-02-14
+junit,3.8.1,+,2014-05-28
+junit,3.8.1,+,2012-10-09
+junit,3.8.1,-,2014-05-28
+junit,3.8.1,+,2012-05-16
+junit,3.8.1,+,2013-02-14
+microemulator,3.0.0-SNAPSHOT,+,2014-05-28
+microemulator,2.0.3,-,2014-05-28
+microemu-jsr-135,3.0.0-SNAPSHOT,+,2014-05-28
+microemu-jsr-135,2.0.3,-,2014-05-28
+microemu-jsr-135,3.0.0-SNAPSHOT,+,2013-02-14

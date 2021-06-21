@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.10,+,2011-07-28
+junit,4.8.1,+,2011-03-20
+junit,4.8.1,-,2011-07-28
+junit,4.8.1,-,2011-03-20
+jedis,2.0.0,+,2011-07-28
+commons-lang,2.5,-,2011-03-20
+commons-lang,2.5,+,2011-03-20

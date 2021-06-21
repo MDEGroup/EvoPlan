@@ -1,0 +1,4 @@
+library,version,sign,date
+maven-archiver,2.5,-,2019-10-29
+maven-archiver,2.5,+,2019-10-29
+maven-archiver,2.5,-,2019-11-15

@@ -1,0 +1,10 @@
+library,version,sign,date
+logback-classic,1.0.1,+,2012-09-11
+yuicompressor,2.4.7,-,2012-08-24
+yuicompressor,2.4.7,+,2012-08-08
+browserify,2.34.0,-,2013-11-02
+browserify,2.34.0,+,2013-10-02
+sweetjs,0.2.5,+,2013-10-16
+fluent-hc,4.2,-,2013-11-23
+cssembed,0.4.6-SNAPSHOT,-,2012-08-08
+svgo,0.3.7,+,2013-10-02

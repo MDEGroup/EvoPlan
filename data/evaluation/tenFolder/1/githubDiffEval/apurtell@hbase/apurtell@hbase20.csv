@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.13,+,2019-05-06
+junit,4.12,-,2019-05-06
+hbase-client,1.2.4,-,2018-03-20
+zookeeper,3.4.14,-,2020-03-12
+zookeeper,3.4.10,-,2019-05-06
+zookeeper,3.4.14,+,2019-05-06
+zookeeper,3.5.7,+,2020-03-12
+findbugs-annotations,1.3.9-1,+,2019-05-06
+commons-lang3,3.9,+,2019-05-06
+commons-lang3,3.6,-,2019-05-06
+mockito-core,2.1.0,-,2019-05-06
+mockito-core,2.28.2,+,2019-05-06

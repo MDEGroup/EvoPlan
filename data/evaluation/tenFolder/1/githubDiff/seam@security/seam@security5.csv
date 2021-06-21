@@ -1,0 +1,6 @@
+library,version,sign,date
+openid4java-consumer,0.9.6,+,2011-05-11
+commons-httpclient,3.1,+,2010-08-12
+jaxb-impl,2.1.9,+,2010-08-12
+nekohtml,1.9.12,+,2010-08-26
+jsf-api,2.0,+,2011-01-10

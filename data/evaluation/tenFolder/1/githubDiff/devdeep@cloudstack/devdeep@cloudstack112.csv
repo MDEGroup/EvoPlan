@@ -1,0 +1,16 @@
+library,version,sign,date
+cloud-framework-ipc,4.1.0-SNAPSHOT,+,2012-12-24
+cloud-framework-ipc,4.1.0-SNAPSHOT,+,2012-11-19
+cloud-framework-ipc,4.1.0-SNAPSHOT,+,2013-01-03
+cloud-framework-ipc,4.1.0-SNAPSHOT,-,2012-12-22
+cloud-framework-ipc,4.1.0-SNAPSHOT,-,2013-01-04
+cloud-framework-ipc,4.1.0-SNAPSHOT,-,2013-01-03
+cloud-engine-storage,4.2.0-SNAPSHOT,+,2013-05-30
+cloud-engine-storage,4.3.0-SNAPSHOT,-,2013-08-01
+cloud-engine-storage,4.2.0-SNAPSHOT,-,2013-07-27
+cloud-plugin-hypervisor-ucs,4.3.0-SNAPSHOT,-,2013-09-21
+cloud-plugin-hypervisor-ucs,4.1.0-SNAPSHOT,+,2013-02-01
+cloud-plugin-hypervisor-ucs,4.2.0-SNAPSHOT,-,2013-07-27
+cloud-plugin-hypervisor-ucs,4.1.0-SNAPSHOT,-,2013-02-16
+cloud-plugin-hypervisor-ucs,4.3.0-SNAPSHOT,-,2013-10-10
+cloud-plugin-hypervisor-ucs,4.3.0-SNAPSHOT,+,2013-10-02

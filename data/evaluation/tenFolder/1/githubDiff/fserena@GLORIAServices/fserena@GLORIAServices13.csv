@@ -1,0 +1,9 @@
+library,version,sign,date
+experiments-engine,0.0.2-SNAPSHOT,-,2014-03-24
+experiments-engine,0.0.2-SNAPSHOT,-,2014-02-20
+experiments-engine,0.0.2-SNAPSHOT,+,2014-02-20
+experiments-engine,0.0.2-SNAPSHOT,+,2014-03-24
+client-tools,0.0.3-SNAPSHOT,-,2014-03-24
+client-tools,0.0.3-SNAPSHOT,-,2014-02-20
+client-tools,0.0.3-SNAPSHOT,+,2014-02-20
+client-tools,0.0.3-SNAPSHOT,+,2014-03-24

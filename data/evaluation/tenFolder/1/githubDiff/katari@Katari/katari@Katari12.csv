@@ -1,0 +1,7 @@
+library,version,sign,date
+acegi-security,1.0.7,-,2010-09-07
+slf4j-api,1.5.8,-,2010-06-03
+slf4j-api,1.5.8,-,2010-09-07
+slf4j-api,1.5.8,+,2010-06-03
+freemarker,2.3.16,-,2010-09-07
+servlet-api,2.4,-,2010-09-07

@@ -1,0 +1,7 @@
+library,version,sign,date
+rti-proxy,0.0.4,+,2014-05-11
+rti-proxy,0.0.3,+,2014-03-13
+rti-proxy,0.0.4,-,2014-05-11
+rti-proxy,0.0.3,-,2014-03-24
+gloria-commons,0.0.2-SNAPSHOT,-,2014-05-11
+gloria-commons,0.0.2-SNAPSHOT,+,2014-05-11

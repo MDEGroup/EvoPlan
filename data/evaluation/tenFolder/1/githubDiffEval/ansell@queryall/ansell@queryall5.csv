@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.11,-,2013-04-07
+junit,4.12,+,2013-04-07
+metainf-services,1.4,-,2013-04-07
+metainf-services,1.4,+,2013-04-07
+log4j,1.2.17,-,2013-04-07
+log4j,1.2.17,+,2013-04-07

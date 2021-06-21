@@ -1,0 +1,10 @@
+library,version,sign,date
+archetype-common,2.3,+,2014-07-20
+archetype-common,2.0-alpha-4,-,2014-07-20
+archetype-common,2.3,-,2015-06-07
+archetype-common,2.4,+,2015-06-07
+dom4j,2.1.1,+,2019-12-19
+org.eclipse.sisu.plexus,0.3.0,-,2019-12-17
+org.eclipse.sisu.plexus,0.0.0.M2a,-,2014-07-20
+org.eclipse.sisu.plexus,0.0.0.M2a,-,2019-12-17
+org.eclipse.sisu.plexus,0.0.0.M2a,+,2013-06-06

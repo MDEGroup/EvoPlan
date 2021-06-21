@@ -1,0 +1,16 @@
+library,version,sign,date
+demoiselle-core-contrib,2.2.1,+,2012-01-30
+demoiselle-core-contrib,2.2.0,-,2012-01-30
+demoiselle-core-contrib,2.2.3-SNAPSHOT,-,2012-11-06
+demoiselle-core-contrib,2.2.2,-,2012-05-23
+demoiselle-core-contrib,2.2.3-SNAPSHOT,+,2012-05-23
+demoiselle-core-contrib,2.3.2-SNAPSHOT,-,2013-03-27
+demoiselle-core-contrib,2.2.1,-,2012-02-03
+demoiselle-core-contrib,2.2.0,-,2012-01-13
+demoiselle-core-contrib,2.2.0,-,2012-02-03
+demoiselle-core-contrib,2.2.1,-,2012-11-06
+demoiselle-core-contrib,2.3.3-SNAPSHOT,-,2013-05-18
+demoiselle-core-contrib,0.0.1-SNAPSHOT,-,2012-01-13
+demoiselle-core-contrib,2.2.0,+,2012-01-13
+demoiselle-core-contrib,2.2.0,+,2012-01-12
+demoiselle-jpa,2.2.0,-,2012-01-13

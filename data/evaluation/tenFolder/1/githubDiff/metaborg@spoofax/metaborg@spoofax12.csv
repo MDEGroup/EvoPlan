@@ -1,0 +1,3 @@
+library,version,sign,date
+org.spoofax.terms.typesmart,2.0.0-SNAPSHOT,+,2016-04-22
+org.spoofax.terms.typesmart,2.0.0-SNAPSHOT,-,2016-04-26

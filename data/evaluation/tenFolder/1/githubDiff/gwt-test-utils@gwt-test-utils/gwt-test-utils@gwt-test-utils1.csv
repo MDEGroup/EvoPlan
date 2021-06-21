@@ -1,0 +1,14 @@
+library,version,sign,date
+easymock,3.0,+,2014-03-09
+easymock,3.4,-,2017-04-03
+easymock,3.0,-,2014-03-09
+easymock,3.0,-,2016-06-12
+mockito-core,1.9.5,+,2014-03-09
+mockito-core,1.9.5,-,2014-03-09
+mockito-core,1.8.5,-,2012-11-20
+mockito-core,1.10.19,-,2018-09-23
+mockito-core,1.9.5,-,2016-06-11
+guice,3.0,+,2014-03-09
+guice,4.1.0,+,2016-06-12
+guice,3.0,-,2014-03-09
+guice,3.0,-,2016-06-12

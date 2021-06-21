@@ -1,0 +1,10 @@
+library,version,sign,date
+jsp-api,2.2,+,2013-08-28
+hermes-monitor,0.0.1-SNAPSHOT,-,2013-02-20
+hermes-monitor,0.0.1-SNAPSHOT,+,2012-12-25
+hermes-common,0.0.1-SNAPSHOT,-,2012-11-21
+hermes-common,0.0.1-SNAPSHOT,+,2012-12-25
+hermes-common,0.0.1-SNAPSHOT,-,2013-01-21
+hermes-common,0.0.1-SNAPSHOT,+,2012-11-08
+servlet-api,2.5,+,2012-11-09
+servlet-api,2.5,+,2012-11-27

@@ -1,0 +1,13 @@
+library,version,sign,date
+wagon-provider-api,1.0,+,2011-10-18
+wagon-provider-api,1.0,-,2013-05-03
+wagon-provider-api,1.0,+,2011-09-27
+wagon-provider-api,1.0,-,2011-10-18
+wagon-provider-api,1.0,-,2011-09-27
+wagon-provider-api,2.4,-,2014-04-15
+maven-scm-provider-gitexe,1.8.1,-,2014-04-15
+maven-scm-provider-gitexe,1.1,+,2011-10-18
+maven-scm-provider-gitexe,1.1,-,2013-05-03
+maven-scm-provider-gitexe,1.1,-,2011-09-27
+maven-scm-provider-gitexe,1.1,-,2011-10-18
+maven-scm-provider-gitexe,1.1,+,2011-09-27

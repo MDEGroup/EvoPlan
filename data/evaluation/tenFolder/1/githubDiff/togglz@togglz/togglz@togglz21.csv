@@ -1,0 +1,6 @@
+library,version,sign,date
+jboss-servlet-api_3.0_spec,1.0.1.Final,+,2016-07-30
+guice,3.0,-,2013-09-16
+guice,4.2.2,+,2018-06-30
+guice,3.0,-,2018-06-30
+guice,3.0,+,2013-09-16

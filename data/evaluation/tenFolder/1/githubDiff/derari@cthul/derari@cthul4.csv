@@ -1,0 +1,5 @@
+library,version,sign,date
+cthul-log,1.0,+,2012-04-30
+cthul-matcher,1.0-SNAPSHOT,-,2012-05-03
+cthul-matcher,1.0,+,2012-04-30
+cthul-xml,1.0-SNAPSHOT,-,2012-04-30

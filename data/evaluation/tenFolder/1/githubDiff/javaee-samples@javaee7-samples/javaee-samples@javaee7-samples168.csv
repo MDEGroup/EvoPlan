@@ -1,0 +1,15 @@
+library,version,sign,date
+arquillian-container-test-api,1.1.11.Final,+,2015-06-05
+arquillian-container-test-api,1.1.11.Final,-,2017-06-10
+junit,4.11,+,2014-12-10
+junit,4.11,-,2015-06-05
+junit,4.11,+,2015-02-10
+junit,4.11,-,2014-12-10
+junit,4.11,-,2018-08-19
+junit,3.8.1,-,2014-12-10
+javaee-api,7.0,+,2014-12-10
+javaee-api,7.0,+,2018-12-11
+javaee-api,7.0,+,2017-11-17
+javaee-api,7.0,-,2018-08-19
+javaee-api,7.0,+,2014-10-05
+javaee-api,7.0,-,2014-12-10

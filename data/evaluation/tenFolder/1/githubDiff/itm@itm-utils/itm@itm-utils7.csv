@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-log4j12,[1.6,1.7),-,2013-06-17
+slf4j-log4j12,1.7.5,-,2014-10-14
+jul-to-slf4j,[1.6,1.7),-,2013-06-17
+jul-to-slf4j,1.7.5,-,2014-10-14

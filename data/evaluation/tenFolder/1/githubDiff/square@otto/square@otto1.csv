@@ -1,0 +1,5 @@
+library,version,sign,date
+otto,1.3.7,-,2015-05-08
+otto,1.3.6,+,2014-06-10
+otto,1.3.6,-,2015-01-20
+otto,(insert latest version),-,2014-06-10

@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.11,+,2014-08-06
+junit,4.11,-,2014-08-06
+jersey-container-servlet,2.11,+,2014-08-06
+jersey-container-servlet,2.11,-,2014-08-06
+jetty-servlet,9.2.1.v20140609,+,2014-08-06
+jetty-servlet,9.2.1.v20140609,-,2014-08-06
+jersey-media-json-jackson,2.5.1,+,2015-03-18
+jersey-media-json-jackson,2.5.1,+,2014-08-06
+jersey-media-json-jackson,2.5.1,-,2015-03-18
+jersey-media-json-jackson,2.5.1,-,2014-08-06

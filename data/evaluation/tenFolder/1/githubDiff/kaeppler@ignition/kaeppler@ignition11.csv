@@ -1,0 +1,12 @@
+library,version,sign,date
+maps,14_r1,+,2012-03-11
+maps,15_r1,-,2012-04-20
+maps,14_r1,-,2012-03-11
+maps,14_r1,-,2012-01-27
+maps,14_r1,+,2012-01-27
+maps,14_r1,-,2012-04-20
+maps,15_r1,+,2012-01-27
+bugsense-trace,1.1.2,+,2012-03-11
+bugsense-trace,1.1.2,-,2012-03-11
+bugsense-trace,1.1.2,+,2012-01-27
+bugsense-trace,1.1.2,-,2012-01-27

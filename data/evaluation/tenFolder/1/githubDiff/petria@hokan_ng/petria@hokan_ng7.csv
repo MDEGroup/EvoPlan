@@ -1,0 +1,11 @@
+library,version,sign,date
+joda-time,2.8.1,+,2015-04-30
+hokan_ng-pircbot-custom,1.5.0-custom,+,2013-11-10
+hokan_ng-pircbot-custom,1.5.0-custom,-,2013-11-10
+hokan_ng-pircbot-custom,1.5.0-custom,+,2013-11-06
+hokan_ng-pircbot-custom,1.5.0-custom,+,2013-05-30
+hokan_ng-pircbot-custom,1.5.0-custom,-,2013-11-06
+jsoup,1.8.2,+,2015-04-30
+spring-web,3.2.2.RELEASE,+,2013-11-06
+hokan_ng-arthurdo-custom,1.0.0-custom,+,2013-11-22
+hokan_ng-arthurdo-custom,1.0.0-custom,+,2014-03-07

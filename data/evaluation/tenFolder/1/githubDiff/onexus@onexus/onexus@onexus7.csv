@@ -1,0 +1,9 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2012-11-17
+commons-lang3,3.1,-,2012-07-20
+commons-lang3,3.1,-,2012-11-17
+commons-lang3,3.1,-,2012-05-16
+commons-lang3,3.1,+,2012-07-20
+commons-dbcp,1.4,+,2012-11-17
+commons-dbcp,1.4,-,2012-11-17
+commons-dbcp,1.4,+,2012-07-20

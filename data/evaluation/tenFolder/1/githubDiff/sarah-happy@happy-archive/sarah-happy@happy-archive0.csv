@@ -1,0 +1,3 @@
+library,version,sign,date
+snakeyaml,1.16,+,2016-01-26
+guice,4.0,+,2016-01-27

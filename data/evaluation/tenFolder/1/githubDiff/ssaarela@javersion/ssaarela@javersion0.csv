@@ -1,0 +1,11 @@
+library,version,sign,date
+mockito-all,1.9.5,+,2014-10-31
+junit,4.12,+,2014-10-31
+jsr305,3.0.1,+,2015-11-29
+jsr305,2.0.2,-,2015-11-29
+hamcrest-all,1.3,+,2014-10-31
+equalsverifier,1.7.6,+,2015-12-23
+assertj-guava,1.2.0,+,2014-10-31
+assertj-guava,3.0.0,-,2017-05-22
+assertj-guava,1.2.0,-,2016-03-08
+assertj-guava,1.2.0,+,2014-09-23

@@ -1,0 +1,3 @@
+library,version,sign,date
+persistence-api,$@{persistence-api-version@},-,2010-06-28
+commons-logging,$@{commons-logging-version@},-,2010-06-28

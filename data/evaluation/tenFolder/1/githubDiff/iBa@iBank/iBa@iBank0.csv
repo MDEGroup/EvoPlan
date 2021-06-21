@@ -1,0 +1,14 @@
+library,version,sign,date
+bukkit,1.6.1-R0.1-SNAPSHOT,-,2013-07-02
+bukkit,1.2.5-R4.0,-,2012-07-28
+bukkit,1.7.2-R0.2,-,2014-01-07
+bukkit,1.2.5-R5.0,-,2012-07-28
+bukkit,1.7.9-R0.1-SNAPSHOT,-,2015-01-21
+bukkit,1.6.4-R2.1-SNAPSHOT,+,2013-07-09
+bukkit,1.8-R0.1-SNAPSHOT,+,2015-01-21
+bukkit,1.6.4-R2.1-SNAPSHOT,-,2013-11-26
+bukkit,1.1-R5-SNAPSHOT,-,2012-03-02
+bukkit,1.8-R0.1-SNAPSHOT,-,2015-01-21
+bukkit,1.5.2-R1.0,-,2013-06-30
+bukkit,1.6.2-R0.1-SNAPSHOT,-,2013-07-09
+VaultAPI,1.5,+,2015-01-21

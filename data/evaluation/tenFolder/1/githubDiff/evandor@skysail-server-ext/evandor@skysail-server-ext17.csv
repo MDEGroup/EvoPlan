@@ -1,0 +1,112 @@
+library,version,sign,date
+org.apache.felix.framework,3.2.2,-,2013-06-05
+skysail.server,[0.3.2-SNAPSHOT, 1.0),-,2013-09-16
+skysail.server,[0.2.10-SNAPSHOT, 1.0),-,2013-01-21
+skysail.server,[0.2.10-SNAPSHOT, 1.0),+,2013-01-21
+skysail.server,[0.2.6, 1.0),-,2013-01-05
+skysail.server,[0.2.10-SNAPSHOT, 1.0),-,2013-01-27
+skysail.server,[0.1.6,0.2),-,2013-04-05
+skysail.server,[0.2.10, 1.0),-,2013-02-21
+skysail.server,[0.3.0, 1.0),+,2013-06-30
+skysail.server,[0.2.10, 1.0),+,2013-01-27
+skysail.server,0.2.6,-,2013-03-02
+skysail.server,[0.2.13-SNAPSHOT, 1.0),+,2013-06-03
+skysail.server,[0.3.2, 1.0),+,2013-09-16
+skysail.server,[0.2.13-SNAPSHOT, 1.0),-,2013-06-05
+skysail.server,[0.2.6-SNAPSHOT, 1.0),+,2012-12-20
+skysail.server,[0.2.7, 1.0),+,2013-01-05
+skysail.server,[0.2.6, 1.0),+,2012-12-31
+skysail.server,[0.2.13, 1.0),-,2013-06-05
+skysail.server,[0.2.10-SNAPSHOT, 1.0),+,2013-01-14
+skysail.server,[0.2.11, 1.0),+,2013-02-21
+skysail.server,[0.2.10-SNAPSHOT, 1.0),+,2013-01-16
+skysail.server,[0.2.10, 1.0),+,2013-01-31
+skysail.server,[0.2.9, 1.0),+,2013-01-11
+skysail.server,[0.2.6-SNAPSHOT, 1.0),-,2012-12-14
+skysail.server,[0.2.9-SNAPSHOT, 1.0),-,2013-01-11
+skysail.server,[0.2.13-SNAPSHOT, 1.0),+,2013-03-28
+skysail.server,[0.2.8, 1.0),-,2013-01-10
+skysail.server,[0.2.6-SNAPSHOT, 1.0),+,2012-12-14
+skysail.server,[0.3.1-SNAPSHOT, 1.0),+,2013-09-13
+skysail.server,[0.3.2-SNAPSHOT, 1.0),+,2013-09-13
+skysail.server,[0.3.2-SNAPSHOT, 1.0),+,2013-09-14
+skysail.server,[0.2.13-SNAPSHOT, 1.0),+,2013-04-05
+skysail.server,[0.3.1-SNAPSHOT, 1.0),+,2013-06-30
+skysail.server,[0.2.14-SNAPSHOT, 1.0),+,2013-06-23
+skysail.server,[0.3.3-SNAPSHOT, 1.0),+,2013-09-16
+skysail.server,[0.2.6-SNAPSHOT, 1.0),-,2013-01-14
+skysail.server,[0.2.13, 1.0),-,2013-06-23
+skysail.server,[0.2.12-SNAPSHOT, 1.0),-,2013-03-02
+skysail.server,[0.2.9, 1.0),-,2013-01-16
+skysail.server,[0.3.0, 1.0),+,2013-09-13
+skysail.server,[0.2.6-SNAPSHOT, 1.0),-,2012-12-31
+skysail.server,[0.2.6-SNAPSHOT, 1.0),-,2013-04-05
+skysail.server,[0.3.0, 1.0),+,2013-06-27
+skysail.server,[0.2.11, 1.0),-,2013-02-25
+skysail.server,0.2.6,+,2013-01-01
+skysail.server,[0.2.14-SNAPSHOT, 1.0),+,2013-09-01
+skysail.server,[0.3.1-SNAPSHOT, 1.0),-,2013-09-01
+skysail.server,[0.3.0, 1.0),-,2013-09-01
+skysail.server,[0.2.14-SNAPSHOT, 1.0),+,2013-06-05
+skysail.server,[0.3.0, 1.0),-,2013-06-30
+skysail.server,[0.3.1, 1.0),+,2013-09-13
+skysail.server,[0.2.12, 1.0),-,2013-04-05
+skysail.server,[0.3.2-SNAPSHOT, 1.0),+,2013-09-01
+skysail.server,[0.3.0, 1.0),-,2013-06-27
+skysail.server,[0.2.12-SNAPSHOT, 1.0),+,2013-02-25
+skysail.server,[0.2.13, 1.0),+,2013-06-05
+skysail.server,[0.2.13-SNAPSHOT, 1.0),-,2013-09-13
+skysail.server,[0.2.13-SNAPSHOT, 1.0),-,2013-06-27
+skysail.server,[0.2.10, 1.0),-,2013-06-03
+skysail.server,[0.2.10-SNAPSHOT, 1.0),-,2013-01-31
+skysail.server,[0.2.8, 1.0),+,2013-01-08
+skysail.server,[0.2.14-SNAPSHOT, 1.0),-,2013-09-13
+skysail.server,[0.3.1, 1.0),-,2013-09-14
+skysail.server,[0.2.14-SNAPSHOT, 1.0),-,2013-06-27
+skysail.server,[0.3.1-SNAPSHOT, 1.0),-,2013-09-13
+skysail.server,[0.2.9-SNAPSHOT, 1.0),+,2013-01-10
+skysail.server,[0.2.7, 1.0),-,2013-01-08
+skysail.server,[0.2.12, 1.0),+,2013-03-02
+skysail.common.ext.osgimonitor,[0.0.6, 1.0.0),-,2013-02-21
+skysail.common.ext.osgimonitor,[0.1.0-SNAPSHOT,0.2),+,2013-06-27
+skysail.common.ext.osgimonitor,[0.0.10-SNAPSHOT, 1.0.0),-,2013-06-27
+skysail.common.ext.osgimonitor,[0.0.1-SNAPSHOT, 1.0.0),-,2012-12-31
+skysail.common.ext.osgimonitor,[0.0.8-SNAPSHOT, 1.0.0),-,2013-03-02
+skysail.common.ext.osgimonitor,[0.0.8, 1.0.0),-,2013-06-03
+skysail.common.ext.osgimonitor,0.1.1-SNAPSHOT,+,2013-09-15
+skysail.common.ext.osgimonitor,[0.0.9, 1.0.0),-,2013-06-05
+skysail.common.ext.osgimonitor,[0.0.7, 1.0.0),-,2013-02-25
+skysail.common.ext.osgimonitor,[0.0.5, 1.0.0),-,2013-01-26
+skysail.common.ext.osgimonitor,[0.0.1, 1.0.0),-,2013-01-14
+skysail.common.ext.osgimonitor,[0.1.0-SNAPSHOT,0.2),-,2013-09-01
+skysail.common.ext.osgimonitor,[0.1.0-SNAPSHOT,0.2),-,2013-09-13
+skysail.common.ext.osgimonitor,[0.0.6-SNAPSHOT, 1.0.0),-,2013-01-26
+skysail.common.ext.osgimonitor,[0.1.0-SNAPSHOT,0.2),+,2013-09-13
+skysail.common.ext.osgimonitor,[0.0.5-SNAPSHOT, 1.0.0),-,2013-01-22
+org.ccil.cowan.tagsoup-osgi,1.2.1,+,2013-09-13
+org.ccil.cowan.tagsoup-osgi,1.2.1,+,2013-06-30
+org.ccil.cowan.tagsoup-osgi,1.2.1,-,2013-09-01
+jboss-logging,3.1.2.GA,+,2013-06-30
+jboss-logging,3.1.2.GA,+,2013-09-13
+jboss-logging,3.1.2.GA,-,2013-09-01
+com.jayway.rest-assured-osgi,1.6.2,+,2013-06-30
+com.jayway.rest-assured-osgi,1.6.2,+,2013-09-13
+com.jayway.rest-assured-osgi,1.6.2,-,2013-09-01
+mockito-all,1.9.0,-,2013-06-05
+mockito-all,1.9.0,-,2013-04-05
+groovy,1.8.4,-,2013-09-01
+groovy,1.8.4,+,2013-09-13
+groovy,1.8.4,+,2013-06-30
+groovy-all,1.8.4,-,2013-09-01
+groovy-all,1.8.4,+,2013-09-13
+groovy-all,1.8.4,+,2013-06-30
+groovy-all,2.1.2,+,2013-04-05
+hamcrest-all,1.3,+,2013-09-01
+commons-lang3,3.1,+,2013-06-30
+commons-lang3,3.1,+,2013-09-13
+commons-lang3,3.1,-,2013-09-01
+httpclient-osgi,4.1.3,+,2013-09-13
+httpclient-osgi,4.1.3,-,2013-09-01
+httpclient-osgi,4.1.3,+,2013-06-30
+httpclient-osgi,4.2.5,+,2013-06-05
+javax.inject,1,-,2013-06-05

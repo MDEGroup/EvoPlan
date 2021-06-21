@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.10,+,2012-12-03
+graph-core_2.10,1.6.1,+,2012-12-12
+graph-core_2.10,1.6.1,-,2013-04-09

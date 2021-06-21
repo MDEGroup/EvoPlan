@@ -1,0 +1,5 @@
+library,version,sign,date
+mapauEntities,1.0-SNAPSHOT,+,2013-11-28
+dcsysUtils,1.0-SNAPSHOT,+,2013-11-28
+personEntities,1.0-SNAPSHOT,+,2013-11-28
+javax.inject,1,+,2013-11-28

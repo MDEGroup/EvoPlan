@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.11,-,2015-02-11
+junit,4.11,+,2013-02-26
+junit,4.12,+,2015-02-11
+junit,4.5,-,2013-02-26
+ripple-base,0.8-SNAPSHOT,-,2012-03-03

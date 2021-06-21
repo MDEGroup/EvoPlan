@@ -1,0 +1,5 @@
+library,version,sign,date
+node-common,0.1-SNAPSHOT,+,2012-03-16
+common-node,3.0-patch1,+,2012-03-27
+jmxremote_optional,1.0_01-ea,-,2012-03-27
+jmxremote_optional,1.0_01-ea,+,2012-03-16

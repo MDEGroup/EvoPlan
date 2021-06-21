@@ -1,0 +1,4 @@
+library,version,sign,date
+commons-logging,1.0.4,+,2007-12-05
+commons-logging,1.0.4,-,2008-05-05
+commons-logging,1.0.4,-,2008-09-09

@@ -1,0 +1,9 @@
+library,version,sign,date
+inproctester-core,1.0.15-SNAPSHOT,-,2012-08-29
+inproctester-core,1.0.13,-,2012-06-21
+inproctester-core,1.0.13-SNAPSHOT,-,2012-05-16
+inproctester-core,1.0.15,-,2013-12-16
+inproctester-core,1.0.13-SNAPSHOT,+,2012-02-28
+inproctester-core,1.0.14,-,2012-08-29
+inproctester-core,1.0.14-SNAPSHOT,-,2012-06-21
+resteasy-jaxrs,2.2.2.GA,-,2012-05-05

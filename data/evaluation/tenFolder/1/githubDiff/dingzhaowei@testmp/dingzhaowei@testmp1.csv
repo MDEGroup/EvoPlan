@@ -1,0 +1,6 @@
+library,version,sign,date
+datastore-client,1.0.0,+,2013-07-07
+datastore-client,1.0.0,+,2013-10-28
+datastore-client,1.0.1,+,2013-07-25
+datastore-client,1.0.0,-,2013-07-25
+datastore-client,1.0.1,-,2013-10-28

@@ -1,0 +1,4 @@
+library,version,sign,date
+drools-informer-core,5.5.0-SNAPSHOT,-,2012-04-12
+drools-informer-core,5.4.0-SNAPSHOT,+,2011-10-03
+drools-informer-core,5.4.0-SNAPSHOT,-,2012-01-04

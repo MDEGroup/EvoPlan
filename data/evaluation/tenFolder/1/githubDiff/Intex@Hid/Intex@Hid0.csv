@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,3.8.1,-,2013-08-08
+spring-webmvc,3.2.3.RELEASE,-,2013-08-08
+spring-web,3.2.3.RELEASE,-,2013-08-08
+spring-context,3.2.3.RELEASE,-,2013-08-08

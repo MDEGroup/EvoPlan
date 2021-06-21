@@ -1,0 +1,11 @@
+library,version,sign,date
+cloud-framework-ipc,4.1.0-SNAPSHOT,-,2012-12-14
+cloud-utils,4.1.0-SNAPSHOT,+,2012-11-18
+cloud-utils,4.1.0-SNAPSHOT,-,2013-01-31
+cloud-utils,4.1.0-SNAPSHOT,+,2013-02-20
+cloud-utils,4.1.0-SNAPSHOT,-,2013-01-15
+cloud-utils,4.2.0-SNAPSHOT,-,2013-03-28
+cxf-bundle-jaxrs,2.7.0,+,2012-11-27
+cxf-bundle-jaxrs,2.7.0,+,2012-11-05
+cxf-bundle-jaxrs,2.7.0,-,2013-01-15
+cxf-bundle-jaxrs,2.7.0,+,2013-01-15

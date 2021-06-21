@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.7,-,2011-09-09
+junit,4.7,-,2011-06-20
+junit,4.9,-,2011-09-09
+json-simple,1.1,+,2011-10-05
+guava,18.0-rc1,+,2014-07-15
+amqp-client,3.0.4,+,2013-08-29
+amqp-client,3.0.4,-,2013-07-02
+amqp-client,3.0.4,+,2013-03-19
+log4j,1.2.8,-,2014-06-11

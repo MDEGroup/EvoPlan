@@ -1,0 +1,5 @@
+library,version,sign,date
+spring-orm,3.1.0.RELEASE,-,2012-03-09
+spring-tx,3.1.0.RELEASE,-,2012-03-09
+spring-aspects,3.1.0.RELEASE,-,2012-03-09
+spring-context,3.1.0.RELEASE,-,2012-03-09

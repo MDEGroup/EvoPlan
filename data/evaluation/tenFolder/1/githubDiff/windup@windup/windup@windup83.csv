@@ -1,0 +1,5 @@
+library,version,sign,date
+furnace-test-harness,2.25.4.Final,-,2017-06-07
+furnace-test-harness,2.25.4.Final,+,2017-06-06
+arquillian-furnace-classpath,2.25.4.Final,-,2017-06-07
+arquillian-furnace-classpath,2.25.4.Final,+,2017-06-06

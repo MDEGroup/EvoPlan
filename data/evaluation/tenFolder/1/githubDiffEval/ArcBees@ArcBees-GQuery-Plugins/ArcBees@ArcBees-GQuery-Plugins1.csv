@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,3.8.1,-,2013-01-21
+junit,3.8.1,+,2013-01-21
+junit,4.11,+,2013-01-21
+tooltip,0.1-alpha-13-SNAPSHOT,+,2013-01-29
+tooltip,1.0-SNAPSHOT,-,2014-01-29
+tooltip,0.0.1-SNAPSHOT,-,2013-01-21
+tooltip,0.1-alpha-14-SNAPSHOT,-,2013-03-10
+tooltip,0.1-alpha-12-SNAPSHOT,+,2013-01-21
+tooltip,0.1-alpha-14,-,2013-03-10
+tooltip,0.1-alpha-13-SNAPSHOT,-,2013-02-14
+tooltip,0.1-alpha-11,-,2013-02-11
+tooltip,1.0,-,2014-01-29
+tooltip,0.1-alpha-11-SNAPSHOT,-,2013-02-11
+tooltip,0.1-alpha-12-SNAPSHOT,-,2013-01-29
+tooltip,0.1-alpha-13,-,2013-03-06

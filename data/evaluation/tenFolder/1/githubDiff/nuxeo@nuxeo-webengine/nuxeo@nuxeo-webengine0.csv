@@ -1,0 +1,9 @@
+library,version,sign,date
+nuxeo-webengine-apt,5.2-SNAPSHOT,+,2008-10-12
+nuxeo-webengine-apt,1.0-SNAPSHOT,-,2008-11-08
+nuxeo-webengine-apt,1.2-SNAPSHOT,-,2009-02-20
+nuxeo-webengine-apt,5.2-SNAPSHOT,-,2008-10-16
+nuxeo-webengine-apt,1.0,-,2009-01-21
+nuxeo-webengine-apt,1.2,-,2009-05-15
+nuxeo-apt-extensions,1.1-SNAPSHOT,+,2008-10-11
+nuxeo-apt-extensions,1.1-SNAPSHOT,-,2008-10-12

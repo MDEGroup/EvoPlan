@@ -1,0 +1,14 @@
+library,version,sign,date
+selendroid-common,0.4.0,-,2013-06-10
+selendroid-common,0.4-SNAPSHOT,-,2013-06-03
+selendroid-common,0.4-SNAPSHOT,+,2013-04-18
+selendroid-common,0.4.1,-,2013-06-20
+selendroid-server-common,0.4.0,-,2013-06-10
+selendroid-server-common,0.4.0,-,2013-06-20
+selendroid-server-common,0.4-SNAPSHOT,-,2013-06-03
+selendroid-server-common,0.4-SNAPSHOT,+,2013-04-18
+selendroid-server-common,0.4.1,-,2013-06-20
+selenium-java,2.32.0,+,2013-04-16
+selenium-java,2.32.0,-,2013-04-16
+selenium-java,2.30.0,-,2013-03-18
+selenium-java,2.32.0,-,2013-05-08

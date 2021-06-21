@@ -1,0 +1,33 @@
+library,version,sign,date
+maven3-model,2.1.0-SNAPSHOT,-,2011-06-20
+maven3-model,2.1.0,-,2011-07-22
+maven3-model,2.1.0-BETA-1,-,2011-06-20
+maven3-model,2.1.2,-,2011-10-06
+maven3-model,2.1.0-BETA-1,-,2011-06-21
+maven3-model,2.1.0-SNAPSHOT,-,2011-06-22
+maven3-model,2.1.0-BETA-1,+,2011-06-11
+maven3-model,2.1.1-SNAPSHOT,-,2011-08-31
+maven3-model,2.1.1-SNAPSHOT,-,2011-07-22
+maven3-model,2.1.2-SNAPSHOT,-,2011-08-25
+maven3-model,2.1.1,-,2011-08-25
+maven3-model,2.1.2-SNAPSHOT,-,2011-08-31
+maven3-model,2.2.0-SNAPSHOT,-,2011-10-06
+maven3-model,2.1.0-SNAPSHOT ,-,2011-06-22
+plexus-component-annotations,1.5.5,+,2011-08-25
+plexus-component-annotations,1.5.5,+,2011-12-06
+plexus-component-annotations,1.5.5,-,2011-08-25
+plexus-component-annotations,1.5.5,-,2011-12-06
+maven3-eventspy-common,2.1.0-SNAPSHOT,-,2011-06-20
+maven3-eventspy-common,2.1.0,-,2011-07-22
+maven3-eventspy-common,2.1.0-BETA-1,-,2011-06-20
+maven3-eventspy-common,2.1.2,-,2011-10-06
+maven3-eventspy-common,2.1.0-BETA-1,-,2011-06-21
+maven3-eventspy-common,2.1.0-SNAPSHOT,-,2011-06-22
+maven3-eventspy-common,2.1.0-BETA-1,+,2011-06-11
+maven3-eventspy-common,2.1.1-SNAPSHOT,-,2011-08-31
+maven3-eventspy-common,2.1.1-SNAPSHOT,-,2011-07-22
+maven3-eventspy-common,2.1.2-SNAPSHOT,-,2011-08-25
+maven3-eventspy-common,2.1.1,-,2011-08-25
+maven3-eventspy-common,2.1.2-SNAPSHOT,-,2011-08-31
+maven3-eventspy-common,2.2.0-SNAPSHOT,-,2011-10-06
+maven3-eventspy-common,2.1.0-SNAPSHOT ,-,2011-06-22

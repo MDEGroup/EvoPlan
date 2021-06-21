@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.11,-,2015-11-03
+hazelcast,3.1.1,-,2013-11-26
+hazelcast,3.1.5,+,2013-11-26

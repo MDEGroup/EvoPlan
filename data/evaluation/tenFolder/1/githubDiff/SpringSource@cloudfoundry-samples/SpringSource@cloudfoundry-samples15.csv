@@ -1,0 +1,9 @@
+library,version,sign,date
+jstl,1.2,+,2011-04-12
+junit,4.7,+,2011-04-12
+cloudfoundry-runtime,0.6.1,+,2011-04-12
+jsp-api,2.1,+,2011-04-12
+spring-data-mongodb,1.0.0.BUILD-SNAPSHOT,-,2011-04-12
+servlet-api,2.5,+,2011-04-12
+javax.inject,1,+,2011-04-12
+log4j,1.2.15,+,2011-04-12

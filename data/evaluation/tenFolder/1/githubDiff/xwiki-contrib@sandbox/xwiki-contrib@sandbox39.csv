@@ -1,0 +1,4 @@
+library,version,sign,date
+xwiki-core,1.5.2,-,2010-08-03
+xwiki-core,2.4-SNAPSHOT,-,2010-08-03
+xwiki-core,[2.0,),-,2010-08-03

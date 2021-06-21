@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-api,1.7.2,+,2012-10-27
+logback-classic,1.0.6,-,2012-10-27
+jsr305,2.0.1,+,2012-10-20
+high-scale-lib,1.1.4,+,2012-10-21

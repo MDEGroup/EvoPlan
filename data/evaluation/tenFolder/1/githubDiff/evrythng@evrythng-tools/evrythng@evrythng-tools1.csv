@@ -1,0 +1,6 @@
+library,version,sign,date
+commons-collections,3.2.1,+,2013-04-10
+commons-collections,3.2.1,+,2015-06-11
+commons-collections,3.2.1,-,2013-04-10
+guava,19.0,+,2016-03-31
+pcollections,2.1.2,+,2016-04-19

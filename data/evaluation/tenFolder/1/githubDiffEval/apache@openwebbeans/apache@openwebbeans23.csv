@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.5,-,2014-08-05
+junit,4.8.2,-,2016-08-29
+junit,4.8.2,+,2012-09-25
+junit,4.8.2,-,2014-01-26
+junit,4.12,+,2017-04-12
+geronimo-servlet_3.0_spec,1.0,-,2014-08-05
+geronimo-servlet_3.0_spec,1.0,+,2013-01-20
+geronimo-servlet_3.0_spec,1.0,+,2012-09-25
+geronimo-servlet_3.0_spec,1.0,-,2014-01-26
+httpclient,4.2.1,-,2016-08-29
+httpclient,4.2.1,-,2014-08-05
+httpclient,4.2.1,+,2014-08-05
+httpclient,4.2.1,-,2012-09-25
+httpclient,4.5.2,+,2016-08-29
+httpclient,4.2.1,+,2012-09-25

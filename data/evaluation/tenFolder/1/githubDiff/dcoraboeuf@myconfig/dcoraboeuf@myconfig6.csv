@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.8.1,-,2012-10-15
+groovy,1.8.8,-,2012-10-15
+groovy,1.8.6,-,2012-07-04
+groovy,1.8.6,-,2012-10-15
+groovy,1.8.6,+,2012-07-04
+groovy-json,2.0.5,-,2012-10-15
+groovy-json,2.0.5,+,2012-10-15
+selenium-java,2.23.1,-,2012-07-04
+selenium-java,2.23.1,+,2012-07-04

@@ -1,0 +1,6 @@
+library,version,sign,date
+javaee-api,6.0,+,2012-11-07
+javaee-api,6.0,-,2012-11-07
+org.ancoron.postgresql.jpa,9.1.901.jdbc4.1-rc6,-,2012-11-28
+glassfish-embedded-all,3.1.2.2,-,2012-11-07
+glassfish-embedded-all,3.1.2.2,+,2012-11-07

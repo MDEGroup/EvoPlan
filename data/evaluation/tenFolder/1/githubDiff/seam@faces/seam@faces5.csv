@@ -1,0 +1,10 @@
+library,version,sign,date
+prettyfaces-jsf2,3.2.0,-,2011-10-03
+prettyfaces-jsf2,3.2.0,+,2011-03-28
+cdi-api,1.0-SP2,-,2010-11-01
+cdi-api,1.0-SP2,+,2010-10-14
+jsf-api,2.0,+,2010-10-14
+jsf-api,2.0.4-b07,+,2010-12-24
+jsf-api,2.0,-,2010-12-11
+jsf-api,2.0.2,-,2010-04-05
+jsf-api,2.0.2,+,2010-04-05

@@ -1,0 +1,9 @@
+library,version,sign,date
+spring-data-mongodb,1.1.0.RELEASE,+,2013-07-01
+spring-data-mongodb,1.1.0.RELEASE,-,2013-07-16
+spring-data-mongodb,1.1.0.RELEASE,-,2013-08-05
+spring-data-mongodb,1.2.1.RELEASE,+,2013-07-23
+spring-data-mongodb,1.2.1.RELEASE,-,2013-07-23
+servlet-api,2.5,+,2013-03-22
+servlet-api,2.5,-,2013-03-22
+camel-test,2.10.2,+,2013-04-09

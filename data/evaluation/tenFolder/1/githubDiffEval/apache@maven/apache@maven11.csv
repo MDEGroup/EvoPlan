@@ -1,0 +1,11 @@
+library,version,sign,date
+wagon-file,1.0-alpha-5,-,2010-05-30
+wagon-file,1.0-alpha-5,+,2009-06-27
+wagon-file,1.0-alpha-5,+,2010-05-30
+wagon-http,1.0-beta-2,+,2009-01-12
+wagon-http,1.0-beta-2,+,2009-04-29
+wagon-http,1.0-beta-2,-,2009-04-27
+jansi,1.16,-,2017-10-18
+jansi,1.13,+,2015-12-11
+jansi,1.17,-,2018-02-24
+jansi,1.13,-,2017-04-03

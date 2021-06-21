@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.12,-,2018-07-03
+junit,4.12,+,2018-07-03
+log4j-core,{Log4jReleaseVersion},+,2018-02-20

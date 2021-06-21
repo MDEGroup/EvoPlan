@@ -1,0 +1,13 @@
+library,version,sign,date
+synapse-core,2.1.0-wso2v2,+,2012-02-13
+derby,10.8.2.2,+,2012-02-13
+derby,10.2.2.0,-,2012-02-13
+derby,10.3.2.1,+,2012-02-13
+org.wso2.carbon.authenticator.stub,3.2.0,+,2012-07-26
+org.wso2.carbon.authenticator.stub,3.2.0,-,2012-02-13
+saxon,9.4,+,2012-02-13
+saxon,9.1.0.8,-,2012-02-13
+commons-dbcp,1.2.2,-,2012-02-13
+commons-dbcp,1.4,+,2012-02-13
+org.wso2.carbon.server.admin.stub,3.2.0,+,2012-07-26
+org.wso2.carbon.server.admin.stub,3.2.0,-,2012-02-13

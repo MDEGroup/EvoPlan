@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-dublincore,1.0-SNAPSHOT,-,2012-07-17
+commons-dublincore,1.0-SNAPSHOT,+,2012-07-17
+atta-ejb,2.0-SNAPSHOT,-,2012-07-17
+atta-ejb,2.0-SNAPSHOT,+,2012-07-17

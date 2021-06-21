@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,3.8.1,+,2011-11-12
+junit,3.8.1,-,2011-11-08
+tptp-parser,1.0,+,2011-11-12
+java-getopt,1.0.13,-,2011-11-08
+java-getopt,1.0.13,+,2011-11-12
+antlr-runtime,3.4,+,2011-11-12
+antlr-runtime,3.4,-,2011-11-08

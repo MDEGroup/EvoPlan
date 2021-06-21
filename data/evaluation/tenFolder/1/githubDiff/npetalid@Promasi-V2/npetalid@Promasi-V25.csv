@@ -1,0 +1,15 @@
+library,version,sign,date
+jide-grids,3.3.3,+,2014-05-25
+jide-grids,3.3.3,-,2014-05-25
+swingx,1.6.1,-,2014-05-25
+swingx,1.6.1,+,2014-05-25
+jide-common,3.3.3,+,2014-05-25
+jide-common,3.3.3,-,2014-05-25
+org.promasi.game,2.0.0-SNAPSHOT,-,2014-05-25
+org.promasi.game,2.0.0-SNAPSHOT,+,2014-05-25
+jfreechart,1.0.15,-,2014-05-25
+jfreechart,1.0.15,+,2014-05-25
+org.promasi.utils_swing,2.0.0-SNAPSHOT,-,2014-05-25
+org.promasi.utils_swing,2.0.0-SNAPSHOT,+,2014-05-25
+jide-gantt,3.3.3,+,2014-05-25
+jide-gantt,3.3.3,-,2014-05-25

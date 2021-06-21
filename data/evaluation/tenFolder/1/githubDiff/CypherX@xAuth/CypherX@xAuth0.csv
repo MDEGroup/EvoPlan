@@ -1,0 +1,15 @@
+library,version,sign,date
+bukkit,0.0.1-SNAPSHOT,-,2011-06-07
+bukkit,1.2.4-R1.0,-,2012-04-20
+bukkit,0.0.1-SNAPSHOT,+,2011-06-07
+bukkit,1.1-R6,+,2011-08-03
+bukkit,0.0.1-SNAPSHOT,+,2011-06-13
+bukkit,0.0.1-SNAPSHOT,+,2011-05-23
+bukkit,0.0.1-SNAPSHOT,+,2011-04-21
+bukkit,1.1-R6,-,2012-03-06
+bukkit,0.0.1-SNAPSHOT,-,2011-08-03
+bukkit,0.0.1-SNAPSHOT,-,2011-04-21
+bukkit,0.0.1-SNAPSHOT,-,2011-05-23
+bukkit,1.2.4-R1.0,+,2012-03-22
+bukkit,1.1-R7,-,2012-03-10
+bukkit,1.2.3-R0.2,-,2012-03-22

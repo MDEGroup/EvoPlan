@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,3.8.1,-,2009-03-11
+junit,3.8.1,+,2009-06-20
+mina-core,2.0.0-RC1,+,2009-06-20
+bsh,2.0b4,+,2009-06-20
+bsh,2.0b4,-,2009-03-11
+commons-vfs2,2.0-SNAPSHOT,+,2009-06-20
+vfsutils-shell,0.1.0-SNAPSHOT,+,2009-06-20
+vfsutils-shell,0.1.0-SNAPSHOT,+,2009-03-12
+vfsutils-shell,0.1.0-SNAPSHOT,-,2009-03-11
+vfsutils-shell-remote,0.1.0-SNAPSHOT,+,2009-03-11
+commons-logging,1.1.1,+,2009-06-20

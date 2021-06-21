@@ -1,0 +1,9 @@
+library,version,sign,date
+mailer,1.3,-,2014-01-09
+mailer,1.8,-,2019-01-25
+mailer,1.3,+,2013-08-02
+mailer,1.21,+,2019-01-25
+mailer,1.8,+,2014-01-09
+openid4java,0.9.8.0,+,2014-01-09
+openid4java,0.9.8.0,-,2019-01-25
+openid4java,0.9.8.0,+,2019-01-25

@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,4.10,-,2014-01-05
+junit,4.10,-,2012-09-02
+junit,4.10,+,2012-09-02
+junit,4.10,+,2014-01-05
+junit,4.11,+,2014-01-05
+junit,4.6,+,2014-01-05
+bcelx,1.0-SNAPSHOT,-,2012-09-02
+kdgcommons,1.0.8,-,2014-01-05
+kdgcommons,1.0.7,-,2012-09-02
+kdgcommons,1.0.10,+,2014-01-05
+kdgcommons,1.0.8,+,2012-09-02
+kdgcommons,1.0.6,+,2014-01-05
+kdgcommons,1.0.15,+,2014-01-05
+practicalxml,1.1.13,-,2014-01-05
+practicalxml,1.1.19,+,2014-01-05
+practicalxml,1.1.13,+,2014-01-05

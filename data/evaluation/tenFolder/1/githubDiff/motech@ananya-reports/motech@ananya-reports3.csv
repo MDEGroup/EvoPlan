@@ -1,0 +1,6 @@
+library,version,sign,date
+joda-time,2.0,-,2012-07-03
+joda-time,2.0,+,2012-06-20
+flyway-core,1.6.1,-,2012-06-20
+flyway-core,1.6.1,-,2012-07-03
+flyway-core,1.6.1,+,2012-06-28

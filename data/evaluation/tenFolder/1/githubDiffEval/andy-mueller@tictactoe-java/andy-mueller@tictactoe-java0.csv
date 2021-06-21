@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.12,+,2014-09-04
+joda-time,2.4,+,2012-12-21
+mockito-core,1.8.4,-,2014-09-04

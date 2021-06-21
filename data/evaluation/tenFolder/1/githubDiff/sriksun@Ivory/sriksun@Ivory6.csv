@@ -1,0 +1,11 @@
+library,version,sign,date
+mockito-all,1.8.5,-,2012-11-02
+mockito-all,1.8.5,+,2012-11-02
+mockito-all,1.8.5,+,2012-05-23
+jms,1.1,+,2012-11-02
+jms,1.1,-,2012-11-02
+testng,5.8,-,2012-11-02
+testng,6.1.1,-,2012-11-02
+testng,5.8,+,2012-11-02
+testng,6.1.1,+,2012-11-02
+activemq-core,5.4.3,-,2012-11-02

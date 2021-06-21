@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.11,-,2013-12-25
+junit,4.10,-,2012-11-03
+assertj-core,3.1.0,+,2015-09-01
+drools-decisiontables,5.5.0.Beta1,-,2012-11-03
+drools-decisiontables,5.5.0.Final,-,2013-04-04
+drools-decisiontables,5.5.0.Final,-,2012-12-16
+drools-decisiontables,5.5.0.Final,+,2012-12-16

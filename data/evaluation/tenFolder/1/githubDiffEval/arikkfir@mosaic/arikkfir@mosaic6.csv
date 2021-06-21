@@ -1,0 +1,11 @@
+library,version,sign,date
+hibernate-validator,[5.0.1.Final],-,2014-02-27
+validation-api,[1.1.0.Final],-,2014-02-27
+bndlib,[2.1.0,3),-,2014-02-27
+jboss-logmanager,[1.5.2.Final],-,2014-02-27
+jboss-logmanager,[1.5.2.Final],+,2014-02-13
+jboss-logging,[3.1.1.GA],-,2014-02-27
+jboss-logging,[3.1.1.GA],+,2014-02-13
+paranamer,[2.6,3),+,2014-01-04
+paranamer,[2.6,3),-,2014-02-27
+org.springframework.core,[3.2.4.RELEASE,4.0.0.RELEASE),-,2014-02-27

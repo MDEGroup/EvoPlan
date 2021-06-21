@@ -1,0 +1,4 @@
+library,version,sign,date
+xbean-spring,3.12,+,2013-05-07
+activemq-all,5.7.0,+,2013-05-07
+log4j,1.2.16,+,2013-05-07

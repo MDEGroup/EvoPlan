@@ -1,0 +1,13 @@
+library,version,sign,date
+workflow-cps,1.14,-,2017-06-27
+workflow-cps,2.34,-,2017-06-17
+workflow-cps,2.34,+,2015-11-03
+workflow-support,1.14,-,2017-06-27
+workflow-support,2.14,+,2015-11-03
+workflow-support,2.14,-,2017-06-17
+dashboard-view,2.0,+,2014-01-24
+workflow-step-api,2.6,+,2017-06-17
+workflow-step-api,2.11,+,2015-11-03
+workflow-step-api,2.11,-,2017-06-17
+workflow-basic-steps,2.0,+,2015-11-03
+workflow-job,1.14,+,2015-11-03

@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.7.0,-,2013-01-20
+javax.servlet-api,3.0.1,+,2014-08-26
+junit,4.10,-,2013-01-20
+junit,4.10,-,2014-05-12
+junit,4.10,+,2013-01-20
+logback-classic,1.0.7,-,2013-01-20
+logback-classic,1.0.7,+,2013-01-20
+jcl-over-slf4j,1.7.0,-,2013-01-20
+htmlunit,2.11,-,2013-04-22
+htmlunit,2.11,-,2013-01-20
+htmlunit,2.12,-,2014-05-12
+htmlunit,2.11,+,2013-01-20
+kryo,1.04,+,2013-02-05

@@ -1,0 +1,6 @@
+library,version,sign,date
+slf4j-log4j12,1.6.1,+,2012-03-22
+quartz,1.6.0,-,2012-03-22
+testng,5.1,-,2013-02-26
+testng,5.1,-,2012-10-24
+log-api,2.0.0,+,2013-02-26

@@ -1,0 +1,13 @@
+library,version,sign,date
+jstl,1.2,+,2013-07-04
+jstl,1.2,+,2013-07-10
+jstl,1.2,-,2013-07-01
+jstl,1.2,-,2013-07-10
+data-nosql-db,0.0.1-SNAPSHOT,-,2013-07-10
+data-nosql-db,0.0.1-SNAPSHOT,+,2013-07-10
+data-nosql-db,0.0.1-SNAPSHOT,+,2013-07-04
+jsp-api,2.1,+,2013-07-10
+tiles-extras,3.0.0,+,2013-07-10
+servlet-api,2.3,+,2013-07-04
+servlet-api,2.3,-,2013-07-10
+servlet-api,2.3,+,2013-07-10

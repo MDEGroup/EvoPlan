@@ -1,0 +1,4 @@
+library,version,sign,date
+spring-test,2.5.6.SEC0,+,2009-09-29
+spring-test,2.5.6.SEC01,-,2011-12-15
+spring-test,2.5.6.SEC0,-,2009-09-29

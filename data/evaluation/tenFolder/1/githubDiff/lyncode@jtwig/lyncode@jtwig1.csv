@@ -1,0 +1,16 @@
+library,version,sign,date
+jtwig-core,2.0.0,+,2013-12-24
+jtwig-core,2.0.0,-,2014-01-24
+spring-webmvc,3.2.5.RELEASE,-,2014-04-12
+spring-webmvc,3.2.5.RELEASE,+,2013-12-24
+commons-httpclient,3.1,+,2014-04-12
+commons-httpclient,3.1,-,2014-04-12
+commons-httpclient,3.1,+,2014-04-08
+joda-time,2.3,+,2014-08-30
+jetty-server,9.1.3.v20140225,+,2014-04-08
+jetty-server,9.1.3.v20140225,-,2014-04-12
+jetty-server,9.1.3.v20140225,+,2014-04-12
+jetty-webapp,9.1.3.v20140225,+,2014-04-08
+jetty-webapp,9.1.3.v20140225,-,2014-04-12
+jetty-webapp,9.1.3.v20140225,+,2014-04-12
+servlet-api,2.5,-,2013-12-18

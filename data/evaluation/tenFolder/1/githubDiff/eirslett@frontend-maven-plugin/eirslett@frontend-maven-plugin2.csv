@@ -1,0 +1,16 @@
+library,version,sign,date
+maven-core,3.1.0,+,2017-01-11
+maven-core,3.1.0,-,2017-01-11
+maven-core,3.1.0,+,2013-12-03
+maven-plugin-api,3.1.0,+,2013-11-30
+maven-plugin-api,3.1.0,+,2017-01-11
+maven-plugin-api,3.1.0,-,2017-09-23
+maven-plugin-api,3.1.0,-,2017-01-11
+maven-plugin-api,3.1.0,-,2013-11-30
+maven-plugin-annotations,3.2,-,2017-01-11
+maven-plugin-annotations,3.2,-,2013-11-30
+maven-plugin-annotations,3.2,+,2013-11-30
+maven-plugin-annotations,3.2,+,2017-01-11
+plexus-build-api,0.0.7,-,2017-01-11
+plexus-build-api,0.0.7,+,2014-08-16
+plexus-build-api,0.0.7,+,2017-01-11

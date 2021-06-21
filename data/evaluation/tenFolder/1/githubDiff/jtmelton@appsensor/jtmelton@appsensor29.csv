@@ -1,0 +1,5 @@
+library,version,sign,date
+gson,2.2.4,+,2016-06-03
+gson,2.6.2,+,2016-06-03
+gson,2.3.1,+,2016-06-03
+appsensor-core,2.2.0,-,2017-01-05

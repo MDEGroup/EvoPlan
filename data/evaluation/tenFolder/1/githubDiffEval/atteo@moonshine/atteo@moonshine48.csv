@@ -1,0 +1,7 @@
+library,version,sign,date
+bom,1.0-SNAPSHOT,+,2013-07-30
+bom,1.0-SNAPSHOT,-,2013-10-28
+bom,1-SNAPSHOT,-,2014-06-22
+bom,1-SNAPSHOT,+,2014-04-08
+bom,1-SNAPSHOT,-,2014-04-08
+bom,1-SNAPSHOT,-,2014-06-19

@@ -1,0 +1,11 @@
+library,version,sign,date
+cxf-rt-features-logging,3.1.10,-,2017-03-25
+cxf-rt-rs-service-description-swagger,3.1.9,-,2017-04-11
+cxf-rt-rs-service-description-swagger,3.1.9,+,2017-04-10
+jackson-jaxrs-json-provider,2.9.7,+,2019-01-02
+jackson-jaxrs-json-provider,2.9.7,-,2019-01-02
+jackson-jaxrs-json-provider,2.6.6,-,2017-09-23
+jackson-jaxrs-json-provider,2.9.7,-,2019-05-28
+cxf-core,3.1.9,-,2017-03-25
+org.apache.aries.rsa.spi,1.9.0,-,2017-04-11
+org.apache.aries.rsa.spi,1.9.0,-,2019-01-02

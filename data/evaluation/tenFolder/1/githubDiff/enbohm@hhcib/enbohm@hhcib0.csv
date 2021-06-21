@@ -1,0 +1,7 @@
+library,version,sign,date
+arquillian-glassfish-embedded-3.1,1.0.0.CR4,+,2013-08-21
+junit,4.8.2,+,2013-08-13
+mongo-java-driver,2.11.2,+,2013-08-14
+fest-assert,1.4,+,2013-08-14
+playerfinder-jsf,0.5,+,2013-08-15
+glassfish-embedded-all,3.1,+,2013-08-21

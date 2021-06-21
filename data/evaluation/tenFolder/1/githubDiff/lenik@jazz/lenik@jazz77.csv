@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-api,1.7.2,-,2014-05-22
+slf4j-api,1.7.2,+,2014-05-22
+bas-vfs,2.0.0-SNAPSHOT,-,2013-09-30
+bas-vfs,2.0.0-SNAPSHOT,+,2013-09-30

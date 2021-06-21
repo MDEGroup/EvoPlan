@@ -1,0 +1,16 @@
+library,version,sign,date
+bigqueue,0.7.0,+,2015-01-13
+commons-codec,1.5,+,2011-10-18
+aws-java-sdk,1.2.15,-,2013-06-24
+aws-java-sdk,1.2.12,-,2012-05-23
+aws-java-sdk,1.2.12,+,2011-11-18
+snappy,0.1-SNAPSHOT,-,2011-09-29
+snappy,0.1-SNAPSHOT,+,2011-09-24
+guice-assistedinject,3.0,+,2015-01-13
+guice-assistedinject,3.0,-,2013-01-03
+guice-assistedinject,3.0,+,2012-12-18
+mockito-core,1.9.5,+,2015-04-02
+mockito-core,1.8.5,+,2012-12-04
+mockito-core,1.8.5,-,2013-05-06
+javax.inject,1,-,2013-05-06
+javax.inject,1,+,2011-11-18

@@ -1,0 +1,9 @@
+library,version,sign,date
+gui-misc-audit,1.0-SNAPSHOT,+,2013-09-08
+gui-misc-namedcontent,1.0-SNAPSHOT,+,2013-10-02
+gui-misc-utils,1.0-SNAPSHOT,+,2013-09-08
+gui-misc-utils,1.0-SNAPSHOT,+,2013-08-23
+gui-misc-utils,1.0-SNAPSHOT,+,2013-10-02
+gui-misc-eventbus,1.0-SNAPSHOT,+,2013-09-08
+gui-misc-renameable,1.0-SNAPSHOT,+,2013-09-08
+gui-misc-annotations,1.0-SNAPSHOT,+,2013-09-08

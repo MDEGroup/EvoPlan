@@ -1,0 +1,8 @@
+library,version,sign,date
+hamcrest-library,1.1,+,2012-02-15
+hamcrest-library,1.1,+,2011-12-19
+junit,4.8.2,+,2011-12-19
+junit,4.8.2,+,2012-02-15
+junit,4.8.2,-,2012-03-30
+junit,4.8.2,+,2012-03-30
+mockito-core,1.8.5,+,2011-12-19

@@ -1,0 +1,5 @@
+library,version,sign,date
+postgresql,9.3-1100-jdbc41,+,2013-11-28
+postgresql,9.3-1100-jdbc41,-,2013-11-28
+javax.inject,1,-,2013-11-28
+javax.inject,1,+,2013-11-28

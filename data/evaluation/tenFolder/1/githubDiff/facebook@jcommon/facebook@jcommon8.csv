@@ -1,0 +1,5 @@
+library,version,sign,date
+annotations,2.0.1,-,2013-08-27
+annotations,2.0.1,+,2012-10-30
+testng,6.8,-,2012-10-30
+guava,13.0.1,-,2012-10-30

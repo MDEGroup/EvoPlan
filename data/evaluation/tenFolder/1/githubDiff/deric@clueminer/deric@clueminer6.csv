@@ -1,0 +1,17 @@
+library,version,sign,date
+org-openide-util-lookup,RELEASE80,+,2015-02-08
+org-openide-util-lookup,RELEASE80,+,2014-10-31
+org-openide-util-lookup,RELEASE80,+,2015-04-30
+org-openide-util-lookup,RELEASE80,-,2015-05-15
+org-netbeans-api-annotations-common,RELEASE80,+,2014-10-09
+org-netbeans-api-annotations-common,RELEASE80,-,2015-05-15
+utils,0.1-SNAPSHOT,+,2015-05-15
+utils,0.1-SNAPSHOT,-,2015-05-15
+utils,0.1-SNAPSHOT,-,2015-10-26
+utils,0.1-SNAPSHOT,+,2015-02-08
+dataset-api,0.1-SNAPSHOT,-,2015-10-26
+dataset-api,0.1.0-SNAPSHOT,-,2016-04-05
+org-openide-util,RELEASE80,+,2015-02-08
+org-openide-util,RELEASE80,+,2014-10-31
+org-openide-util,RELEASE80,+,2015-04-30
+org-openide-util,RELEASE80,-,2015-05-15

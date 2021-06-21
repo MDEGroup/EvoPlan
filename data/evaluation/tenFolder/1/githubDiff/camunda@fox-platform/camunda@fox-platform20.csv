@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.8.2,+,2012-07-05
+junit,4.8.2,+,2012-04-02
+junit,4.8.2,-,2012-07-05
+junit,4.8.2,-,2012-04-02
+junit,4.8.2,+,2012-03-20
+jboss-javaee-6.0,2.0.0.Final,-,2012-04-02
+jboss-javaee-6.0,2.0.0.Final,+,2012-04-02
+jboss-javaee-6.0,2.0.0.Final,+,2012-03-16
+arquillian-junit-container,1.0.0.CR7,+,2012-03-20
+arquillian-junit-container,1.0.0.CR7,-,2012-05-03
+arquillian-junit-container,1.0.0.CR7,-,2012-04-02
+arquillian-junit-container,1.0.0.CR7,-,2012-07-05
+arquillian-junit-container,1.0.0.CR7,+,2012-04-04

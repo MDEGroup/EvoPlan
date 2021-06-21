@@ -1,0 +1,17 @@
+library,version,sign,date
+picocontainer-script-tck,3.0-SNAPSHOT,-,2011-02-03
+picocontainer-script-tck,3.0-SNAPSHOT,+,2011-02-03
+picocontainer-script-tck,3.0-SNAPSHOT,-,2010-04-15
+picocontainer-script-tck,2.0,-,2010-02-27
+picocontainer-script-tck,3.0-SNAPSHOT,+,2010-04-15
+picocontainer-script-core,3.0-SNAPSHOT,-,2010-04-15
+picocontainer-script-core,3.0-SNAPSHOT,+,2010-04-15
+picocontainer-script-core,3.0-SNAPSHOT,-,2011-02-03
+picocontainer-script-core,3.0-SNAPSHOT,+,2011-02-03
+picocontainer-script-core,2.0.2-SNAPSHOT,-,2010-02-27
+picocontainer-script-core,2.0,-,2010-02-27
+picocontainer-script-groovy,3.0-SNAPSHOT,-,2010-04-15
+picocontainer-script-groovy,3.0-SNAPSHOT,+,2010-04-15
+picocontainer-script-groovy,3.0-SNAPSHOT,-,2011-02-03
+picocontainer-script-groovy,3.0-SNAPSHOT,+,2011-02-03
+picocontainer-script-groovy,2.0,-,2010-02-27

@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.8.2,+,2012-06-06
+junit,4.8.2,-,2012-06-06
+sola-messaging,1.1-SNAPSHOT,+,2012-06-06
+sola-messaging,1.0-SNAPSHOT,-,2012-03-21
+sola-messaging,1.1-SNAPSHOT,-,2012-07-19
+sola-messaging,1.1-SNAPSHOT,-,2012-06-06
+sola-messaging,1.0,-,2012-04-01
+sola-messaging,1.1-SNAPSHOT,-,2012-04-01
+webservices-rt,2.2,-,2013-03-05
+webservices-rt,2.2,+,2012-06-06
+webservices-rt,2.1,-,2012-06-06
+sola-common,1.1-SNAPSHOT,+,2012-06-06
+sola-common,1.1-SNAPSHOT,-,2012-07-19
+sola-common,1.1-SNAPSHOT,-,2012-06-06
+sola-common,1.1-SNAPSHOT,+,2012-04-01

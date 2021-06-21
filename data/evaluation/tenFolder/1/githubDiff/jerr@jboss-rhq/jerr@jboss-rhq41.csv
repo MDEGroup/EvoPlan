@@ -1,0 +1,7 @@
+library,version,sign,date
+commons-configuration,1.6,+,2013-10-01
+commons-configuration,1.6,-,2013-10-01
+commons-configuration,1.6,+,2013-04-15
+commons-cli,1.2,-,2013-04-24
+commons-cli,1.2,+,2013-06-11
+commons-exec,1.1,+,2013-04-04

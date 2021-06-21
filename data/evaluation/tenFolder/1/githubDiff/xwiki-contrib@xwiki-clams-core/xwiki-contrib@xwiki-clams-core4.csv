@@ -1,0 +1,12 @@
+library,version,sign,date
+org.restlet.ext.json,1.1-M3,-,2008-05-15
+org.restlet.ext.json,1.1-M3,-,2009-06-26
+org.restlet.ext.json,1.1.2,-,2009-06-22
+curriki-plugin-curriki,1.0-SNAPSHOT,-,2010-11-22
+json-lib,2.2.1,-,2009-06-26
+com.noelios.restlet.ext.servlet,1.1-M3,-,2008-05-15
+com.noelios.restlet.ext.servlet,1.1-M3,-,2009-06-26
+com.noelios.restlet.ext.servlet,1.1.2,-,2009-06-22
+org.restlet,1.1-M3,-,2008-05-15
+org.restlet,1.1-M3,-,2009-06-26
+org.restlet,1.1.2,-,2009-06-22

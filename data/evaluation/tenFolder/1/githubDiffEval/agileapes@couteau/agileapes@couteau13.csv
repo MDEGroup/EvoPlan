@@ -1,0 +1,15 @@
+library,version,sign,date
+couteau-basics,1.0,+,2013-07-23
+couteau-basics,1.0,+,2013-07-27
+couteau-basics,1.0,-,2013-07-23
+couteau-basics,1.0,-,2014-03-07
+couteau-strings,1.0,+,2013-07-23
+couteau-strings,1.0,-,2014-03-07
+couteau-context-tools,1.0,+,2013-07-27
+couteau-context-tools,1.0,-,2014-03-07
+couteau-context,1.0,+,2014-03-07
+couteau-context,1.0,+,2013-07-27
+couteau-context,1.0,-,2014-03-07
+couteau-reflection,1.0,+,2013-07-27
+couteau-reflection,1.0,-,2014-03-07
+testng,6.8,-,2014-03-07

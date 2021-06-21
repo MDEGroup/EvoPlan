@@ -1,0 +1,13 @@
+library,version,sign,date
+org.eclipse.scout.rt.dataobject,10-SNAPSHOT,-,2019-07-09
+org.eclipse.scout.rt.dataobject,8.0.0-SNAPSHOT,-,2019-05-15
+org.eclipse.scout.rt.dataobject,8.0.0-SNAPSHOT,+,2019-03-27
+org.eclipse.scout.rt.platform,9.0.0-SNAPSHOT,-,2018-09-12
+org.eclipse.scout.rt.platform,10.0.0-SNAPSHOT,-,2019-05-15
+org.eclipse.scout.rt.platform,7.0.0-SNAPSHOT,-,2017-04-18
+org.eclipse.scout.rt.platform,10-SNAPSHOT,-,2019-07-09
+org.eclipse.scout.rt.platform,8.1.0-SNAPSHOT,-,2018-09-07
+org.eclipse.scout.rt.platform,7.0.100-SNAPSHOT,-,2017-07-05
+org.eclipse.scout.rt.platform,7.1.0-SNAPSHOT,-,2017-09-28
+org.eclipse.scout.rt.platform,8.0.0-SNAPSHOT,-,2018-03-30
+jackson-databind,2.9.10.1,+,2019-07-10

@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.9,-,2011-10-02
+javax.persistence,2.0.3,-,2011-10-02
+org.eclipse.persistence.osgi,2.3.0,-,2011-10-02

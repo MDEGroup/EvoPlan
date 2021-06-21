@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,4.8.2,-,2013-03-18
+junit,4.12,-,2019-10-08
+junit,4.11,-,2019-03-22
+junit,3.8.1,+,2013-03-18
+junit,4.1,-,2011-09-19
+maven-plugin-testing-harness,2.0-alpha-1,-,2012-05-27
+maven-plugin-testing-harness,2.0,-,2013-03-18
+plexus-compiler-api,2.2,-,2019-03-22
+plexus-compiler-api,1.6,-,2012-02-06
+plexus-compiler-api,1.8.1,-,2013-05-08
+commons-exec,1.2,-,2017-02-06
+commons-exec,1.2,-,2019-10-08
+commons-exec,1.2,+,2013-10-21
+commons-exec,1.2,+,2017-02-06
+org.eclipse.sisu.plexus,0.3.3,+,2019-03-22
+org.eclipse.sisu.plexus,0.3.3,-,2019-10-08

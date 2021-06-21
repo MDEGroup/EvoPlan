@@ -1,0 +1,10 @@
+library,version,sign,date
+hibernate-jpa-2.0-api,1.0.1.Final,+,2013-10-18
+hibernate-jpa-2.0-api,1.0.1.Final,-,2013-10-18
+hibernate-jpa-2.0-api,1.0.1.Final,-,2013-09-26
+hibernate-jpa-2.0-api,1.0.1.Final,+,2013-09-26
+junit,3.8.1,-,2013-09-24
+hibernate-validator,4.2.0.Final,+,2013-09-26
+hibernate-validator,4.2.0.Final,-,2013-10-18
+hibernate-validator,4.2.0.Final,+,2013-10-18
+hibernate-validator,4.2.0.Final,-,2013-09-26

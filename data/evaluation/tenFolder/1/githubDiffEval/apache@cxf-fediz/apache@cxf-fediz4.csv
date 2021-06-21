@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.13,+,2019-12-20
+junit,4.12,-,2019-12-20
+hsqldb,2.3.6,+,2018-06-22
+hsqldb,2.4.1,-,2019-06-28
+hsqldb,2.4.1,+,2018-09-22
+hsqldb,2.3.4,-,2018-06-22
+hsqldb,2.3.6,-,2018-09-22
+hsqldb,2.5.0,+,2019-06-28
+spring-webflow,2.4.5.RELEASE,-,2018-09-22
+spring-webflow,2.4.8.RELEASE,-,2019-05-16
+spring-webflow,2.4.8.RELEASE,+,2018-09-22
+spring-webflow,2.5.1.RELEASE,+,2019-05-16
+spring-webflow,2.4.4.RELEASE,-,2017-07-11

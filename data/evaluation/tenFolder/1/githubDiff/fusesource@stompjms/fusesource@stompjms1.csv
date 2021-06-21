@@ -1,0 +1,13 @@
+library,version,sign,date
+stompjms-client,1.15,-,2013-04-19
+stompjms-client,1.16,-,2013-05-10
+stompjms-client,1.14,-,2013-04-10
+stompjms-client,1.18,-,2013-10-11
+stompjms-client,1.17,-,2013-08-02
+stompjms-client,1.15-SNAPSHOT,-,2013-04-10
+stompjms-client,1.19-SNAPSHOT,-,2013-10-11
+stompjms-client,1.14-SNAPSHOT,-,2013-02-13
+stompjms-client,1.19,-,2014-02-05
+stompjms-client,1.18-SNAPSHOT,-,2013-08-02
+stompjms-client,1.17-SNAPSHOT,-,2013-05-10
+stompjms-client,1.16-SNAPSHOT,-,2013-04-19

@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,3.8.1,-,2012-11-19
+orbisgis-core-monomap,4.0-SNAPSHOT,+,2012-11-19
+orbisgis-core-monomap,4.0-SNAPSHOT,-,2012-11-19
+mt4j-desktop,0.98,+,2012-11-19

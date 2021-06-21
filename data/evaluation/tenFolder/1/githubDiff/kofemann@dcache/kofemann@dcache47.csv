@@ -1,0 +1,16 @@
+library,version,sign,date
+postgresql,9.4.1210,-,2016-11-12
+postgresql,42.1.4,-,2018-07-02
+postgresql,9.4.1209,-,2016-09-08
+postgresql,42.2.5,-,2019-09-30
+postgresql,9.4.1212,-,2017-08-30
+postgresql,9.4.1208,-,2016-05-25
+postgresql,9.4.1207.jre7,-,2016-03-25
+guava,19.0,-,2016-11-12
+guava,20.0,-,2018-03-06
+HikariCP,2.6.0,-,2017-08-30
+HikariCP,2.4.6,-,2016-05-25
+HikariCP,2.5.1,-,2017-03-16
+HikariCP,2.4.7,-,2016-09-08
+HikariCP,2.5.0,-,2016-11-12
+HikariCP,2.4.3,-,2016-03-25

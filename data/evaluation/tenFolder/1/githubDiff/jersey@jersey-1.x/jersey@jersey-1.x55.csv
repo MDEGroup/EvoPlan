@@ -1,0 +1,7 @@
+library,version,sign,date
+grizzly-http-client,1.0,+,2011-12-09
+grizzly-http-client,1.0,-,2012-06-25
+junit,4.8.2,-,2013-01-16
+junit,3.8.2,-,2012-09-07
+junit,4.8.2,-,2013-04-08
+junit,4.8.2,+,2013-01-16

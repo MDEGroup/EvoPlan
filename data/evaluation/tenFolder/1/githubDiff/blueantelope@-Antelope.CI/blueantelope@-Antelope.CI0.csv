@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.11,+,2013-08-26
+junit,4.11,+,2013-10-10
+com.antelope.ci.bus.common,0.1.0,-,2013-10-10
+com.antelope.ci.bus.common,0.1.0,+,2013-08-26
+com.antelope.ci.bus.common,0.1.0,+,2013-08-23
+com.antelope.ci.bus.common,0.1.0,+,2013-10-10

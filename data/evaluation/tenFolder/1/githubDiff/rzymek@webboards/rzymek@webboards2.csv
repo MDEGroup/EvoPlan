@@ -1,0 +1,12 @@
+library,version,sign,date
+maven-plugin-api,3.0.5,+,2013-03-31
+maven-plugin-annotations,3.2,+,2013-03-31
+commons-io,2.4,+,2013-03-23
+commons-io,2.4,+,2013-03-24
+commons-io,2.4,+,2013-03-25
+commons-io,2.4,+,2013-03-31
+commons-io,2.4,-,2013-03-24
+commons-io,2.4,-,2013-03-23
+commons-io,2.4,-,2013-03-28
+commons-io,2.4,-,2013-03-25
+commons-io,2.4,+,2013-03-28

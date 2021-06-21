@@ -1,0 +1,8 @@
+library,version,sign,date
+jstl,1.2,+,2013-02-24
+mysql-connector-java,5.1.18,+,2013-02-24
+jsp-api,2.1,+,2013-02-24
+mybatis-spring,1.0.2,+,2013-02-24
+c3p0,0.9.1.2,+,2013-02-24
+servlet-api,2.5,+,2013-02-24
+javax.inject,1,+,2013-02-24

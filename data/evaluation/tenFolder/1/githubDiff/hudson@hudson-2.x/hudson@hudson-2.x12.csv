@@ -1,0 +1,13 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2011-08-25
+slf4j-api,1.6.1,-,2011-08-25
+hamcrest-core,1.2,-,2011-08-25
+hamcrest-core,1.2,+,2011-08-25
+hamcrest-library,1.2,-,2011-08-25
+hamcrest-library,1.2,+,2011-08-25
+guava,r09,-,2011-10-06
+guava,r09,+,2011-08-25
+guava,r09,-,2011-08-25
+guava,10.0.1,+,2011-10-06
+mockito-core,1.8.5,-,2011-10-06
+mockito-core,1.8.5,+,2011-10-06

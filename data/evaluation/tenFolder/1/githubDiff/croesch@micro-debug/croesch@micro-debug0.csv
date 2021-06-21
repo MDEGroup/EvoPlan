@@ -1,0 +1,11 @@
+library,version,sign,date
+fest-swing,1.2.1,+,2011-12-02
+fest-swing,1.2.1,+,2011-08-13
+fest-swing,1.2.1,-,2011-12-07
+fest-swing,1.2.1,+,2011-08-12
+fest-swing,1.2.1,-,2011-08-13
+junit,4.8.2,+,2011-08-13
+junit,4.8.2,+,2011-08-12
+junit,4.8.2,-,2012-07-22
+junit,4.8.2,-,2011-08-13
+crhcomponents,1.4-SNAPSHOT,+,2012-09-10

@@ -1,0 +1,7 @@
+library,version,sign,date
+basics,1.0-SNAPSHOT,-,2012-01-04
+bukkit,1.0.1-R2-SNAPSHOT,+,2011-12-14
+bukkit,1.0.1-R2-SNAPSHOT,-,2012-01-04
+bukkit,1.4.4-R0.1-SNAPSHOT,+,2012-01-04
+bukkit,1.0.0-R1-SNAPSHOT,-,2011-12-14
+h2,1.3.162,+,2011-12-14

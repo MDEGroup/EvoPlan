@@ -1,0 +1,12 @@
+library,version,sign,date
+maven-plugin-api,2.0,-,2015-01-03
+org.jbundle.app.program.project,0.8.0-SNAPSHOT,-,2012-07-19
+org.jbundle.app.program.project,1.0.10-SNAPSHOT,-,2020-01-23
+org.jbundle.app.program.project,1.0.10,-,2020-01-23
+org.jbundle.app.program.project,1.0.1-SNAPSHOT,-,2013-01-15
+org.jbundle.app.program.project,0.8.0-SNAPSHOT,+,2011-09-20
+org.jbundle.app.program.db,1.0.1-SNAPSHOT,-,2013-01-15
+org.jbundle.app.program.db,1.0.10-SNAPSHOT,-,2020-01-23
+org.jbundle.app.program.db,1.0.10,-,2020-01-23
+org.jbundle.app.program.db,0.8.0-SNAPSHOT,+,2011-09-20
+org.jbundle.app.program.db,0.8.0-SNAPSHOT,-,2012-07-19

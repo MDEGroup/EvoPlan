@@ -1,0 +1,7 @@
+library,version,sign,date
+geronimo-servlet_2.5_spec,1.2,+,2013-08-31
+geronimo-servlet_2.5_spec,1.2,-,2013-08-31
+guice,3.0,+,2013-08-31
+guice,3.0,-,2013-07-14
+guice,3.0,-,2013-08-31
+guice,3.0,+,2013-07-14

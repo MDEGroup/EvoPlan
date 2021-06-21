@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.11,-,2014-11-24
+junit,4.11,-,2014-11-21
+junit,4.11,+,2014-11-24
+com.antelope.ci.bus.engine.model,0.1.0,+,2014-11-21
+com.antelope.ci.bus.engine.model,0.1.0,+,2014-11-24
+com.antelope.ci.bus.logger,0.1.0,+,2014-11-21
+com.antelope.ci.bus.logger,0.1.0,+,2014-11-24
+com.antelope.ci.bus.logger,0.1.0,-,2014-11-24
+com.antelope.ci.bus.common,0.1.0,+,2014-11-21
+com.antelope.ci.bus.common,0.1.0,+,2014-11-24
+com.antelope.ci.bus.common,0.1.0,-,2014-11-24

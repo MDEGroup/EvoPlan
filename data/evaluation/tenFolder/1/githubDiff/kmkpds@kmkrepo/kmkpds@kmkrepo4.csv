@@ -1,0 +1,7 @@
+library,version,sign,date
+jaxb2-maven-plugin,1.5,+,2013-05-05
+geronimo-jms_1.1_spec,1.1.1,+,2013-04-07
+activemq-core,5.7.0,-,2013-05-05
+activemq-core,5.2.0,-,2013-04-07
+activemq-core,5.7.0,+,2013-03-23
+activemq-core,5.7.0,+,2013-05-05

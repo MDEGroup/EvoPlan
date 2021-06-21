@@ -1,0 +1,17 @@
+library,version,sign,date
+OkiOSID,2.0,-,2007-06-12
+OkiOSID,2.0,-,2007-07-11
+OkiOSID,2.0,-,2007-07-12
+OkiOSID,2.0,+,2007-07-24
+OkiOSID,2.0,-,2007-03-16
+commons-logging,1.0.4,-,2007-07-12
+commons-logging,1.0.4,-,2007-03-16
+commons-logging,1.0.4,-,2010-09-22
+commons-logging,1.0.4,+,2007-03-16
+commons-logging,1.0.4,-,2011-12-15
+cql-java,0.7,+,2007-07-12
+cql-java,0.7,-,2007-07-12
+cql-java,0.7,+,2007-04-18
+servlet-api,2.4,+,2007-03-16
+servlet-api,2.4,-,2007-05-15
+servlet-api,2.4,-,2007-03-16

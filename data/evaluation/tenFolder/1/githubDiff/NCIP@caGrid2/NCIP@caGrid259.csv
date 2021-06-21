@@ -1,0 +1,13 @@
+library,version,sign,date
+jaxb2-basics-runtime,0.5.2,+,2013-09-10
+jaxb2-basics-runtime,0.5.2,-,2013-12-17
+commons-cli,1.2,+,2013-09-06
+commons-cli,1.2,+,2013-06-13
+commons-cli,1.2,-,2013-09-06
+commons-cli,1.2,+,2013-05-28
+commons-cli,1.2,+,2013-12-17
+commons-io,1.4,-,2013-09-06
+commons-io,1.4,+,2013-09-06
+bcprov-jdk14,1.38,+,2013-09-06
+bcprov-jdk14,1.38,+,2013-05-23
+bcprov-jdk14,1.38,-,2013-09-06

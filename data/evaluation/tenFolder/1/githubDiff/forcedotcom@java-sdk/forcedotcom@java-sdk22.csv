@@ -1,0 +1,7 @@
+library,version,sign,date
+htmlunit,2.8,+,2011-07-07
+htmlunit,2.8,+,2011-06-28
+htmlunit,2.8,-,2011-07-07
+htmlunit,2.8,-,2011-06-28
+htmlunit,2.8,+,2011-07-11
+htmlunit,2.8,-,2011-07-11

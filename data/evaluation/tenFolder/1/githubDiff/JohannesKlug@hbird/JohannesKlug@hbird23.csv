@@ -1,0 +1,14 @@
+library,version,sign,date
+jaxb-api,2.2.7,+,2014-12-12
+camel-core,2.8.1,-,2012-03-05
+camel-core,2.9.0,-,2013-03-21
+camel-core,2.8.1,+,2011-10-10
+commons-lang3,3.1,-,2013-07-01
+commons-lang3,3.1,+,2012-09-22
+commons-lang3,3.1,+,2013-07-01
+guava,10.0-rc3,-,2011-12-19
+guava,r09,-,2011-10-07
+guava,10.0-rc3,+,2011-10-09
+guava,10.0-rc3,+,2011-10-07
+guava,11.0,+,2011-12-19
+guava,10.0-rc3,-,2011-10-09

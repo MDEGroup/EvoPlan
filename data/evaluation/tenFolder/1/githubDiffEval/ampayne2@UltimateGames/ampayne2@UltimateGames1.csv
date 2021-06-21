@@ -1,0 +1,8 @@
+library,version,sign,date
+bukkit,1.7.9-R0.1-SNAPSHOT,-,2014-07-25
+bukkit,1.7.2-R0.1-SNAPSHOT,+,2014-01-28
+bukkit,1.7.2-R0.1-SNAPSHOT,-,2014-01-28
+bukkit,1.7.2-R0.1-SNAPSHOT,-,2014-01-29
+ampeffects,1.1,+,2014-04-26
+gson,2.2.4,+,2014-01-28
+gson,2.2.4,-,2014-01-28

@@ -1,0 +1,13 @@
+library,version,sign,date
+wagon-file,1.0-alpha-5,+,2009-04-29
+maven-core,2.0-SNAPSHOT,+,2009-04-29
+junit,3.8.1,+,2009-04-29
+junit,4.4,-,2009-04-29
+junit,3.8.1,-,2009-04-29
+junit,3.8.2,-,2009-04-29
+plexus-container-default,1.0-alpha-9,-,2009-04-29
+plexus-container-default,1.0-alpha-8,+,2009-04-29
+commons-collections,3.1,-,2009-04-29
+commons-collections,2.0,-,2009-04-29
+plexus-utils,1.5.1,-,2009-04-29
+plexus-utils,1.0.4,+,2009-04-29

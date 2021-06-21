@@ -1,0 +1,12 @@
+library,version,sign,date
+governance-platform-userapi,1.0-SNAPSHOT,+,2013-08-28
+governance-platform-userapi,1.0-SNAPSHOT,-,2013-09-04
+governance-platform-userapi,1.0-SNAPSHOT,+,2013-09-04
+governance-platform-userapi,1.0-SNAPSHOT,-,2013-08-27
+governance-platform-userapi,1.0-SNAPSHOT,+,2013-08-27
+dsb-notification-service,1.0.0,+,2013-08-28
+jersey-client,1.8,+,2013-05-01
+jersey-client,2.0,+,2013-05-08
+jersey-client,1.8,-,2013-05-06
+jersey-client,2.0-rc1,-,2013-05-08
+jersey-client,2.0,-,2013-07-15

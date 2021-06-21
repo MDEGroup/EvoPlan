@@ -1,0 +1,10 @@
+library,version,sign,date
+clusterbench-common,3.0.1.Final-SNAPSHOT,-,2019-06-05
+clusterbench-common,3.0.0.Final,-,2019-06-05
+clusterbench-common,3.0.0.Alpha1-SNAPSHOT,-,2019-04-10
+infinispan-core,5.1.8.Final,-,2019-06-05
+infinispan-core,9.2.5.Final,-,2018-06-26
+clusterbench-ee8-ejb,3.0.1.Final-SNAPSHOT,-,2019-06-05
+clusterbench-ee8-ejb,3.0.0.Final,-,2019-06-05
+clusterbench-ee8-ejb,3.0.0.Alpha1-SNAPSHOT,-,2019-04-10
+javaee-web-api,6.0,-,2019-06-05

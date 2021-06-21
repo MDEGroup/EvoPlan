@@ -1,0 +1,10 @@
+library,version,sign,date
+bas-flow,0.0.1-SNAPSHOT,-,2011-01-11
+bas-flow,0.10.1-SNAPSHOT,+,2011-01-25
+bas-flow,0.0.1-SNAPSHOT,+,2011-01-11
+bas-flow,0.0.1-SNAPSHOT,+,2011-01-12
+bas-flow,2.0.0-SNAPSHOT,-,2012-04-20
+bas-flow,0.10.1-SNAPSHOT,-,2011-06-03
+bas-flow,0.0.1-SNAPSHOT,-,2011-01-25
+bas-flow,0.0.1-SNAPSHOT,-,2011-01-12
+netty,3.2.10.Final,+,2013-03-06

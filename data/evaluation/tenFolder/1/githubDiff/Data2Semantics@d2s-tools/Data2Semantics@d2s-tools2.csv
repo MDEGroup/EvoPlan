@@ -1,0 +1,17 @@
+library,version,sign,date
+sesame-runtime,2.7.5,+,2013-08-20
+sesame-runtime,2.6.6,-,2013-02-18
+sesame-runtime,2.7.1,+,2013-02-18
+sesame-runtime,2.7.1,-,2013-08-20
+sesame-runtime,2.7.1,-,2013-06-11
+junit,4.11,+,2013-06-11
+junit,4.10,+,2012-06-08
+junit,3.8.1,+,2013-06-01
+junit,3.8.1,-,2013-10-08
+junit,4.11,+,2013-09-30
+junit,3.8.1,+,2013-08-20
+junit,4.11,-,2013-09-30
+jcl-over-slf4j,1.7.5,+,2013-02-18
+jung-visualization,2.0.1,+,2012-06-08
+commons-math3,3.0,+,2012-06-15
+commons-math3,3.0,-,2013-06-01

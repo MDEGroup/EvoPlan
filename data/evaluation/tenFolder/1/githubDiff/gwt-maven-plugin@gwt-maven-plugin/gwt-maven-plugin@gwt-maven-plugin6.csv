@@ -1,0 +1,12 @@
+library,version,sign,date
+gwt-user,@gwt.version@,-,2010-11-29
+gwt-user,@gwt.version@,+,2013-12-07
+gwt-user,@gwt.version@,-,2010-11-25
+gwt-user,@gwt.version@,-,2010-11-02
+gwt-user,@gwt.version@,+,2012-06-28
+gwt-user,@gwt.version@,+,2010-11-10
+gwt-user,@gwt.version@,+,2010-11-25
+gwt-user,@gwt.version@,+,2010-11-24
+gwt-user,@gwt.version@,+,2010-11-02
+gwt-user,@gwt.version@,+,2011-06-08
+gwt-user,@gwt.version@,+,2010-11-23

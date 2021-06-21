@@ -1,0 +1,4 @@
+library,version,sign,date
+riak-client,1.0.5,-,2012-06-21
+riak-client,1.0.5,-,2012-06-16
+riak-client,1.0.5,+,2012-06-16

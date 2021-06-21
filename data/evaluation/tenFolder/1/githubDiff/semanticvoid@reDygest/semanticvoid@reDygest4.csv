@@ -1,0 +1,12 @@
+library,version,sign,date
+jung2,2.0.1,+,2012-06-11
+jung2,2.0.1,-,2012-06-11
+junit,3.8.1,+,2012-06-11
+jung-3d,2.0.1,+,2012-06-11
+jung-io,2.0.1,+,2012-06-11
+jung-visualization,2.0.1,+,2012-06-11
+jung-algorithms,2.0.1,+,2012-06-11
+jung-algorithms,2.0.1,-,2012-06-11
+jung-api,2.0.1,+,2012-06-11
+jung-graph-impl,2.0.1,+,2012-06-11
+jung-graph-impl,2.0.1,-,2012-06-11

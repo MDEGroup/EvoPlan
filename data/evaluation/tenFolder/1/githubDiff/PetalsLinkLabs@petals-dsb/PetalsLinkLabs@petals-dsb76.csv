@@ -1,0 +1,10 @@
+library,version,sign,date
+cxf-bundle-minimal,2.2.2,-,2011-06-07
+cxf-bundle-minimal,2.2.2,-,2011-08-12
+cxf-bundle-minimal,2.2.2,-,2011-06-10
+junit,3.8.1,+,2011-08-12
+junit,3.8.1,-,2012-05-03
+junit,3.8.1,-,2011-08-12
+junit,3.8.1,+,2012-05-03
+junit,3.8.1,+,2011-06-07
+junit,3.8.1,+,2011-06-10

@@ -1,0 +1,5 @@
+library,version,sign,date
+org.daum.corelibrary.javase.ormH,2.0.0-SNAPSHOT,+,2013-02-08
+org.daum.common.gps.android.root,1.0,-,2012-11-20
+org.daum.common.gps.android.root,1.0,+,2012-05-31
+org.daum.common.gps.android.root,1.0,+,2012-07-03

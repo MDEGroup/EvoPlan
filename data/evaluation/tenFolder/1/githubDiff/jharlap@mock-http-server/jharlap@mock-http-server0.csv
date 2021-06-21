@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.8.2,-,2011-10-25
+junit,4.8.2,-,2011-10-24
+junit,4.8.2,+,2011-10-24
+simple,4.1.21,+,2011-10-24
+simple,4.1.21,-,2011-10-24
+commons-io,2.0.1,+,2011-10-24
+commons-io,2.0.1,-,2011-10-24
+commons-io,2.0.1,-,2011-10-25
+httpclient,4.1.2,-,2011-10-24
+httpclient,4.1.2,+,2011-10-24

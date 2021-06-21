@@ -1,0 +1,12 @@
+library,version,sign,date
+logback-classic,1.2.2,-,2018-09-12
+org.eclipse.scout.rt.platform.test,10-SNAPSHOT,-,2019-07-09
+org.eclipse.scout.rt.platform.test,9.0.0-SNAPSHOT,-,2018-12-19
+org.eclipse.scout.rt.platform.test,8.1.0-SNAPSHOT,-,2018-09-07
+org.eclipse.scout.rt.platform.test,8.0.0-SNAPSHOT,-,2018-06-25
+org.eclipse.scout.rt.platform.test,10.0.0-SNAPSHOT,-,2019-03-27
+org.eclipse.scout.rt.mail,10-SNAPSHOT,-,2019-07-09
+org.eclipse.scout.rt.mail,9.0.0-SNAPSHOT,-,2018-12-19
+org.eclipse.scout.rt.mail,8.1.0-SNAPSHOT,-,2018-09-07
+org.eclipse.scout.rt.mail,8.0.0-SNAPSHOT,-,2018-06-25
+org.eclipse.scout.rt.mail,10.0.0-SNAPSHOT,-,2019-03-27

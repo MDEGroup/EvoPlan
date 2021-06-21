@@ -1,0 +1,6 @@
+library,version,sign,date
+jersey-server,1.5,-,2013-11-22
+jersey-server,1.5,-,2012-02-29
+jersey-server,1.5,+,2012-03-08
+jersey-server,1.11,-,2013-11-22
+jersey-server,1.11,+,2012-03-08

@@ -1,0 +1,9 @@
+library,version,sign,date
+spring,2.0.6,+,2009-06-30
+spring,2.0.6,-,2009-06-30
+commons-logging,1.0.4,+,2009-06-30
+commons-logging,1.0.4,-,2009-06-30
+sakai-kernel-api,1.0.11,+,2009-06-30
+sakai-kernel-api,1.0.11-SNAPSHOT,-,2009-06-30
+sakai-kernel-api,1.0.11,-,2009-06-30
+sakai-kernel-api,1.0RC2-SNAPSHOT,+,2009-06-30

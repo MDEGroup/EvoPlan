@@ -1,0 +1,11 @@
+library,version,sign,date
+rapla,${project.parent.version},+,2017-04-27
+rapla,${global.version},-,2015-11-17
+rapla,2.0-SNAPSHOT,-,2015-11-17
+rapla,2.0-SNAPSHOT,-,2017-04-27
+rapla,${project.parent.version},-,2017-04-28
+rapla,${global.version},+,2015-11-17
+rapla,${pom.version},+,2015-11-17
+rapla,${pom.version},-,2015-11-17
+rapla,2.0-SNAPSHOT,+,2017-04-28
+rapla,2.0-SNAPSHOT,+,2015-11-17

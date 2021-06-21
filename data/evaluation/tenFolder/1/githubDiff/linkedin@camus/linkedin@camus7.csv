@@ -1,0 +1,14 @@
+library,version,sign,date
+easymock,3.3.1,-,2015-03-03
+easymock,3.3,+,2013-12-09
+easymock,3.3.1,+,2015-03-03
+easymock,3.3.1,+,2013-12-09
+hadoop-mapreduce-client-common,2.3.0,+,2015-03-03
+hadoop-mapreduce-client-common,2.3.0,+,2013-12-09
+hadoop-mapreduce-client-common,2.3.0,-,2015-03-03
+hadoop-common,2.3.0,+,2015-03-03
+hadoop-common,2.3.0,+,2013-12-09
+hadoop-common,2.3.0,-,2015-03-03
+hadoop-mapreduce-client-core,2.3.0,+,2015-03-03
+hadoop-mapreduce-client-core,2.3.0,+,2013-12-09
+hadoop-mapreduce-client-core,2.3.0,-,2015-03-03

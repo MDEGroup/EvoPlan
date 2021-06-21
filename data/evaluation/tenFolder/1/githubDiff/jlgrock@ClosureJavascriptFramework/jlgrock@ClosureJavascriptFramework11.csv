@@ -1,0 +1,11 @@
+library,version,sign,date
+maven-plugin-api,3.0.2,-,2014-03-27
+maven-plugin-api,3.2.3,+,2014-03-27
+maven-plugin-api,2.0,+,2012-05-22
+maven-plugin-api,2.0,+,2012-04-11
+maven-plugin-api,3.0.2,-,2012-05-22
+maven-plugin-api,2.0,-,2014-03-27
+maven-plugin-api,3.0.2,+,2012-05-22
+maven-plugin-api,2.0,-,2012-05-22
+log4j,1.2.16,-,2012-05-22
+log4j,1.2.16,+,2012-05-22

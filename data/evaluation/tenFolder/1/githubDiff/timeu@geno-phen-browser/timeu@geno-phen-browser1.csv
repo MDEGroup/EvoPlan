@@ -1,0 +1,9 @@
+library,version,sign,date
+gwt-user,2.7.0-patched,-,2016-01-14
+gwt-user,2.7.0-patched,+,2013-03-08
+guava,13.0.1,+,2012-11-12
+guava,18.0,+,2013-03-08
+guava,14.0,-,2013-03-08
+guava,14.0,+,2013-02-27
+guava,13.0.1,-,2012-11-12
+guava,13.0.1,-,2013-02-27

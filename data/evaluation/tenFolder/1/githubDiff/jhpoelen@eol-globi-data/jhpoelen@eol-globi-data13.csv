@@ -1,0 +1,10 @@
+library,version,sign,date
+rome,1.0,+,2015-03-25
+univocity-parsers,2.3.0,+,2017-01-13
+jena-tdb,1.0.2,+,2015-01-08
+jena-tdb,1.0.2,-,2015-01-08
+jackcess,1.2.10,-,2017-01-20
+jsoup,1.13.1,+,2020-02-11
+dwca-io,2.2,-,2018-09-28
+dwca-io,2.2,+,2018-01-30
+dwca-io,2.3,-,2019-10-16

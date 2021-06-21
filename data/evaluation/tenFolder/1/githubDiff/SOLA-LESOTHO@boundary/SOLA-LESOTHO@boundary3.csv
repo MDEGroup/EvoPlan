@@ -1,0 +1,6 @@
+library,version,sign,date
+sola-services-common,1.0,-,2012-04-01
+sola-services-common,1.1-SNAPSHOT,-,2012-04-01
+sola-services-common,1.0-SNAPSHOT,-,2012-01-09
+junit,4.8.2,-,2012-07-09
+junit,4.8.2,+,2012-07-09

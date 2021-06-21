@@ -1,0 +1,4 @@
+library,version,sign,date
+log4j-to-slf4j,2.0-beta4,-,2014-02-27
+log4j-to-slf4j,2.0-rc1,-,2015-04-14
+log4j-to-slf4j,2.0-beta4,+,2013-02-28

@@ -1,0 +1,6 @@
+library,version,sign,date
+async-http-client,1.7.14,+,2013-04-21
+hibernate-annotations,3.5.6-Final,+,2013-05-30
+hibernate-annotations,3.5.6-Final,-,2013-05-20
+org.apache.oltu.oauth2.authzserver,0.31-SNAPSHOT,+,2013-04-30
+h2,1.3.172,+,2013-06-05

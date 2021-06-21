@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.8.2,-,2011-07-06
+junit,4.8.2,+,2011-07-06
+jmock-junit4,2.5.1,+,2011-07-06
+jmock-junit4,2.5.1,-,2011-07-06
+jmock-legacy,2.5.1,+,2011-07-06
+jmock-legacy,2.5.1,-,2011-07-06
+jmock,2.5.1,+,2011-07-06
+jmock,2.5.1,-,2011-07-06

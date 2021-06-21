@@ -1,0 +1,17 @@
+library,version,sign,date
+bukkit,0.0.1-SNAPSHOT,-,2011-04-05
+bukkit,1.1-R4,-,2012-02-29
+bukkit,1.1-R6,-,2012-03-01
+bukkit,0.0.1-SNAPSHOT,-,2011-10-12
+bukkit,0.0.1-SNAPSHOT,+,2011-04-05
+bukkit,1.2.3-R0.1,-,2012-05-01
+bukkit,[1.0.0-R1-SNAPSHOT,),-,2012-02-18
+worldedit,5.0,+,2011-10-12
+worldedit,5.0,-,2012-01-05
+worldedit,5.2,-,2012-04-27
+worldedit,5.1,-,2012-02-24
+worldedit,[5.0,),-,2012-01-21
+worldguard,5.5.1,-,2012-04-27
+worldguard,[5.4,),+,2012-01-05
+worldguard,5.4,-,2012-02-24
+worldguard,[5.4,),-,2012-01-21

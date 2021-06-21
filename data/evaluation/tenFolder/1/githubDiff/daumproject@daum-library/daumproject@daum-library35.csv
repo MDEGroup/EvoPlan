@@ -1,0 +1,4 @@
+library,version,sign,date
+org.kevoree.extra.marshalling,1.1,+,2013-02-14
+org.kevoree.library.javase.webserver.api,2.0.0-SNAPSHOT,-,2013-07-23
+org.daum.extra.jdbm3.javase.root,1.0,-,2013-02-14

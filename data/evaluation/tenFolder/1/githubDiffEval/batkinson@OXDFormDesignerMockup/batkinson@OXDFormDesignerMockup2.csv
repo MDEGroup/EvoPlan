@@ -1,0 +1,7 @@
+library,version,sign,date
+model-utils,1.0-SNAPSHOT,-,2011-07-27
+junit,3.8.1,-,2011-07-27
+junit,3.8.1,+,2011-07-27
+slf4j-log4j12,1.6.1,-,2011-07-27
+epihandy-xforms-server,0.9.1,-,2011-07-27
+epihandy-xforms-server,0.9.3,-,2011-07-27

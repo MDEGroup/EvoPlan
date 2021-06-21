@@ -1,0 +1,6 @@
+library,version,sign,date
+org.eclipse.scout.rt.platform,10.0.0-SNAPSHOT,-,2019-06-27
+org.eclipse.scout.rt.platform,10-SNAPSHOT,-,2019-07-09
+jackson-databind,2.9.10.1,+,2019-09-03
+jsoup,1.12.1,+,2019-07-10
+jsoup,1.12.1,-,2019-07-10

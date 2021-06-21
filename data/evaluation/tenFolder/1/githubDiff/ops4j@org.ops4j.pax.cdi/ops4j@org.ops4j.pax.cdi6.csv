@@ -1,0 +1,11 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,-,2014-11-30
+javax.servlet-api,3.1.0,+,2013-02-23
+org.eclipse.osgi,3.7.0.v20110613,-,2015-05-19
+javax.interceptor-api,1.2,-,2015-05-19
+javax.interceptor-api,1.2,+,2013-02-23
+javax.interceptor-api,1.2,+,2015-05-19
+javax.el-api,3.0.0,+,2013-02-23
+org.osgi.compendium,4.3.1,-,2015-05-19
+xbean-bundleutils,3.11.1,-,2013-01-05
+cdi-api,1.2,+,2013-02-23

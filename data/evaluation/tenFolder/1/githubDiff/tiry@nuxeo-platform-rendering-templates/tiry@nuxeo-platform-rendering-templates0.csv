@@ -1,0 +1,12 @@
+library,version,sign,date
+nuxeo-platform-rendition-publisher,5.6-SNAPSHOT,+,2012-03-06
+nuxeo-platform-rendition-api,5.6-SNAPSHOT,+,2012-03-06
+nuxeo-platform-rendition-api,5.6-SNAPSHOT,-,2012-03-06
+nuxeo-platform-rendition-api,5.6-SNAPSHOT,+,2012-03-03
+jodreports,2.4.0,-,2012-03-06
+jodreports,2.4.0,-,2012-03-22
+jodreports,2.4.0,+,2012-03-06
+nuxeo-platform-rendition-web,5.6-SNAPSHOT,+,2012-03-12
+nuxeo-platform-rendition-core,5.6-SNAPSHOT,+,2012-03-06
+nuxeo-platform-rendition-core,5.6-SNAPSHOT,-,2012-03-06
+nuxeo-platform-rendition-core,5.6-SNAPSHOT,+,2012-03-03

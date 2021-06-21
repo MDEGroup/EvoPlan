@@ -1,0 +1,5 @@
+library,version,sign,date
+XmlSchema,1.4.7,+,2012-11-26
+spring-web,3.2.0.RELEASE,+,2012-11-26
+spring-oxm,1.5.9,-,2012-11-26
+spring-oxm,1.5.9,+,2012-11-26

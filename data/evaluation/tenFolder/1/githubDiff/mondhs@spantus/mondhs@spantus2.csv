@@ -1,0 +1,15 @@
+library,version,sign,date
+spnt-core,0.0.1-SNAPSHOT,+,2010-02-12
+spnt-core,0.0.1-SNAPSHOT,-,2010-02-12
+spnt-core,0.1,-,2010-02-12
+spnt-core,0.2,+,2010-02-12
+spnt-core,0.2,-,2010-10-28
+spnt-core,0.3-SNAPSHOT,+,2012-03-15
+spnt-core,0.1,+,2010-01-14
+spnt-core,0.1,+,2010-02-12
+spnt-core,0.3-SNAPSHOT,-,2011-08-23
+spnt-core,0.2-SNAPSHOT,-,2010-02-12
+spnt-core,0.3-SNAPSHOT,-,2012-03-15
+spnt-core,0.3-SNAPSHOT,+,2011-08-23
+spnt-core,0.0.1-SNAPSHOT,+,2009-02-12
+spnt-core,0.0.1-SNAPSHOT,-,2010-01-14

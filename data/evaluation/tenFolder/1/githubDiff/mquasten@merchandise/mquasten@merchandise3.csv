@@ -1,0 +1,12 @@
+library,version,sign,date
+postgresql,8.3-603.jdbc4,-,2013-05-17
+postgresql,8.3-603.jdbc4,+,2013-05-17
+postgresql,8.3-603.jdbc4,+,2013-02-20
+hsqldb,LATEST,-,2013-05-17
+hsqldb,2.2.9,-,2013-03-20
+hsqldb,2.2.9,-,2013-05-17
+hsqldb,2.2.9,+,2013-03-20
+hsqldb,2.2.9,+,2013-02-20
+bonecp,0.7.1.RELEASE,+,2013-05-17
+bonecp,0.7.1.RELEASE,-,2013-05-17
+bonecp,0.7.1.RELEASE,+,2013-02-20

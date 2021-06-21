@@ -1,0 +1,5 @@
+library,version,sign,date
+mail,1.4,+,2014-02-08
+mail,1.4,-,2014-02-08
+mail,1.4,-,2014-10-13
+commons-io,1.3.2,+,2012-06-19

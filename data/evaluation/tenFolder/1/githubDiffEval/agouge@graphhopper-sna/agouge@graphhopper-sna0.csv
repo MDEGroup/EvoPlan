@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.10,-,2013-02-25
+junit,4.10,+,2013-02-25
+junit,3.8.1,-,2012-12-10
+slf4j-simple,1.7.5,+,2013-11-13
+jgrapht-core,0.8.3-SNAPSHOT,+,2013-05-21
+jgrapht-core,0.9.0,+,2013-11-14
+jgrapht-core,0.8.3-SNAPSHOT,-,2013-10-25

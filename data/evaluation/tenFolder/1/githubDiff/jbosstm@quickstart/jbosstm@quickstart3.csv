@@ -1,0 +1,4 @@
+library,version,sign,date
+wildfly-logging,5.0.0.Beta5,+,2018-09-20
+wildfly-logging,5.0.0.Beta5,+,2018-07-05
+artemis-journal,1.5.5.jbossorg-008,+,2018-07-05

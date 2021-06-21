@@ -1,0 +1,8 @@
+library,version,sign,date
+runtime-restlet,0.0.1-SNAPSHOT,-,2014-02-08
+runtime-restlet,0.0.1-SNAPSHOT,+,2013-06-14
+runtime-test,0.0.1-SNAPSHOT,-,2013-01-04
+runtime-test,0.0.1-SNAPSHOT,-,2013-06-14
+runtime-test,0.0.1-SNAPSHOT,-,2014-02-08
+runtime-test,0.0.1-SNAPSHOT,+,2013-06-14
+runtime-test,0.0.1-SNAPSHOT,+,2013-01-04

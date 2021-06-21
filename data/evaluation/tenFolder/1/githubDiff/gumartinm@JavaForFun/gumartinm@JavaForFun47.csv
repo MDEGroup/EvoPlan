@@ -1,0 +1,5 @@
+library,version,sign,date
+spring-jdbc,2.5.6,-,2011-11-09
+c3p0,0.9.1.2,-,2011-11-09
+c3p0,0.9.1.2,+,2011-11-09
+spring-context,2.5.6,-,2011-11-09

@@ -1,0 +1,9 @@
+library,version,sign,date
+joda-time,2.10.3,-,2019-10-11
+joda-time,2.10.3,+,2019-10-11
+jackson-databind,2.9.10,-,2019-10-11
+jackson-databind,2.9.10,+,2019-10-11
+jackson-databind,2.9.10.3,-,2020-03-05
+jackson-databind,2.9.10.1,-,2019-11-21
+plexus-build-api,0.0.7,-,2019-10-11
+plexus-build-api,0.0.7,+,2019-10-11

@@ -1,0 +1,12 @@
+library,version,sign,date
+bukkit,1.0.0-R1-SNAPSHOT,-,2011-12-07
+bukkit,1.0.0-R1-SNAPSHOT,+,2011-12-07
+bukkit,1.2.5-R5.0,-,2012-08-06
+bukkit,1.0.0-R1-SNAPSHOT,-,2011-12-22
+bukkit,1.0.1-R2-SNAPSHOT,-,2012-02-22
+jscience,4.3.1,-,2011-12-07
+jscience,4.3.1,-,2011-12-06
+jscience,4.3.1,+,2011-12-07
+jscience,4.3.1,+,2011-12-06
+testng,6.1.1,+,2011-12-20
+flexjson,2.1,+,2012-02-11

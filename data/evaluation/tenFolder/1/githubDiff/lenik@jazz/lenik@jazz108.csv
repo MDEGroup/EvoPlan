@@ -1,0 +1,6 @@
+library,version,sign,date
+swt-program,1.2.0-SNAPSHOT,+,2012-08-04
+swt-program,1.2.0-SNAPSHOT,-,2012-08-04
+swt-program,1.2.0-SNAPSHOT,-,2012-08-24
+swt-viz,1.2.0-SNAPSHOT,+,2012-08-04
+swt-viz,1.2.0-SNAPSHOT,-,2012-08-24

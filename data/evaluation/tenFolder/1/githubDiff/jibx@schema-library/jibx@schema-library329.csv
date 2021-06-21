@@ -1,0 +1,4 @@
+library,version,sign,date
+org.osgi.core,4.2.0,-,2011-11-13
+org.jibx.schema.org.opentravel._2011A.ping,1.0.1,-,2011-11-13
+org.jibx.schema.org.opentravel._2011A.ping,1.2.4,-,2012-11-26

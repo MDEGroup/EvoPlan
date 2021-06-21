@@ -1,0 +1,7 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,-,2012-10-08
+javax.servlet-api,3.0.1,+,2012-10-08
+mysql-connector-java,5.1.18,-,2012-10-08
+tiles-jsp,2.2.2,+,2012-10-08
+tiles-jsp,2.2.2,-,2012-10-08
+log4j,1.2.14,+,2012-10-08

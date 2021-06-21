@@ -1,0 +1,4 @@
+library,version,sign,date
+jcl-over-slf4j,1.7.7,+,2015-03-19
+commons-logging,1.2,+,2015-03-19
+commons-logging,1.2,-,2015-06-26

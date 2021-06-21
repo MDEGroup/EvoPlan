@@ -1,0 +1,4 @@
+library,version,sign,date
+drools-mas-util,1.0.Final,+,2012-01-06
+drools-mas-core,1.0.Final,+,2012-01-06
+drools-mas-acl,1.0.Final,+,2012-01-06

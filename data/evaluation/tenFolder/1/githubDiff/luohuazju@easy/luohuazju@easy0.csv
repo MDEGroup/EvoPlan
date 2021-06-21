@@ -1,0 +1,11 @@
+library,version,sign,date
+slf4j-api,1.6.4,+,2012-05-04
+junit,3.8.1,+,2012-05-04
+commons-codec,1.6,+,2012-05-04
+slf4j-log4j12,1.6.4,+,2012-05-04
+logback-classic,1.0.2,+,2012-05-04
+sardine,314,+,2012-05-04
+commons-logging,1.1.1,+,2012-05-04
+httpclient,4.2-beta1,+,2012-05-04
+jackrabbit-jcr2dav,2.4.1,+,2012-05-04
+log4j,1.2.16,+,2012-05-04

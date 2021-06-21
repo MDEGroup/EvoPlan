@@ -1,0 +1,13 @@
+library,version,sign,date
+easymock,3.0,-,2010-11-07
+easymock,3.0,-,2011-03-10
+easymock,3.0,+,2011-02-12
+easymock,3.0,+,2010-11-07
+easymock,3.0,-,2010-11-09
+junit,4.8.2,-,2010-11-09
+junit,4.8.2,+,2010-11-07
+junit,4.8.2,+,2011-02-12
+junit,4.8.2,-,2010-11-07
+junit,4.8.2,-,2011-03-10
+commons-beanutils,1.8.3,+,2010-11-09
+commons-beanutils,1.8.3,+,2012-06-12

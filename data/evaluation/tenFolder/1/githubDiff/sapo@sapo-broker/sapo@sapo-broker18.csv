@@ -1,0 +1,14 @@
+library,version,sign,date
+mockito-all,1.9.5,-,2014-08-06
+mockito-all,1.9.5,+,2014-05-28
+mockito-all,1.9.5,+,2014-08-06
+junit,4.11,+,2014-08-06
+junit,4.11,-,2014-08-06
+junit,4.11,+,2014-05-28
+netty-all,4.0.18.Final,-,2014-05-28
+netty-all,4.0.21.Final,-,2014-08-06
+netty-all,4.0.21.Final,+,2014-08-06
+netty-all,4.0.19.Final,-,2014-06-09
+netty-all,4.0.18.Final,-,2014-08-06
+dexmaker-mockito,1.1,+,2014-05-28
+android-junit4,0.3,+,2014-05-28

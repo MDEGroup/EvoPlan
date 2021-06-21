@@ -1,0 +1,7 @@
+library,version,sign,date
+persistence-api,1.0,-,2011-06-18
+persistence-api,1.0.2,-,2016-08-25
+persistence-api,1.0.2,+,2016-08-25
+persistence-api,1.0.2,+,2012-03-05
+persistence-api,1.0,-,2012-03-05
+persistence-api,1.0,+,2011-06-18

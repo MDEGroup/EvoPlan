@@ -1,0 +1,8 @@
+library,version,sign,date
+org.apache.bval.bundle,0.3-incubating,-,2018-06-08
+org.apache.bval.bundle,0.5,-,2016-09-20
+org.apache.bval.bundle,0.2-incubating,-,2011-11-22
+org.apache.bval.bundle,0.3-incubating,-,2016-02-14
+org.apache.bval.bundle,0.3-incubating,+,2011-11-22
+org.apache.bval.bundle,0.1-incubating,-,2010-08-06
+openjpa-all,2.0.1,+,2010-11-30

@@ -1,0 +1,13 @@
+library,version,sign,date
+plexus-compiler-api,1.6-SNAPSHOT,-,2006-03-23
+plexus-compiler-api,1.6-SNAPSHOT,+,2005-07-31
+plexus-compiler-api,1.6-SNAPSHOT,+,2007-01-14
+plexus-compiler-api,1.6-SNAPSHOT,-,2006-03-28
+plexus-compiler-api,1.5.1,-,2005-10-15
+plexus-compiler-api,1.5.3,-,2007-01-14
+plexus-compiler-api,1.5.1,+,2005-10-11
+plexus-compiler-api,1.6-SNAPSHOT,-,2005-10-11
+plexus-compiler-api,1.5,-,2005-09-16
+plexus-compiler-api,1.6-SNAPSHOT,-,2008-12-05
+plexus-compiler-api,1.5-SNAPSHOT,-,2005-07-31
+plexus-compiler-api,1.5.2,-,2006-03-28

@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.12,-,2018-05-29
+junit,4.12,+,2016-03-15
+logback-classic,1.0.3,-,2018-06-11
+handlebars,0.1.0,-,2012-06-29
+handlebars,0.1.0,+,2012-06-26
+pegdown,1.2.1,-,2018-06-11
+pegdown,1.1.0,-,2013-03-31

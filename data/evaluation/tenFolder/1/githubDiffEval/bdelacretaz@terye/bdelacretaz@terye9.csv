@@ -1,0 +1,4 @@
+library,version,sign,date
+httpmime,4.2.1,+,2012-10-12
+logback-classic,1.0.7,+,2012-10-16
+httpclient,4.2.1,+,2012-10-12

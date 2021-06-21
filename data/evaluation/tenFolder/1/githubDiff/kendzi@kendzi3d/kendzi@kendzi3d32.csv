@@ -1,0 +1,13 @@
+library,version,sign,date
+jaxb-impl,2.3.0.1,-,2018-07-07
+jaxb-impl,2.3.0.1,+,2018-07-11
+jaxb-impl,2.3.0.1,+,2018-05-23
+jaxb-api,2.3.0,-,2018-07-07
+jaxb-api,2.3.0,+,2018-05-23
+jaxb-api,2.3.0,+,2018-07-11
+activation,1.1.1,+,2018-05-23
+activation,1.1.1,-,2018-07-07
+activation,1.1.1,+,2018-07-11
+jaxb-core,2.3.0.1,-,2018-07-07
+jaxb-core,2.3.0.1,+,2018-07-11
+jaxb-core,2.3.0.1,+,2018-05-23

@@ -1,0 +1,4 @@
+library,version,sign,date
+async-http-client,1.8.0-SNAPSHOT,+,2012-04-11
+async-http-client,1.8.0,-,2012-06-11
+async-http-client,1.8.0-SNAPSHOT,-,2012-06-01

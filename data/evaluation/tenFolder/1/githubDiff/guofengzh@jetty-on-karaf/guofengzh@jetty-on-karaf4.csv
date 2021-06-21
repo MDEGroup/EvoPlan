@@ -1,0 +1,7 @@
+library,version,sign,date
+bcprov-ext-jdk15on,1.47,-,2012-12-05
+bcprov-ext-jdk15on,1.47,+,2012-11-29
+bcpg-jdk15on,1.47,-,2012-12-05
+bcpg-jdk15on,1.47,+,2012-11-29
+npn-boot,1.1.1.v20121030,+,2012-11-14
+npn-boot,1.1.1.v20121030,-,2012-12-05

@@ -1,0 +1,7 @@
+library,version,sign,date
+keystone-client,2.0.0-SNAPSHOT,+,2012-11-26
+keystone-client,2.0.0-SNAPSHOT,+,2012-11-19
+keystone-client,2.0.0-SNAPSHOT,-,2012-11-26
+nova-client,2.0.0-SNAPSHOT,+,2012-11-26
+nova-client,2.0.0-SNAPSHOT,+,2012-11-19
+nova-client,2.0.0-SNAPSHOT,-,2012-11-26

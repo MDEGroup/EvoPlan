@@ -1,0 +1,4 @@
+library,version,sign,date
+aspectjrt,1.6.8,-,2012-02-06
+gson,1.6,+,2012-02-02
+gson,1.6,-,2012-02-02

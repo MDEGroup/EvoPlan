@@ -1,0 +1,4 @@
+library,version,sign,date
+geronimo-jms_1.1_spec,1.1.1,+,2012-02-13
+geronimo-jms_1.1_spec,1.1.1,-,2012-02-13
+synapse-core,2.1.0-wso2v2,+,2012-02-13

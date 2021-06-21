@@ -1,0 +1,9 @@
+library,version,sign,date
+spigot-api,1.9-R0.1-SNAPSHOT,+,2016-03-02
+spigot-api,1.9-R0.1-SNAPSHOT,-,2018-09-29
+logblock,dev-SNAPSHOT,+,2013-07-25
+VanishNoPacket,3.18.10,-,2015-02-21
+VanishNoPacket,3.18.1,-,2013-09-26
+VanishNoPacket,3.18.1,+,2013-07-25
+api,5.0,+,2020-02-11
+NerdBoard,1.0.0,+,2016-05-23

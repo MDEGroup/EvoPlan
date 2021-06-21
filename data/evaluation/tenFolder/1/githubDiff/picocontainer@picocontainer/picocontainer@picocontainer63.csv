@@ -1,0 +1,15 @@
+library,version,sign,date
+jmock-junit4,2.4.0,+,2011-02-03
+jmock-junit4,2.4.0,+,2010-04-15
+jmock-junit4,2.4.0,-,2010-04-15
+jmock-junit4,2.5.1,+,2010-04-15
+jmock-junit4,2.5.1,+,2011-02-03
+jmock-junit4,2.5.1,-,2010-04-15
+jmock-junit4,2.5.1,-,2011-02-03
+jmock-junit4,2.4.0,-,2011-02-03
+picocontainer-script-core,3.0-SNAPSHOT,-,2010-04-15
+picocontainer-script-core,3.0-SNAPSHOT,+,2010-04-15
+picocontainer-script-core,3.0-SNAPSHOT,-,2011-02-03
+picocontainer-script-core,3.0-SNAPSHOT,+,2011-02-03
+picocontainer-script-core,2.0.2-SNAPSHOT,-,2010-02-27
+picocontainer-script-core,2.0,-,2010-02-27

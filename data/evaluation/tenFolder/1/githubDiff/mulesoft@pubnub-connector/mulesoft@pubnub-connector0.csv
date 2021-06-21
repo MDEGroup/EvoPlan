@@ -1,0 +1,9 @@
+library,version,sign,date
+spring-test,3.0.5.RELEASE,+,2011-03-22
+guice-all,2.0,+,2011-03-22
+groovy-all,1.8.0-beta-3,-,2011-05-26
+groovy-all,1.8.0-beta-3,+,2011-05-26
+groovy-all,1.8.0-beta-3,+,2011-03-22
+jersey-client,1.3,-,2011-05-26
+jersey-client,1.3,+,2011-05-26
+commons-lang,2.3,+,2011-05-26

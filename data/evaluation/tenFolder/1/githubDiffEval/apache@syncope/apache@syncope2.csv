@@ -1,0 +1,4 @@
+library,version,sign,date
+commons-io,2.6,+,2017-09-01
+commons-io,2.6,-,2018-12-18
+commons-io,2.5,-,2017-09-01

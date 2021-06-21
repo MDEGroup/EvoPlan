@@ -1,0 +1,15 @@
+library,version,sign,date
+commons-configuration,1.9,-,2013-09-01
+commons-pool,1.6,-,2013-09-01
+derbyclient,10.9.1.0,-,2013-04-21
+freemarker,2.3.19,-,2013-09-01
+mondrian,TRUNK-SNAPSHOT,-,2013-06-30
+mondrian,3.5.7,-,2013-09-01
+mondrian,3.5.4,-,2013-04-21
+mondrian,3.5.7,+,2013-04-21
+fop,1.0,-,2013-09-01
+jflex,1.4.3,-,2013-09-01
+poi,3.8,-,2013-09-01
+poi,3.9,-,2013-09-01
+olap4j,1.1.0,-,2013-09-01
+poi-ooxml,3.9,-,2013-09-01

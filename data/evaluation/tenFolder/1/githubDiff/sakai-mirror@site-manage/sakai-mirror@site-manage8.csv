@@ -1,0 +1,8 @@
+library,version,sign,date
+sakai-siteassociation-api,2.8-SNAPSHOT,-,2010-02-21
+sakai-siteassociation-api,2.7.0-SNAPSHOT,-,2009-11-09
+sakai-siteassociation-api,2.9-SNAPSHOT,-,2011-03-28
+commons-lang,2.1,-,2011-03-28
+commons-lang,2.1,-,2010-02-21
+commons-lang,2.6,-,2011-12-15
+commons-lang,2.6,+,2011-03-28

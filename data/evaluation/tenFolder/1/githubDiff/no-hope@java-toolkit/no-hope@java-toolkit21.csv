@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-logging,0.1.4-SNAPSHOT,+,2013-08-19
+slf4j-logging,0.1.4-SNAPSHOT,-,2013-10-16
+netty,3.9.0.Final,+,2015-05-01
+netty,3.7.0.Final,+,2013-08-19

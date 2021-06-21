@@ -1,0 +1,4 @@
+library,version,sign,date
+ttorrent-tracker,1.2,+,2018-02-19
+ttorrent-test-api,1.0,+,2018-02-21
+ttorrent-client,1.2,+,2018-02-19

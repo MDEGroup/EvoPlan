@@ -1,0 +1,5 @@
+library,version,sign,date
+jt-mosaic,1.0-SNAPSHOT,-,2013-10-21
+jt-stats,1.0-SNAPSHOT,-,2013-10-21
+jt-utilities,1.0-SNAPSHOT,+,2013-10-15
+jt-utilities,1.0-SNAPSHOT,-,2013-10-21

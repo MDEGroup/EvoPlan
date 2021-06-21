@@ -1,0 +1,4 @@
+library,version,sign,date
+logback-classic,1.0.1,+,2013-05-17
+logback-classic,1.0.1,-,2013-05-17
+logback-classic,0.9.29,+,2013-05-11

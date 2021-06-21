@@ -1,0 +1,9 @@
+library,version,sign,date
+main,0.0.1-SNAPSHOT,+,2012-06-18
+model,0.0.1,+,2012-06-18
+model,0.0.1,-,2012-06-18
+api,0.0.1,+,2012-06-18
+api,0.0.1,-,2012-06-18
+swing-view,0.0.1-SNAPSHOT,-,2012-06-18
+swing-view,0.0.1,+,2012-06-18
+swing-view,0.0.1,-,2012-06-18

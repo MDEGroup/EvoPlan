@@ -1,0 +1,12 @@
+library,version,sign,date
+operadriver,0.16.1,+,2012-07-10
+testng,6.5.2,+,2012-07-10
+testng,6.2,-,2012-07-10
+selenium-server-standalone,2.35.0,-,2013-12-25
+selenium-server-standalone,2.30.0,+,2013-02-06
+selenium-server-standalone,2.29.0,-,2013-02-06
+selenium-server-standalone,2.26.0,+,2012-07-10
+selenium-server-standalone,2.30.0,-,2013-02-28
+selenium-server-standalone,2.26.0,-,2013-02-01
+commons-lang,2.0,+,2012-07-10
+selenium-htmlunit-driver,2.29.1,+,2013-02-22

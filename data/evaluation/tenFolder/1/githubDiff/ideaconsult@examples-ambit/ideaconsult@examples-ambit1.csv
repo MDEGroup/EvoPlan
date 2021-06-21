@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.8.1,-,2015-09-10
+junit,4.8.1,+,2015-09-10
+junit,4.8.1,+,2013-10-25
+junit,4.11,+,2015-09-10
+junit,4.11,-,2015-09-10
+commons-cli,1.1,+,2013-10-25
+commons-cli,1.1,+,2015-09-10
+commons-cli,1.1,-,2015-09-10

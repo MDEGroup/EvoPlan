@@ -1,0 +1,4 @@
+library,version,sign,date
+maven-core,3.0.3,+,2011-10-02
+org.kevoree.extra.ecore.gencode,1.0.1-SNAPSHOT,-,2012-02-17
+org.kevoree.extra.ecore.gencode,1.0,-,2011-10-18

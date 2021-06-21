@@ -1,0 +1,8 @@
+library,version,sign,date
+slf4j-api,1.6.4,+,2012-06-28
+slf4j-api,1.6.4,+,2011-11-04
+junit,4.8.1,+,2011-03-31
+slf4j-log4j12,1.6.4,+,2012-06-28
+slf4j-log4j12,1.6.4,+,2011-11-04
+protobuf-java,2.4.1,+,2012-05-31
+protobuf-java,2.3.0,-,2012-05-31

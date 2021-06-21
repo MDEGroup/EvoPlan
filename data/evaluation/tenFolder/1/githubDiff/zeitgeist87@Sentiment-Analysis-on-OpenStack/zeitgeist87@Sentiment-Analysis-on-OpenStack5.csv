@@ -1,0 +1,13 @@
+library,version,sign,date
+jstl,1.2,+,2012-12-05
+tiles-extras,2.2.2,+,2012-12-05
+commons-logging,1.1.1,-,2013-01-07
+commons-logging,1.1.1,+,2013-01-07
+commons-logging,1.1.1,+,2013-01-06
+json-simple,1.1.1,+,2012-12-12
+guava,14.0-rc1,+,2013-01-07
+guava,14.0-rc1,-,2013-01-13
+guava,13.0.1,-,2013-01-07
+guava,13.0.1,-,2013-01-13
+guava,13.0.1,+,2013-01-07
+guava,13.0.1,+,2013-01-06

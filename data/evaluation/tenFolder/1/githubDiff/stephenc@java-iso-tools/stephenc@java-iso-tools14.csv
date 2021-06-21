@@ -1,0 +1,7 @@
+library,version,sign,date
+hadoop-client,2.6.0,+,2015-09-30
+loop-fs-api,2.0.1,-,2015-09-30
+loop-fs-api,2.0.1-SNAPSHOT,-,2013-01-29
+loop-fs-api,1.2.3-SNAPSHOT,-,2010-10-05
+loop-fs-api,2.0.0-SNAPSHOT,-,2010-10-06
+loop-fs-api,2.0.0,-,2013-01-29

@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.11,-,2015-10-28
+junit,4.11,+,2015-10-28
+maven-plugin-api,3.0.4,+,2015-10-28
+maven-plugin-api,3.0.4,-,2015-10-28
+jsonschema2pojo-core,0.5.1,+,2017-04-26
+guava,18.0,-,2017-04-26
+guava,18.0,-,2015-10-28
+guava,18.0,+,2015-10-28
+guava,16.0.1,-,2015-05-22

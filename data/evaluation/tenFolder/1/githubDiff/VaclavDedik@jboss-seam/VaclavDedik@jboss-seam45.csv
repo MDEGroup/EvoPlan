@@ -1,0 +1,5 @@
+library,version,sign,date
+selenium-server,2.21.0,+,2011-10-08
+selenium-server,1.0.1,-,2011-10-08
+testng,5.10,-,2012-05-26
+selenium-java,2.21.0,+,2011-10-08

@@ -1,0 +1,10 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2012-06-26
+slf4j-api,1.6.1,-,2012-06-26
+slf4j-log4j12,1.6.1,+,2012-06-26
+slf4j-log4j12,1.6.1,-,2012-06-26
+commons-compress,1.3,-,2012-06-26
+commons-compress,1.3,+,2012-01-19
+commons-compress,1.3,-,2012-11-09
+commons-compress,1.5,-,2014-02-10
+commons-compress,1.3,+,2012-06-26

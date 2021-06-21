@@ -1,0 +1,10 @@
+library,version,sign,date
+spring-social-twitter,1.0.0.RELEASE,+,2012-06-04
+spring-social-twitter,1.0.2.RELEASE,+,2012-06-17
+spring-social-twitter,1.0.0.RELEASE,-,2012-06-17
+safa-commons,0.0.1-SNAPSHOT,+,2012-06-04
+spring-social-facebook,1.0.1.RELEASE,+,2012-06-17
+spring-social-facebook,1.0.0.RELEASE,+,2012-06-04
+spring-social-facebook,1.0.0.RELEASE,-,2012-06-17
+spring-social-facebook,1.1.0.BUILD-SNAPSHOT,-,2012-06-04
+spring-social-security,1.0.2-SNAPSHOT,+,2012-06-17

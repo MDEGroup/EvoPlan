@@ -1,0 +1,14 @@
+library,version,sign,date
+spring-beans,3.1.1.RELEASE,-,2014-03-05
+spring-asm,3.1.1.RELEASE,-,2014-03-05
+spring-core,3.1.1.RELEASE,-,2014-03-05
+spring-jdbc,3.1.1.RELEASE,-,2014-03-05
+spring-aspects,3.1.1.RELEASE,-,2014-03-05
+jaxb-api,2.2.6,+,2014-03-05
+jaxb-api,2.2.6,-,2014-03-05
+spring-expression,3.1.1.RELEASE,-,2014-03-05
+jaxb-xjc,2.2.5-5,-,2014-03-05
+jaxb-xjc,2.2.5-5,+,2014-03-05
+spring-web,3.1.1.RELEASE,-,2014-03-05
+spring-context-support,3.1.1.RELEASE,-,2014-03-05
+spring-context,3.1.1.RELEASE,-,2014-03-05

@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.4,-,2014-08-02
+slf4j-log4j12,1.6.3,-,2014-08-01
+slf4j-log4j12,1.6.3,-,2014-08-02
+slf4j-log4j12,1.6.3,+,2014-08-01
+spring-security-config,3.1.2.RELEASE,-,2014-08-02
+spring-security-saml2-core,1.0.5.RELEASE,-,2019-03-06
+spring-security-saml2-core,1.0.0.RC3-SNAPSHOT,-,2014-08-01
+spring-security-saml2-core,1.0.0.RELEASE-SNAPSHOT,-,2014-08-02

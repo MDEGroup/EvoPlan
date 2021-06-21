@@ -1,0 +1,7 @@
+library,version,sign,date
+jackson-databind,2.2.2,+,2013-12-04
+jackson-databind,2.2.2,-,2015-03-09
+jackson-databind,2.2.2,+,2014-09-02
+geronimo-servlet_3.0_spec,1.0,+,2013-12-04
+geronimo-servlet_3.0_spec,1.0,-,2013-12-04
+geronimo-servlet_3.0_spec,1.0,+,2014-09-02

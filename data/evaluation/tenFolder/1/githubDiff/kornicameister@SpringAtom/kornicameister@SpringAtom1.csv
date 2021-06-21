@@ -1,0 +1,5 @@
+library,version,sign,date
+sa-core,1.0-SNAPSHOT,+,2014-11-30
+sa-web-api,1.0-SNAPSHOT,+,2014-12-05
+sa-data-oid,1.0-SNAPSHOT,+,2014-11-30
+sa-data-jpa,1.0-SNAPSHOT,+,2014-11-30

@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.10,+,2012-12-23
+junit,3.8.1,+,2012-12-18
+junit,3.8.1,-,2012-12-18
+junit,3.8.1,-,2012-12-03
+junit,3.8.1,-,2012-12-21
+Profiler,1.0-SNAPSHOT,-,2012-12-21
+Profiler,1.0-SNAPSHOT,+,2012-12-10
+Profiler,1.0-SNAPSHOT,-,2012-12-04
+Profiler,1.0-SNAPSHOT,-,2012-12-19
+gson,2.2.2,+,2012-12-04

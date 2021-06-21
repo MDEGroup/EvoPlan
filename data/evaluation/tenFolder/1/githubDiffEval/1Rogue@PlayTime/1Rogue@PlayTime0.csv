@@ -1,0 +1,8 @@
+library,version,sign,date
+codelanxlib,0.1.0-SNAPSHOT,+,2014-08-03
+bukkit,1.5.2-R1.0,-,2013-07-20
+bukkit,LATEST,+,2014-08-03
+bukkit,1.6.2-R0.1,-,2013-08-27
+bukkit,LATEST,-,2014-08-03
+bukkit,1.6.2-R0.1-SNAPSHOT,-,2013-08-01
+bukkit,1.6.4-R0.1-SNAPSHOT,-,2014-07-29

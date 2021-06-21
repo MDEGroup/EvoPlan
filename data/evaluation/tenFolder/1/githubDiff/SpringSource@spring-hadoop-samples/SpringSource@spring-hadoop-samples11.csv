@@ -1,0 +1,6 @@
+library,version,sign,date
+groovy,1.8.6,+,2014-06-04
+groovy,1.8.5,+,2013-08-23
+groovy,1.8.5,-,2014-06-04
+groovy,1.8.5,+,2014-05-28
+spring-data-hadoop,2.0.0.RELEASE,+,2014-06-04

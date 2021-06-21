@@ -1,0 +1,4 @@
+library,version,sign,date
+craft-atom-util,1.1.1,-,2013-01-15
+craft-atom-util,1.1.1,+,2013-01-15
+craft-atom-util,1.1.2-SNAPSHOT,-,2013-01-15

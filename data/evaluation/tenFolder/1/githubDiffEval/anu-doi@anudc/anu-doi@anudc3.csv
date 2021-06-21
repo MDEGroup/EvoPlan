@@ -1,0 +1,5 @@
+library,version,sign,date
+postgresql,9.1-901-1.jdbc4,+,2012-11-01
+DcShared,0.0.1-SNAPSHOT,+,2012-10-17
+hibernate-entitymanager,4.1.4.Final,+,2012-11-01
+tomcat-api,7.0.27,+,2012-11-01

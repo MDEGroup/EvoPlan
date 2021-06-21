@@ -1,0 +1,6 @@
+library,version,sign,date
+jbehave-web-io,3.3-beta-2,+,2011-03-07
+jbehave-web-io,3.3-beta-2,-,2011-03-07
+guice,3.0,-,2017-03-29
+guice,4.1.0,+,2017-03-29
+guice,3.0,+,2011-03-20

@@ -1,0 +1,11 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2012-03-27
+armyeditor-entrys,1.0,+,2012-01-06
+junit,4.7,-,2012-03-27
+junit,4.9,+,2012-03-27
+junit,3.8.1,-,2012-03-27
+junit,4.7,+,2012-01-06
+junit,4.5,+,2012-01-06
+hibernate-core,3.6.0.CR2,-,2012-03-27
+gwt-servlet,2.4.0,+,2012-01-06
+javassist,3.8.1.GA,+,2012-03-27

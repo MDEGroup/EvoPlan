@@ -1,0 +1,9 @@
+library,version,sign,date
+spring-test,3.0.6.RELEASE,-,2012-05-07
+spring-test,3.0.5.RELEASE,-,2012-03-09
+derbyclient,10.8.2.2,+,2012-10-09
+postgresql,9.1-901.jdbc4,-,2013-02-19
+entando-core-engine,2.4.0.1,-,2012-03-09
+entando-core-webapp,2.4.0.1,-,2012-03-09
+derby,10.8.2.2,-,2013-02-19
+derby,10.8.2.2,+,2012-10-09

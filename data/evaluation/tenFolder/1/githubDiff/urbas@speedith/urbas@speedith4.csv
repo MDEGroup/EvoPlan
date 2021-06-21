@@ -1,0 +1,7 @@
+library,version,sign,date
+tess4j,3.2.0,+,2014-10-05
+tess4j,1.3.0,-,2014-10-05
+junit,4.11,-,2014-10-05
+junit,4.11,+,2014-10-05
+inkmllibj,0.0.2-SNAPSHOT,+,2014-10-05
+recognizer,0.0.2-SNAPSHOT,+,2014-10-05

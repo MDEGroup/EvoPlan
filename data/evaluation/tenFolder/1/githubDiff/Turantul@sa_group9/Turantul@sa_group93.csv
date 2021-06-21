@@ -1,0 +1,14 @@
+library,version,sign,date
+jstl,1.2,+,2012-11-16
+mongo-java-driver,2.9.1,+,2012-11-16
+jsf-impl,2.1.7,+,2012-11-16
+spring-data-mongodb,1.0.3.RELEASE,+,2013-01-08
+spring-data-mongodb,1.0.3.RELEASE,+,2013-01-15
+commons-logging,1.1.1,+,2012-11-15
+commons-logging,1.1.1,-,2013-01-15
+commons-logging,1.1.1,+,2013-01-15
+jsf-api,2.1.7,+,2012-11-16
+log4j,1.2.14,+,2012-11-15
+log4j,1.2.14,-,2013-01-15
+log4j,1.2.14,+,2013-01-15
+servlet-api,2.5,+,2013-01-18

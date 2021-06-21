@@ -1,0 +1,7 @@
+library,version,sign,date
+conference-conference-api,1.1-SNAPSHOT,-,2013-10-19
+conference-conference-api,1.1-SNAPSHOT,+,2013-10-19
+conference-speaker-api,1.1-SNAPSHOT,-,2013-10-19
+conference-speaker-api,1.1-SNAPSHOT,+,2013-10-19
+conference-room-api,1.1-SNAPSHOT,-,2013-10-19
+conference-room-api,1.1-SNAPSHOT,+,2013-10-19

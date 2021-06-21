@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.6.6,+,2012-10-14
+spring-test,3.1.2.RELEASE,-,2012-10-14
+spring-test,3.1.2.RELEASE,+,2012-08-10
+spring-test,3.1.2.RELEASE,+,2012-08-12
+spring-test,3.1.2.RELEASE,-,2012-08-12
+junit,4.10,-,2012-10-14
+junit,4.10,+,2012-10-14
+hibernate-annotations,3.5.6-Final,+,2012-09-24
+mysql-connector-java,5.1.21,+,2012-10-14
+commons-dbcp,1.4,+,2012-10-14
+javassist,3.12.1.GA,+,2012-10-14
+log4j,1.2.17,+,2012-10-14
+log4j,1.2.17,-,2012-10-14

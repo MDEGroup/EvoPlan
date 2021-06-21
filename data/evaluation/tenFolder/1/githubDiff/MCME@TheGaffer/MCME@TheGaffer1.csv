@@ -1,0 +1,5 @@
+library,version,sign,date
+spigot-api,1.13.2-R0.1-SNAPSHOT,-,2020-02-07
+spigot-api,1.13.2-R0.1-SNAPSHOT,+,2018-07-15
+venturechat,2.14.2,+,2018-07-15
+lombok,1.16.12,-,2019-10-21

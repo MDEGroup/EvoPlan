@@ -1,0 +1,12 @@
+library,version,sign,date
+openmrs-test,1.10.0-SNAPSHOT,+,2014-08-07
+openmrs-test,1.10.0,+,2014-09-21
+openmrs-test,1.10.0-SNAPSHOT,-,2014-09-01
+openmrs-test,1.10.0,-,2014-09-22
+openmrs-test,1.10.0,-,2014-09-23
+openmrs-api,1.10.0-beta,-,2014-07-25
+openmrs-api,1.10.0,+,2014-09-21
+openmrs-api,1.10.0-SNAPSHOT,-,2014-09-01
+openmrs-api,1.10.0-SNAPSHOT,-,2014-07-11
+openmrs-api,1.10.0,-,2014-09-22
+openmrs-api,1.10.0,-,2014-09-23

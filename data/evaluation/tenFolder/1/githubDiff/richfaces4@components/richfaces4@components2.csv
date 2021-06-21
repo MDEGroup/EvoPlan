@@ -1,0 +1,10 @@
+library,version,sign,date
+richfaces-ui-core-ui,4.0.0-SNAPSHOT,-,2010-08-10
+richfaces-ui-output-api,4.0.0-SNAPSHOT,-,2010-08-10
+xmlunit,1.2,-,2010-12-09
+xmlunit,1.2,+,2010-11-10
+xmlunit,1.2,+,2010-12-09
+xmlunit,1.2,-,2011-12-13
+xmlunit,1.2,+,2010-10-05
+xmlunit,1.2,-,2010-11-10
+xmlunit,1.2,+,2010-10-25

@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.6,+,2011-12-16
+junit,4.6,-,2011-12-16
+cambridge-core,1.0,-,2011-12-16

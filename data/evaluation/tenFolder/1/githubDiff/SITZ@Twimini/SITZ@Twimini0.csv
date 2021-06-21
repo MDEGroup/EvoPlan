@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.8.1,+,2012-07-30
+postgresql,9.0-801.jdbc4,+,2012-07-17
+mail,1.4,+,2012-07-30
+spymemcached-provider,3.0.2,+,2012-08-13
+gravatar4java,1.1,+,2012-07-19
+httpclient,4.2-alpha1,+,2012-07-30
+activejdbc,1.4.1,+,2012-08-07

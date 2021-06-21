@@ -1,0 +1,11 @@
+library,version,sign,date
+swt-c3,1.2.0-SNAPSHOT,+,2012-08-04
+swt-c3,1.2.0-SNAPSHOT,-,2012-08-04
+swt-c3,1.2.0-SNAPSHOT,-,2012-08-24
+bas-program,2.0.0-SNAPSHOT,-,2012-08-24
+bas-program,2.0.0-SNAPSHOT,-,2013-03-06
+swt-gui,1.2.0-SNAPSHOT,+,2012-08-04
+swt-gui,1.2.0-SNAPSHOT,-,2012-08-04
+swt-gui,1.2.0-SNAPSHOT,-,2012-08-24
+swt-viz,1.2.0-SNAPSHOT,+,2012-08-04
+swt-viz,1.2.0-SNAPSHOT,-,2012-08-24

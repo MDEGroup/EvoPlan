@@ -1,0 +1,13 @@
+library,version,sign,date
+hadoop-client,2.2.0-SNAPSHOT,+,2013-08-19
+hadoop-client,2.2.0-SNAPSHOT,-,2013-11-14
+hadoop-client,2.2.0-SNAPSHOT,+,2014-01-22
+testng,5.8,+,2012-04-16
+testng,6.8.8,+,2014-05-06
+testng,5.8,+,2012-04-24
+testng,6.1.1,+,2012-04-24
+testng,5.8,-,2012-04-16
+testng,6.1.1,+,2013-12-15
+testng,5.8,-,2012-04-24
+testng,5.8,-,2013-08-19
+testng,6.1.1,-,2012-04-24

@@ -1,0 +1,5 @@
+library,version,sign,date
+javax.ejb-api,3.2,+,2013-05-21
+javax.ejb-api,3.2-b01,-,2013-05-21
+cdi-api,1.1-PRD,-,2013-05-21
+cdi-api,1.1,+,2013-05-21

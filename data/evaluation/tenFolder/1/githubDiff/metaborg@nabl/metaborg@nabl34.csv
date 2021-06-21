@@ -1,0 +1,6 @@
+library,version,sign,date
+logback-classic,1.1.2,+,2020-01-15
+picocli,3.8.2,-,2019-01-02
+picocli,3.8.2,+,2019-01-02
+picocli,3.8.2,-,2019-10-02
+jline-reader,3.9.0,+,2018-12-13

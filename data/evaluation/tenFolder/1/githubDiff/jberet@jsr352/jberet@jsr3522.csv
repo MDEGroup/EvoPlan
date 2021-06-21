@@ -1,0 +1,4 @@
+library,version,sign,date
+jboss-batch-api_1.0_spec,1.0.0.Final,+,2014-03-09
+jberet-core,1.0.1.CR1,-,2014-04-28
+jberet-core,1.0.1.CR1,+,2014-03-09

@@ -1,0 +1,5 @@
+library,version,sign,date
+dbunit,2.4.8,-,2012-08-04
+logback-classic,1.0.3,-,2012-08-04
+joda-time,2.1,-,2012-08-04
+testng,6.1.1,-,2012-08-04

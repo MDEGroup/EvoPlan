@@ -1,0 +1,4 @@
+library,version,sign,date
+javax.mail-api,1.4.5,-,2014-01-07
+javax.mail-api,1.4.5,+,2014-01-07
+commons-cli,1.2,+,2014-01-07

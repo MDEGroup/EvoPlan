@@ -1,0 +1,8 @@
+library,version,sign,date
+cilia-joram-distribution,1.5.2-SNAPSHOT,+,2012-09-17
+cilia-joram-distribution,1.6.1-SNAPSHOT,-,2012-12-05
+cilia-joram-distribution,1.5.3-SNAPSHOT,-,2012-12-04
+cilia-joram-distribution,1.6.4-SNAPSHOT,-,2013-02-19
+cilia-joram-distribution,1.5.2-SNAPSHOT,-,2012-09-20
+cilia-joram-distribution,1.6.3-SNAPSHOT,-,2012-12-20
+jms-demo.mediators,0.0.1-SNAPSHOT,-,2012-09-11

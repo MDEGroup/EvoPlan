@@ -1,0 +1,14 @@
+library,version,sign,date
+chemistry-opencmis-server-bindings,1.0.0-SNAPSHOT,+,2014-04-17
+chemistry-opencmis-server-bindings,1.0.0-SNAPSHOT,-,2014-04-18
+chemistry-opencmis-server-bindings,1.0.0-SNAPSHOT,+,2014-01-26
+chemistry-opencmis-server-bindings,1.0.0-SNAPSHOT,-,2014-04-17
+chemistry-opencmis-server-support,1.0.0-SNAPSHOT,+,2014-04-17
+chemistry-opencmis-server-support,1.0.0-SNAPSHOT,-,2014-04-18
+chemistry-opencmis-server-support,1.0.0-SNAPSHOT,+,2014-01-26
+chemistry-opencmis-server-support,1.0.0-SNAPSHOT,-,2014-04-17
+javax.servlet-api,3.0.1,+,2013-11-12
+chemistry-opencmis-server-bindings-war,1.0.0-SNAPSHOT,+,2014-04-17
+chemistry-opencmis-server-bindings-war,1.0.0-SNAPSHOT,-,2014-04-18
+chemistry-opencmis-server-bindings-war,1.0.0-SNAPSHOT,+,2014-01-26
+chemistry-opencmis-server-bindings-war,1.0.0-SNAPSHOT,-,2014-04-17

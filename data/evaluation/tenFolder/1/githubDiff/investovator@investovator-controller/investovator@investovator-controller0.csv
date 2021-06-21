@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.10,+,2013-10-03
+investovator-ann,0.1,+,2013-10-31
+investovator-core,0.1,+,2013-10-04
+investovator-core,0.1,+,2013-10-06
+investovator-core,0.1,-,2013-10-06
+investovator-core,1.0-SNAPSHOT,-,2013-10-03
+dataPlaybackEngine,0.1,+,2013-10-15

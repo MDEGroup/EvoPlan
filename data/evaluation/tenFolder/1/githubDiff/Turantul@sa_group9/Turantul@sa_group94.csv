@@ -1,0 +1,6 @@
+library,version,sign,date
+fingerprint,0.2-SNAPSHOT,+,2012-11-15
+fingerprint,0.2-SNAPSHOT,+,2012-11-19
+commons-logging,1.1.1,+,2012-11-15
+miglayout,3.7.4,+,2012-11-15
+log4j,1.2.14,+,2012-11-15

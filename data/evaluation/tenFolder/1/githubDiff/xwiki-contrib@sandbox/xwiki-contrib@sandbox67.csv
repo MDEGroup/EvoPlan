@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.6,+,2010-03-30
+jmock-junit4,2.5.1,+,2010-03-30
+jmock,2.5.1,+,2010-03-30

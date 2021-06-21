@@ -1,0 +1,16 @@
+library,version,sign,date
+javax.ejb,3.0-b59,+,2009-08-25
+javax.ejb,3.1,+,2011-04-01
+javax.ejb,3.0-b38,-,2009-08-24
+javax.ejb,3.0-b59,+,2009-10-06
+javax.ejb,3.0-b59,-,2009-10-06
+javax.ejb,3.0,-,2011-03-25
+javax.ejb,3.0,-,2011-04-01
+javax.ejb,3.0-Preview-SNAPSHOT,-,2009-08-24
+javax.ejb,3.0,-,2011-06-24
+javax.ejb,3.0-b59,-,2010-05-03
+javax.ejb,3.1,-,2011-09-02
+javax.ejb,3.0-b59,-,2010-02-19
+javax.ejb,3.1,+,2011-09-02
+javax.ejb,3.0-b59,+,2009-10-19
+javax.ejb,3.0-b59,+,2010-01-08

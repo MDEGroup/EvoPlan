@@ -1,0 +1,4 @@
+library,version,sign,date
+org-openide-modules,RELEASE70-BETA,+,2011-03-12
+commons-math,2.1,+,2011-03-12
+commons-collections,3.2.1,-,2011-03-12

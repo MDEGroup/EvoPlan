@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.8.2,+,2017-10-14
+junit,4.8.2,-,2019-02-04
+slf4j-simple,1.6.1,+,2012-02-24
+commons-codec,1.4,-,2014-09-26
+commons-codec,1.4,+,2019-02-04
+commons-codec,1.4,+,2012-03-06

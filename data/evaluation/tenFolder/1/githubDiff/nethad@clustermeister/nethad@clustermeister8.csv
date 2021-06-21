@@ -1,0 +1,7 @@
+library,version,sign,date
+driver,0.1-SNAPSHOT,+,2012-03-23
+driver,0.1-SNAPSHOT,+,2012-03-22
+commons-cli,1.2,-,2012-05-31
+commons-cli,1.2,+,2012-05-31
+jline,1.0,+,2012-04-10
+hamcrest-all,1.1,+,2012-03-23

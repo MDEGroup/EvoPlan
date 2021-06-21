@@ -1,0 +1,6 @@
+library,version,sign,date
+slf4j-api,1.7.7,-,2018-12-09
+commons-vfs2,2.2,+,2018-02-16
+commons-vfs2,2.0,-,2018-02-16
+commons-vfs2,2.2,-,2020-01-14
+commons-logging,1.1.1,-,2019-05-16

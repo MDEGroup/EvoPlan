@@ -1,0 +1,15 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,-,2013-04-08
+junit,4.8.2,-,2013-01-16
+junit,4.8.2,-,2013-10-21
+junit,4.8.2,+,2013-01-16
+junit,3.8.2,-,2012-10-18
+osgi_R4_core,1.0,-,2012-06-25
+ant,1.6.5,+,2011-09-06
+ant,1.6.5,-,2013-10-21
+ant,1.6.5,-,2011-09-06
+persistence-api,1.0,+,2013-01-16
+persistence-api,1.0,-,2013-01-16
+weld-osgi-bundle,1.1.2.Final,-,2011-12-09
+weld-osgi-bundle,1.1.0.Final,-,2011-09-08
+weld-osgi-bundle,1.1.4.Final,-,2016-10-24

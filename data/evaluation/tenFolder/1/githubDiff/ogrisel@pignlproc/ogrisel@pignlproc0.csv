@@ -1,0 +1,8 @@
+library,version,sign,date
+lucene-core,3.0.3,+,2010-12-20
+opennlp-tools,1.5.0,-,2011-04-28
+bliki-core,3.0.13,-,2010-12-20
+lucene-analyzers,3.0.3,+,2010-12-20
+commons-io,2.0.1,+,2011-05-20
+pig,0.8.0,-,2011-04-11
+pig,0.8.0-SNAPSHOT,-,2010-12-22

@@ -1,0 +1,4 @@
+library,version,sign,date
+argparse4j,0.7.0,-,2017-09-17
+junit,4.12,-,2017-06-11
+junit,4.12,+,2017-06-11

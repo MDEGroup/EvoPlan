@@ -1,0 +1,17 @@
+library,version,sign,date
+jackson-core-asl,1.8.3,+,2013-01-16
+jackson-core-asl,1.8.3,-,2013-01-16
+junit,4.8.2,-,2013-01-16
+junit,4.8.2,-,2013-04-08
+junit,4.8.2,+,2013-01-16
+jaxb-impl,2.1.12,+,2016-03-11
+jaxb-impl,2.2.3-1,-,2013-04-08
+jaxb-impl,2.2.3-1,-,2013-01-16
+jaxb-impl,2.2.3-1,+,2013-01-16
+jaxb-impl,2.1.12,-,2016-03-11
+jackson-xc,1.8.3,+,2013-01-16
+jackson-xc,1.8.3,-,2013-01-16
+jackson-jaxrs,1.8.3,+,2013-01-16
+jackson-jaxrs,1.8.3,-,2013-01-16
+jackson-mapper-asl,1.8.3,+,2013-01-16
+jackson-mapper-asl,1.8.3,-,2013-01-16

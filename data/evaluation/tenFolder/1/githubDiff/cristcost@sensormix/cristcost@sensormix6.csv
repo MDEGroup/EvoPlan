@@ -1,0 +1,5 @@
+library,version,sign,date
+mysql-connector-java,5.1.26,-,2013-12-09
+mysql-connector-java,5.1.26,+,2013-10-30
+hsqldb,2.2.9,-,2013-12-09
+hsqldb,2.3.2,+,2013-12-09

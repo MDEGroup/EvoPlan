@@ -1,0 +1,13 @@
+library,version,sign,date
+hibernate-core,3.3.2.GA,+,2012-03-05
+hibernate-core,4.3.8.Final,-,2020-02-02
+hibernate-core,3.3.2.GA,-,2011-06-18
+hibernate-core,4.3.8.Final,+,2016-08-25
+hibernate-core,3.3.2.GA,-,2014-12-17
+hibernate-core,3.3.2.GA,-,2012-03-05
+hibernate-core,4.3.8.Final,+,2018-10-26
+hibernate-core,5.4.12.Final,+,2020-02-02
+hibernate-core,4.3.8.Final,-,2016-08-25
+hibernate-core,3.3.2.GA,+,2011-06-18
+hibernate-core,4.3.8.Final,-,2018-10-26
+hibernate-core,4.3.8.Final,+,2014-12-17

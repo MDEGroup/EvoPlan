@@ -1,0 +1,7 @@
+library,version,sign,date
+org.sourcepit.common.utils,0.13.0-SNAPSHOT,-,2014-06-18
+org.sourcepit.common.utils,0.13.0-SNAPSHOT,+,2014-06-18
+org.sourcepit.common.utils,0.13.0,-,2014-06-24
+junit,4.10,-,2014-06-18
+junit,4.10,+,2014-06-18
+org.sourcepit.osgifier.core,0.21.0-SNAPSHOT,+,2014-06-24

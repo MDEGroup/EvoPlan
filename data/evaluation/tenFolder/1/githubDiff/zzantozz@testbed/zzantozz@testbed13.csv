@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.8.1,+,2011-07-31
+junit,4.8.2,-,2011-07-18
+junit,4.8.2,+,2011-07-16
+junit,4.8.2,+,2011-07-18
+jersey-server,1.8,+,2011-07-18
+jersey-server,1.8,-,2011-07-18
+log4j,1.2.16,+,2011-07-18

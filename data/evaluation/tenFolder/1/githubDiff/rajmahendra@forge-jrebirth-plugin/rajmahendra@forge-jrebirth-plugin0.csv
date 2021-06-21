@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.11,+,2013-07-10
+freemarker,2.3.20,-,2013-07-10
+freemarker,2.3.19,+,2013-06-07
+freemarker,2.3.19,-,2013-06-15
+freemarker,2.3.19,+,2013-06-15
+freemarker,2.3.19,-,2013-07-09
+freemarker,2.3.20,+,2013-07-10

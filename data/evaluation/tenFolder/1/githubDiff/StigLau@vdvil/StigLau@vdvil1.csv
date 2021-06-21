@@ -1,0 +1,11 @@
+library,version,sign,date
+httpcache,0.9,-,2011-10-07
+httpcache,0.11-SNAPSHOT,-,2011-10-19
+httpcache,0.10.1,+,2011-10-19
+httpcache,0.10-SNAPSHOT,+,2011-10-07
+httpcache,0.11,-,2011-10-20
+httpcache,0.10-SNAPSHOT,-,2011-10-07
+httpcache,0.10-SNAPSHOT,-,2011-10-19
+httpcache,0.9-SNAPSHOT,-,2011-10-04
+httpcache,0.10,-,2011-10-19
+httpcache,0.10.1,-,2011-10-20

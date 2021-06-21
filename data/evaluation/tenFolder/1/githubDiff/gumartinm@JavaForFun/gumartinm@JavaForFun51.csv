@@ -1,0 +1,5 @@
+library,version,sign,date
+spring-cloud-stream-schema,1.1.1.RELEASE,-,2017-01-31
+micrometer-registry-statsd,1.0.6,+,2018-10-29
+spring-cloud-starter-stream-kafka,1.1.1.RELEASE,-,2017-01-31
+avro,1.8.1,-,2017-06-25

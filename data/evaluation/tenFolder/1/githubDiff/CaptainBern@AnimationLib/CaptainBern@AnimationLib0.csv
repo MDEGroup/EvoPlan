@@ -1,0 +1,4 @@
+library,version,sign,date
+craftbukkit,LATEST,+,2013-12-02
+bukkit,LATEST,+,2013-11-04
+bukkit,LATEST,-,2013-11-04

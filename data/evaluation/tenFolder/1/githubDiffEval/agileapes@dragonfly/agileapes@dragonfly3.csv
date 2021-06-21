@@ -1,0 +1,5 @@
+library,version,sign,date
+dragonfly-jpa,1.0,-,2013-09-18
+dragonfly-jpa,1.0,+,2013-09-18
+dragonfly-jpa,1.0,-,2014-03-16
+spring-context,3.2.3.RELEASE,-,2014-03-16

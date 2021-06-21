@@ -1,0 +1,12 @@
+library,version,sign,date
+hibernate-jpa-2.0-api,1.0.1.Final,+,2012-09-21
+commons-pool,1.6,+,2012-09-21
+cglib,2.2.2,+,2012-09-21
+junit,4.7,-,2012-09-21
+junit,4.10,+,2012-09-21
+mysql-connector-java,5.1.21,+,2012-09-21
+cloudfoundry-runtime,0.8.1,+,2012-09-21
+commons-dbcp,1.4,+,2012-09-21
+guava,13.0,+,2012-09-21
+log4j,1.2.15,-,2012-09-21
+log4j,1.2.15,+,2012-09-21

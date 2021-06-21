@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.8.2,-,2013-03-18
+junit,4.12,-,2019-10-08
+junit,4.11,-,2019-03-22
+junit,3.8.1,+,2013-03-18
+commons-exec,1.2,-,2017-02-06
+commons-exec,1.2,-,2019-10-08
+commons-exec,1.2,+,2013-10-21
+commons-exec,1.2,+,2017-02-06
+mockito-core,2.23.0,-,2019-10-08
+mockito-core,1.8.4,+,2014-11-24
+mockito-core,1.8.4,-,2019-03-22
+mockito-core,3.2.4,-,2020-01-13

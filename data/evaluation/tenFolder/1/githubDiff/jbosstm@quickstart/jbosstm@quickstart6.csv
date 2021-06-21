@@ -1,0 +1,7 @@
+library,version,sign,date
+hornetq-core,2.2.21.Final,-,2015-08-12
+hornetq-core,2.2.21.Final,+,2015-05-01
+wildfly-logging,5.0.0.Beta5,+,2018-09-20
+wildfly-logging,5.0.0.Beta5,+,2018-07-05
+netty,3.2.5.Final,-,2015-08-12
+netty,3.2.5.Final,+,2015-05-01

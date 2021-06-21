@@ -1,0 +1,13 @@
+library,version,sign,date
+slf4j-api,1.7.2,+,2013-01-19
+junit,4.8.2,-,2012-03-05
+junit,4.8.2,+,2012-03-05
+javaee-api,6.0,+,2012-03-05
+javaee-api,6.0,-,2012-03-05
+postgresql,9.0-801.jdbc4,-,2013-01-19
+postgresql,9.0-801.jdbc4,-,2012-03-05
+postgresql,9.0-801.jdbc4,+,2012-03-05
+postgresql,9.0-801.jdbc4,+,2011-10-18
+hibernate-entitymanager,4.1.9.Final,+,2013-01-19
+hibernate-entitymanager,3.6.7.Final,-,2011-10-19
+hibernate-entitymanager,3.6.7.Final,+,2011-10-18

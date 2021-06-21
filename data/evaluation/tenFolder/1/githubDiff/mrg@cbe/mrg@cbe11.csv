@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,3.8.1,+,2010-12-08
+junit,3.8.1,-,2011-06-29
+junit,3.8.1,+,2011-06-29
+commons-codec,1.4,-,2011-06-29
+commons-codec,1.4,+,2010-12-08
+commons-codec,1.4,+,2011-06-29
+cayenne-server,3.0.2,+,2011-06-29
+cayenne-server,3.0.1,-,2010-12-08
+cayenne-server,3.0.1,-,2011-06-29
+cayenne-server,3.0.1,+,2010-12-08
+cayenne-server,3.0.2,-,2011-06-29
+h2,1.2.138,+,2011-06-29
+h2,1.2.138,+,2010-12-08
+h2,1.2.138,-,2011-06-29

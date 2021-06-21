@@ -1,0 +1,13 @@
+library,version,sign,date
+plexus-utils,1.0.2,-,2019-11-19
+plexus-utils,1.5.8,-,2009-06-02
+plexus-utils,1.4.6,-,2009-04-23
+plexus-utils,1.0.4,-,2010-04-19
+plexus-utils,1.5.5,+,2009-04-23
+plexus-utils,1.0.4,+,2010-04-19
+plexus-utils,1.0.4,+,2009-06-02
+plexus-utils,1.5.5,-,2019-11-19
+plexus-utils,1.5.8,+,2009-05-06
+plexus-utils,1.5.5,-,2009-04-23
+plexus-utils,1.5.1,-,2009-04-23
+javax.inject,1,+,2017-04-03

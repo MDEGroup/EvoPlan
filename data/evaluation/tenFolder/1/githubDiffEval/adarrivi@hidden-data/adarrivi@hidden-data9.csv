@@ -1,0 +1,4 @@
+library,version,sign,date
+data-nosql-db,0.0.1-SNAPSHOT,+,2013-06-17
+data-sql-db,0.0.1-SNAPSHOT,+,2013-06-14
+data-sql-db,0.0.1-SNAPSHOT,+,2013-06-17

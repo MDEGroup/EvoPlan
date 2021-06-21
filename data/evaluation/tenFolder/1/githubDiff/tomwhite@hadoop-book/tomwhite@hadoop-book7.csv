@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.8.1,-,2011-08-23
+commons-io,2.0.1,-,2011-08-23
+commons-io,2.0.1,+,2011-08-23
+guava,14.0.1,-,2014-09-04
+guava,14.0.1,+,2011-08-23
+guava,r09,-,2011-08-23

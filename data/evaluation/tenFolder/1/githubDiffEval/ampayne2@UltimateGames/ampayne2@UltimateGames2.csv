@@ -1,0 +1,10 @@
+library,version,sign,date
+craftbukkit,1.7.9-R0.1-SNAPSHOT,-,2014-04-26
+craftbukkit,1.7.2-R0.3-SNAPSHOT,-,2014-02-25
+bukkit,1.7.9-R0.1-SNAPSHOT,-,2014-04-26
+bukkit,1.7.2-R0.1-SNAPSHOT,-,2014-01-28
+bukkit,1.7.2-R0.1-SNAPSHOT,-,2014-02-25
+bukkit,1.7.2-R0.3-SNAPSHOT,-,2014-02-25
+logblock,dev-SNAPSHOT,+,2014-02-16
+jetty-servlet,8.1.7.v20120910,-,2014-01-28
+jetty-server,8.1.7.v20120910,-,2014-01-28

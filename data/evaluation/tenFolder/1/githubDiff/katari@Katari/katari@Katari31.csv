@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.5.8,+,2010-06-16
+slf4j-api,1.5.8,-,2010-11-04
+slf4j-api,1.5.8,-,2010-06-16
+slf4j-api,1.5.8,-,2010-12-30
+compass,2.2.0,-,2010-11-04
+hsqldb,1.8.0.7,-,2010-11-04
+commons-logging,1.1.1,+,2010-12-30
+commons-logging,1.1,-,2010-11-04
+commons-lang,2.1,-,2010-06-16
+commons-lang,2.1,-,2010-09-02
+commons-lang,2.5,-,2010-11-04
+servlet-api,2.4,-,2010-12-30
+servlet-api,2.4,-,2010-11-04

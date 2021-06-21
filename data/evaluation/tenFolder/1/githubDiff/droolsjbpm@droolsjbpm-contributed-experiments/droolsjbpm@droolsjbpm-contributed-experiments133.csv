@@ -1,0 +1,8 @@
+library,version,sign,date
+drools-compiler,5.1.1,-,2011-07-20
+twitter4j-core,[2.2,),-,2012-09-27
+twitter4j-core,[2.1,),-,2011-07-20
+drools-core,5.1.1,-,2011-07-20
+twitter4j-stream,[2.2,),-,2012-09-27
+twitter4j-stream,[2.1,),-,2011-07-20
+knowledge-api,5.4.0.Final,+,2011-07-20

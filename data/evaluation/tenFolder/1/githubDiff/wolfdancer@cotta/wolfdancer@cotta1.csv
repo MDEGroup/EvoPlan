@@ -1,0 +1,6 @@
+library,version,sign,date
+cglib,2.1_3,-,2012-05-16
+junit,4.4,-,2012-05-16
+jmock-junit4,2.4.0,-,2012-05-16
+jmock-junit3,2.4.0,-,2012-05-16
+jmock-legacy,2.4.0,-,2012-05-16

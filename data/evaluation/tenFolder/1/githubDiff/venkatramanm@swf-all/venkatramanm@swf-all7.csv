@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,LATEST,+,2015-08-02
+junit,4.10,-,2014-03-10
+common,[1.11,),-,2014-01-30
+reflection,[1.12,),+,2015-08-02
+reflection,[1.11,),-,2014-01-30
+commons-dbcp2,2.5.0,+,2017-10-04

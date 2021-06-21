@@ -1,0 +1,8 @@
+library,version,sign,date
+morphia,0.101.0-RC1,+,2011-01-30
+morphia,0.96-SNAPSHOT,-,2010-09-01
+morphia,0.99-SNAPSHOT,-,2011-01-27
+morphia,0.99-SNAPSHOT,+,2010-09-03
+morphia,0.96-SNAPSHOT,+,2010-09-01
+morphia,0.96-SNAPSHOT,-,2010-09-03
+morphia,1.00-SNAPSHOT,-,2011-01-30

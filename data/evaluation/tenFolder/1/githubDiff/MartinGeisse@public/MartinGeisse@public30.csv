@@ -1,0 +1,4 @@
+library,version,sign,date
+common,0.1-SNAPSHOT,-,2014-10-11
+common,0.1-SNAPSHOT,+,2014-10-11
+stackd-core-client,0.1-SNAPSHOT,+,2014-10-11

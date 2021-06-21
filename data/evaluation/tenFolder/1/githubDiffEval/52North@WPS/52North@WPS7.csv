@@ -1,0 +1,6 @@
+library,version,sign,date
+xercesImpl,2.7.1,+,2013-07-16
+junit,4.10,-,2013-02-05
+axiom-api,1.2.10,-,2014-04-04
+commons-httpclient,3.1,-,2014-01-08
+servlet-api,2.5,+,2013-07-16

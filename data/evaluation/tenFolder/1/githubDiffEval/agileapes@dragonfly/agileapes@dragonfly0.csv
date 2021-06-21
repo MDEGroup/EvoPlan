@@ -1,0 +1,10 @@
+library,version,sign,date
+asm-commons,3.3.1,+,2013-09-06
+couteau-strings,1.0,+,2013-09-18
+jackson-databind,2.4.1.3,+,2013-10-07
+couteau-context-tools,1.0,+,2013-10-07
+commons-logging,1.1.3,+,2013-09-13
+commons-logging,1.1.3,-,2013-09-13
+commons-logging,1.1.3,+,2013-09-11
+asm,3.3.1,+,2013-10-07
+antlr-runtime,3.4,+,2013-09-18

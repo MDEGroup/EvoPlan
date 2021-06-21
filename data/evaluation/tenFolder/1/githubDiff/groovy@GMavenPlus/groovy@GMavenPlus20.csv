@@ -1,0 +1,3 @@
+library,version,sign,date
+junit,@junitVersion@,-,2013-08-28
+junit,@junitVersion@,+,2013-08-28

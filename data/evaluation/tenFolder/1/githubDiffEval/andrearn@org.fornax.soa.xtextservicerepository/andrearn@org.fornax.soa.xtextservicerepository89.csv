@@ -1,0 +1,7 @@
+library,version,sign,date
+basedsl,1.6.1,-,2014-09-10
+basedsl,2.0.0-SNAPSHOT,+,2014-09-16
+profiledsl,2.0.0-SNAPSHOT,+,2014-09-16
+semanticsdsl,1.6.1,-,2014-09-10
+semanticsdsl,2.0.0-SNAPSHOT,+,2014-09-16
+businessdsl,2.0.0-SNAPSHOT,+,2014-09-16

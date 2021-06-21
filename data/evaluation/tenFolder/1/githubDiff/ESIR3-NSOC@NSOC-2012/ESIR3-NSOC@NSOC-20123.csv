@@ -1,0 +1,4 @@
+library,version,sign,date
+mysql.connector.jdbc,1.9.0,-,2013-02-14
+android,4.0.1.2,+,2013-02-14
+android,4.0.1.2,-,2013-02-14

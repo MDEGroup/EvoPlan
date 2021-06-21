@@ -1,0 +1,5 @@
+library,version,sign,date
+easymock,2.5.1,+,2011-02-28
+easymock,2.5.1,-,2011-02-28
+easymockclassextension,2.4,-,2011-02-28
+easymockclassextension,2.4,+,2011-02-28

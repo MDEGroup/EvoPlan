@@ -1,0 +1,7 @@
+library,version,sign,date
+openxml4j,1.0-beta,+,2012-11-22
+poi-ooxml-schemas,3.8,+,2012-11-22
+dom4j,1.6.1,+,2012-11-22
+hermes-common,0.0.1-SNAPSHOT,-,2012-11-08
+servlet-api,2.5,+,2012-11-08
+poi-ooxml,3.8,+,2012-11-22

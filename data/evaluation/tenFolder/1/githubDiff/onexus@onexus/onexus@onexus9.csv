@@ -1,0 +1,7 @@
+library,version,sign,date
+slf4j-api,1.7.3,+,2014-03-17
+validation-api,1.1.0.Final,+,2014-03-17
+org.onexus.resource.api,0.5.0-SNAPSHOT,+,2014-03-17
+org.onexus.data.api,0.5.0-SNAPSHOT,+,2014-03-17
+org.onexus.collection.api,0.5.0-SNAPSHOT,+,2014-03-17
+guava-osgi,11.0.1,+,2014-03-17

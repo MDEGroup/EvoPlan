@@ -1,0 +1,12 @@
+library,version,sign,date
+jmeter-plugins-emulators,0.2,-,2017-03-01
+jmeter-plugins-emulators,0.1,-,2016-04-23
+jmeter-plugins-emulators,0.2,-,2016-04-26
+jmeter-plugins-emulators,0.2,-,2016-04-24
+jmeter-plugins-emulators,0.4,+,2016-04-26
+jmeter-plugins-emulators,0.2,+,2016-04-24
+jmeter-plugins-emulators,0.2,+,2016-04-26
+jmeter-plugins-cmn-jmeter,0.1,-,2016-04-24
+jmeter-plugins-cmn-jmeter,0.3,+,2016-04-24
+jmeter-plugins-cmn-jmeter,0.3,+,2016-04-26
+jmeter-plugins-cmn-jmeter,0.3,-,2017-03-01

@@ -1,0 +1,3 @@
+library,version,sign,date
+logback-classic,0.9.15,+,2009-07-09
+logback-core,0.9.15,+,2009-07-09

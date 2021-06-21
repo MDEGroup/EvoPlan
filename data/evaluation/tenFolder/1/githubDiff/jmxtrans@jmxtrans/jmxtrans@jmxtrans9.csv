@@ -1,0 +1,5 @@
+library,version,sign,date
+gelfclient,1.4.0,-,2017-08-28
+mockito-core,2.0.2-beta,-,2017-08-28
+lombok,1.16.18,-,2018-03-13
+lombok,1.16.8,-,2017-08-28

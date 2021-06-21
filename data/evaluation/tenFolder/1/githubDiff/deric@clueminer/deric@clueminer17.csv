@@ -1,0 +1,5 @@
+library,version,sign,date
+unirest-java,1.4.9,+,2018-05-11
+jaxb-api,2.4.0-b180725.0427,+,2018-08-07
+commons-logging,1.1.1,-,2018-08-06
+commons-logging,1.2,+,2018-08-06

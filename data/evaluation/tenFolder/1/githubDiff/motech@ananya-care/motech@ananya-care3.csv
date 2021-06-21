@@ -1,0 +1,17 @@
+library,version,sign,date
+quartz,2.1.5,+,2012-09-24
+quartz,1.8.5,-,2012-09-24
+quartz,1.8.5,+,2012-04-20
+ananya-care-web,0.1-SNAPSHOT,+,2012-04-12
+ananya-care-web,0.2-SNAPSHOT,-,2012-06-05
+ananya-care-web,0.1-SNAPSHOT,-,2012-05-28
+ananya-care-web,0.5-SNAPSHOT,-,2012-06-28
+ananya-care-web,0.8-SNAPSHOT,-,2012-09-24
+ananya-care-web,0.4-SNAPSHOT,-,2012-06-18
+ananya-care-web,0.3-SNAPSHOT,-,2012-06-11
+ananya-care-web,0.7-SNAPSHOT,-,2012-08-28
+ananya-care-web,0.1-SNAPSHOT,+,2012-04-19
+ananya-care-web,0.1-SNAPSHOT,-,2012-04-12
+ananya-care-web,0.6-SNAPSHOT,-,2012-08-01
+servlet-api,2.5,+,2012-08-28
+servlet-api,2.5,+,2012-04-18

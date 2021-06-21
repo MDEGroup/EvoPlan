@@ -1,0 +1,12 @@
+library,version,sign,date
+subproject1,2.1-SNAPSHOT,+,2007-04-24
+subproject1,0.5-SNAPSHOT,+,2007-04-24
+subproject1,2.0,+,2007-04-24
+subproject1,1.0-SNAPSHOT,+,2007-04-24
+subproject1,1.0-SNAPSHOT,+,2007-02-07
+subproject1,RELEASE,+,2007-04-24
+subproject1,2.0-SNAPSHOT,+,2007-04-24
+subproject1,1.0,+,2007-04-24
+subproject1,1.0,+,2007-02-07
+subproject1,[1.0-SNAPSHOT,2.0-SNAPSHOT],+,2007-04-24
+subproject1,0.5,+,2007-04-24

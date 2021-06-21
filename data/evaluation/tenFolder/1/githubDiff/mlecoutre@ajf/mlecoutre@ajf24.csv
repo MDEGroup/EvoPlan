@@ -1,0 +1,7 @@
+library,version,sign,date
+javaee-api,5,+,2012-03-28
+javaee-api,5,+,2012-04-02
+javaee-api,5,-,2012-03-28
+validation-api,1.0.0.GA,-,2012-03-28
+validation-api,1.0.0.GA,+,2012-03-28
+persistence-api,1.0.2,+,2012-03-28

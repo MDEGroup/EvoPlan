@@ -1,0 +1,9 @@
+library,version,sign,date
+commons-math,2.2,+,2013-02-28
+vertx-platform,1.3.0.final,-,2013-03-22
+tagsoup,1.2,-,2013-02-28
+poi,3.9,-,2013-03-27
+poi,3.9,+,2013-03-22
+poi,3.9,+,2013-03-27
+httpclient,4.2.3,+,2013-02-28
+vertx-lang-groovy,1.3.0.final,-,2013-03-22

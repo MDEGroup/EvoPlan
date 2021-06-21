@@ -1,0 +1,6 @@
+library,version,sign,date
+commons-configuration,1.9,-,2013-08-04
+junit,4.10,-,2013-08-04
+mongo-java-driver,2.10.0,-,2013-08-04
+qrcode-decoder,1.0,-,2013-08-04
+qrcode-encoder,1.0,-,2013-08-04

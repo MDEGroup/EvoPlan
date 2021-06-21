@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.8.2,-,2012-09-29
+junit,4.10,+,2012-09-29
+jboss-javaee-6.0,1.0.0.Final,+,2011-11-20
+jboss-javaee-6.0,1.0.0.Final,-,2012-09-28
+jboss-javaee-6.0,3.0.0.Final,+,2012-09-28
+cdi-api,1.0-SP1,-,2012-09-29
+cdi-api,1.0-SP4,+,2012-09-29

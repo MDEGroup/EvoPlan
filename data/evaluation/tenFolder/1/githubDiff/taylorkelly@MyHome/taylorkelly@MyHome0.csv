@@ -1,0 +1,9 @@
+library,version,sign,date
+help,0.1.1,+,2011-02-27
+help,1.0,-,2011-02-27
+help,1.0,+,2011-02-22
+groupmanager,1.0,+,2011-02-27
+bukkit,0.0.1-SNAPSHOT,+,2011-02-27
+bukkit,0.0.1-SNAPSHOT,-,2011-02-27
+permissions,2.0,-,2011-02-27
+permissions,2.5.3,+,2011-02-27

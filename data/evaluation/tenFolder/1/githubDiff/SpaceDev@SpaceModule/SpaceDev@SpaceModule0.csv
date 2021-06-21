@@ -1,0 +1,17 @@
+library,version,sign,date
+remotetoolkit,R11-SNAPSHOT,+,2012-04-06
+truezip-driver-zip,7.5.5,+,2012-04-30
+McRKitLauncher,R10A12,-,2012-04-06
+McRKitLauncher,R10A12,+,2012-02-11
+McRKitLauncher,R10A12,-,2012-02-11
+McRKitLauncher,R10A12,+,2012-04-06
+xstream,1.4.2,+,2012-07-11
+json-simple,1.1,+,2012-07-11
+truezip-file,7.5.5,+,2012-04-30
+gson,2.2.2,+,2012-07-12
+snakeyaml,1.9,-,2012-04-06
+snakeyaml,1.9,+,2012-02-11
+snakeyaml,1.10-SNAPSHOT,+,2012-04-06
+snakeyaml,1.9,+,2012-04-06
+snakeyaml,1.10-SNAPSHOT,-,2012-02-11
+snakeyaml,1.10-SNAPSHOT,-,2012-04-06

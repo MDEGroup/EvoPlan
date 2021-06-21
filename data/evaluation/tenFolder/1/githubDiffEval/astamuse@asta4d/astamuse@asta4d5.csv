@@ -1,0 +1,15 @@
+library,version,sign,date
+spring-webmvc,3.1.2.RELEASE,-,2014-12-26
+spring-webmvc,3.1.2.RELEASE,-,2013-12-13
+spring-webmvc,3.1.2.RELEASE,-,2013-04-21
+spring-webmvc,3.1.2.RELEASE,+,2013-04-21
+spring-webmvc,3.1.2.RELEASE,+,2013-07-24
+spring-webmvc,3.1.2.RELEASE,+,2014-12-26
+spring-webmvc,3.1.2.RELEASE,-,2014-10-22
+asta4d-web,0.1,-,2013-04-02
+servlet-api,2.5,-,2013-12-13
+servlet-api,2.5,+,2014-12-26
+servlet-api,2.5,+,2012-11-26
+servlet-api,2.5,+,2013-04-21
+servlet-api,2.5,+,2013-07-24
+servlet-api,2.5,-,2013-04-21

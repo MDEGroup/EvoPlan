@@ -1,0 +1,8 @@
+library,version,sign,date
+robolectric,1.1,+,2012-10-01
+hamcrest-core,1.2,+,2012-10-01
+junit,4.10,+,2012-10-01
+android-test,4.1.1.4,+,2012-10-01
+maps,16_r2,+,2012-10-01
+maps,16_r2,-,2012-10-02
+android,4.1.1.4,+,2012-10-01

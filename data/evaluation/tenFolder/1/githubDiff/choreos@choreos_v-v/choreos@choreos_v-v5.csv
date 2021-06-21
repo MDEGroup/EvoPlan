@@ -1,0 +1,4 @@
+library,version,sign,date
+commons-math,2.2,+,2012-06-26
+junit,4.8.2,+,2013-07-24
+junit,4.8.2,-,2013-07-24

@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.11,+,2013-11-08
+junit,4.8.1,-,2013-11-08
+junit,4.11,-,2013-11-08
+junit,4.11.0,-,2013-11-08
+common-junit48,2.16,-,2013-11-08
+common-junit48,2.16,+,2013-11-08
+log4j-core,2.0-beta9,+,2013-11-29
+log4j-core,2.0-beta9,+,2013-12-11
+log4j-core,2.0-beta9,-,2013-12-11
+log4j-api,2.0-beta9,+,2013-11-29
+log4j-api,2.0-beta9,+,2013-12-11
+log4j-api,2.0-beta9,-,2013-12-11
+guice,3.0,+,2013-12-13
+guice,3.0,-,2013-11-08
+guice,3.0,+,2013-11-08

@@ -1,0 +1,14 @@
+library,version,sign,date
+mockito-all,1.10.8,+,2014-12-15
+mockito-all,1.10.8,+,2014-11-25
+junit,4.11,-,2014-12-15
+junit,4.10,+,2014-12-15
+junit,4.11,+,2014-12-15
+commons-cli,1.2,-,2014-12-15
+commons-cli,1.2,+,2014-12-15
+jetty-servlet,8.1.11.v20130520,+,2014-12-23
+jetty-server,8.1.11.v20130520,+,2014-12-23
+commons-io,2.4,+,2014-12-15
+commons-io,2.4,+,2014-11-25
+commons-io,2.4,-,2014-12-15
+generic-soap-client,0.7.0,-,2014-11-25

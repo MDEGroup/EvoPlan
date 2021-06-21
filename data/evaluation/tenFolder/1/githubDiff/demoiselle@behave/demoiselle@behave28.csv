@@ -1,0 +1,9 @@
+library,version,sign,date
+demoiselle-behave-core,1.2.0-SNAPSHOT,-,2013-08-14
+demoiselle-behave-core,1.2.0-SNAPSHOT,-,2013-08-13
+demoiselle-behave-core,1.2.0-BETA5,-,2013-08-14
+demoiselle-behave-core,1.2.0-BETA5,-,2013-08-13
+jbehave-core,3.8,+,2015-02-06
+jbehave-core,3.8,-,2014-12-01
+jbehave-core,3.9.5,-,2015-06-01
+jbehave-core,3.8,-,2015-06-01

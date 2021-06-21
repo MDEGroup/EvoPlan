@@ -1,0 +1,9 @@
+library,version,sign,date
+slf4j-api,1.7.5,+,2013-04-23
+junit,4.11,+,2013-04-23
+logback-classic,1.0.11,+,2013-04-23
+miglayout-javafx,4.2,+,2013-04-23
+miglayout-swing,4.2,+,2013-04-23
+mockito-core,1.9.5,+,2013-04-25
+snakeyaml,1.12,+,2013-04-23
+kryo,2.20,+,2013-04-23

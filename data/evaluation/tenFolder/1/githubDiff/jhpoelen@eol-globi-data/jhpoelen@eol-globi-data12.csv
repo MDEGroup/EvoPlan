@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.8.1,-,2019-09-13
+hamcrest-all,1.3,+,2013-11-08
+hamcrest-all,1.3,-,2013-12-27
+hamcrest-all,1.3,+,2013-12-27

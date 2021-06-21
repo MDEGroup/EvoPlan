@@ -1,0 +1,14 @@
+library,version,sign,date
+testutils,1.2,+,2015-02-09
+junit,4.12,+,2015-02-26
+junit,4.11,-,2015-02-26
+gwtchosen,2.2.0-SNAPSHOT,-,2015-08-06
+gwtchosen,2.1,-,2015-09-22
+gwtchosen,3.0-SNAPSHOT,-,2015-09-22
+gwtchosen,2.0.0-SNAPSHOT,-,2015-02-26
+gwtchosen,1.2.0,-,2015-02-26
+gwtchosen,2.0.0-SNAPSHOT,-,2015-01-30
+assertj-core,1.7.0,-,2015-02-26
+assertj-core,3.1.0,+,2015-02-26
+selenium-java,2.47.1,+,2015-02-26
+selenium-java,2.41.0,-,2015-02-26

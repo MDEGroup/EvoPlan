@@ -1,0 +1,10 @@
+library,version,sign,date
+slf4j-api,1.7.25,+,2017-12-12
+logback-classic,1.2.3,+,2017-12-12
+pngj,2.0.1,-,2017-12-12
+logback-core,1.2.3,+,2017-12-12
+jackson-databind,2.7.9.2,+,2017-12-12
+picocli,2.2.0,+,2017-12-27
+jul-to-slf4j,1.7.25,+,2017-12-12
+jdom2,2.0.5,-,2017-11-26
+httpclient,4.5.4,+,2018-01-02

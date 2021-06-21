@@ -1,0 +1,6 @@
+library,version,sign,date
+mockito-core,2.23.0,-,2019-10-08
+mockito-core,1.8.4,+,2014-11-24
+mockito-core,3.3.0,-,2020-02-28
+mockito-core,1.8.4,-,2019-03-22
+mockito-core,3.2.4,-,2020-01-13

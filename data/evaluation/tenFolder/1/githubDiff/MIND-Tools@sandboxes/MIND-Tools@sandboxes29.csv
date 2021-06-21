@@ -1,0 +1,7 @@
+library,version,sign,date
+codegen,0.1,+,2010-06-18
+C2bip,0.1,+,2010-06-18
+metamodel,0.1,+,2010-06-18
+common,2.5.0,+,2010-06-18
+parser,0.1,+,2010-06-18
+ecore,2.5.0,+,2010-06-18

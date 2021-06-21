@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.5,+,2013-04-01
+junit,4.5,-,2013-04-01
+mysql-connector-java,5.1.21,+,2013-04-01
+aspectjtools,1.6.2,+,2013-04-01
+aspectjtools,1.7.2,+,2013-04-01
+commons-lang3,3.1,+,2013-03-28
+commons-lang3,3.1,-,2013-03-28
+commons-lang3,3.1,+,2013-04-01
+commons-dbcp,1.4,+,2013-04-01
+mockito-core,1.9.5,+,2013-04-01
+mockito-core,1.9.5,-,2013-04-01

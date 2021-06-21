@@ -1,0 +1,11 @@
+library,version,sign,date
+karaf,0.3.0-SNAPSHOT,+,2011-10-11
+karaf,2.2.2,-,2012-02-19
+karaf,2.2.8,+,2012-02-19
+org.apache.karaf.features.core,2.2.0,-,2011-10-10
+slf4j-log4j12,1.6.4,+,2012-02-10
+slf4j-log4j12,1.6.4,-,2012-02-19
+paxexam-karaf-container,0.5.0,-,2012-02-19
+paxexam-karaf-container,0.2.0,-,2012-02-10
+pax-exam-junit4,2.3.0,-,2012-02-19
+pax-exam-junit4,2.3.0.M1,-,2012-02-10

@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.12,-,2015-02-12
+junit,4.12,+,2015-02-12
+wicket-menu,7.0.0.0,-,2015-08-11
+wicket-menu,7.0.0,+,2015-08-06
+wicket-menu,7.0.0,-,2015-08-06
+lombok,1.16.0,+,2015-02-12
+lombok,1.16.0,-,2015-02-12

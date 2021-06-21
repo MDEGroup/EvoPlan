@@ -1,0 +1,9 @@
+library,version,sign,date
+hazelcast-client,3.12.3,+,2019-10-11
+junit,4.12,+,2019-10-11
+junit,4.10,-,2019-10-11
+hazelcast,3.5.2,-,2017-02-22
+hazelcast,3.8.1,-,2018-06-30
+commons-lang3,3.4,-,2017-02-22
+commons-lang3,3.5,-,2018-06-30
+commons-lang3,3.5,+,2017-05-01

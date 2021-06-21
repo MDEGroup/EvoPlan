@@ -1,0 +1,7 @@
+library,version,sign,date
+ojdbc8,12.2.0.1,+,2018-03-20
+sql2o-oracle,1.6.0-RC3-SNAPSHOT,-,2016-11-13
+sql2o-oracle,1.6.0-RC3,-,2016-11-13
+sql2o-oracle,1.6.0-RC3-SNAPSHOT,+,2016-07-10
+joda-time,2.0,-,2016-11-14
+joda-time,2.0,+,2016-11-14

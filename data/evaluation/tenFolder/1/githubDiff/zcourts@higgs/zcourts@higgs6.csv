@@ -1,0 +1,4 @@
+library,version,sign,date
+http-s3,0.0.9-SNAPSHOT,-,2014-04-05
+metainf-services,1.1,+,2014-07-19
+metainf-services,1.1,+,2014-04-08

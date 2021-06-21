@@ -1,0 +1,4 @@
+library,version,sign,date
+processor,8.6.0-SNAPSHOT,+,2017-06-19
+processor,8.6.0-SNAPSHOT,-,2018-05-28
+processor,8.5.1-SNAPSHOT,-,2017-06-19

@@ -1,0 +1,4 @@
+library,version,sign,date
+postgresql,9.1-901.jdbc4,+,2012-04-19
+motech-schedule-testing,0.3-SNAPSHOT,-,2012-04-06
+motech-schedule-testing,0.3-SNAPSHOT,-,2012-09-24

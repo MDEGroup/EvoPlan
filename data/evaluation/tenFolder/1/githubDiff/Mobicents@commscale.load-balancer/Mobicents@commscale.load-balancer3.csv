@@ -1,0 +1,12 @@
+library,version,sign,date
+jain-sip-ri,1.2.327,+,2017-05-22
+jain-sip-ri,1.2.324,-,2017-05-22
+gson,2.3.1,+,2017-02-16
+netty,3.6.2.Final,+,2017-02-16
+netty,3.6.2.Final,+,2017-03-01
+heartbeat-api,10.0.0-SNAPSHOT,+,2017-03-01
+heartbeat-api,11.0.0-SNAPSHOT,-,2017-09-08
+heartbeat-api,10.1.0-SNAPSHOT,-,2017-06-13
+heartbeat-api,9.0.0-SNAPSHOT,-,2017-03-01
+heartbeat-api,9.0.0-SNAPSHOT,+,2017-02-16
+heartbeat-api,10.0.0-SNAPSHOT,-,2017-05-22

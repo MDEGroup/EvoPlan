@@ -1,0 +1,4 @@
+library,version,sign,date
+jetty-server,7.5.4.v20111024,+,2013-06-06
+bcprov-jdk14,1.38,-,2013-06-10
+bcprov-jdk14,1.38,+,2013-06-10

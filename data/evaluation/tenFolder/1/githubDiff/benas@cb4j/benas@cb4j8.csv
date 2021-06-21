@@ -1,0 +1,15 @@
+library,version,sign,date
+slf4j-simple,1.7.30,+,2020-01-15
+slf4j-simple,1.7.30,-,2020-01-19
+slf4j-simple,1.7.30,-,2020-01-20
+slf4j-simple,1.7.30,+,2020-01-19
+easy-batch-core,6.0.0,+,2020-02-07
+easy-batch-core,6.0.0-SNAPSHOT,-,2020-01-19
+easy-batch-core,5.3.0,-,2020-01-15
+hsqldb,2.5.0,-,2020-01-19
+hsqldb,2.3.6,-,2020-01-19
+hsqldb,2.5.0,+,2020-01-19
+quartz,2.3.0,+,2020-01-15
+quartz,2.3.2,-,2020-01-15
+javax.json,1.0.4,-,2020-01-19
+javax.json,1.1.4,+,2020-01-19

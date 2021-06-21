@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.8.2,-,2013-06-30
+junit,4.11,-,2014-02-28
+jackson-databind,2.5.1,+,2014-02-28
+raoa-data,0.1.0-SNAPSHOT,+,2013-05-01
+raoa-data,0.1.0-SNAPSHOT,+,2013-06-30
+raoa-data,0.1.0-SNAPSHOT,-,2013-05-01
+lombok,0.11.8,-,2013-06-30
+lombok,0.11.6,-,2013-06-29
+lombok,1.12.4,-,2014-02-28

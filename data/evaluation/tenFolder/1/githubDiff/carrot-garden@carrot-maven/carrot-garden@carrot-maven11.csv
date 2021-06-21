@@ -1,0 +1,5 @@
+library,version,sign,date
+pax-web-jetty-bundle,1.0.3,+,2011-05-09
+pax-web-jetty-bundle,1.0.3,+,2011-05-30
+org.apache.felix.scr,1.4.0,+,2011-05-30
+org.apache.felix.eventadmin,1.2.10,-,2011-05-30

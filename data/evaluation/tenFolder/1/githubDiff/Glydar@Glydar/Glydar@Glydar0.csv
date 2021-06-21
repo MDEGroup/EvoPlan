@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.11,+,2013-08-25
+junit,4.11,-,2013-08-25
+netty-all,4.0.0.CR9,-,2013-08-27

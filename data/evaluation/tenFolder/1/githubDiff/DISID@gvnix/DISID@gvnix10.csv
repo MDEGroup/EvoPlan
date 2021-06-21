@@ -1,0 +1,11 @@
+library,version,sign,date
+org.apache.felix.scr.annotations,1.2.0,-,2013-04-16
+org.apache.felix.scr.annotations,1.9.8,-,2015-01-29
+org.apache.felix.scr.annotations,1.6.0,-,2015-01-29
+org.apache.felix.scr.annotations,1.2.0,-,2013-02-08
+org.apache.felix.scr.annotations,1.6.0,-,2014-10-08
+org.osgi.core,4.2.0,-,2014-10-08
+org.osgi.core,4.1.0,-,2013-02-08
+org.osgi.core,4.2.0,-,2015-04-09
+org.osgi.compendium,4.2.0,-,2014-10-08
+org.osgi.compendium,4.1.0,-,2013-02-08

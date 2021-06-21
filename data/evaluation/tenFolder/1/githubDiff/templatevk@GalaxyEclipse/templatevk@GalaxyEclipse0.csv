@@ -1,0 +1,6 @@
+library,version,sign,date
+lombok-pg,0.11.3,+,2013-04-09
+guava,14.0.1,+,2013-04-14
+lombok,0.11.6,+,2013-04-09
+netty,3.2.9.Final,-,2013-06-09
+netty,3.2.9.Final,+,2013-06-09

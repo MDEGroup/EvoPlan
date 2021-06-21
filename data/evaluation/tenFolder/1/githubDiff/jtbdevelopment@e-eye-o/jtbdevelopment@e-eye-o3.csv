@@ -1,0 +1,7 @@
+library,version,sign,date
+Interfaces,1.0-SNAPSHOT,+,2014-06-09
+Interfaces,1.0-SNAPSHOT,-,2014-06-09
+javax.servlet-api,3.1.0,-,2014-06-09
+spring-security-config,3.2.0.RELEASE,-,2014-06-09
+spring-tx,4.0.0.RELEASE,-,2014-06-09
+spring-context,4.0.0.RELEASE,-,2014-06-09

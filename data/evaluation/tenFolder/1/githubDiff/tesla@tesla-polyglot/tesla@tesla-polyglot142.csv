@@ -1,0 +1,11 @@
+library,version,sign,date
+polyglot-common,1.0,+,2019-02-23
+java-util,1.19.3,-,2018-03-07
+java-util,1.19.3,-,2018-10-20
+java-util,1.19.3,+,2018-03-07
+java-util,1.19.3,+,2018-10-20
+commons-beanutils,1.9.3,+,2018-10-20
+commons-beanutils,1.9.3,-,2018-03-07
+commons-beanutils,1.9.3,-,2018-10-20
+commons-beanutils,1.9.3,+,2018-03-07
+commons-io,2.6,+,2018-10-20

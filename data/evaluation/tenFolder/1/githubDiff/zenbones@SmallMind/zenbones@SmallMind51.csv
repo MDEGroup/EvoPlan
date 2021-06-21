@@ -1,0 +1,4 @@
+library,version,sign,date
+freemarker,2.3.20,-,2019-03-18
+httpclient,4.4,-,2016-01-13
+httpclient,4.5.1,-,2018-12-19

@@ -1,0 +1,15 @@
+library,version,sign,date
+hessian,4.0.38,+,2017-12-12
+hessian,4.0.51,-,2019-05-21
+hessian,4.0.38,-,2018-07-11
+slf4j-simple,1.7.25,+,2017-12-12
+cayenne-server,4.1.B2,-,2019-05-21
+cayenne-server,{version},+,2017-12-12
+cayenne-server,4.0.RC1,-,2018-07-11
+cayenne-server,4.0.RC1,+,2018-01-26
+cayenne-server,4.1.M2,-,2018-12-26
+mockito-core,2.23.4,-,2019-05-21
+mockito-core,2.8.9,-,2018-01-26
+mockito-core,2.18.3,-,2018-07-11
+cayenne-web,{version},+,2018-07-11
+servlet-api,RELEASE,-,2017-11-01

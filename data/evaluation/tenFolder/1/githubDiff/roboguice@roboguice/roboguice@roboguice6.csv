@@ -1,0 +1,7 @@
+library,version,sign,date
+guice,3.0,+,2014-10-14
+guice,4.0-SNAPSHOT,-,2014-10-14
+guice,4.0-blender-SNAPSHOT,-,2014-10-23
+guice,3.0,+,2014-10-23
+guice,4.0-blender-SNAPSHOT,+,2014-10-23
+guice,3.0,-,2014-10-23

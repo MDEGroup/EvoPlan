@@ -1,0 +1,10 @@
+library,version,sign,date
+gwt-user,2.1.0,-,2011-04-23
+nexus-test-support,1.0-SNAPSHOT,+,2011-03-28
+nexus-test-support,1.0-SNAPSHOT,+,2011-03-27
+nexus-test-support,1.0-SNAPSHOT,-,2011-04-23
+nexus-core,1.0-SNAPSHOT,+,2011-03-27
+nexus-core,1.0-SNAPSHOT,-,2011-04-23
+gwt-dev,2.1.0,-,2011-09-27
+gwt-dev,2.1.0,+,2011-03-28
+gwt-dev,2.1.0,-,2011-04-23

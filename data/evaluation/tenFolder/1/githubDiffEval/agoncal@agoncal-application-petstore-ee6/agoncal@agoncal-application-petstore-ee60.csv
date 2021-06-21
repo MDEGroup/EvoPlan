@@ -1,0 +1,9 @@
+library,version,sign,date
+mockito-all,1.8.5,-,2012-02-15
+mockito-all,1.8.5,+,2012-02-15
+mockito-all,1.8.5,+,2012-02-07
+mockito-all,1.8.5,-,2012-02-18
+bootstrap,2.3.2,-,2013-05-31
+bootstrap,2.3.2,+,2012-09-21
+jquery,1.9.1,-,2013-05-31
+jquery,1.9.1,+,2012-09-21

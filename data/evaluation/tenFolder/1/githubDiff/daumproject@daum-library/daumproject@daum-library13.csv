@@ -1,0 +1,8 @@
+library,version,sign,date
+org.kevoree.extra.marshalling,1.1,+,2013-02-19
+org.kevoree.extra.marshalling,1.1,+,2013-02-08
+org.kevoree.extra.marshalling,1.1,+,2013-02-14
+org.kevoree.library.javase.webserver.api,2.0.0-SNAPSHOT,+,2013-02-19
+org.kevoree.library.javase.webserver.api,2.0.0-SNAPSHOT,-,2013-07-30
+webbit,0.4.7,-,2013-02-19
+webbit,0.4.7,+,2013-02-08

@@ -1,0 +1,12 @@
+library,version,sign,date
+mockito-all,1.9.5,+,2013-12-29
+mockito-all,1.9.5,-,2017-08-30
+junit,4.11,-,2017-08-30
+junit,4.7,+,2010-02-08
+junit,3.8.1,-,2010-01-10
+junit,4.7,-,2013-03-05
+junit,4.10,-,2013-12-28
+junit,4.7,-,2010-02-08
+logback-classic,1.1.3,-,2017-08-30
+logback-classic,1.1.3,+,2014-08-11
+commons-cli,1.4,+,2018-02-04

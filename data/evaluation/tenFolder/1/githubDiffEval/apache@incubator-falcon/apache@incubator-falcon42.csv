@@ -1,0 +1,5 @@
+library,version,sign,date
+falcon-client,0.10-SNAPSHOT,-,2016-04-22
+falcon-client,0.10-SNAPSHOT,+,2016-03-28
+falcon-common,0.10-SNAPSHOT,-,2016-04-22
+falcon-common,0.10-SNAPSHOT,+,2016-03-28

@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,3.8.1,+,2013-01-30
+junit,4.10,+,2013-01-30
+junit,3.8.1,-,2013-01-30
+junit,3.8.1,+,2012-07-20
+junit,3.8.1,+,2012-08-29
+junit,4.10,+,2013-01-23
+junit,3.8.1,+,2012-10-23
+jsr311-api,1.1.1,+,2013-01-30
+jsr311-api,1.1.1,+,2012-10-23
+jsr311-api,1.1.1,+,2012-07-20
+governance-metadata-api,1.0-SNAPSHOT,+,2012-10-23
+governance-metadata-api,1.0-SNAPSHOT,-,2013-01-30
+governance-metadata-api,1.0-SNAPSHOT,+,2013-01-23

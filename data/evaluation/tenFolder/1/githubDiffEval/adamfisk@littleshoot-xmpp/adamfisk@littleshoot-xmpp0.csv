@@ -1,0 +1,5 @@
+library,version,sign,date
+dnssec4j,0.1.5,-,2013-05-14
+dnssec4j,0.1-SNAPSHOT,-,2013-05-14
+dnssec4j,0.1-SNAPSHOT,+,2011-07-07
+dnssec4j,0.1.5,+,2013-05-15

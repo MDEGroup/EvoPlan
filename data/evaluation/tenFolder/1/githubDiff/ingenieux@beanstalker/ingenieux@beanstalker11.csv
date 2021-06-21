@@ -1,0 +1,8 @@
+library,version,sign,date
+maven-core,3.3.9,+,2016-05-02
+maven-core,3.0.4,-,2016-05-02
+maven-plugin-annotations,3.2,-,2016-05-02
+maven-plugin-annotations,3.4,+,2016-05-02
+zjsonpatch,0.2.1,+,2016-05-02
+commons-io,2.1,-,2016-05-02
+commons-io,2.1,+,2016-05-02

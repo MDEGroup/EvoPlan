@@ -1,0 +1,4 @@
+library,version,sign,date
+roxes-win32forjava,1.1.1,+,2012-04-20
+jna,3.0.9,+,2012-08-21
+jna,3.0.9,-,2012-08-21

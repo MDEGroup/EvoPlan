@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.5,-,2013-02-16
+junit,3.8.1,+,2008-10-31
+junit,4.11,+,2013-02-16
+junit,3.8.1,-,2013-02-16

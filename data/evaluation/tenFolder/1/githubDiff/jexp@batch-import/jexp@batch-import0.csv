@@ -1,0 +1,13 @@
+library,version,sign,date
+neo4j-kernel,1.8.M07,-,2012-08-10
+neo4j-kernel,1.8.M05,-,2012-07-01
+neo4j-kernel,1.6.M02,-,2012-01-13
+neo4j-kernel,1.8-SNAPSHOT,-,2012-08-22
+mapdb,0.9.3,+,2013-03-11
+opencsv,2.3,+,2013-03-11
+neo4j-lucene-index,1.8.M07,-,2012-08-10
+neo4j-lucene-index,1.8.M05,-,2012-07-01
+neo4j-lucene-index,1.8.M05,+,2012-01-13
+neo4j-lucene-index,1.8-SNAPSHOT,-,2012-08-22
+mockito-core,1.8.5,+,2012-08-21
+log4j,1.2.17,+,2012-10-22

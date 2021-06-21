@@ -1,0 +1,6 @@
+library,version,sign,date
+slf4j-api,1.7.5,+,2017-09-16
+commons-codec,1.10,-,2019-07-15
+commons-codec,1.10,-,2019-09-03
+commons-codec,1.12,-,2019-09-03
+commons-codec,1.10,+,2017-09-16

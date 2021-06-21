@@ -1,0 +1,6 @@
+library,version,sign,date
+org.osgi.core,4.2.0,-,2012-09-21
+org.osgi.core,1.4.0,-,2012-09-21
+org.osgi.core,4.3.0,+,2012-09-21
+org.osgi.core,4.3.0,-,2012-10-18
+jetty-security,8.0.4.v20111024,-,2012-08-22

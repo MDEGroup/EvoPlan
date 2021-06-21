@@ -1,0 +1,9 @@
+library,version,sign,date
+commons-logging,1.0.4,-,2011-06-28
+commons-logging,1.0.4,-,2009-10-02
+commons-logging,1.0.4,+,2009-10-07
+sakai-velocity-tool,2.7.0-SNAPSHOT,-,2009-10-07
+sakai-velocity-tool,2.8-SNAPSHOT,-,2010-04-22
+sakai-velocity-tool,2.9-SNAPSHOT,-,2010-09-22
+servlet-api,2.4,-,2011-07-19
+servlet-api,2.4,+,2011-06-28

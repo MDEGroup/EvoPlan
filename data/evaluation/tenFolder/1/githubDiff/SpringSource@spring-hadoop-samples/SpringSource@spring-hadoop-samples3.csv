@@ -1,0 +1,8 @@
+library,version,sign,date
+groovy,1.8.5,+,2015-07-28
+groovy,1.8.5,+,2013-12-02
+groovy,1.8.6,+,2014-06-05
+groovy,1.8.5,-,2014-06-05
+groovy,1.8.5,+,2013-08-23
+libfb303,0.9.1,+,2013-12-02
+spring-data-hadoop,2.0.0.RELEASE,+,2014-06-05

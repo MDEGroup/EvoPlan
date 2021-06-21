@@ -1,0 +1,4 @@
+library,version,sign,date
+android,1.0-SNAPSHOT,-,2013-02-24
+gson,2.2.2,+,2013-03-03
+google-play-services,4,+,2013-03-07

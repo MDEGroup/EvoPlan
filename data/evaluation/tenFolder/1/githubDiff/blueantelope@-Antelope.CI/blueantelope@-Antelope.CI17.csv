@@ -1,0 +1,5 @@
+library,version,sign,date
+com.antelope.ci.bus.logger,0.1.0,+,2015-03-27
+com.antelope.ci.bus.gate.ssh,0.1.0,+,2015-03-26
+com.antelope.ci.bus.engine.manager.user,0.1.0,+,2015-03-27
+com.antelope.ci.bus.common,0.1.0,+,2015-03-27

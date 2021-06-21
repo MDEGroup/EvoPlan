@@ -1,0 +1,12 @@
+library,version,sign,date
+akka-actor,2.0.2,+,2012-08-26
+akka-actor,2.0.1,-,2012-08-26
+akka-actor,2.0,-,2012-08-26
+akka-actor,2.0.2,-,2012-08-26
+scalatest_${scala.tools.version},2.1.2,+,2012-08-26
+scalatest_${scala.tools.version},2.0.M5,+,2012-08-26
+akka-testkit,2.0.2,+,2012-08-26
+akka-testkit,2.0.1,-,2012-08-26
+akka-remote,2.0,-,2012-08-26
+akka-remote,2.0.2,+,2012-08-26
+akka-remote,2.0.2,-,2012-08-26

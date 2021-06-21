@@ -1,0 +1,7 @@
+library,version,sign,date
+dropwizard-views,0.3.1,+,2012-04-26
+mongo-jackson-mapper,1.4.2,+,2012-04-24
+hamcrest-core,1.2.1,+,2012-04-29
+mockito-all,1.8.4,+,2012-05-03
+junit,4.10,+,2012-04-29
+selenium-java,2.13.0,+,2012-04-29

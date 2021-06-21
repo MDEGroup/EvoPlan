@@ -1,0 +1,12 @@
+library,version,sign,date
+easymock,3.2-SNAPSHOT,-,2013-03-24
+easymock,3.2,+,2013-03-24
+easymock,3.2-SNAPSHOT,+,2013-02-18
+easymock,2.5.2,-,2013-02-18
+mockwebserver,20121111,-,2013-03-10
+mockwebserver,20130303,+,2013-03-10
+compatibility-v4,18,-,2013-08-10
+compatibility-v4,18,+,2013-03-24
+compatibility-v4,12,+,2013-03-23
+compatibility-v4,12,-,2013-03-24
+mockito-core,1.9.5,+,2013-02-18

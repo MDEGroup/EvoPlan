@@ -1,0 +1,12 @@
+library,version,sign,date
+easymock,2.0,-,2012-02-15
+junit,4.7,-,2012-02-15
+junit,3.8.1,-,2010-11-29
+edlCode,0.0.1-SNAPSHOT,-,2010-11-29
+edlCode,0.0.1-SNAPSHOT,+,2012-02-15
+edlCode,0.0.1-SNAPSHOT,+,2010-11-29
+authentification,0.0.1-SNAPSHOT,-,2010-11-29
+authentification,0.0.1-SNAPSHOT,-,2012-02-15
+authentification,0.0.1-SNAPSHOT,+,2010-11-29
+generiqueUtil,0.0.1-SNAPSHOT,-,2010-11-29
+generiqueUtil,0.0.1-SNAPSHOT,+,2010-11-29

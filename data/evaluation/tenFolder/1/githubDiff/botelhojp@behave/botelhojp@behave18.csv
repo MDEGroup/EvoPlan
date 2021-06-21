@@ -1,0 +1,16 @@
+library,version,sign,date
+hibernate-annotations,3.2.1.ga,+,2013-08-22
+hsqldb,2.0.0,+,2014-01-29
+hsqldb,2.0.0,+,2013-08-02
+persistence-api,1.0,+,2013-08-22
+persistence-api,1.0,+,2013-08-01
+persistence-api,1.0,-,2013-08-02
+demoiselle-behave-runner-fest,1.2.0-SNAPSHOT,-,2013-08-21
+demoiselle-behave-runner-fest,1.x.x,+,2013-08-22
+demoiselle-behave-runner-fest,1.x.x,+,2015-11-16
+demoiselle-behave-runner-fest,1.2.0-SNAPSHOT,-,2013-08-06
+demoiselle-behave-runner-fest,1.2.0-BETA-4,-,2013-08-06
+hibernate,3.2.2.ga,+,2013-08-22
+demoiselle-behave-parser-jbehave,1.2.0-SNAPSHOT,-,2013-08-06
+demoiselle-behave-parser-jbehave,1.2.0-SNAPSHOT,-,2013-08-21
+demoiselle-behave-parser-jbehave,1.2.0-BETA-4,-,2013-08-06

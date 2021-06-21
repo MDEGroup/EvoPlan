@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,3.8.1,+,2013-12-12
+junit,3.8.1,-,2013-12-12
+commons-cli,1.0,+,2013-12-12
+commons-cli,1.0,-,2013-12-12
+commons-cli,1.0,+,2013-12-07
+spring-web,3.2.4.RELEASE,+,2013-12-07
+spring-web,3.2.4.RELEASE,+,2013-12-12
+spring-web,3.2.4.RELEASE,-,2013-12-12
+jersey-client,2.4.1,-,2013-12-12
+jersey-client,2.4.1,+,2013-12-12

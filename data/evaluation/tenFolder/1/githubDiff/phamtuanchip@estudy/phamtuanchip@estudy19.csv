@@ -1,0 +1,13 @@
+library,version,sign,date
+commons-pool,1.5.5,+,2013-10-25
+commons-pool,1.5.5,-,2013-10-25
+estudy-webservice,1.0-SNAPSHOT,+,2013-10-21
+exo.portal.component.web.api,3.6.4.Final-SNAPSHOT,+,2013-10-25
+estudy-juzu-services,1.0-SNAPSHOT,+,2013-10-25
+quartz,2.1.6,-,2013-10-25
+quartz,2.1.6,+,2013-10-25
+quartz,2.1.6,+,2013-10-21
+commons-dbcp,1.2.2,-,2013-10-25
+commons-dbcp,1.2.2,+,2013-10-25
+portlet-api,1.0,+,2013-10-23
+welcome,1.0-SNAPSHOT,+,2013-10-23

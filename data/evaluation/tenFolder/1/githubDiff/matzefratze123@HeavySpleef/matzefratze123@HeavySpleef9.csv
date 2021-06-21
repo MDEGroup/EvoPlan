@@ -1,0 +1,9 @@
+library,version,sign,date
+poly2tri,0.1.0-SNAPSHOT,-,2015-06-18
+poly2tri,0.1.0-SNAPSHOT,+,2015-06-18
+poly2tri,0.1.1-SNAPSHOT,-,2015-03-21
+poly2tri,0.1.1-SNAPSHOT,+,2015-03-15
+metrics,R8-SNAPSHOT,-,2015-06-18
+metrics,R8-SNAPSHOT,+,2015-03-21
+metrics,R8-SNAPSHOT,+,2015-06-18
+fawe-api,latest,+,2017-04-04

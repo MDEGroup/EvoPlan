@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,3.8.1,-,2012-10-24
+junit,4.10,+,2012-10-24
+jgroups,3.0.3.Final,+,2012-10-24
+guava,11.0.1,+,2012-10-24

@@ -1,0 +1,16 @@
+library,version,sign,date
+sakairsf,0.7.5,+,2012-12-03
+sakairsf,0.7.5,-,2013-07-17
+sakairsf,0.7.5,+,2013-07-17
+spring-webmvc,2.5.6.SEC01,+,2010-07-20
+spring-webmvc,2.5.6.SEC01,-,2010-06-09
+spring-webmvc,2.5.6.SEC01,-,2013-07-17
+mailsender-api,1.7.0-a01,-,2011-10-15
+mailsender-api,1.7.0-a01,+,2011-10-15
+commons-logging,1.1.1,+,2011-09-22
+commons-logging,1.1,-,2010-07-20
+commons-logging,1.1,+,2010-06-09
+commons-logging,1.1,-,2010-06-09
+commons-logging,1.1.1,-,2011-09-22
+commons-logging,1.1.1,+,2010-07-20
+commons-logging,1.1.1,-,2013-05-31

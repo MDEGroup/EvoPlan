@@ -1,0 +1,14 @@
+library,version,sign,date
+mockobjects-core,0.09,+,2009-10-30
+mockobjects-core,0.09,-,2009-08-01
+mockobjects-core,0.09,+,2008-06-27
+mockobjects-core,0.09,+,2009-08-01
+mockobjects-core,0.09,-,2009-10-30
+commons-codec,1.8,+,2013-06-17
+commons-httpclient,3.1,-,2009-08-01
+commons-httpclient,3.1,+,2009-10-30
+commons-httpclient,3.1,-,2009-10-30
+commons-httpclient,3.1,+,2009-05-31
+commons-httpclient,3.1,+,2009-08-01
+twitter4j-async,3.0.3,-,2013-06-18
+twitter4j-async,3.0.3,+,2012-04-06

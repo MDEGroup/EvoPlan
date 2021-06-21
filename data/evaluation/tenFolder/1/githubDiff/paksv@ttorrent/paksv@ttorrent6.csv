@@ -1,0 +1,7 @@
+library,version,sign,date
+ttorrent-common,1.2,+,2018-02-19
+ttorrent-common,1.2,+,2018-02-21
+ttorrent-network,1.0,+,2018-02-19
+ttorrent-bencoding,1.2,+,2018-02-19
+ttorrent-bencoding,1.2,+,2018-02-21
+ttorrent-test-api,1.0,+,2018-02-21

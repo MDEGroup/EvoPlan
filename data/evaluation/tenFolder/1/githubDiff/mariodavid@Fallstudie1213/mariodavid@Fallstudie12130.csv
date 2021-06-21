@@ -1,0 +1,15 @@
+library,version,sign,date
+google-http-client,1.9.0-beta,+,2012-11-27
+luposdate.gui,1.0-SNAPSHOT,+,2012-09-12
+luposdate.gui,1.0-SNAPSHOT,-,2012-09-12
+jcl-over-slf4j,1.5.8,+,2012-09-12
+luposdate.operatorgraph,1.0-SNAPSHOT,+,2012-09-12
+luposdate.operatorgraph,1.0-SNAPSHOT,-,2012-09-12
+json,20090211,+,2012-10-23
+json,20090211,+,2012-11-27
+TomP2P,4.2,-,2012-11-12
+TomP2P,4.2,-,2012-11-07
+TomP2P,4.2,+,2012-11-07
+TomP2P,4.0.7,-,2012-06-19
+httpclient,4.2,+,2012-11-27
+netty,3.5.3.Patched,+,2012-11-12

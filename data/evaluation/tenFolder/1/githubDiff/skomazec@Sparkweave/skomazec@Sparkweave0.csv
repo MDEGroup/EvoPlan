@@ -1,0 +1,4 @@
+library,version,sign,date
+spark-core,1.0-SNAPSHOT,+,2012-04-20
+spark-core,1.0-SNAPSHOT,-,2012-04-24
+spark-core,1.0-SNAPSHOT,+,2012-04-24

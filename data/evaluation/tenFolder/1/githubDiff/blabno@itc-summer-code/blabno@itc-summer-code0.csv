@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.11,-,2013-07-01
+arquillian-graphene,2.0.0.Alpha2,+,2013-07-01
+arquillian-junit-standalone,1.0.3.Final,+,2013-07-01
+graphene-webdriver,2.0.0.Alpha3,+,2013-07-01

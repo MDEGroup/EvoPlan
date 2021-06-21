@@ -1,0 +1,11 @@
+library,version,sign,date
+jstl,1.2,-,2013-11-13
+jstl,1.2,+,2013-11-13
+spring-data-jpa,1.4.2.RELEASE,+,2013-11-13
+spring-data-jpa,1.4.2.RELEASE,-,2013-11-13
+mysql-connector-java,5.1.27,-,2013-11-13
+mysql-connector-java,5.1.27,+,2013-11-13
+hibernate-validator,5.0.1.Final,-,2013-11-13
+hibernate-validator,5.0.1.Final,+,2013-11-13
+druid,1.0.0,-,2013-11-13
+druid,1.0.0,+,2013-11-13

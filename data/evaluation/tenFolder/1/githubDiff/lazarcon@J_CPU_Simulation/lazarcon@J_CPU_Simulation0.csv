@@ -1,0 +1,6 @@
+library,version,sign,date
+mockito-all,1.9.0,+,2013-10-15
+junit,3.8.1,-,2013-10-15
+junit,4.8.2,+,2013-10-15
+slf4j-log4j12,1.6.4,+,2013-10-15
+commons-cli,1.2,+,2013-10-15

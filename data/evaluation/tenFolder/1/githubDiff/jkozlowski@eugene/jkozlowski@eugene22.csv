@@ -1,0 +1,11 @@
+library,version,sign,date
+utils,0.5-SNAPSHOT,+,2012-01-30
+utils,0.5-SNAPSHOT,-,2012-01-31
+utils,0.7-SNAPSHOT,-,2012-02-20
+utils,0.6-SNAPSHOT,-,2012-02-15
+jade-unit,0.5-SNAPSHOT,-,2012-01-31
+jade-unit,0.7-SNAPSHOT,-,2012-02-20
+jade-unit,0.6-SNAPSHOT,-,2012-02-15
+ontology,0.5-SNAPSHOT,-,2012-01-31
+ontology,0.7-SNAPSHOT,-,2012-02-20
+ontology,0.6-SNAPSHOT,-,2012-02-15

@@ -1,0 +1,31 @@
+library,version,sign,date
+junit,4.8.1,+,2013-01-21
+junit,4.8.1,+,2012-01-26
+junit,4.8.1,-,2012-01-26
+junit,4.8.1,-,2013-01-21
+junit,4.8.1,+,2012-01-11
+cxf-rt-frontend-jaxws,2.5.1,-,2012-01-26
+cxf-rt-frontend-jaxws,2.5.1,+,2012-01-26
+spring-core,3.1.0.RELEASE ,-,2012-01-26
+spring-core,3.1.0.RELEASE ,+,2012-01-26
+spring-core,3.1.0.RELEASE,+,2012-01-26
+spring-core,3.1.0.RELEASE ,+,2012-01-11
+drools-mas-acl,1.0.Final,+,2012-01-26
+drools-mas-core,1.0.Final,+,2012-01-26
+jsp-api,2.1,-,2012-01-26
+jsp-api,2.1,+,2012-01-26
+drools-mas-generic-client,1.0.Final,-,2013-01-21
+drools-mas-generic-client,1.0.Final,+,2013-01-21
+drools-mas-generic-client,1.0-SNAPSHOT,+,2012-01-11
+drools-mas-generic-client,1.0-SNAPSHOT,-,2012-01-26
+drools-mas-generic-client,1.0.Final,+,2012-01-26
+h2,1.3.163,+,2012-01-26
+h2,1.3.162,+,2013-01-21
+cxf-rt-transports-http-jetty,2.5.1,+,2013-01-21
+cxf-rt-transports-http-jetty,2.5.1,+,2012-01-26
+cxf-rt-transports-http,2.5.1,-,2012-01-26
+cxf-rt-transports-http,2.5.1,+,2012-01-26
+spring-web,3.1.0.RELEASE ,-,2012-01-26
+spring-web,3.1.0.RELEASE ,+,2012-01-26
+servlet-api,2.5,+,2012-01-26
+servlet-api,2.5,-,2012-01-26

@@ -1,0 +1,8 @@
+library,version,sign,date
+hibernate-validator,4.2.0.Final,-,2012-07-03
+mysql-connector-java,5.1.18,-,2012-07-03
+postgresql,9.0-801.jdbc4,-,2012-07-03
+spring-mobile-device,1.0.0.M3,-,2012-07-03
+log4j,1.2.16,-,2012-07-03
+ehcache-core,2.5.0,-,2012-07-03
+servlet-api,2.5,+,2012-09-15

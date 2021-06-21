@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.12,+,2020-03-06
+junit,4.12,+,2019-10-30
+spf4j-core,8.1.0-SNAPSHOT,-,2016-09-11
+spf4j-core,LATEST,-,2017-07-18
+spf4j-core,8.1.5,-,2017-04-04

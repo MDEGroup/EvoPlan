@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.8.1,+,2017-09-12
+junit,4.8.1,-,2017-09-20
+slf4j-simple,1.7.24,+,2017-03-01
+groovy-all,1.8.6,-,2017-03-01

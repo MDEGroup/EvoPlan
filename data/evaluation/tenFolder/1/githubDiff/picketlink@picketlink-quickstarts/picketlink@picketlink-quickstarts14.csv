@@ -1,0 +1,13 @@
+library,version,sign,date
+picketlink-jbas7,2.7.1.Final,+,2015-12-17
+picketlink-jbas7,2.7.0-SNAPSHOT,-,2014-10-31
+picketlink-jbas7,2.7.1.Final-SNAPSHOT,+,2015-02-28
+picketlink-jbas7,2.7.0.CR3,-,2014-12-24
+picketlink-jbas7,2.7.2.Final-SNAPSHOT,+,2015-12-17
+picketlink-jbas7,2.7.0-SNAPSHOT,-,2015-01-09
+picketlink-jbas7,2.7.1.Final,-,2015-12-17
+picketlink-jbas7,2.8.0.Beta1-SNAPSHOT,-,2015-02-28
+picketlink-jbas7,2.8.0.Beta1-SNAPSHOT,+,2015-01-09
+picketlink-jbas7,2.7.1.Final-SNAPSHOT,-,2015-12-17
+picketlink-jbas7,2.7.0.CR3,+,2014-10-31
+picketlink-jbas7,2.7.0-SNAPSHOT,+,2014-12-24

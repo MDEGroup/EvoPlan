@@ -1,0 +1,5 @@
+library,version,sign,date
+hibernate-jpa-2.0-api,1.0.1.Final,+,2012-03-14
+hibernate-jpa-2.0-api,1.0.1.Final,-,2012-03-15
+jboss-seam,@seam.version@,-,2011-06-03
+jboss-seam,2.2.0.GA,-,2012-06-04

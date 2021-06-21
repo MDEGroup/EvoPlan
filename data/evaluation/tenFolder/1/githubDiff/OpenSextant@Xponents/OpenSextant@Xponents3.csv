@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.12,-,2019-07-23
+junit,4.12,-,2020-04-21
+logback-classic,1.2.3,-,2019-07-23
+jodd-json,5.0.10,-,2019-07-25
+jodd-json,5.0.10,-,2019-07-23
+commons-lang3,3.7,-,2019-07-23

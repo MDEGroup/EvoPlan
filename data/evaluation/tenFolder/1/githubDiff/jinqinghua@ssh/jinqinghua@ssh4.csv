@@ -1,0 +1,5 @@
+library,version,sign,date
+spring-data-jpa,1.4.2.RELEASE,-,2013-12-11
+spring-data-jpa,1.4.3.RELEASE,+,2013-12-11
+hibernate-validator,5.0.1.Final,-,2013-12-11
+hibernate-validator,5.0.2.Final,+,2013-12-11

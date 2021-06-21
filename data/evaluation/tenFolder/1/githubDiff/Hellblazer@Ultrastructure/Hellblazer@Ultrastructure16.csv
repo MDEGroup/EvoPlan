@@ -1,0 +1,5 @@
+library,version,sign,date
+antlr4-runtime,4.5.1,-,2017-04-02
+antlr4-runtime,4.5.2,-,2017-04-09
+logback-classic,1.1.7,-,2017-05-20
+javax.activation,1.2.0,+,2017-05-20

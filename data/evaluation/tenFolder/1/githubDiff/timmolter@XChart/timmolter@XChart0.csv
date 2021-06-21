@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,4.12,-,2019-12-25
+junit,4.12,+,2017-04-14
+junit,4.12,-,2019-02-08
+junit,4.12,+,2019-02-08
+junit,4.11,+,2013-01-15
+junit,4.12,-,2018-03-29
+junit,4.12,-,2017-04-14
+junit,4.11,-,2015-09-30
+junit,4.12,+,2018-03-29
+fest-assert-core,2.0M10,+,2019-02-08
+fest-assert-core,2.0M10,+,2018-03-29
+fest-assert-core,2.0M10,+,2017-04-14
+fest-assert-core,2.0M10,-,2017-04-14
+fest-assert-core,2.0M10,+,2015-02-14
+fest-assert-core,2.0M10,-,2019-02-08
+fest-assert-core,2.0M10,-,2018-03-29

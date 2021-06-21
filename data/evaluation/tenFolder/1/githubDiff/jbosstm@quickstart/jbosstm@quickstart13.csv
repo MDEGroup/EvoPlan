@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.8.1,-,2018-07-05
+junit,4.8.2,-,2018-07-05
+junit,4.8.1,-,2017-10-19
+junit,4.6,-,2018-07-05
+jboss-transaction-spi,7.5.2.Final,+,2017-10-19
+jboss-transaction-spi,7.5.2.Final,+,2017-03-10
+jboss-transaction-spi,7.3.4.Final,-,2016-09-12
+jboss-transaction-spi,7.5.2.Final,-,2017-10-19
+jboss-transaction-spi,7.5.0.Final,+,2017-01-20
+jboss-transaction-spi,7.5.2.Final,-,2017-06-21
+jboss-transaction-spi,7.6.0.Final,+,2017-09-20
+jboss-transaction-spi,7.5.0.Final,-,2017-03-10
+jboss-transaction-spi,7.1.1.Final,-,2016-08-12

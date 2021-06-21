@@ -1,0 +1,12 @@
+library,version,sign,date
+ant-junit,1.8.2,+,2012-04-18
+ant-junit,1.8.2,-,2012-09-05
+maven-plugin-annotations,3.3,+,2014-09-30
+maven-plugin-annotations,3.3,-,2016-10-12
+ant,1.8.2,-,2015-04-09
+ant,1.8.2,-,2012-09-05
+dom4j,2.0.2,-,2018-09-10
+dom4j,1.6.1,-,2012-09-05
+dom4j,1.6.1,+,2012-09-05
+dom4j,1.6.1,-,2018-05-09
+maven-common-artifact-filters,1.4,-,2016-10-12

@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,[4,),+,2012-02-25
+hamcrest-library,[1.3,),+,2014-04-22
+mockito-core,[1.9.5,),+,2014-04-22

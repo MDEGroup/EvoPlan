@@ -1,0 +1,9 @@
+library,version,sign,date
+utils-dataunit-rdf,1.2.1,-,2015-02-24
+utils-dataunit,1.2.0,-,2015-02-24
+boost-dpu,1.1.5,-,2015-02-24
+utils-dataunit-files,1.2.1,-,2015-02-24
+service-serialization-rdf,1.1.2,-,2015-02-24
+service-serialization-xml,1.1.1,-,2015-02-24
+uv-dataunit-helpers,1.3.0,+,2015-02-24
+utils-dialog,1.1.1,-,2015-02-24

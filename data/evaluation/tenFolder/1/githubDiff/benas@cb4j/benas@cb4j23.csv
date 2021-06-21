@@ -1,0 +1,5 @@
+library,version,sign,date
+easy-batch-core,6.0.0-SNAPSHOT,-,2020-01-15
+easy-batch-core,5.3.0,-,2020-01-15
+jaxb-impl,2.1,+,2020-01-15
+jaxb-impl,2.1,-,2020-01-15

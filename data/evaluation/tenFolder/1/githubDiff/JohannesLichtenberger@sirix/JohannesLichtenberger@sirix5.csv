@@ -1,0 +1,15 @@
+library,version,sign,date
+xercesImpl,2.6.2,+,2013-08-23
+xercesImpl,2.6.2,-,2013-08-23
+sirix-core,0.1.1-SNAPSHOT,-,2012-09-27
+sirix-core,0.1.2-SNAPSHOT,+,2012-09-30
+sirix-core,0.1.2-SNAPSHOT,-,2013-08-23
+sirix-core,0.1.2-SNAPSHOT,+,2013-08-23
+sirix-core,0.1.0,-,2012-09-27
+hadoop-core,0.20.2-cdh3u2,-,2013-08-23
+hadoop-core,0.20.2-cdh3u2,+,2013-08-23
+Saxon-HE,9.4,+,2013-08-23
+hadoop-test,0.20.2-cdh3u2,-,2013-08-23
+hadoop-test,0.20.2-cdh3u2,+,2013-08-23
+hadoop-mrunit,0.20.2-737,-,2013-08-23
+hadoop-mrunit,0.20.2-737,+,2013-08-23

@@ -1,0 +1,12 @@
+library,version,sign,date
+playerglobal,%{player.version},-,2014-03-01
+playerglobal,10.0,-,2014-03-01
+playerglobal,%{flash.version},+,2014-03-01
+playerglobal,11.1,+,2014-03-01
+framework,4.8.0.1359417,+,2014-03-01
+framework,%{air.version},+,2014-03-01
+framework,2.0.1.180927,-,2014-03-01
+framework,%{flex.version},+,2014-03-01
+framework,%{flex.version},-,2014-03-01
+copy-swf,1.0-SNAPSHOT,+,2014-03-01
+copy-swf,1.0-SNAPSHOT,-,2014-03-01

@@ -1,0 +1,14 @@
+library,version,sign,date
+commons-logging,1.0.4,-,2009-10-02
+commons-logging,1.0.4,+,2009-05-21
+commons-logging,1.0.4,+,2009-10-07
+commons-logging,1.0.4,-,2010-09-22
+sakai-site-manage-util,2.7.0-SNAPSHOT,-,2009-10-07
+sakai-site-manage-util,2.8-SNAPSHOT,-,2009-11-22
+sakai-site-manage-util,2.9-SNAPSHOT,-,2010-09-22
+commons-lang,2.6,+,2010-09-22
+commons-lang,2.1,+,2009-10-05
+commons-lang,2.6,-,2011-12-15
+commons-lang,2.1,-,2009-05-21
+commons-lang,2.1,-,2010-09-22
+commons-lang,2.1,-,2009-11-22

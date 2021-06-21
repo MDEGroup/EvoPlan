@@ -1,0 +1,4 @@
+library,version,sign,date
+org.kevoree.maven.resolver,3-SNAPSHOT,+,2013-11-13
+org.kevoree.maven.resolver,3-SNAPSHOT,-,2013-11-18
+org.kevoree.maven.resolver,3,-,2013-11-20

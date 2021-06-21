@@ -1,0 +1,4 @@
+library,version,sign,date
+uima-morph-opencorpora,0.3-SNAPSHOT,+,2014-04-07
+commons-io,2.3,-,2013-03-25
+mockito-core,1.9.5,+,2013-03-22

@@ -1,0 +1,8 @@
+library,version,sign,date
+lombok-pg,0.11.3,+,2013-11-10
+org.eclipse.jdt.core,3.6.2.v_A76_R36x,+,2013-04-19
+artemis-odb,0.3.0-SNAPSHOT,-,2013-04-19
+artemis-odb,0.3.2,-,2013-05-19
+artemis-odb,0.3.4,-,2013-11-10
+artemis-odb,0.3.2,+,2013-04-20
+metainf-services,1.1,+,2013-04-19

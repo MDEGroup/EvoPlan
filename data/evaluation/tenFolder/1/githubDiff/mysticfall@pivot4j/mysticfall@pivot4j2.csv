@@ -1,0 +1,14 @@
+library,version,sign,date
+eigenbase-xom,1.3.1,-,2013-09-01
+pentaho-connections,TRUNK-SNAPSHOT,-,2013-07-05
+pentaho-connections,5.0.0,-,2013-09-01
+pentaho-platform-core,TRUNK-SNAPSHOT,-,2013-07-05
+pentaho-platform-core,5.0.0,-,2013-09-01
+javax.el-api,2.2.2,-,2013-09-01
+pentaho-platform-extensions,TRUNK-SNAPSHOT,-,2013-07-05
+pentaho-platform-extensions,5.0.0,-,2013-09-01
+pentaho-platform-api,5.0.0,+,2013-07-05
+pentaho-platform-api,5.0.0,-,2013-09-01
+myfaces-impl,2.1.10,-,2013-09-01
+myfaces-api,2.1.10,-,2013-09-01
+servlet-api,2.5,-,2013-09-01

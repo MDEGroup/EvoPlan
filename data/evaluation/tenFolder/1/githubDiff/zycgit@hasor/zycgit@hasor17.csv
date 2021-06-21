@@ -1,0 +1,16 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,+,2020-02-29
+hasor-web,4.1.5,-,2020-05-09
+hasor-web,4.1.4,-,2020-05-06
+hasor-web,4.1.2,-,2020-03-28
+hasor-web,4.1.1,-,2020-02-28
+hasor-web,4.1.3,+,2020-03-28
+hasor-web,4.1.2,+,2020-02-28
+hasor-web,4.1.3,-,2020-04-22
+spring-context,2.5.6,-,2020-02-22
+hasor-core,4.1.5,-,2020-05-09
+hasor-core,4.1.4,-,2020-05-06
+hasor-core,4.1.2,-,2020-03-28
+hasor-core,4.1.1,-,2020-02-28
+hasor-core,4.1.3,+,2020-03-28
+hasor-core,4.1.3,-,2020-04-22

@@ -1,0 +1,6 @@
+library,version,sign,date
+logback-classic,1.0.13,+,2013-10-06
+logback-classic,1.0.13,-,2013-10-06
+camel-core,2.11.1,-,2013-10-06
+guava,15.0,+,2013-10-06
+guava,14.0.1,-,2013-10-06

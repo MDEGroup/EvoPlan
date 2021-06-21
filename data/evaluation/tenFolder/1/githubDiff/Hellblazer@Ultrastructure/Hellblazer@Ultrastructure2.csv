@@ -1,0 +1,10 @@
+library,version,sign,date
+controlsfx,8.40.12,+,2017-03-24
+postgresql-embedded,2.10,+,2017-05-20
+postgresql-embedded,1.22,-,2017-04-15
+postgresql-embedded,2.10,-,2019-01-02
+postgresql-embedded,1.22,+,2017-03-24
+postgresql-embedded,1.22,+,2017-04-15
+postgresql-embedded,1.22,-,2017-05-20
+commons-beanutils,1.9.2,-,2017-05-20
+commons-beanutils,1.9.3,+,2017-05-20

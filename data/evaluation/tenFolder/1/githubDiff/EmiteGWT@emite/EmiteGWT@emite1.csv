@@ -1,0 +1,6 @@
+library,version,sign,date
+emite,0.7-SNAPSHOT,-,2011-08-15
+emite,0.7-SNAPSHOT,+,2011-07-18
+emite,0.7-SNAPSHOT,-,2011-07-18
+gin,1.5.0,+,2011-07-18
+gin,1.5.0,-,2011-07-18

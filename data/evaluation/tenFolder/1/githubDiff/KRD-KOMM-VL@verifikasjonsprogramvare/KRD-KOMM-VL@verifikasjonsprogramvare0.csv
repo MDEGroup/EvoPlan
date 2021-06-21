@@ -1,0 +1,8 @@
+library,version,sign,date
+commons-codec,1.5,-,2013-08-05
+postgresql,9.0-801.jdbc4,-,2013-08-05
+postgresql,9.1-901.jdbc4,-,2013-08-28
+jackson-mapper-asl,1.9.2,+,2013-08-16
+testng,6.0.1,-,2013-08-05
+opensaml,2.5.1-1,+,2013-08-16
+log4j,1.2.16,-,2013-08-05

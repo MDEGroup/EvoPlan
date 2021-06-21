@@ -1,0 +1,14 @@
+library,version,sign,date
+commons-cli,1.2,+,2013-07-11
+commons-cli,1.2,+,2013-07-08
+commons-logging,1.1.1,+,2013-07-08
+commons-logging,1.1.1,+,2013-07-11
+hadoop-common,2.0.0-cdh4.2.1,-,2013-07-11
+hadoop-common,2.0.0-cdh4.2.1,+,2013-07-11
+hadoop-common,2.0.0-cdh4.3.0,+,2013-07-11
+hbase,0.90.4-cdh3u3,+,2013-07-11
+hbase,0.94.2-cdh4.2.1,+,2013-07-08
+hbase,0.94.2-cdh4.2.1,-,2013-07-11
+hbase,0.94.6-cdh4.3.0,+,2013-07-11
+log4j,1.2.17,+,2013-07-05
+log4j,1.2.17,+,2013-07-11

@@ -1,0 +1,6 @@
+library,version,sign,date
+gson,2.2.2,-,2012-07-24
+gson,2.2.2,+,2012-07-24
+gson,2.2.2,+,2012-07-21
+nagini,1.0.0-SNAPSHOT,-,2012-07-21
+nagini,1.0.0-SNAPSHOT,+,2012-07-21

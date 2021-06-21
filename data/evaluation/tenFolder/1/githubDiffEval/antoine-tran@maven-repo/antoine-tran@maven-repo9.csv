@@ -1,0 +1,11 @@
+library,version,sign,date
+slf4j-api,1.6.4,+,2013-04-04
+junit,4.11,+,2013-04-04
+junit,4.10,+,2013-04-04
+jsr305,2.0.1,+,2013-04-04
+utils,0.2-SNAPSHOT,+,2013-04-04
+tuan4j-core,0.2-beta1,+,2013-04-04
+tuan4j-core,0.2-beta1,+,2013-04-03
+guava,13.0.1,-,2013-04-04
+guava,14.0.1,+,2013-04-04
+commons-math3,3.0,+,2013-04-04

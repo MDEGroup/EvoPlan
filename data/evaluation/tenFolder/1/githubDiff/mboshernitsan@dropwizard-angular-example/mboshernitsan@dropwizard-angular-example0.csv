@@ -1,0 +1,12 @@
+library,version,sign,date
+angular-ui-bootstrap,0.6.0,+,2013-09-27
+mongo-java-driver,2.11.3,+,2013-10-01
+validation-api,1.1.0.Final,+,2013-10-01
+assertj-core,1.4.0,+,2013-10-03
+underscorejs,1.5.1,+,2013-09-27
+angularjs,1.2.0rc1,+,2013-09-27
+morphia,0.105,+,2013-10-01
+fongo,1.2.0,+,2013-10-03
+dropwizard-testing,0.7.0-SNAPSHOT,+,2013-10-03
+morphia-validation,0.105,+,2013-10-01
+de.flapdoodle.embed.mongo,1.40,+,2013-10-03

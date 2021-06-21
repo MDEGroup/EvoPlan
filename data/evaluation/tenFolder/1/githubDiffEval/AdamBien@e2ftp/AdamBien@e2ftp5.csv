@@ -1,0 +1,7 @@
+library,version,sign,date
+javaee-api,7.0,+,2013-08-06
+javaee-api,7.0,+,2013-07-11
+ftpservice,0.0.2,-,2013-08-24
+ftpservice,0.0.2-SNAPSHOT,-,2013-08-06
+ftpservice,0.0.2-SNAPSHOT,-,2013-08-24
+ftpservice,0.0.2-SNAPSHOT,+,2013-07-11

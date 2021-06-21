@@ -1,0 +1,6 @@
+library,version,sign,date
+jersey-grizzly2,1.8-SNAPSHOT,-,2011-11-02
+javax.servlet-api,3.0.1,-,2013-04-08
+grizzly-http-servlet,2.2.4,-,2012-06-25
+grizzly-http-servlet,2.2.1,-,2012-03-05
+grizzly-http-servlet,2.1.2,-,2011-12-09

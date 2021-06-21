@@ -1,0 +1,9 @@
+library,version,sign,date
+javacimpl,0.1-SNAPSHOT,+,2014-02-18
+javacimpl,0.1-SNAPSHOT,-,2017-09-03
+javacapi,0.1-SNAPSHOT,+,2014-02-18
+javacapi,0.1-SNAPSHOT,-,2017-09-03
+testng,6.7,+,2014-11-27
+testng,6.5.2,-,2017-08-19
+testng,6.7,-,2017-09-03
+testng,6.7,+,2013-10-12

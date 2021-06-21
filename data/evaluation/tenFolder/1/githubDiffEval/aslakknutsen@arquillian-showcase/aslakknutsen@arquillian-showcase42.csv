@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.8.1,-,2011-07-19
+junit,4.8.1,+,2011-07-17
+resteasy-jaxrs,2.0-beta-2,-,2010-08-31
+resteasy-jaxrs,2.0.1.GA,-,2010-09-16
+hibernate-jpamodelgen,1.1.1.Final,+,2011-04-25
+hibernate-jpamodelgen,1.0.0.Final,-,2010-09-22
+hibernate-jpamodelgen,1.1.1.Final,-,2011-04-25
+hibernate-jpamodelgen,1.0.0.Final,+,2010-08-23

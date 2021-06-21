@@ -1,0 +1,7 @@
+library,version,sign,date
+org.semanticweb.hermit,1.3.8.2,+,2013-04-11
+owlapi-tools,3.4.2,-,2013-04-11
+owlapi-impl,3.4.2,-,2013-04-11
+owlapi-api,3.4.2,-,2013-04-11
+owlapi-parsers,3.4.2,-,2013-04-11
+owlapi-apibinding,3.4.2,-,2013-04-11

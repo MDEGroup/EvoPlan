@@ -1,0 +1,7 @@
+library,version,sign,date
+framework,1.6.1,-,2013-02-21
+framework,1.6.1-SNAPSHOT,-,2012-10-06
+commons-cli,1.2,-,2013-02-22
+commons-cli,1.2,+,2013-02-22
+model-bpel,1.6.1,-,2013-02-21
+model-bpel,1.6.1-SNAPSHOT,-,2012-10-06

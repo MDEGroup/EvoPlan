@@ -1,0 +1,16 @@
+library,version,sign,date
+persistence-api,1.0,-,2010-01-30
+persistence-api,1.0,+,2011-08-19
+persistence-api,1.0,+,2009-11-09
+persistence-api,1.0,-,2010-05-03
+persistence-api,1.0,-,2011-08-19
+persistence-api,1.0,+,2010-01-30
+persistence-api,1.0,-,2009-11-09
+persistence-api,1.0,+,2010-05-03
+hibernate-all,1.0.0.Alpha9,-,2010-01-30
+hibernate-all,1.0.0.Alpha9,+,2009-11-09
+hibernate-all,1.0.0.Alpha9,-,2011-08-19
+hibernate-all,1.0.0.Alpha9,+,2010-01-30
+hibernate-all,1.0.0.Alpha9,+,2010-05-03
+hibernate-all,1.0.0.Alpha9,-,2009-11-09
+hibernate-all,1.0.0.Alpha9,+,2011-08-19

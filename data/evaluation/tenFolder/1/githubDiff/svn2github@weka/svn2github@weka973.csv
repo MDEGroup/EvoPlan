@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.5,+,2014-01-20
+junit,4.5,-,2014-01-20
+hadoop-core,[1.1.2,1.2.1],-,2014-01-20
+hadoop-core,[1.1.2,1.2.1],+,2014-01-20
+distributedWekaBase,[1.0.2,),+,2014-01-20
+distributedWekaBase,[1.0.2,),-,2014-01-20
+weka-dev,[3.7.10,),+,2014-01-20
+weka-dev,[3.7.10,),-,2014-01-20

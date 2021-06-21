@@ -1,0 +1,14 @@
+library,version,sign,date
+jsonld-java,1.0.0-SNAPSHOT,-,2013-05-07
+jsonld-java,0.1-SNAPSHOT,-,2013-05-18
+junit,4.11,-,2013-05-07
+junit,4.11,+,2013-05-07
+sesame-model,2.7.0-beta2,-,2013-03-07
+sesame-model,2.7.0-beta2,-,2013-02-06
+sesame-model,2.7.0-beta3-SNAPSHOT,-,2013-03-04
+sesame-model,2.6.4,-,2013-05-07
+sesame-model,2.7.0,-,2013-05-07
+sesame-rio-api,2.7.0-beta2,-,2013-03-07
+sesame-rio-api,2.7.0-beta3-SNAPSHOT,-,2013-03-04
+sesame-rio-api,2.7.0,-,2013-05-07
+sesame-rio-api,2.7.0-beta3-SNAPSHOT,+,2013-02-06

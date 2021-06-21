@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,3.8.1,+,2012-05-31
+junit,4.8.2,-,2012-07-03
+junit,4.8.2,-,2012-06-12
+junit,3.8.1,-,2012-06-19
+junit,4.8.2,-,2012-03-30
+junit,4.8.2,+,2012-07-03
+junit,4.8.2,+,2012-06-12
+commons-lang,2.5,+,2012-06-04
+commons-lang,2.5,+,2012-04-05
+commons-lang,2.5,-,2012-06-12
+commons-lang,2.5,-,2012-07-03
+commons-lang,2.5,+,2012-06-12
+commons-lang,2.5,+,2012-03-30
+bcprov-jdk15on,1.46,+,2012-06-12
+bcprov-jdk15on,1.46,+,2012-05-31
+bcprov-jdk15on,1.46,-,2012-06-12

@@ -1,0 +1,13 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2012-06-15
+com.conx.logistics.mdm.domain,1.0.0,+,2012-06-15
+com.conx.logistics.mdm.domain,1.0.0,+,2012-06-28
+com.conx.logistics.mdm.domain,1.0.0,-,2012-06-15
+com.conx.logistics.app.whse.dao.services,1.0.0,+,2012-06-28
+com.conx.logistics.app.whse.domain,1.0.0,+,2012-06-28
+com.conx.logistics.mdm.dao.services,1.0.0,+,2012-06-15
+com.conx.logistics.mdm.dao.services,1.0.0,+,2012-06-28
+com.conx.logistics.mdm.dao.services,1.0.0,-,2012-06-15
+com.conx.logistics.app.whse.rcv.asn.dao.services,1.0.0,+,2012-06-15
+com.conx.logistics.app.whse.rcv.asn.domain,1.0.0,+,2012-06-28
+com.conx.logistics.app.whse.rcv.asn.domain,1.0.0,-,2012-06-15

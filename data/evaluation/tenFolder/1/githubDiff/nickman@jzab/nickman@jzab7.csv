@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,3.8.1,-,2012-07-14
+junit,junit.version,-,2012-07-14
+junit,junit.version,+,2012-07-14
+junit,4.8.2,+,2012-07-14
+json,20090211,+,2012-07-14
+netty,3.5.2.Final,+,2012-07-14

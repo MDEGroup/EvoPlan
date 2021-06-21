@@ -1,0 +1,14 @@
+library,version,sign,date
+slf4j-api,1.5.0,+,2008-09-18
+slf4j-api,1.5.0,-,2008-11-07
+plexus-utils,1.4.5,-,2011-05-09
+plexus-utils,1.2,-,2007-02-21
+plexus-utils,1.2,+,2007-02-21
+plexus-utils,1.4,-,2008-09-18
+plexus-utils,1.2,-,2008-09-18
+plexus-utils,1.4,-,2009-01-16
+plexus-utils,1.4,+,2007-02-21
+plexus-utils,1.5.6,+,2010-01-12
+plexus-utils,1.5.6,-,2011-05-09
+jsr250-api,1.0,+,2008-11-07
+javax.inject,1,+,2010-01-12

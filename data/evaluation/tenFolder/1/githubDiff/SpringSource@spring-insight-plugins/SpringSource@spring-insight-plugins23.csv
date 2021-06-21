@@ -1,0 +1,4 @@
+library,version,sign,date
+jcr,2.0,+,2014-02-08
+jcr,2.0,-,2014-02-08
+commons-io,1.3.2,+,2012-07-24

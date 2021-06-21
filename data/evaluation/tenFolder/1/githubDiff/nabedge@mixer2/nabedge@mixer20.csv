@@ -1,0 +1,45 @@
+library,version,sign,date
+spring-test,3.1.3.RELEASE,-,2013-11-24
+spring-test,3.1.2.RELEASE,+,2013-04-28
+spring-test,3.1.2.RELEASE,-,2013-09-08
+cglib,2.2.2,+,2013-09-08
+junit,4.8.2,-,2013-11-24
+junit,4.8.2,-,2012-05-20
+junit,4.11,-,2018-10-04
+junit,4.8.2,+,2012-05-20
+commons-beanutils,1.8.3,+,2012-05-20
+commons-beanutils,1.8.3,-,2012-05-20
+jsoup,1.6.1,-,2013-04-03
+jsoup,1.6.1,-,2012-05-20
+jsoup,1.6.1,+,2013-04-03
+jsoup,1.6.1,+,2012-05-20
+velocity,1.6.4,-,2013-04-03
+velocity,1.6.4,-,2012-05-20
+velocity,1.6.4,+,2012-05-20
+velocity,1.6.4,+,2013-04-03
+commons-io,2.4,+,2013-03-05
+commons-lang,2.5,-,2013-07-07
+commons-lang,2.5,-,2012-05-20
+commons-lang,2.5,+,2012-05-20
+commons-lang,2.5,+,2013-07-07
+commons-lang,2.5,-,2013-08-13
+jaxb2-basics-runtime,0.6.4,+,2013-05-23
+javax.servlet-api,3.1.0,+,2014-07-22
+javax.servlet-api,3.1.0,-,2014-07-22
+javax.activation-api,1.2.0,+,2016-08-19
+spring-webmvc,3.1.3.RELEASE,-,2013-11-24
+spring-webmvc,3.1.2.RELEASE (or higher),+,2013-02-02
+spring-webmvc,3.1.3.RELEASE,+,2013-01-15
+spring-webmvc,3.1.2.RELEASE (or higher),+,2013-07-15
+spring-webmvc,3.1.2.RELEASE (or higher),+,2013-09-08
+spring-webmvc,3.1.2.RELEASE (or higher),+,2013-01-15
+spring-webmvc,3.1.2.RELEASE (or higher),-,2013-02-02
+jaxb-impl,2.3.0.1,+,2016-08-19
+jaxb-api,2.3.0,+,2016-08-19
+commons-logging,1.1.1,-,2012-05-20
+commons-logging,1.1.1,+,2012-05-20
+jaxb-core,2.3.0.1,+,2016-08-19
+log4j,1.2.9,+,2012-03-10
+log4j,1.2.9,-,2012-05-20
+log4j,1.2.9,+,2012-05-20
+log4j,1.2.9,-,2012-03-10

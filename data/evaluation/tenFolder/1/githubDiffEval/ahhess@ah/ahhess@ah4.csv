@@ -1,0 +1,5 @@
+library,version,sign,date
+jetty-plus,6.1.19,+,2010-01-15
+istec.pls.base,0.0.1-SNAPSHOT,+,2010-01-15
+oracle-ojdbc,1.4,+,2010-01-15
+jetty-naming,6.1.19,+,2010-01-15

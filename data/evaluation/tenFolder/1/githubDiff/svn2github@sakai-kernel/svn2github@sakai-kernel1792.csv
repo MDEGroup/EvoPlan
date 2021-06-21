@@ -1,0 +1,5 @@
+library,version,sign,date
+spring,2.5.6.SEC02,+,2011-03-08
+spring,2.5.6.SEC02,-,2011-03-08
+servlet-api,2.4,+,2011-03-08
+servlet-api,2.4,-,2011-03-08

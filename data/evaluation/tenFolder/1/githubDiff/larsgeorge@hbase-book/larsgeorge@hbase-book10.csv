@@ -1,0 +1,9 @@
+library,version,sign,date
+commons-codec,1.4,-,2015-01-22
+commons-codec,1.4,-,2015-02-17
+commons-codec,1.10,+,2015-01-22
+hbase-book-common,2.0,+,2015-01-22
+log4j-over-slf4j,1.7.10,+,2015-02-17
+json-simple,1.1,-,2011-09-20
+json-simple,1.1,-,2015-02-17
+hadoop-mapreduce-client-core,2.6.0,+,2015-02-17

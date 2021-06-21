@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.10,+,2011-08-04
+junit,4.8.1,-,2011-03-24
+junit,4.8.1,+,2011-03-24
+junit,4.8.1,-,2011-08-04
+jta,1.1,+,2011-03-24
+commons-collections,3.2.1,-,2011-03-24
+commons-collections,3.2.1,+,2011-03-24
+cm4j-core,0.0.1-SNAPSHOT,+,2011-04-02
+cm4j-core,0.0.1-SNAPSHOT,-,2011-08-04
+cm4j-core,0.0.1-SNAPSHOT,-,2011-04-02
+commons-lang,2.5,-,2011-03-24
+commons-lang,2.5,+,2011-03-24

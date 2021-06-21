@@ -1,0 +1,16 @@
+library,version,sign,date
+mockito-all,1.9.5,-,2014-10-08
+mockito-all,1.9.5,+,2014-10-08
+junit,4.11,+,2014-11-14
+netcdf,4.3.22,+,2015-02-12
+netcdf,4.3.22,+,2014-10-08
+netcdf,4.3.22,-,2014-11-18
+netcdf,4.3.22,-,2014-10-08
+beam-core,5.0.2,+,2014-11-10
+beam-core,5.0.2,-,2014-11-10
+commons-cli,1.2,-,2014-11-14
+commons-cli,1.2,-,2014-11-11
+commons-cli,1.2,+,2014-11-14
+commons-cli,1.2,-,2014-11-18
+commons-cli,1.2,+,2014-11-11
+commons-lang,2.4,+,2014-11-10

@@ -1,0 +1,11 @@
+library,version,sign,date
+commons-configuration,1.7,+,2012-02-06
+commons-configuration,1.7,-,2012-02-06
+mongo-java-driver,2.5.3,-,2012-02-06
+mongo-java-driver,2.5.3,+,2012-02-06
+guava,10.0.1,-,2012-02-06
+guava,10.0.1,+,2012-02-06
+morphia,0.99,+,2012-02-06
+morphia,0.99,-,2012-02-06
+morphia,0.99,-,2011-12-29
+morphia,0.99,+,2011-12-29

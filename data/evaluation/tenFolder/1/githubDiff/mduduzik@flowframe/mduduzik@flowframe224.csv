@@ -1,0 +1,9 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2012-12-17
+org.flowframe.bpm.jbpm.services,0.0.1,+,2012-12-17
+org.flowframe.bpm.jbpm.services,0.0.1,+,2012-12-27
+gwt-console-server-integration,2.3.2-SNAPSHOT,+,2012-12-27
+activity-monitor-model,1.0.0-Beta2,+,2012-12-17
+activity-monitor-model,1.0.0-Beta2,-,2012-12-17
+jacc,1.0,-,2012-12-17
+org.flowframe.bpm.jbpm.shared,0.0.1,+,2012-12-27

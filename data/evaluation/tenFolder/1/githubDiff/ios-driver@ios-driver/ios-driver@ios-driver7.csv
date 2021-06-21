@@ -1,0 +1,5 @@
+library,version,sign,date
+testng,6.8,-,2013-09-27
+testng,6.8.8,+,2014-06-24
+ios-server,0.6.6-SNAPSHOT,+,2014-08-21
+jetty-repacked,7.6.1,+,2014-10-23

@@ -1,0 +1,6 @@
+library,version,sign,date
+spring,0.0.1-SNAPSHOT,+,2009-04-26
+junit,3.8.1,-,2009-04-26
+junit,3.8.1,+,2009-04-26
+junit,4.5,+,2009-04-26
+commons-logging,1.1,+,2009-04-26

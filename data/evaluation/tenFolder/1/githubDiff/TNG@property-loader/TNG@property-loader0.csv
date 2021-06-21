@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.11,-,2015-12-11
+slf4j-log4j12,1.5.2,+,2013-09-19
+slf4j-log4j12,1.5.2,-,2013-10-27
+assertj-core,3.10.0,+,2017-03-10
+mockito-core,1.10.19,-,2017-03-10
+mockito-core,1.10.19,+,2015-12-11

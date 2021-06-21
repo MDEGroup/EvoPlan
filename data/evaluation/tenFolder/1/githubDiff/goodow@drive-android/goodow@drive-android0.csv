@@ -1,0 +1,15 @@
+library,version,sign,date
+maps-sdk-all,2.4.0,+,2014-04-04
+maps-geosdk,4.0,+,2014-03-03
+maps-geosdk,4.0,-,2014-03-03
+maps-geosdk,4.0,+,2014-01-19
+drive-android-pdf,0.0.1-SNAPSHOT,+,2014-06-30
+android,4.4.2.3,+,2014-04-03
+drive-android-svg,0.0.1-SNAPSHOT,+,2014-05-23
+realtime-android,0.3.0-SNAPSHOT,-,2013-08-23
+roboguice,3.0-alpha-2,+,2014-05-23
+support-v4,r7,+,2014-04-02
+support-v4,r7,+,2014-03-03
+support-v4,r7,-,2014-04-02
+support-v4,r7,+,2013-12-16
+support-v4,r7,-,2014-03-03

@@ -1,0 +1,8 @@
+library,version,sign,date
+org.eclipse.osgi,3.7.0.v20100910,-,2011-03-30
+org.eclipse.osgi,3.7.0.v20110524,+,2011-03-30
+zt-zip,1.7,+,2013-08-29
+javax.inject,1,+,2013-08-29
+javax.inject,1,-,2011-03-30
+javax.inject,1,+,2011-03-30
+javax.inject,1,-,2013-08-29

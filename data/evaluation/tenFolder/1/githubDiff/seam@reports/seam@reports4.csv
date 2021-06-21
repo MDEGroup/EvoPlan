@@ -1,0 +1,6 @@
+library,version,sign,date
+seam-reports-api,3.0.0.CR1-SNAPSHOT,-,2011-08-14
+el-api,2.2,+,2011-08-14
+el-api,2.2,+,2011-08-02
+el-api,2.2,-,2011-08-02
+el-api,2.2,-,2011-08-14

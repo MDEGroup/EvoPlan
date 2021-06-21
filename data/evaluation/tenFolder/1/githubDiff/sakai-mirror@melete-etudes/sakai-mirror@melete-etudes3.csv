@@ -1,0 +1,13 @@
+library,version,sign,date
+xercesImpl,2.6.2,+,2009-12-11
+xercesImpl,2.6.2,-,2009-12-11
+xercesImpl,2.6.2,+,2008-09-29
+xercesImpl,2.6.2,-,2010-06-03
+xmlParserAPIs,2.6.2,+,2009-12-11
+xmlParserAPIs,2.6.2,-,2009-12-11
+xmlParserAPIs,2.6.2,+,2008-09-29
+xmlParserAPIs,2.6.2,-,2010-06-03
+dom4j,1.6.1,-,2009-12-11
+dom4j,1.6.1,-,2010-06-03
+dom4j,1.6.1,+,2009-12-11
+dom4j,1.6.1,+,2008-09-29

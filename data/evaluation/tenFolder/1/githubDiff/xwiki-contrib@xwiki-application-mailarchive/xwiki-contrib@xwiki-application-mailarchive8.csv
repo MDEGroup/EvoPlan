@@ -1,0 +1,7 @@
+library,version,sign,date
+logback-classic,1.0.0,-,2012-06-11
+mail,1.4.5,+,2013-02-03
+mail,1.4.5,+,2012-10-08
+mail,1.4.5,-,2013-02-03
+xwiki-platform-oldcore,4.0-SNAPSHOT,+,2013-03-29
+servlet-api,6.0.33,-,2012-06-11

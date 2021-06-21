@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.8.2,+,2011-06-10
+junit,4.8.2,+,2011-03-04
+junit,4.7,-,2012-04-12
+junit,4.10,+,2012-04-12
+junit,4.7,+,2011-03-07
+junit,4.8.2,-,2011-06-10
+pact-clients,0.1.1,-,2011-10-21
+pact-clients,0.1,-,2011-06-10
+pact-clients,0.1,+,2011-03-07
+pact-clients,0.1,+,2011-06-10
+pact-clients,0.2,-,2012-02-01
+pact-clients,0.1,-,2011-08-09

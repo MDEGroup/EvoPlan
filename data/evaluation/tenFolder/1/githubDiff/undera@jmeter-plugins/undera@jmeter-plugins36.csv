@@ -1,0 +1,15 @@
+library,version,sign,date
+jmeter-plugins-emulators,0.2,-,2016-04-24
+jmeter-plugins-emulators,0.2,-,2016-04-28
+jmeter-plugins-emulators,0.1,-,2016-04-23
+jmeter-plugins-emulators,0.2,+,2016-06-17
+jmeter-plugins-emulators,0.3,-,2016-06-17
+jmeter-plugins-emulators,0.2,-,2016-06-17
+jmeter-plugins-emulators,0.2,+,2016-04-24
+cmdrunner,2.0,-,2016-06-17
+cmdrunner,1.0.2,-,2016-04-28
+cmdrunner,2.0,+,2016-04-28
+jmeter-plugins-cmn-jmeter,0.1,-,2016-04-24
+jmeter-plugins-cmn-jmeter,0.3,-,2016-06-17
+jmeter-plugins-cmn-jmeter,0.3,+,2016-06-17
+jmeter-plugins-cmn-jmeter,0.3,+,2016-04-24

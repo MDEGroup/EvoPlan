@@ -1,0 +1,6 @@
+library,version,sign,date
+elephant-bird-pig,3.0.5,+,2013-02-23
+elephant-bird-pig,3.0.5,-,2013-03-04
+elephant-bird-core,3.0.5,+,2013-02-21
+elephant-bird-core,3.0.5,-,2013-03-04
+jackson-mapper-asl,1.9.11,+,2013-02-23

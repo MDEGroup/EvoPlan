@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.11,-,2014-10-13
+logback-classic,1.1.2,-,2014-10-13
+derby,10.8.1.2,-,2014-10-13
+commons-beanutils,1.9.1,-,2014-10-13
+poi,3.9,-,2014-10-13

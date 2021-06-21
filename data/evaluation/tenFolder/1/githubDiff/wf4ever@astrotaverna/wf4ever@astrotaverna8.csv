@@ -1,0 +1,10 @@
+library,version,sign,date
+stilts-activity-ui,1.1-SNAPSHOT,+,2012-07-11
+stilts-activity-ui,1.1-SNAPSHOT,-,2012-07-11
+votable-renderer,1.1-SNAPSHOT,+,2012-07-11
+votable-renderer,1.1-SNAPSHOT,-,2012-07-11
+astrotaverna-voservices,1.1-SNAPSHOT,+,2012-07-11
+astrotaverna-voservices,0.1,-,2012-04-26
+astrotaverna-voservices,0.2-SNAPSHOT,-,2012-04-26
+astrotaverna-voservices,0.0.1-SNAPSHOT,-,2012-04-11
+astrotaverna-voservices,1.1-SNAPSHOT,-,2012-07-11

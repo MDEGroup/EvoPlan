@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.10,-,2013-07-21
+junit,4.11,-,2014-11-25
+mockito-core,3.1.0,+,2016-08-21

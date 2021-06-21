@@ -1,0 +1,15 @@
+library,version,sign,date
+net.adamcin.commons.testing,0.6.0,-,2015-05-09
+net.adamcin.commons.testing,0.5.0-SNAPSHOT,-,2013-04-01
+net.adamcin.commons.testing,0.6.0,+,2013-04-01
+junit,4.8.2,+,2013-04-01
+junit,4.8.2,-,2013-04-01
+org.osgi.core,4.2.0,+,2013-04-01
+org.osgi.core,4.2.0,-,2013-04-01
+org.apache.sling.junit.remote,1.0.8,+,2013-04-01
+org.apache.sling.junit.remote,1.0.8,-,2013-04-01
+org.osgi.compendium,4.2.0,+,2013-04-01
+org.osgi.compendium,4.2.0,-,2013-04-01
+org.apache.sling.api,2.2.0,+,2013-04-01
+org.apache.sling.api,2.2.0,-,2015-05-09
+org.apache.sling.api,2.2.0,-,2013-04-01

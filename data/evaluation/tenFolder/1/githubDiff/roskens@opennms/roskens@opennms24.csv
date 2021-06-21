@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-cli,1.2,-,2013-06-26
+commons-cli,1.0,-,2013-06-26
+commons-cli,1.2,+,2013-03-26
+opennms-util,[1.7.0,2.0.0),-,2013-06-26

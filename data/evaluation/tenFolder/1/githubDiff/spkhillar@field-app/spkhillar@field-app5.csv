@@ -1,0 +1,10 @@
+library,version,sign,date
+mail,1.4.7,+,2013-04-21
+mail,1.4.7,-,2013-05-30
+mail,1.4.7,+,2013-05-30
+poi,3.9,+,2013-05-30
+poi,3.9,-,2013-04-21
+telenoetica.field.service.app.persistence,1.0.0,-,2013-04-21
+telenoetica.field.service.app.persistence,1.0.0,+,2013-04-21
+servlet-api,2.5,+,2013-04-21
+servlet-api,2.5,+,2013-05-30

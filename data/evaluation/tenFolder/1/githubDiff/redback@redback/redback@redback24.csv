@@ -1,0 +1,11 @@
+library,version,sign,date
+spring-core,2.5.5,+,2008-09-26
+spring-core,2.5.5,-,2008-09-26
+slf4j-log4j12,1.5.0,-,2009-03-11
+slf4j-log4j12,1.5.0,+,2009-01-16
+slf4j-log4j12,1.5.0,-,2008-11-07
+spring-web,2.5.5,-,2008-09-26
+spring-web,2.5.5,-,2008-10-24
+cxf-bundle-jaxrs,2.4.1,-,2011-08-12
+cxf-bundle-jaxrs,2.4.1,+,2011-08-12
+cxf-bundle-jaxrs,2.4.1,-,2011-10-26

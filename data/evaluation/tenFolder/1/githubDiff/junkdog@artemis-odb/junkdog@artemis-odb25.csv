@@ -1,0 +1,6 @@
+library,version,sign,date
+gwt-user,2.8.2,+,2019-01-06
+artemis-odb,3.0.0-SNAPSHOT,-,2018-07-16
+artemis-odb,2.2.0-SNAPSHOT,-,2019-01-05
+artemis-odb,2.1.0,-,2017-05-25
+gwt-dev,2.8.2,+,2019-01-06

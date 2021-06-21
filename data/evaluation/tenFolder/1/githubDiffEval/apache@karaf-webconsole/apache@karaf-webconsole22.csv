@@ -1,0 +1,10 @@
+library,version,sign,date
+pax-logging-api,1.6.4,-,2012-07-20
+org.apache.felix.http.bridge,2.2.0,-,2012-07-20
+org.apache.felix.framework,4.0.2,-,2012-07-20
+org.apache.aries.proxy.impl,0.3,-,2012-07-20
+geronimo-servlet_2.5_spec,1.2,+,2012-07-20
+org.apache.felix.prefs,1.0.4,-,2012-07-20
+org.apache.felix.configadmin,1.2.8,-,2012-07-20
+org.apache.felix.http.proxy,2.2.0,-,2012-07-20
+pax-logging-service,1.6.4,-,2012-07-20

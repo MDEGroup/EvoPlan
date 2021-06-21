@@ -1,0 +1,4 @@
+library,version,sign,date
+ejava-rs-util,1.0-SNAPSHOT,-,2012-02-26
+jaxrpc,1.1,-,2012-02-20
+jsr250-api,1.0,+,2012-02-20

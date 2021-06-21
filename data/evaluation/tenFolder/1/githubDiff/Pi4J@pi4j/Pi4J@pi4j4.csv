@@ -1,0 +1,17 @@
+library,version,sign,date
+mockito-all,1.9.5,-,2013-10-11
+mockito-all,1.9.5,+,2013-03-18
+junit,4.12,+,2016-07-27
+junit,4.11,-,2013-10-11
+junit,4.10,-,2013-10-11
+junit,4.11,+,2014-08-04
+junit,4.11,+,2013-10-11
+junit,4.11,+,2013-03-18
+junit,4.10,+,2012-10-19
+junit,4.11,-,2016-07-27
+junit,4.11,-,2016-12-05
+pi4j-core,1.0,-,2016-04-11
+pi4j-core,1.0,+,2015-04-13
+pi4j-core,1.1-SNAPSHOT,+,2015-04-13
+pi4j-core,1.2-SNAPSHOT,-,2016-12-05
+pi4j-core,1.1-SNAPSHOT,-,2016-04-11

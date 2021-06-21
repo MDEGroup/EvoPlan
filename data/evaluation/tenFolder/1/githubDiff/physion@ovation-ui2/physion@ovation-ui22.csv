@@ -1,0 +1,8 @@
+library,version,sign,date
+ovation-ui-common-interfaces,2.0-SNAPSHOT,-,2013-06-26
+junit,4.8.1,-,2014-07-22
+junit,4.8.1,+,2013-06-26
+junit,4.8.1,+,2013-07-02
+junit,4.8.1,-,2013-07-02
+junit,4.8.1,-,2013-06-26
+beansbinding,1.2.1,-,2014-07-22

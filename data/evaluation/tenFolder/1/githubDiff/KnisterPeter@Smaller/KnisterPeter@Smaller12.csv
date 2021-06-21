@@ -1,0 +1,14 @@
+library,version,sign,date
+smaller-config,0.1.0,+,2013-11-02
+smaller-config,0.1.0,-,2014-01-17
+fluent-hc,4.2,+,2012-06-21
+fluent-hc,4.2,-,2014-01-17
+fluent-hc,4.2,-,2012-06-21
+commons-io,2.3,+,2012-06-21
+commons-io,2.1,-,2012-07-25
+commons-io,2.2,+,2014-01-17
+commons-io,2.2,-,2013-11-02
+commons-io,2.3,-,2012-09-11
+commons-io,2.2,-,2014-01-17
+commons-io,2.1,-,2013-11-02
+commons-io,2.1,+,2012-07-25

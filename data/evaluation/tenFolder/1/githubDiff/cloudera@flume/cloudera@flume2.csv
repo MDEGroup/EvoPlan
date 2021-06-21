@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.8.1,+,2011-06-28
+avro-compiler,1.5.0,-,2011-04-21
+avro-ipc,1.5.0,-,2011-04-21
+avro,1.5.0,-,2011-04-21
+antlr-runtime,3.2,+,2011-04-16

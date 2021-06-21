@@ -1,0 +1,7 @@
+library,version,sign,date
+fest-swing,1.2.1,+,2012-07-22
+fest-swing-junit-4.5,1.2.1,+,2012-07-22
+javacpp,0.1,+,2012-06-25
+fest-swing-junit,1.2.1,+,2012-07-22
+client,1.0-SNAPSHOT,+,2012-06-25
+javacv,0.1,+,2012-06-25

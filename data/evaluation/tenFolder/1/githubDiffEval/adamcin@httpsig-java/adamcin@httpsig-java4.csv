@@ -1,0 +1,7 @@
+library,version,sign,date
+net.adamcin.commons.testing,0.8.0,-,2014-10-10
+junit,4.11,+,2014-08-31
+junit,4.10,-,2014-08-31
+commons-io,1.4,-,2014-10-10
+jsch,0.1.50,-,2013-12-21
+jsch,0.1.50,+,2013-12-21

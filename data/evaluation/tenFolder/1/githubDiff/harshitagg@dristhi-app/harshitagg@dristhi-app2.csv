@@ -1,0 +1,4 @@
+library,version,sign,date
+robolectric,0.9.8,+,2012-04-06
+drishti-app,0.1-SNAPSHOT,-,2012-04-06
+robotium-solo,3.1,+,2012-04-06

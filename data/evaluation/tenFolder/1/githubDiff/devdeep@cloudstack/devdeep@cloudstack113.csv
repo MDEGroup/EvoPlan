@@ -1,0 +1,8 @@
+library,version,sign,date
+cloud-core,4.2.0-SNAPSHOT,-,2013-03-01
+cloud-core,4.0.0-SNAPSHOT,-,2012-08-17
+cloud-core,4.2.0-SNAPSHOT,+,2013-01-07
+cloud-utils,4.2.0-SNAPSHOT,+,2013-02-20
+cloud-utils,4.2.0-SNAPSHOT,-,2013-03-01
+cloud-utils,4.0.0-SNAPSHOT,-,2012-08-17
+cloud-utils,4.2.0-SNAPSHOT,+,2013-01-07

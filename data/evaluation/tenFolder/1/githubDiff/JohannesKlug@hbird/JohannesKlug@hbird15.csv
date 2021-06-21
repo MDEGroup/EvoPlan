@@ -1,0 +1,15 @@
+library,version,sign,date
+space-system-model,0.0.1-SNAPSHOT,-,2013-04-04
+space-system-model,0.0.1-SNAPSHOT,+,2013-04-04
+web-client,0.0.1-SNAPSHOT,+,2013-04-04
+space-dynamics,0.0.1-SNAPSHOT,+,2013-04-04
+halcyon,0.0.1-SNAPSHOT,+,2013-04-04
+xtce,0.0.1-SNAPSHOT,-,2013-04-04
+xtce,0.0.1-SNAPSHOT,+,2013-04-04
+parameter-archive,0.0.1-SNAPSHOT,+,2013-04-04
+ground-stations,0.0.1-SNAPSHOT,+,2013-04-04
+parameter-cache,0.0.1-SNAPSHOT,+,2013-04-04
+commanding,0.0.1-SNAPSHOT,+,2013-04-04
+calibration,0.0.1-SNAPSHOT,+,2013-04-04
+czml-writer,0.0.1-SNAPSHOT,+,2013-04-04
+commons,0.0.1-SNAPSHOT,+,2013-04-04

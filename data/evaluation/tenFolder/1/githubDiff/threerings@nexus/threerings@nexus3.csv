@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.8.1,-,2012-04-27
+junit,4.8.1,+,2011-11-20
+junit,4.8.1,-,2011-11-20
+junit,4.8.1,+,2011-04-23
+junit,4.8.1,+,2011-03-28
+nexus-core,1.0-SNAPSHOT,-,2011-04-23

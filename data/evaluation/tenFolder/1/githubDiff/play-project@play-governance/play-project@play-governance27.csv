@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,3.8.1,-,2013-03-06
+junit,3.8.1,-,2012-11-14
+junit,4.10,+,2012-11-14
+junit,3.8.1,+,2012-11-14
+junit,4.10,+,2013-03-06
+junit,3.8.1,+,2012-10-01
+governance-api,1.0-SNAPSHOT,-,2012-10-01
+governance-api,1.0-SNAPSHOT,-,2012-11-14
+governance-api,1.0-SNAPSHOT,+,2012-08-29
+dsb-notification-httpclient,1.0.0,-,2013-03-06
+dsb-notification-httpclient,1.0.0,+,2012-08-29
+dsb-notification-httpclient,1.0-SNAPSHOT,-,2012-08-29

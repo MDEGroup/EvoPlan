@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,3.8.1,-,2014-02-03
+scala-library,2.12.1,+,2016-12-22
+editor-dao,1.0-SNAPSHOT,-,2012-04-23

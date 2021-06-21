@@ -1,0 +1,7 @@
+library,version,sign,date
+org.eclipse.scout.rt.rest,10-SNAPSHOT,-,2019-07-09
+org.eclipse.scout.rt.rest,9.0.0-SNAPSHOT,-,2018-12-19
+org.eclipse.scout.rt.rest,8.1.0-SNAPSHOT,-,2018-09-07
+org.eclipse.scout.rt.rest,8.0.0-SNAPSHOT,-,2018-05-15
+org.eclipse.scout.rt.rest,10.0.0-SNAPSHOT,-,2019-03-27
+jersey-apache-connector,2.30.1,+,2020-03-02

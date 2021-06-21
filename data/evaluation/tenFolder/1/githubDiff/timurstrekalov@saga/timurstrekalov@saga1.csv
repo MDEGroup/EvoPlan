@@ -1,0 +1,16 @@
+library,version,sign,date
+maven-plugin-api,3.0.4,-,2013-08-19
+saga-core,1.0.1,-,2012-04-19
+saga-core,1.0.2-SNAPSHOT,-,2012-04-19
+saga-core,1.0.1-SNAPSHOT,-,2012-04-19
+saga-core,1.0.1-SNAPSHOT,-,2012-04-17
+saga-core,1.0.1-SNAPSHOT,-,2012-04-18
+saga-core,1.0.3,-,2012-04-20
+saga-core,1.0.3-SNAPSHOT,-,2012-04-19
+saga-core,1.0.0,-,2012-04-17
+saga-core,1.0.0,-,2012-04-15
+saga-core,1.0.2,-,2012-04-19
+saga-core,1.0.0-SNAPSHOT,-,2012-04-15
+saga-core,1.0.4-SNAPSHOT,-,2012-04-20
+saga-core,1.0.0-SNAPSHOT,-,2012-04-17
+maven-plugin-annotations,3.2,+,2013-02-19

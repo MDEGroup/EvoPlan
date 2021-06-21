@@ -1,0 +1,10 @@
+library,version,sign,date
+jaxws-rt,2.2.6,-,2013-03-25
+junit,3.8.1,-,2013-03-25
+xalan,2.7.1,-,2013-03-25
+org.restlet,2.1.1,-,2013-03-25
+nddsjava,5.1-mdpnp-000004,-,2014-05-12
+nddsjava,5.0,-,2013-03-25
+nddsjava,5.1-mdpnp-000005,-,2014-09-14
+nddsjava,5.0,-,2014-03-12
+org.restlet.ext.xml,2.1.1,-,2013-03-25

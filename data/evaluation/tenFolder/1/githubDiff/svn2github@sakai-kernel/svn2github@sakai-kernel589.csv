@@ -1,0 +1,13 @@
+library,version,sign,date
+slf4j-api,1.4.2,-,2012-05-15
+slf4j-api,1.4.2,+,2012-05-15
+slf4j-log4j12,1.4.2,-,2012-05-15
+slf4j-log4j12,1.4.2,+,2012-05-15
+commons-logging,1.1.1,-,2012-05-15
+commons-logging,1.1.1,+,2012-05-15
+commons-logging,1.0.4,-,2012-05-15
+commons-logging,1.0.4,+,2012-05-15
+log4j,1.2.8,-,2012-05-15
+log4j,1.2.8,+,2012-05-15
+log4j,1.2.16,-,2012-05-15
+log4j,1.2.16,+,2012-05-15

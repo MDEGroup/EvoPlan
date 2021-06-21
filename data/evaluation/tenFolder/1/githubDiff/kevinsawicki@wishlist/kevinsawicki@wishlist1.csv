@@ -1,0 +1,6 @@
+library,version,sign,date
+robolectric,1.1,+,2012-08-28
+junit,4.10,+,2012-08-28
+android,4.0.1.2,-,2012-07-25
+android,4.0.1.2,+,2012-07-25
+support-v4,r7,+,2012-11-07

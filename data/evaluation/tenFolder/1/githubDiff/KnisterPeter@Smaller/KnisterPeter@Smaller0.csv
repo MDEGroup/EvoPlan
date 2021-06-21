@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.10,-,2012-04-20
+junit,4.10,+,2012-04-19
+junit,4.11,+,2013-10-02
+junit,4.10,-,2013-10-02
+junit,4.10,+,2012-04-20
+mockito-core,1.9.0,-,2012-04-20
+mockito-core,1.9.0,+,2012-04-18

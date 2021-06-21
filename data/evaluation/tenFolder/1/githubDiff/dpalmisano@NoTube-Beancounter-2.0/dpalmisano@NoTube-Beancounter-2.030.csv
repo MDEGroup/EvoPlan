@@ -1,0 +1,6 @@
+library,version,sign,date
+configuration,1.0-SNAPSHOT,+,2011-11-18
+kvs,1.0-SNAPSHOT,+,2011-11-18
+model,1.0-SNAPSHOT,-,2011-11-18
+model,1.0-SNAPSHOT,+,2011-11-09
+model,1.0-SNAPSHOT,+,2011-11-18

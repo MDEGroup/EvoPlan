@@ -1,0 +1,5 @@
+library,version,sign,date
+android,2.2.1,-,2013-08-22
+android,4.1.1.4,+,2013-09-11
+android,4.1.1.4,+,2013-08-22
+org.sintef.jarduino.bluetooth,0.1.7-SNAPSHOT,+,2013-08-22

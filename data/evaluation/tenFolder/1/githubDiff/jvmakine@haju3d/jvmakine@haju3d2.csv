@@ -1,0 +1,10 @@
+library,version,sign,date
+lz4,1.2.0,+,2013-10-19
+lz4,1.2.0,-,2013-10-29
+lz4,1.2.0,+,2013-11-12
+lz4,1.2.0,-,2013-11-12
+lz4,1.2.0,+,2013-10-29
+haju3d-common,0.1-SNAPSHOT,+,2013-11-12
+haju3d-common,0.1-SNAPSHOT,-,2013-11-12
+haju3d-common,0.1-SNAPSHOT,+,2013-08-15
+haju3d-common,0.1-SNAPSHOT,-,2013-09-10

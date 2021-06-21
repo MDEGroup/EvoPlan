@@ -1,0 +1,11 @@
+library,version,sign,date
+jboss-as-websockets,0.2.Alpha1,+,2012-10-03
+jboss-as-websockets,0.1.Alpha2,+,2012-04-05
+jboss-as-websockets,0.2.Alpha1,-,2012-10-03
+jboss-as-websockets,0.1.Alpha2,-,2012-04-10
+jboss-as-websockets,0.2.Alpha1,-,2013-01-25
+jboss-as-websockets,0.2.Alpha1,-,2012-10-07
+jboss-as-websockets,0.2.Alpha1,+,2013-01-25
+jboss-as-websockets,0.1.Alpha6,-,2012-04-24
+jboss-as-websockets,0.2.Alpha1,+,2012-10-07
+jboss-as-websockets,0.1.Alpha6,+,2012-04-10

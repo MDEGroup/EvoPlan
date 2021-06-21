@@ -1,0 +1,8 @@
+library,version,sign,date
+org.eclipse.persistence.jpa.modelgen.processor,2.5.0-SNAPSHOT,+,2013-07-24
+mysql-connector-java,5.1.25,+,2013-07-24
+mysql-connector-java,5.1.21,-,2013-07-13
+javax.persistence,2.1.0-SNAPSHOT,+,2013-07-24
+javax.persistence,2.0.3,-,2013-07-13
+javax.persistence,2.0.3,+,2013-03-27
+eclipselink,2.5.0-SNAPSHOT,+,2013-07-24

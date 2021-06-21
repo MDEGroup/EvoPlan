@@ -1,0 +1,13 @@
+library,version,sign,date
+protocols-smtp,1.6-beta3,-,2011-12-19
+protocols-smtp,1.6-beta3,+,2011-12-17
+protocols-netty,1.6-beta3,-,2011-12-19
+protocols-netty,1.6-beta3,+,2011-12-17
+protocols-api,1.6-beta3,-,2011-12-19
+protocols-api,1.6-beta3,+,2011-12-17
+protocols-lmtp,1.6-beta3,-,2011-12-19
+protocols-lmtp,1.6-beta3,+,2011-12-17
+com.ecyrd.speed4j,0.4.0,-,2013-09-19
+com.ecyrd.speed4j,0.13-1,-,2012-07-22
+com.ecyrd.speed4j,0.13-1,-,2012-05-17
+com.ecyrd.speed4j,0.3.0,-,2012-07-22

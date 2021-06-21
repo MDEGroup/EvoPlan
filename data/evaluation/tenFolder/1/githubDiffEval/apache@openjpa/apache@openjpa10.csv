@@ -1,0 +1,13 @@
+library,version,sign,date
+hsqldb,1.8.0.7,-,2011-12-07
+hsqldb,2.4.1,+,2015-06-05
+hsqldb,1.8.0.10,+,2011-12-07
+hsqldb,1.8.0.10,-,2015-06-05
+openjpa-jdbc,@pom.version@,+,2011-12-07
+openjpa-jdbc,@pom.version@,+,2011-04-08
+openjpa-jdbc,@pom.version@,+,2015-06-05
+openjpa-persistence,@pom.version@,+,2011-12-07
+openjpa-persistence,@pom.version@,+,2015-06-05
+openjpa-kernel,@pom.version@,+,2011-12-07
+openjpa-kernel,@pom.version@,+,2011-04-08
+openjpa-kernel,@pom.version@,+,2015-06-05

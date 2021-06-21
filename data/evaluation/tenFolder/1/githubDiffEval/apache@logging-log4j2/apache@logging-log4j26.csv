@@ -1,0 +1,6 @@
+library,version,sign,date
+javax.mail,1.6.0,-,2018-02-18
+javax.mail,1.6.2,+,2018-02-18
+junit,4.12,-,2018-02-18
+junit,4.12,+,2018-02-18
+log4j-core,{Log4jReleaseVersion},+,2018-02-18

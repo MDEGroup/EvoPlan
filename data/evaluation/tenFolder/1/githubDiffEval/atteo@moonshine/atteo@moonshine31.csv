@@ -1,0 +1,5 @@
+library,version,sign,date
+assertj-core,1.4.0,+,2014-06-11
+assertj-core,1.4.0,-,2014-06-11
+tomcat,8.0.0-RC5,-,2014-06-11
+tomcat,8.0.0-RC5,+,2014-06-11

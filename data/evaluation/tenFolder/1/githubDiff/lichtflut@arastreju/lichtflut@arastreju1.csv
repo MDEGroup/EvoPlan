@@ -1,0 +1,5 @@
+library,version,sign,date
+mockito-all,1.9.0,+,2013-07-15
+rhino,1.7R4,+,2013-07-18
+lucene-core,3.5.0,+,2013-07-18
+lucene-core,3.5.0,-,2013-07-18

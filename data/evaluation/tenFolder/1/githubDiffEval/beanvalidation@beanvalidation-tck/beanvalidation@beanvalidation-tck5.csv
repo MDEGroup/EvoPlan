@@ -1,0 +1,9 @@
+library,version,sign,date
+arquillian-glassfish-managed-3.1,1.0.0.Final-SNAPSHOT,+,2013-03-20
+arquillian-glassfish-managed-3.1,1.0.0.Final-SNAPSHOT,-,2013-04-10
+testng,6.8,-,2019-07-12
+testng,6.8,-,2016-08-23
+testng,6.11,-,2019-07-12
+testng,6.5.2,-,2013-04-10
+testng,6.9.9,+,2019-07-12
+testng,6.11,+,2016-08-23

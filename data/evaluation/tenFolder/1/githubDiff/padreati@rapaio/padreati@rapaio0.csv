@@ -1,0 +1,10 @@
+library,version,sign,date
+junit-jupiter-engine,5.5.2,+,2019-12-18
+junit-jupiter-engine,5.5.2,+,2019-11-13
+mockito-junit-jupiter,3.3.3,+,2020-03-10
+junit-jupiter-api,5.5.2,+,2019-12-18
+junit-jupiter-api,5.5.2,+,2019-11-13
+mockito-core,3.3.3,+,2020-03-10
+lombok,1.18.12,+,2020-02-25
+lombok,1.18.8,+,2019-08-08
+lombok,1.18.8,-,2019-08-09

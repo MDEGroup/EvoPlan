@@ -1,0 +1,12 @@
+library,version,sign,date
+commons-beanutils,1.8.3,+,2012-04-20
+commons-beanutils,1.8.3,-,2012-05-15
+commons-beanutils,1.8.3,-,2012-04-26
+commons-beanutils,1.8.3,+,2012-05-15
+commons-beanutils,1.8.3,+,2012-04-26
+log4j,1.2.14,+,2012-04-26
+log4j,1.2.14,+,2012-05-15
+log4j,1.2.14,+,2012-04-19
+log4j,1.2.14,-,2012-05-15
+log4j,1.2.14,-,2012-04-26
+log4j,1.2.14,+,2012-05-11

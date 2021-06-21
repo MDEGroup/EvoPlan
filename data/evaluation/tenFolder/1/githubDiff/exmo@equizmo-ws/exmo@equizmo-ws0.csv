@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.8.1,-,2012-07-03
+junit,4.8.1,+,2012-06-20
+jboss-javaee-6.0,1.0.0.Final,-,2012-06-20
+jboss-javaee-6.0,1.0.0.Final,+,2012-06-20
+demoiselle-junit,2.1.2,+,2012-06-29
+demoiselle-junit,2.1.2,-,2012-06-29
+xstream,1.2.2,+,2012-06-29

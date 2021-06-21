@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.11,+,2013-11-18
+junit,4.11,-,2013-10-30
+junit,4.11,+,2014-10-31
+junit,4.11,+,2013-10-25
+junit,4.11,-,2013-10-25
+junit,4.11,-,2013-11-18
+fest-assert,1.4,+,2014-10-31
+httpclient,4.3-beta2,-,2013-12-13
+httpclient,4.3-beta2,-,2013-11-18
+httpclient,4.3-beta2,+,2013-11-18
+httpclient,4.3-beta2,-,2013-10-25
+httpclient,4.3-beta2,+,2013-10-25
+httpclient,4.3,+,2013-12-13

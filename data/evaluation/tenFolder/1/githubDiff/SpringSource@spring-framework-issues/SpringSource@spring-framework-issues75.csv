@@ -1,0 +1,4 @@
+library,version,sign,date
+spring-context,3.2.0.BUILD-SNAPSHOT,+,2012-11-02
+spring-context,3.1.3.RELEASE,-,2012-11-02
+spring-context,3.1.0.BUILD-SNAPSHOT,-,2012-11-02

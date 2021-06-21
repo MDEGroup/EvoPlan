@@ -1,0 +1,3 @@
+library,version,sign,date
+custom-constraints,@annotation-constraints.version@,+,2013-02-11
+custom-constraints,@annotation-constraints.version@,-,2013-02-13

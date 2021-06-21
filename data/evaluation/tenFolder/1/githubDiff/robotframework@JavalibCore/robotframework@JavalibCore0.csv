@@ -1,0 +1,7 @@
+library,version,sign,date
+junit-jupiter-engine,5.5.2,-,2019-11-27
+junit-jupiter-engine,5.5.2,+,2014-12-02
+commons-collections4,4.4,+,2014-12-02
+commons-collections4,4.4,-,2019-11-27
+commons-collections4,4.4,+,2019-11-27
+mockito-core,3.2.0,+,2019-11-27

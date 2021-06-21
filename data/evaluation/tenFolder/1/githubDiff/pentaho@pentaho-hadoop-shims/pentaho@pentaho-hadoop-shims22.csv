@@ -1,0 +1,15 @@
+library,version,sign,date
+commons-configuration,1.6,+,2020-02-06
+shim-bundle-plugin,1.0,+,2019-10-25
+shim-bundle-plugin,1.0,-,2020-02-06
+shim-bundle-plugin,1.1,+,2020-02-06
+shim-bundle-plugin,1.0,-,2019-10-25
+mockito-all,1.10.19,+,2019-10-25
+hadoop-aws,2.9.2,+,2020-02-06
+shim-api,9.0.0.0-SNAPSHOT,-,2019-12-18
+joda-time,2.9.9,+,2020-02-06
+pentaho-hadoop-shims-common-fragment-V1,9.0.0.0-SNAPSHOT,-,2019-12-18
+guava,21.0,+,2020-04-09
+commons-configuration2,2.1.1,+,2020-02-06
+gcs-connector,hadoop2-1.9.17,+,2020-04-09
+gcs-connector,hadoop2-1.9.17,+,2020-02-06

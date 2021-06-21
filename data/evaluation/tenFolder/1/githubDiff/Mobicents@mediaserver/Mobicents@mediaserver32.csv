@@ -1,0 +1,5 @@
+library,version,sign,date
+mgcp-driver,3.0.0.FINAL-SNAPSHOT,-,2012-12-12
+mgcp-driver,3.0.0.CR2,-,2013-02-12
+mgcp-driver,3.0.0.FINAL,-,2012-11-03
+mgcp-driver,3.0.0.CR1,-,2012-09-16

@@ -1,0 +1,9 @@
+library,version,sign,date
+Saxon-HE,9.9.1-5,-,2019-12-19
+Saxon-HE,9.9.1-5,+,2019-12-16
+kitodo-api,3.0.1-SNAPSHOT,-,2020-02-18
+kitodo-api,3.0.0-beta.4-SNAPSHOT,-,2020-01-21
+kitodo-api,3.1.0,-,2020-03-02
+kitodo-api,3.0.1,-,2020-02-17
+kitodo-api,3.0.0-SNAPSHOT,-,2020-02-04
+kitodo-api,3.0.0,-,2020-01-31

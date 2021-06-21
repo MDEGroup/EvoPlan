@@ -1,0 +1,12 @@
+library,version,sign,date
+com4j,20120426-2,-,2014-03-12
+com4j,20080107,-,2012-04-06
+com4j,20080107,+,2008-01-10
+docker-fixtures,1.0,-,2017-07-18
+docker-fixtures,1.0,+,2017-06-22
+docker-fixtures,1.4,-,2019-02-08
+system-rules,1.19.0,+,2019-05-23
+configuration-as-code,1.35,+,2019-05-23
+mailer,1.5,+,2014-03-10
+mockito-core,2.25.1,+,2019-02-08
+mockito-core,2.25.1,-,2019-05-23

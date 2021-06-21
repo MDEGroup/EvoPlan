@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.12,+,2016-08-26
+junit,3.8.1,+,2015-10-16
+junit,4.11,-,2015-03-25
+junit,4.11,-,2016-08-26
+junit,4.12,-,2015-06-22
+mockito-core,1.9.5,-,2017-09-14
+mockito-core,1.10.19,-,2019-02-07
+metrics-influxdb,0.6.0,+,2015-03-25
+metrics-influxdb,0.4.0,-,2015-03-25

@@ -1,0 +1,9 @@
+library,version,sign,date
+validation-api,1.1.0.Alpha1,+,2012-11-06
+validation-api,1.1.0.Alpha1,-,2012-11-06
+validation-api,1.1.0.Alpha1,-,2013-02-02
+cdi-api,1.0,+,2012-11-06
+cdi-api,1.0,-,2013-02-02
+cdi-api,1.0,-,2012-11-06
+javax.inject,1,-,2012-11-06
+javax.inject,1,+,2012-11-06

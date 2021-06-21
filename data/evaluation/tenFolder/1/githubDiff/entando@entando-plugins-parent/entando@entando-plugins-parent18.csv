@@ -1,0 +1,7 @@
+library,version,sign,date
+slf4j-api,1.7.5,+,2013-06-26
+slf4j-api,1.7.5,-,2013-06-26
+slf4j-jdk14,1.7.5,+,2013-06-26
+slf4j-jdk14,1.7.5,-,2013-06-26
+ehcache-core,2.5.1,+,2013-06-26
+ehcache-core,2.5.1,-,2013-06-26

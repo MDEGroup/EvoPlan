@@ -1,0 +1,17 @@
+library,version,sign,date
+europeana-datamodel-definitions,1.3.0-SNAPSHOT,+,2011-10-10
+europeana-datamodel-definitions,1.3.0-SNAPSHOT,+,2011-06-22
+europeana-datamodel-definitions,1.3.0-SNAPSHOT,-,2011-11-11
+europeana-datamodel-definitions,1.3.0-SNAPSHOT,-,2011-10-10
+spring-osgi-test,1.2.1,-,2011-05-30
+spring-osgi-test,1.2.1,+,2011-05-30
+spring-osgi-test,1.2.1,+,2011-04-05
+spring-osgi-test,1.2.1,-,2011-06-22
+osgi-resource-locator,1.0.1,+,2015-03-30
+repox-client-rest-jersey,3.0.1-SNAPSHOT,+,2015-03-30
+geronimo-jaxb_2.2_spec,1.0.1,+,2015-03-30
+geronimo-jaxb_2.2_spec,1.0.1,+,2014-07-16
+geronimo-jaxb_2.2_spec,1.0.1,-,2015-01-14
+geronimo-jaxb_2.2_spec,1.0.1,+,2015-01-14
+geronimo-jaxb_2.2_spec,1.0.1,+,2013-10-15
+geronimo-jaxb_2.2_spec,1.0.1,-,2014-07-16

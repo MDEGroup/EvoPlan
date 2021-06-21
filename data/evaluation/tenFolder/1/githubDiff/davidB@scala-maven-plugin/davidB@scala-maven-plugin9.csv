@@ -1,0 +1,15 @@
+library,version,sign,date
+scala-library,2.7.2,-,2011-12-15
+scala-library,2.7.1,+,2009-07-22
+scala-library,2.7.5,-,2009-07-22
+scala-library,2.8.0.RC6,+,2009-07-22
+scala-library,2.7.3,-,2009-07-22
+scala-library,2.7.2,-,2012-03-04
+scala-library,2.11.5,+,2012-03-04
+scala-library,2.7.1,-,2009-07-22
+scala-library,2.7.4,-,2009-07-22
+scala-library,2.8.0.RC6,-,2011-12-15
+scala-library,2.7.2,+,2012-03-04
+scala-library,2.7.1,-,2010-10-14
+scala-library,2.7.2,-,2009-07-22
+scala-library,2.7.2,+,2009-07-22

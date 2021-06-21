@@ -1,0 +1,12 @@
+library,version,sign,date
+commons-codec,1.1,-,2010-11-26
+imgscalr-lib,3.2,-,2011-12-22
+imgscalr-lib,3.2,+,2010-11-26
+imgscalr-lib,4.2,+,2013-03-29
+imgscalr-lib,4.2,-,2013-03-29
+commons-lang,2.1,+,2009-06-04
+commons-lang,2.1,-,2010-11-26
+log4j,1.2.14,+,2013-03-29
+log4j,1.2.14,-,2010-11-26
+log4j,1.2.14,+,2009-06-04
+log4j,1.2.14,-,2013-03-29

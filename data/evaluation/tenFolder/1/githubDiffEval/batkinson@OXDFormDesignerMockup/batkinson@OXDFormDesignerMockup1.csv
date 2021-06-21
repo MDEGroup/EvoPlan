@@ -1,0 +1,10 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2011-07-27
+junit,3.8.1,-,2011-07-27
+junit,3.8.1,+,2011-07-27
+slf4j-log4j12,1.6.1,-,2011-07-27
+epihandy-xforms-server,0.9.1,-,2011-07-27
+epihandy-xforms-server,0.9.3,-,2011-07-27
+commons-io,2.0.1,+,2011-07-27
+log4j,1.2.16,-,2011-07-27
+log4j,1.2.16,+,2011-07-27

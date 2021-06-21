@@ -1,0 +1,16 @@
+library,version,sign,date
+wicket-core,6.11.0,-,2017-08-28
+wicket-core,6.11.0,+,2017-06-06
+decompiler-api,4.0.0.Beta2.1,+,2017-06-06
+decompiler-api,4.0.0.Beta2.1,-,2017-08-28
+decompiler-api,4.0.0-20170606.150758-36,+,2017-06-06
+decompiler-api,4.0.0-20170606.150758-36,-,2017-08-28
+windup-utils,4.0.0.Beta2.1,+,2017-06-06
+windup-utils,4.0.0.Beta2.1,-,2017-08-28
+windup-utils,4.0.0-20170606.145808-36,+,2017-06-06
+windup-utils,4.0.0-20170606.145808-36,-,2017-08-28
+windup-fernflower,1.0.0.20160505b,-,2017-09-21
+windup-fernflower,1.0.0.20160505,-,2017-08-28
+windup-fernflower,1.0.0.20160505,-,2017-06-07
+windup-fernflower,1.0.0.20160505,+,2017-06-06
+windup-fernflower,1.0.0.20160505,+,2016-05-04

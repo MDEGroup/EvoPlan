@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.10,-,2012-08-29
+junit,4.10,+,2012-08-29
+slf4j-aspect,${project.version},+,2012-08-29
+slf4j-aspect,${project.version},-,2012-08-29
+slf4j-aspect,1.0.0-SNAPSHOT,-,2012-08-29

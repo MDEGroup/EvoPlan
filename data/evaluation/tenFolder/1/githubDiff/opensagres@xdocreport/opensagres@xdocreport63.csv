@@ -1,0 +1,6 @@
+library,version,sign,date
+jaxb-impl,2.2,+,2012-04-01
+jaxb-api,2.2.3,+,2012-02-07
+jaxb-api,2.2.3,-,2012-04-01
+jaxb-api,2.2.3,+,2012-04-01
+jaxb-api,2.2,+,2012-04-01

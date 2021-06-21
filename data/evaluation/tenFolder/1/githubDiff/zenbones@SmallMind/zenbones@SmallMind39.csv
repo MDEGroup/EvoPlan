@@ -1,0 +1,4 @@
+library,version,sign,date
+validation-api,2.0.1.Final,-,2019-11-25
+validation-api,2.0.1.Final,+,2019-11-25
+hibernate-entitymanager,5.1.13.Final,-,2019-11-25

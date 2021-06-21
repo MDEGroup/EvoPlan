@@ -1,0 +1,16 @@
+library,version,sign,date
+sakai-common-type-api,1.1-SNAPSHOT,-,2011-07-25
+sakai-common-type-api,1.1-SNAPSHOT,-,2010-01-28
+sakai-common-type-api,1.2-SNAPSHOT,+,2010-01-28
+sakai-common-composite-component-data,1.1-SNAPSHOT,-,2011-07-25
+sakai-common-composite-component-data,1.1-SNAPSHOT,-,2010-01-28
+sakai-common-composite-component-data,1.2-SNAPSHOT,+,2010-01-28
+sakai-common-edu-person-api,1.1-SNAPSHOT,-,2011-07-25
+sakai-common-edu-person-api,1.1-SNAPSHOT,-,2010-01-28
+sakai-common-edu-person-api,1.2-SNAPSHOT,+,2010-01-28
+sakai-common-composite-component,1.1-SNAPSHOT,-,2011-07-25
+sakai-common-composite-component,1.1-SNAPSHOT,-,2010-01-28
+sakai-common-composite-component,1.2-SNAPSHOT,+,2010-01-28
+sakai-common-manager-api,1.1-SNAPSHOT,-,2011-07-25
+sakai-common-manager-api,1.1-SNAPSHOT,-,2010-01-28
+sakai-common-manager-api,1.2-SNAPSHOT,+,2010-01-28

@@ -1,0 +1,14 @@
+library,version,sign,date
+commons-logging,1.0.4,-,2011-06-28
+commons-logging,1.0.4,-,2007-11-18
+commons-logging,1.0.4,-,2010-09-22
+sakai-velocity-tool,2.9-SNAPSHOT,-,2011-04-02
+sakai-velocity-tool,2.9.0-a01,-,2011-10-14
+sakai-velocity-tool,2.9-SNAPSHOT,-,2011-07-11
+sakai-velocity-tool,2.8-SNAPSHOT,-,2009-11-22
+sakai-velocity-tool,2.6.0RC1-SNAPSHOT,+,2008-08-17
+sakai-velocity-tool,2.7.0-SNAPSHOT,-,2008-12-05
+sakai-velocity-tool,2.6.0RC1-SNAPSHOT,-,2008-08-28
+sakai-velocity-tool,2.6.0RC1-SNAPSHOT,-,2008-08-17
+sakai-velocity-tool,2.9-SNAPSHOT,+,2011-06-28
+sakai-velocity-tool,2.6.0RC1-SNAPSHOT,+,2008-08-07

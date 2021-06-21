@@ -1,0 +1,7 @@
+library,version,sign,date
+goods-review-core,1.0-SNAPSHOT,+,2012-07-20
+goods-review-core,1.0-SNAPSHOT,+,2012-06-22
+commons-collections,3.2.1,+,2012-11-09
+goods-review-scheduler,1.0-SNAPSHOT,+,2012-07-20
+goods-review-scheduler,1.0-SNAPSHOT,+,2012-06-22
+httpclient,4.2.1,+,2012-11-13

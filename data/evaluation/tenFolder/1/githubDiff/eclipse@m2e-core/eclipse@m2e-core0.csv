@@ -1,0 +1,4 @@
+library,version,sign,date
+org.eclipse.m2e.workspace.cli,0.3.0,-,2015-02-15
+org.eclipse.m2e.workspace.cli,0.1.0,-,2014-07-23
+org.eclipse.m2e.workspace.cli,0.1.0,+,2014-06-03

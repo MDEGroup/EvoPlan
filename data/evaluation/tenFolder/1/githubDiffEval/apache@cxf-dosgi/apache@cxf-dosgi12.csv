@@ -1,0 +1,4 @@
+library,version,sign,date
+swagger-annotations,1.5.13,+,2017-02-11
+org.apache.servicemix.specs.jsr339-api-2.0.1,2.6.0,+,2016-08-16
+org.apache.servicemix.specs.jsr339-api-2.0.1,2.6.0,-,2017-07-10

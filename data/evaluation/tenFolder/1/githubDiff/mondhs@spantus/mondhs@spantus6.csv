@@ -1,0 +1,16 @@
+library,version,sign,date
+spnt-math,0.1,+,2010-02-12
+spnt-math,0.0.1-SNAPSHOT,+,2010-02-12
+spnt-math,0.0.1-SNAPSHOT,-,2010-02-12
+spnt-math,0.1,-,2010-02-12
+spnt-math,0.2,-,2010-10-28
+spnt-math,0.3-SNAPSHOT,+,2011-01-16
+spnt-math,0.3-SNAPSHOT,+,2011-07-18
+spnt-math,0.3-SNAPSHOT,-,2011-07-18
+spnt-math,0.2-SNAPSHOT,-,2010-03-13
+spnt-math,0.3-SNAPSHOT,+,2012-03-15
+spnt-math,0.2,+,2010-03-13
+spnt-math,0.3-SNAPSHOT,-,2012-03-15
+spnt-math,0.0.1-SNAPSHOT,+,2009-02-12
+spnt-math,0.0.1-SNAPSHOT,-,2010-01-14
+spnt-math,0.1,+,2010-01-14

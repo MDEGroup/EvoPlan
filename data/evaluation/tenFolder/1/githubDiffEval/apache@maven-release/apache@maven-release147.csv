@@ -1,0 +1,4 @@
+library,version,sign,date
+artifactId-release-range,1.0,+,2007-11-17
+artifactId-release-range,1.0-20060424.060453-1,+,2007-11-17
+artifactId-release-range,1.0-SNAPSHOT,+,2007-11-17

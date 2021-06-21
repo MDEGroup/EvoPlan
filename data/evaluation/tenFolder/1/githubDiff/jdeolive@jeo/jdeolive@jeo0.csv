@@ -1,0 +1,9 @@
+library,version,sign,date
+easymock,2.3,+,2013-02-09
+junit,4.11,-,2013-05-24
+junit,4.11,+,2013-02-09
+joda-time,2.1,+,2013-02-19
+easymockclassextension,2.3,+,2013-02-09
+joda-convert,1.2,+,2013-02-19
+guava,13.0,+,2013-02-12
+guava,13.0,-,2013-02-12

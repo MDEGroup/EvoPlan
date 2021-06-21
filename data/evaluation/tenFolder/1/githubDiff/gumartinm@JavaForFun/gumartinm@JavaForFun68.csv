@@ -1,0 +1,6 @@
+library,version,sign,date
+log4j-slf4j-impl,2.6.1,+,2016-08-05
+junit,4.11,+,2016-08-05
+jcl-over-slf4j,1.7.21,+,2016-08-05
+fest-assert,1.4,+,2016-08-05
+log4j-core,2.6.1,+,2016-08-05

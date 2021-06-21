@@ -1,0 +1,8 @@
+library,version,sign,date
+android,4.0.1.2,-,2013-05-20
+android,4.0.1.2,+,2013-03-26
+android,4.0.1.2,-,2013-03-26
+annotations,2.0.1,+,2013-03-26
+annotations,2.0.1,-,2013-03-26
+annotations,7.0.3,-,2013-03-26
+common-listeners,1.0.4,-,2013-05-20

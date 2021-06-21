@@ -1,0 +1,9 @@
+library,version,sign,date
+slf4j-api,1.7.5,-,2017-02-15
+junit,4.11,-,2017-02-15
+slf4j-simple,1.7.5,-,2017-02-15
+hibernate-validator,5.0.1.Final,-,2017-04-04
+hibernate-validator,6.0.9.Final,-,2018-04-05
+guava,15.0,-,2018-05-11
+guava,23.0,-,2018-12-28
+guava,27.0.1-jre,-,2019-04-13

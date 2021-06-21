@@ -1,0 +1,6 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,-,2019-01-06
+javax.servlet-api,4.0.1,-,2019-11-25
+javax.servlet-api,3.0.1,+,2012-12-20
+javax.servlet-api,3.0.1,-,2015-11-28
+javax.servlet-api,4.0.1,+,2019-11-25

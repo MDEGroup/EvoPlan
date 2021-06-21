@@ -1,0 +1,6 @@
+library,version,sign,date
+akka-actor,2.0.1,+,2012-05-04
+akka-actor,2.0,-,2012-05-04
+akka-actor,2.0.1,-,2012-05-04
+akka-mailboxes-common,2.0.1,-,2012-05-04
+akka-file-mailbox,2.0.1,-,2012-05-04

@@ -1,0 +1,11 @@
+library,version,sign,date
+commons-httpclient,3.1,+,2012-06-07
+commons-httpclient,3.1,+,2012-04-03
+commons-httpclient,3.1,+,2011-09-05
+commons-httpclient,3.1,-,2012-06-25
+commons-httpclient,3.1,-,2011-09-05
+commons-httpclient,3.1,-,2012-06-07
+commons-httpclient,3.1,+,2012-06-25
+commons-httpclient,3.1,-,2013-01-15
+geonetwork-manager,1.0-SNAPSHOT,+,2011-09-05
+geonetwork-manager,1.0-SNAPSHOT,-,2011-09-05

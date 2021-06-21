@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.8.2,-,2013-07-05
+junit,4.8.2,+,2013-06-28
+nanohttpd,2.0.3,-,2013-07-05
+nanohttpd,2.0.3,+,2013-07-05
+nanohttpd,2.0.3,+,2013-06-28

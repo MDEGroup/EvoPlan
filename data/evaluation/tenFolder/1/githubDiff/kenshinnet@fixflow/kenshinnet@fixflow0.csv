@@ -1,0 +1,4 @@
+library,version,sign,date
+slf4j-api,1.7.6,+,2014-03-06
+junit,3.8.1,-,2014-03-06
+slf4j-log4j12,1.7.6,+,2014-03-06

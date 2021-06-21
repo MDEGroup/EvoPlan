@@ -1,0 +1,76 @@
+library,version,sign,date
+moho-impl, 1.0-SNAPSHOT   ,+,2011-10-08
+moho-impl,1.0-SNAPSHOT,-,2013-01-05
+moho-impl,trunk-SNAPSHOT,-,2012-12-14
+moho-impl,0.8,-,2011-07-18
+moho-impl,0.5,+,2010-07-20
+moho-impl, 1.0-SNAPSHOT   ,-,2012-12-19
+moho-impl,cpa-SNAPSHOT,-,2013-02-27
+moho-impl,0.7-SNAPSHOT,-,2011-06-17
+moho-impl,0.8-SNAPSHOT,-,2011-10-08
+moho-impl,0.7-SNAPSHOT,-,2010-12-01
+moho-impl,0.5,-,2010-10-31
+moho-impl,trunk-SNAPSHOT,-,2012-12-27
+moho-impl,trunk,-,2013-03-27
+moho-impl,trunk-SNAPSHOT,-,2014-07-16
+moho-impl, 1.0-SNAPSHOT   ,-,2012-11-30
+moho-impl,0.7-SNAPSHOT,-,2010-11-29
+moho-impl,0.6,-,2010-11-04
+moho-impl,trunk-SNAPSHOT,-,2013-01-08
+moho-impl,0.7,-,2011-03-31
+moho-impl,trunk-SNAPSHOT,-,2013-03-27
+moho-impl,1.1-SNAPSHOT,-,2013-05-09
+moho-api,0.5,-,2010-06-30
+moho-api,cpa-SNAPSHOT,-,2013-02-27
+moho-api,0.7-SNAPSHOT,-,2011-06-17
+moho-api,0.8-SNAPSHOT,-,2011-10-08
+moho-api, 1.0-SNAPSHOT   ,-,2014-07-16
+moho-api,0.6,-,2010-11-04
+moho-api,0.8-SNAPSHOT,-,2011-09-23
+moho-api, 1.0-SNAPSHOT   ,-,2012-12-19
+moho-api,0.5,-,2010-10-31
+moho-api,trunk-SNAPSHOT,-,2012-12-27
+moho-api,trunk,-,2013-03-27
+moho-api, 1.0-SNAPSHOT   ,-,2012-11-30
+moho-api,trunk-SNAPSHOT,-,2013-01-08
+moho-api,0.7,-,2011-03-31
+moho-api,trunk-SNAPSHOT,-,2013-03-27
+moho-api, 1.0-SNAPSHOT   ,+,2011-10-08
+moho-api,1.0-SNAPSHOT,-,2013-01-05
+moho-api,trunk-SNAPSHOT,-,2012-12-14
+moho-api,0.8,-,2011-07-18
+moho-api,0.8-SNAPSHOT,+,2011-09-23
+moho-api,0.7-SNAPSHOT,-,2010-12-01
+moho-api,trunk-SNAPSHOT,-,2013-05-13
+moho-api,0.8-SNAPSHOT,-,2011-09-30
+moho-api,0.8-SNAPSHOT,+,2011-07-27
+moho-api,0.8-SNAPSHOT,+,2011-10-08
+moho-api,trunk-SNAPSHOT,-,2014-07-16
+moho-api,0.7,+,2010-12-01
+moho-api,0.8-SNAPSHOT,+,2011-09-30
+moho-api,0.7-SNAPSHOT,-,2010-11-29
+moho-api,1.1-SNAPSHOT,-,2013-05-09
+mscontrol-api,1.0-SNAPSHOT,+,2011-09-30
+mscontrol-api,1.0-SNAPSHOT,-,2010-12-01
+mscontrol-api,1.0-SNAPSHOT,-,2011-09-30
+mscontrol-api,1.0-SNAPSHOT,-,2011-10-08
+mscontrol-api,1.0-SNAPSHOT,+,2010-12-01
+mscontrol-api,1.0-SNAPSHOT,+,2011-09-23
+mscontrol-api,1.0-SNAPSHOT,-,2014-07-16
+mscontrol-api,1.0-SNAPSHOT,+,2011-10-08
+sipservlet-api,1.1-SNAPSHOT,-,2014-07-16
+sipservlet-api,1.1-SNAPSHOT,-,2011-09-23
+sipservlet-api,1.1-SNAPSHOT,-,2010-12-01
+sipservlet-api,1.1-SNAPSHOT,-,2011-10-08
+sipservlet-api,1.1-SNAPSHOT,+,2010-12-01
+sipservlet-api,1.1-SNAPSHOT,+,2011-07-27
+sipservlet-api,1.1-SNAPSHOT,+,2011-09-23
+sipservlet-api,1.1-SNAPSHOT,+,2011-10-08
+servlet-api,2.5,-,2011-10-08
+servlet-api,2.5,+,2011-10-08
+servlet-api,2.5,-,2011-09-23
+servlet-api,2.5,-,2014-07-16
+servlet-api,2.5,+,2010-12-01
+servlet-api,2.5,+,2011-09-23
+servlet-api,2.5,+,2011-07-27
+servlet-api,2.5,-,2010-12-01

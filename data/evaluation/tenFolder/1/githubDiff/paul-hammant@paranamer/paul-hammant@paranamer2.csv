@@ -1,0 +1,13 @@
+library,version,sign,date
+maven-plugin-api,2.0,+,2007-04-19
+maven-plugin-api,2.0,-,2014-08-16
+maven-plugin-api,2.0,-,2007-04-19
+maven-plugin-api,3.3.3,-,2015-08-26
+maven-plugin-annotations,3.3,-,2014-08-16
+maven-plugin-annotations,3.3,+,2014-08-16
+paranamer-generator, 1.0-RC-3-SNAPSHOT,-,2007-04-20
+paranamer-generator, 1.0-RC-2,-,2007-04-20
+paranamer-generator,2.2-SNAPSHOT,-,2009-09-07
+paranamer-generator,1.1-SNAPSHOT,-,2007-07-01
+paranamer-generator,1.0,-,2007-07-01
+paranamer-generator, 1.0-RC-2,+,2007-04-19

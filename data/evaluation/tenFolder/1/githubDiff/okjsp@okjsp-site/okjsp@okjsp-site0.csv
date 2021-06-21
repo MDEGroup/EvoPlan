@@ -1,0 +1,7 @@
+library,version,sign,date
+standard,1.1.2,+,2013-01-28
+jstl,1.1.2,+,2013-01-28
+junit,3.8.1,+,2013-01-30
+logback-classic,1.1.2,+,2014-01-25
+string,1.1.0,+,2013-01-28
+spring-aop,3.1.1.RELEASE,+,2013-01-31

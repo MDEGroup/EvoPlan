@@ -1,0 +1,15 @@
+library,version,sign,date
+openjpa,@pom.version@,+,2010-11-30
+openjpa,${pom.version},-,2010-07-07
+openjpa,${pom.version},-,2010-02-10
+openjpa,${pom.version},+,2010-02-10
+openjpa,${project.version},+,2010-07-07
+org.apache.bval.bundle,0.3-incubating,-,2016-05-10
+org.apache.bval.bundle,0.1-incubating,-,2010-08-10
+org.apache.bval.bundle,0.3-incubating,-,2018-06-08
+org.apache.bval.bundle,1.1.1,-,2016-09-21
+org.apache.bval.bundle,0.2-incubating-SNAPSHOT,-,2010-08-16
+org.apache.bval.bundle,0.2-incubating,-,2010-11-30
+org.apache.bval.bundle,0.5,-,2016-08-18
+org.apache.bval.bundle,0.1-incubating,+,2010-05-24
+org.apache.bval.bundle,0.3-incubating,+,2010-11-30

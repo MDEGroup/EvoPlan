@@ -1,0 +1,6 @@
+library,version,sign,date
+guice-servlet,3.0,-,2013-03-05
+guice,3.0,+,2013-08-31
+guice,3.0,-,2013-08-31
+guice,3.0,+,2013-03-05
+guice,3.0,-,2013-03-05

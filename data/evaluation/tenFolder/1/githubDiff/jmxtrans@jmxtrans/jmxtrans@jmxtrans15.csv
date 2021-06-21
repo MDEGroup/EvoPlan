@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.11,-,2015-07-31
+guava,18.0,-,2015-07-31
+guava,19.0-rc2,-,2016-01-22

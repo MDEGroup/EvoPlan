@@ -1,0 +1,17 @@
+library,version,sign,date
+antlr4-runtime,4.7.1,-,2019-12-12
+antlr4-runtime,4.7.1-j11,-,2019-12-12
+protonpack,1.13,+,2018-11-05
+protonpack,1.13,-,2019-04-24
+testfx-junit,4.0.14-alpha,-,2018-10-11
+testfx-junit5,4.0.14-alpha,+,2018-10-11
+testfx-junit5,4.0.14-alpha,-,2018-10-11
+annotations,16.0.1,-,2019-12-12
+annotations,16.0.1,+,2019-12-12
+annotations,16.0.1-j11,+,2018-11-07
+annotations,16.0.1-j11,-,2019-12-12
+mockito-junit-jupiter,2.23.0,-,2018-10-11
+mockito-junit-jupiter,2.23.0,+,2018-10-11
+rxjavafx,2.11.0-RC33,+,2019-12-12
+rxjavafx,2.11.0-RC33,+,2019-05-11
+rxjavafx,2.11.0-RC33,-,2019-12-12

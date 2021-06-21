@@ -1,0 +1,12 @@
+library,version,sign,date
+forum,0.0.1-SNAPSHOT,-,2011-11-20
+forum,0.0.1-SNAPSHOT,+,2011-02-17
+albumPhoto,0.0.1-SNAPSHOT,-,2011-11-20
+albumPhoto,0.0.1-SNAPSHOT,+,2011-11-20
+albumPhoto,0.0.1-SNAPSHOT,+,2011-02-17
+albumPhoto,0.0.1-SNAPSHOT,-,2011-02-17
+jackson-mapper-asl,1.9.5,+,2012-02-15
+ficheChevaux,0.0.1-SNAPSHOT,-,2011-11-20
+ficheChevaux,0.0.1-SNAPSHOT,-,2012-02-15
+ficheChevaux,0.0.1-SNAPSHOT,+,2011-02-17
+servlet-api,2.4,-,2012-02-15

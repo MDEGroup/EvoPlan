@@ -1,0 +1,3 @@
+library,version,sign,date
+junit,4.11,+,2014-04-07
+runtime-jetty,0.0.1-SNAPSHOT,-,2014-04-06

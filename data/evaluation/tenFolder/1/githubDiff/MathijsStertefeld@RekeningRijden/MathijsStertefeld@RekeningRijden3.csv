@@ -1,0 +1,8 @@
+library,version,sign,date
+primefaces,3.5,+,2013-05-23
+primefaces,3.5,-,2013-05-23
+javaee-web-api,6.0,+,2013-05-26
+javaee-web-api,6.0,+,2013-05-22
+javaee-web-api,6.0,-,2013-05-22
+jersey-json,1.17.1,+,2013-05-26
+jersey-client,1.17.1,+,2013-05-26

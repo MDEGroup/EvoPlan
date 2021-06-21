@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.10,-,2012-08-22
+junit,4.11,+,2012-08-22
+junit,3.8.1,-,2012-08-22
+arcobjects,10.0,+,2013-07-09
+arcobjects,10.0,-,2013-07-09

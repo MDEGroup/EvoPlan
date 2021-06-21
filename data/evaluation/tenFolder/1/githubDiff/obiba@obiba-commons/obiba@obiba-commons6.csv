@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.12,+,2018-05-20
+junit,4.12,-,2018-05-20
+guava,19.0,-,2018-05-20
+guava,19.0,+,2018-05-20

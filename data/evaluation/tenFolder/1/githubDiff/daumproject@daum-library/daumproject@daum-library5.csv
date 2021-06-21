@@ -1,0 +1,13 @@
+library,version,sign,date
+org.daum.common.genmodel.javase.root,1.1-SNAPSHOT,-,2012-07-26
+org.daum.common.genmodel.javase.root,1.0,-,2012-07-05
+org.daum.common.genmodel.javase.root,1.1-SNAPSHOT,+,2012-07-11
+org.daum.common.genmodel.javase.root,1.0,+,2012-07-03
+org.daum.common.genmodel.javase.root,1.1-SNAPSHOT,-,2012-07-11
+org.daum.common.genmodel.javase.root,1.0,-,2012-07-19
+org.daum.common.genmodel.javase.root,1.1-SNAPSHOT,+,2012-07-05
+org.daum.common.genmodel.javase.root,1.1-SNAPSHOT,-,2012-07-19
+org.daum.common.genmodel.javase.root,1.2-SNAPSHOT,-,2013-01-29
+org.daum.corelibrary.javase.ormH,2.0.0-SNAPSHOT,+,2013-02-08
+je,3.3.75,+,2013-02-14
+je,5.0.73,+,2013-02-14

@@ -1,0 +1,6 @@
+library,version,sign,date
+ehcache,1.2.4,-,2008-05-06
+ehcache,1.2.4,-,2008-05-11
+httpclient,4.0-alpha3,-,2008-05-11
+httpclient,4.0-alpha4,-,2008-09-17
+servlet-api,2.5,-,2008-05-06

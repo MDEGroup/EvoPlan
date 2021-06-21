@@ -1,0 +1,15 @@
+library,version,sign,date
+jersey-spring3,2.4.1,+,2013-11-22
+standard,1.1.2,+,2013-12-10
+sql-maven-plugin,1.5,+,2014-01-01
+spring-web,3.0.6.RELEASE,-,2013-12-10
+spring-web,3.0.6.RELEASE,+,2013-12-10
+jstl,1.1.2,+,2013-12-10
+cors-filter,1.8,+,2013-12-09
+crental-api,1.0-SNAPSHOT,+,2013-11-17
+spring-core,3.0.6.RELEASE,+,2013-11-22
+hibernate-validator,4.2.0.Final,+,2013-11-22
+jersey-container-servlet,2.4.1,+,2013-11-22
+jersey-media-moxy,2.4.1,+,2013-11-22
+shiro-web,1.2.2,+,2013-12-12
+javaee-web-api,7.0,+,2013-12-09

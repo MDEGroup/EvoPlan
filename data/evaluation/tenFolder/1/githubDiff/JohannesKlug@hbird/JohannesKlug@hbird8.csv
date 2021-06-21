@@ -1,0 +1,8 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2012-09-04
+junit,3.8.1,-,2012-09-03
+junit,4.8.2,-,2012-09-04
+slf4j-log4j12,1.6.1,-,2012-09-04
+org.osgi.core,4.2.0,+,2012-09-04
+org.osgi.core,4.2.0,-,2012-09-04
+org.osgi.core,1.0.0,-,2012-09-04

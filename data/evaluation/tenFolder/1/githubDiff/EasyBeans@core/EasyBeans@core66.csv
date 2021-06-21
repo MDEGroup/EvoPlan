@@ -1,0 +1,4 @@
+library,version,sign,date
+maven-plugin-annotations,3.1,+,2013-02-27
+osgiframework-maven-plugin,2.0.0-SNAPSHOT,+,2013-02-27
+osgiframework-maven-plugin,2.0.0-SNAPSHOT,-,2013-08-20

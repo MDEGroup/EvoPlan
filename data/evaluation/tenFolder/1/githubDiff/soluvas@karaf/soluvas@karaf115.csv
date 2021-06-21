@@ -1,0 +1,5 @@
+library,version,sign,date
+org.osgi.core,4.2.0,+,2011-11-27
+commons-compress,1.1,-,2011-11-27
+commons-io,1.3.2,-,2011-11-27
+guava,10.0.1,-,2012-01-11

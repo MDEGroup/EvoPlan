@@ -1,0 +1,8 @@
+library,version,sign,date
+logback-classic,1.0.2,+,2012-05-05
+jackrabbit-api,2.4.1,+,2012-05-05
+jackrabbit-jcr-rmi,2.4.1,+,2012-05-05
+jcr,2.0,+,2012-05-05
+jackrabbit-core,2.4.1,+,2012-05-05
+jackrabbit-jcr-servlet,2.4.1,+,2012-05-05
+jackrabbit-jcr-server,2.4.1,+,2012-05-05

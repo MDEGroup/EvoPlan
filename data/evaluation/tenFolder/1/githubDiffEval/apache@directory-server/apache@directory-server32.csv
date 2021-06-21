@@ -1,0 +1,5 @@
+library,version,sign,date
+apacheds-core-shared,0.9.4-SNAPSHOT,-,2006-02-07
+apacheds-core-shared,0.9.4-SNAPSHOT,+,2006-02-05
+apacheds-i18n,1.5.6-SNAPSHOT,-,2010-01-26
+apacheds-i18n,1.5.6-SNAPSHOT,+,2010-01-10

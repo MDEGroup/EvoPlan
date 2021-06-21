@@ -1,0 +1,16 @@
+library,version,sign,date
+robolectric,2.1.1,+,2013-05-13
+junit,4.8.2,+,2013-05-09
+junit,3.8.1,-,2013-05-09
+junit,4.8.2,+,2013-05-13
+junit,3.8.1,+,2013-05-09
+android-test,4.1.1.4,+,2013-05-13
+android-test,1.6_r2,-,2013-05-10
+android-test,1.6_r2,+,2013-05-09
+android-test,1.6_r2,-,2013-05-13
+android,4.1.1.4,+,2013-05-13
+android,1.6_r2,-,2013-05-10
+android,1.6_r2,+,2013-05-09
+android,1.6_r2,-,2013-05-13
+android,1.6_r2,-,2013-05-09
+android-view-selector-test-lib,1.0-SNAPSHOT,+,2013-05-13

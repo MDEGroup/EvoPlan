@@ -1,0 +1,6 @@
+library,version,sign,date
+support-v4,r6,+,2013-11-12
+support-v4,r6,-,2013-11-18
+jackson-mapper-asl,1.9.13,+,2013-11-18
+jackson-mapper-asl,1.9.12,-,2013-11-12
+jackson-mapper-asl,1.9.12,+,2013-11-10

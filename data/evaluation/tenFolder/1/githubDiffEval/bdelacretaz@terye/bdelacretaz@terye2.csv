@@ -1,0 +1,7 @@
+library,version,sign,date
+hadoop-core,1.0.3,-,2012-11-19
+hadoop-core,1.0.3,+,2012-11-19
+junit,3.8.1,-,2012-11-19
+junit,3.8.1,+,2012-11-19
+hbase,0.94.1,+,2012-11-19
+hbase,0.94.1,-,2012-11-19

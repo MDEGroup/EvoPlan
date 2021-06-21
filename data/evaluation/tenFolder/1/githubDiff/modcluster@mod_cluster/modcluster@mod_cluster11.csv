@@ -1,0 +1,3 @@
+library,version,sign,date
+mod_cluster-container-spi,1.2.1.Beta2-SNAPSHOT,+,2012-03-21
+mod_cluster-container-spi,1.2.1.Beta2-SNAPSHOT,-,2012-03-21

@@ -1,0 +1,10 @@
+library,version,sign,date
+spigot-API,1.8.6-R0.1-SNAPSHOT,+,2015-10-23
+spigot-API,1.8.6-R0.1-SNAPSHOT,-,2015-11-12
+spigot-API,1.10.2-R0.1-SNAPSHOT,-,2016-08-15
+NoCheatPlus,3.12.0-BETA2,+,2015-09-12
+bukkit,0.0.1-SNAPSHOT,-,2011-12-31
+bukkit,1.12.2-R0.1-SNAPSHOT,+,2017-10-04
+bukkit,1.7.10-R0.1-SNAPSHOT,-,2015-10-23
+bukkit,1.7.10-R0.1-SNAPSHOT,+,2011-12-31
+Vault,1.4.1,+,2011-12-31

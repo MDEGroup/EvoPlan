@@ -1,0 +1,14 @@
+library,version,sign,date
+commons-collections,3.2.1,+,2011-09-04
+commons-collections,3.2.1,+,2011-09-03
+commons-collections,3.2.1,-,2011-09-04
+commons-collections,3.2.1,-,2011-09-03
+commons-io,2.1,+,2012-02-18
+commons-lang,2.5,+,2011-09-03
+commons-lang,2.5,+,2011-09-04
+commons-lang,2.5,-,2011-09-04
+commons-lang,2.5,-,2011-09-03
+servlet-api,2.5,+,2011-09-03
+servlet-api,2.5,+,2011-09-04
+servlet-api,2.5,-,2011-09-04
+servlet-api,2.5,-,2011-09-03

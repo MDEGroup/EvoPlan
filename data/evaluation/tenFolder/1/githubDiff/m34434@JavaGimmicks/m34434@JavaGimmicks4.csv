@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.11,+,2013-12-17
+junit,4.11,+,2013-09-30
+junit,4.11,-,2013-12-17
+junit,4.11,-,2013-09-30
+cdi-api,1.1,+,2013-12-17
+cdi-api,1.1,-,2013-12-17
+cdi-api,1.1,+,2013-09-30
+cdi-api,1.1,-,2013-09-30
+javax.inject,1,-,2013-09-30
+javax.inject,1,+,2013-09-17
+javax.inject,1,-,2013-12-17
+javax.inject,1,+,2013-12-17
+javax.inject,1,+,2013-09-30

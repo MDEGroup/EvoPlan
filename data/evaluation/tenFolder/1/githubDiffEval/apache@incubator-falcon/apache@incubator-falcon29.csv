@@ -1,0 +1,5 @@
+library,version,sign,date
+jersey-server,1.8,-,2014-01-16
+testng,6.8.8,+,2014-05-06
+jersey-json,1.8,-,2014-01-16
+jersey-client,1.8,-,2014-01-16

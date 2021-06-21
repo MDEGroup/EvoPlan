@@ -1,0 +1,12 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2013-04-11
+slf4j-api,1.6.1,+,2013-03-27
+junit,4.8.2,+,2013-03-27
+junit,4.8.1,+,2013-04-11
+slf4j-log4j12,1.6.1,+,2013-03-03
+commons-codec,1.7,-,2013-03-03
+commons-codec,1.6,-,2013-06-14
+commons-codec,1.7,+,2013-03-03
+servlet-api,2.3,+,2013-06-14
+servlet-api,2.5,+,2013-03-15
+servlet-api,2.5,+,2013-04-11

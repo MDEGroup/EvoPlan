@@ -1,0 +1,12 @@
+library,version,sign,date
+sqlg-postgres,1.0.0.M7,+,2014-12-29
+sqlg-postgres,1.0.0-SNAPSHOT,-,2015-03-30
+sqlg-postgres,1.0.0-SNAPSHOT,-,2015-07-15
+sqlg-postgres,1.0.0.M9,-,2015-06-07
+sqlg-postgres,0.0.1-SNAPSHOT,-,2014-08-29
+sqlg-postgres,0.0.1-SNAPSHOT,-,2014-09-19
+sqlg-postgres,1.0.0.M7,-,2015-01-21
+sqlg-postgres,1.0.0.M6,-,2014-12-29
+sqlg-postgres,1.1.0-SNAPSHOT,-,2015-09-25
+sqlg-postgres,1.0.0,-,2015-08-02
+sqlg-postgres,0.0.2-SNAPSHOT,-,2014-10-12

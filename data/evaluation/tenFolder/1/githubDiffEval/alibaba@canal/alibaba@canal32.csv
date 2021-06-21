@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.8.2,-,2019-09-25
+junit,4.8.2,+,2019-09-25
+junit,4.12,-,2019-09-25
+mysql-connector-java,5.1.47,-,2019-09-25
+mysql-connector-java,5.1.47,+,2019-09-25
+mysql-connector-java,5.1.40,-,2019-09-25
+h2,1.4.192,-,2019-09-25
+h2,1.4.192,+,2019-09-25
+fastsql,2.0.0_preview_855,-,2019-09-25

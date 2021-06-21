@@ -1,0 +1,15 @@
+library,version,sign,date
+cglib,2.2.2,+,2012-11-26
+cglib,2.2.2,-,2013-04-05
+spring-jpa,2.0.8,-,2013-04-05
+spring-jpa,2.0.8,+,2012-11-26
+XmlSchema,1.4.7,+,2012-11-26
+commons-httpclient,3.1,-,2013-04-05
+commons-httpclient,3.1,+,2012-11-26
+jackson-jaxrs,1.1.1,+,2012-11-26
+jackson-jaxrs,1.1.1,-,2013-04-05
+spring-web,3.2.0.RELEASE,+,2013-05-02
+spring-web,3.2.0.RELEASE,+,2012-11-26
+spring-web,3.2.0.RELEASE,-,2013-05-02
+jersey-bundle,1.1.5.1,+,2012-11-26
+jersey-bundle,1.1.5.1,-,2013-04-05

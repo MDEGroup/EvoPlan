@@ -1,0 +1,4 @@
+library,version,sign,date
+xwiki-contrib-mailarchive-ui,0.3-SNAPSHOT,-,2013-06-02
+xwiki-contrib-mailarchive-test-pageobjects,0.3-SNAPSHOT,-,2013-03-29
+xwiki-contrib-mailarchive-test-pageobjects,0.3-SNAPSHOT,+,2013-03-29

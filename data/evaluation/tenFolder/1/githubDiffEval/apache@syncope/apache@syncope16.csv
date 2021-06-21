@@ -1,0 +1,4 @@
+library,version,sign,date
+curator-test,2.13.0,-,2019-11-20
+curator-test,2.13.0,+,2019-05-15
+curator-test,2.13.0,+,2019-04-03

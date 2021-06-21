@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.4,+,2011-03-25
+junit,4.4,-,2011-04-24
+junit,1.2,+,2016-06-14
+junit,4.4,-,2011-03-25
+structs,1.1,+,2016-06-14
+workflow-cps,1.4.3,+,2016-06-14
+mockito-core,1.8.5,+,2013-01-05
+workflow-basic-steps,1.4.3,+,2016-06-14
+workflow-job,1.4.3,+,2016-06-14

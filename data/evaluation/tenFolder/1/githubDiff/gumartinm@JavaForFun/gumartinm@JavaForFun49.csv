@@ -1,0 +1,3 @@
+library,version,sign,date
+json-schema-validator,2.2.10,+,2018-10-27
+javax.inject,1,+,2017-01-31

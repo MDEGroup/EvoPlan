@@ -1,0 +1,16 @@
+library,version,sign,date
+jersey-server,1.2-SNAPSHOT,+,2009-10-27
+jersey-server,1.2-SNAPSHOT,-,2010-01-27
+jersey-server,1.1.5-ea-SNAPSHOT,-,2009-10-27
+jersey-core,1.19,-,2015-02-11
+jersey-core,1.20-SNAPSHOT,-,2016-08-24
+jersey-core,1.14-SNAPSHOT,-,2012-06-25
+jersey-core,1.18-SNAPSHOT,-,2013-04-08
+jersey-core,1.16-SNAPSHOT,-,2012-10-29
+jersey-core,1.2-SNAPSHOT,+,2009-10-27
+jersey-core,1.18,-,2013-11-21
+jersey-core,1.17-SNAPSHOT,-,2012-11-27
+jersey-core,1.14-SNAPSHOT,+,2012-02-16
+jersey-core,1.2-SNAPSHOT,-,2010-01-27
+jersey-core,1.19-SNAPSHOT,-,2015-02-05
+jersey-core,1.15-SNAPSHOT,-,2012-09-07

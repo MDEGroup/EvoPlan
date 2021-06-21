@@ -1,0 +1,15 @@
+library,version,sign,date
+mongo-java-driver,2.12.2,-,2015-07-27
+mongo-java-driver,2.12.2,+,2015-07-27
+mysql-connector-java,5.1.31,-,2015-07-27
+mysql-connector-java,5.1.31,+,2015-07-27
+postgresql,9.2-1004-jdbc41,+,2015-07-27
+postgresql,9.2-1004-jdbc41,-,2015-07-27
+tosca-description,1.0,+,2015-07-27
+tosca-description,1.0,-,2015-07-27
+rSYBL-cloud-application-dependency-graph,1.0-SNAPSHOT,+,2015-07-27
+rSYBL-cloud-application-dependency-graph,1.0-SNAPSHOT,-,2015-07-27
+jersey-client,1.17.1,+,2015-07-27
+jersey-client,1.17.1,-,2015-07-27
+yamlbeans,1.08,-,2015-07-27
+yamlbeans,1.08,+,2015-07-27

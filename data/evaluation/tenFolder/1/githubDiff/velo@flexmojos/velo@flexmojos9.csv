@@ -1,0 +1,14 @@
+library,version,sign,date
+framework,3.0.0.477,-,2012-04-02
+framework,4.8.0.1359417,+,2012-04-02
+framework,3.2.0.3958,-,2012-04-02
+framework,%{flex.version},-,2012-04-02
+framework,%{flex.version},+,2012-04-02
+framework,3.2.0.3958A,+,2012-04-02
+framework,%{flex.version},+,2009-01-23
+framework,3.2.0.3958,-,2009-01-23
+framework,4.0.0.14159,-,2012-04-02
+framework,%{air.version},+,2012-04-02
+framework,4.0.0.14159,+,2009-01-23
+air,13.0,+,2012-04-02
+air,%{flex.version},+,2012-04-02

@@ -1,0 +1,10 @@
+library,version,sign,date
+swingx-core,1.6.5-1,+,2012-11-07
+swingx-core,1.6.5-1,+,2014-12-30
+swingx-core,1.6.5-1,-,2014-01-05
+glimpse-core,CURRENT-SNAPSHOT,-,2012-03-08
+glimpse-extras-swt,CURRENT-SNAPSHOT,-,2012-03-08
+miglayout-swing,4.2,+,2016-05-03
+glimpse-extras-charts,CURRENT-SNAPSHOT,-,2012-03-08
+glimpse-core-examples,CURRENT-SNAPSHOT,-,2012-03-08
+glimpse-extras-dspl,CURRENT-SNAPSHOT,-,2012-03-08

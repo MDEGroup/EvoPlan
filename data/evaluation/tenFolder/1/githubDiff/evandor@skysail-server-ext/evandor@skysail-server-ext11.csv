@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.8.2,+,2012-08-08
+junit,4.8.2,-,2012-08-08
+junit,4.10,+,2012-08-20
+skysail.server,[0.2.4-SNAPSHOT, 1.0),+,2012-08-20
+skysail.server,[0.2.4, 1.0),+,2012-08-20
+skysail.server,[0.2.1-SNAPSHOT, 1.0),-,2012-08-13
+rest-assured,1.6.2,-,2012-08-13
+rest-assured,1.6.2,+,2012-08-08
+rest-assured,1.6.2,-,2012-08-08
+com.springsource.org.objectweb.asm,3.2.0,-,2012-08-13
+com.springsource.org.apache.commons.codec,1.5.0,-,2012-08-13
+org.jnario.lib.maven,0.1.0,+,2012-08-08
+skysail.common,[0.3.6, 1.0),+,2012-08-20
+skysail.common,[0.3.2-SNAPSHOT, 1.0),-,2012-08-13
+httpcore-osgi,4.1.4,-,2012-08-13

@@ -1,0 +1,4 @@
+library,version,sign,date
+store-cassandra,5.0.21-SNAPSHOT,-,2014-11-14
+store-cassandra,[5.0-SNAPSHOT,5.1-SNAPSHOT),+,2014-11-13
+store-cassandra,5.0.22-SNAPSHOT,-,2014-11-26

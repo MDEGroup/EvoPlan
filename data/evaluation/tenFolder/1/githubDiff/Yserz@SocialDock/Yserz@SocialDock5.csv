@@ -1,0 +1,14 @@
+library,version,sign,date
+javaee-api,6.0,+,2013-06-04
+javaee-api,6.0,+,2013-06-03
+javaee-api,6.0,+,2013-05-13
+javaee-api,6.0,-,2013-06-03
+javaee-api,6.0,-,2013-05-13
+javaee-api,6.0,-,2013-06-04
+org.apache.servicemix.bundles.twitter4j,3.0.3_1,+,2013-06-04
+org.apache.servicemix.bundles.twitter4j,3.0.3_1,-,2013-06-03
+org.apache.servicemix.bundles.twitter4j,3.0.3_1,-,2013-06-04
+org.apache.servicemix.bundles.twitter4j,3.0.3_1,+,2013-06-03
+org.apache.servicemix.bundles.twitter4j,3.0.3_1,+,2013-05-13
+SDDomain,1.0-SNAPSHOT,+,2013-05-13
+SDDomain,1.0-SNAPSHOT,-,2013-05-13

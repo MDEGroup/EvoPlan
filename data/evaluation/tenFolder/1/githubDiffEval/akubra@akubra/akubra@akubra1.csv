@@ -1,0 +1,11 @@
+library,version,sign,date
+commons-io,1.4,-,2012-03-01
+commons-io,1.4,+,2009-03-04
+commons-io,1.4,-,2010-01-29
+commons-io,1.4,+,2010-01-29
+commons-io,1.4,-,2009-03-20
+akubra-core,0.1,-,2009-05-01
+akubra-core,0.3-SNAPSHOT,-,2010-01-29
+akubra-core,0.2,-,2009-11-27
+akubra-core,0.2-SNAPSHOT,-,2009-11-16
+akubra-core,0.1-SNAPSHOT,-,2009-04-21

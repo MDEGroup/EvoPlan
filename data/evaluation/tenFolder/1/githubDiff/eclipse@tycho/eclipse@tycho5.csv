@@ -1,0 +1,14 @@
+library,version,sign,date
+plexus-archiver,4.2.1,-,2020-02-21
+plexus-archiver,2.2,-,2015-02-06
+plexus-archiver,2.10.1,-,2015-05-28
+plexus-archiver,1.0-alpha-12,-,2011-05-17
+plexus-archiver,2.9.1,-,2017-02-06
+plexus-archiver,1.2,-,2012-05-26
+plexus-archiver,3.4,-,2019-10-08
+plexus-utils,2.0.7,+,2011-09-19
+plexus-utils,2.0.7,-,2012-02-06
+mockito-core,2.23.0,-,2019-10-08
+mockito-core,1.8.4,+,2014-11-24
+mockito-core,1.8.4,-,2019-04-26
+mockito-core,3.2.4,-,2020-02-21

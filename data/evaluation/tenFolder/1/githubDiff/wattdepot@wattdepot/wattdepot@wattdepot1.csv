@@ -1,0 +1,13 @@
+library,version,sign,date
+junit,4.12,-,2015-10-08
+junit,4.12,+,2014-06-09
+junit,4.11,-,2014-06-09
+junit,4.11,+,2013-12-06
+junit,4.12,+,2015-10-08
+junit,4.11,-,2013-12-06
+selenium-java-client-driver,1.0.1,-,2015-10-08
+selenium-java-client-driver,1.0.1,+,2014-12-13
+httpunit,1.7,+,2013-12-06
+httpunit,1.7,+,2015-10-08
+httpunit,1.7,-,2013-12-06
+httpunit,1.7,-,2015-10-08

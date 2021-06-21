@@ -1,0 +1,6 @@
+library,version,sign,date
+avro-mapred,1.5.4,-,2014-09-19
+avro-mapred,1.7.6,-,2014-10-29
+sqoop,1.4.5,+,2014-09-19
+sqoop,1.4.0-incubating,-,2014-09-19
+avro,1.5.4,-,2014-09-19

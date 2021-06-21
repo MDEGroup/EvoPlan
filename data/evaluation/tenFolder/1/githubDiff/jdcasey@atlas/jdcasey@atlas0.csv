@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.10,+,2013-01-29
+junit,4.10,+,2012-08-23
+junit,4.10,-,2013-09-06
+junit,4.10,-,2013-01-29
+commons-lang,2.6,-,2013-09-06
+commons-lang,2.6,-,2013-01-29
+commons-lang,2.6,+,2012-08-23
+commons-lang,2.6,+,2013-01-29

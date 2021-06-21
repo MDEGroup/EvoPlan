@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-api,1.7.5,-,2013-05-13
+slf4j-api,1.7.5,+,2013-05-01
+barchart-util-anno,[2.1,3),+,2013-05-13
+barchart-util-anno,[2.1,3),-,2013-05-31

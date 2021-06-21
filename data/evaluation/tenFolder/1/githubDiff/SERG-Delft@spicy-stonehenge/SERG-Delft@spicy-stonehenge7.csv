@@ -1,0 +1,5 @@
+library,version,sign,date
+derbyclient,10.8.2.2,+,2011-12-20
+derbyclient,10.8.2.2,+,2011-11-11
+derbyclient,10.8.2.2,-,2011-12-20
+ZMQ,1.0,+,2011-12-20

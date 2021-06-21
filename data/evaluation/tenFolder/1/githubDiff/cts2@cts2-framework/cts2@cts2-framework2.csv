@@ -1,0 +1,4 @@
+library,version,sign,date
+slf4j-api,1.5.10,-,2013-10-21
+slf4j-log4j12,1.5.10,-,2013-10-21
+xml-resolver,1.1,-,2013-08-19

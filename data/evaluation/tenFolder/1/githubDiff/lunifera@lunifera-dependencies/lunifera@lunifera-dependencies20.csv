@@ -1,0 +1,8 @@
+library,version,sign,date
+jackson-core-asl,1.9.13,+,2014-07-28
+joda-time,1.6.2,+,2014-07-28
+org.lunifera.dependencies.feature.jboss.drools,6.1.0.CR2,-,2014-07-30
+org.lunifera.dependencies.feature.jboss.drools,6.2.0-SNAPSHOT,-,2014-08-28
+org.lunifera.dependencies.feature.jboss.drools,6.0.0-SNAPSHOT,-,2014-07-28
+org.lunifera.dependencies.feature.jboss.drools,6.1.0.CR2,+,2014-07-28
+org.lunifera.dependencies.feature.jboss.drools,6.2.0-SNAPSHOT,+,2014-07-30

@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.11,-,2014-09-12
+junit,4.12,-,2018-02-18
+junit,4.12,+,2018-02-18
+jboss-jms-api_1.1_spec,1.0.1.Final,+,2018-02-18
+jboss-jms-api_1.1_spec,1.0.1.Final,-,2018-02-18
+log4j-api,2.1-SNAPSHOT,-,2014-09-12
+log4j-core,{Log4jReleaseVersion},+,2018-02-18
+log4j-core,2.1-SNAPSHOT,-,2014-09-12

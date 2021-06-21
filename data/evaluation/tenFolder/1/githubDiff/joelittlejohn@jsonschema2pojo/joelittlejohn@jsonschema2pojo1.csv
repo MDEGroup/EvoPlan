@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.8.1,-,2017-09-20
+javaparser,1.0.10,-,2017-09-20
+scala-library,2.11.6,-,2017-09-20
+commons-lang3,3.2.1,+,2017-12-26
+commons-lang3,3.2.1,-,2017-12-26
+commons-io,1.3.2,-,2017-09-20

@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.8.1,+,2013-12-24
+junit,4.8.1,-,2013-12-24
+json,20090211_1,-,2013-12-08
+json,20090211,-,2013-12-03
+json,20090211_1,+,2013-12-08
+org.apache.servicemix.bundles.commons-io,1.4_3,+,2013-12-03
+org.apache.servicemix.bundles.commons-io,1.4_3,-,2013-12-08

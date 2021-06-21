@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.9,+,2012-09-13
+gson,1.7.1,+,2012-09-27
+commons-io,2.4,+,2012-11-03

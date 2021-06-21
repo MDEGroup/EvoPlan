@@ -1,0 +1,5 @@
+library,version,sign,date
+jbehave-web-selenium,3.5.3,+,2013-03-19
+jbehave-web-selenium,3.5.3,-,2013-03-19
+jbehave-junit-runner,1.0.1,-,2013-03-19
+jbehave-junit-runner,1.0.1,+,2013-03-19

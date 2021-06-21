@@ -1,0 +1,4 @@
+library,version,sign,date
+craftbukkit,1.6.2-R0.1-SNAPSHOT,-,2013-07-09
+craftbukkit,1.6.4-R0.1-SNAPSHOT,+,2013-07-09
+dhutils-api,API,+,2013-07-09

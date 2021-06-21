@@ -1,0 +1,14 @@
+library,version,sign,date
+picocontainer-gems,3.0-SNAPSHOT,+,2013-06-16
+picocontainer-gems,3.0-SNAPSHOT,-,2013-06-16
+picocontainer-gems,2.10.2,-,2010-02-27
+picocontainer-gems,3.0-SNAPSHOT,-,2010-04-15
+picocontainer-gems,3.0-SNAPSHOT,+,2010-04-15
+picocontainer-gems,3.0-SNAPSHOT,-,2011-02-03
+picocontainer-gems,3.0-SNAPSHOT,+,2011-02-03
+struts2-core,2.1.6,+,2010-04-15
+struts2-core,2.1.6,-,2010-04-15
+struts2-core,2.3.14.3,-,2013-06-16
+struts2-core,2.1.6,+,2011-02-03
+struts2-core,2.3.14.3,+,2011-02-03
+struts2-core,2.1.6,-,2011-02-03

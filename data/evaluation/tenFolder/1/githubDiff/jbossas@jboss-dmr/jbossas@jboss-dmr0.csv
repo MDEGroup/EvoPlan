@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.8.1,+,2011-01-21
+junit,4.11,-,2018-02-13
+junit,4.8.1,-,2013-06-11
+jboss-logmanager,1.4.3.Final,-,2018-02-13
+jboss-logmanager,1.2.0.CR8,-,2012-10-23
+jboss-logmanager,1.2.0.GA,-,2013-06-11

@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.8.1,-,2012-07-16
+commons-codec,1.8,-,2013-06-06
+commons-codec,1.5,-,2013-06-11
+commons-codec,1.5,-,2013-08-19
+commons-codec,1.5,+,2013-06-06
+commons-codec,1.8,+,2013-04-26
+javaee-api,6.0,-,2012-07-16
+javaee-api,6.0,+,2013-08-19
+javaee-api,6.0,+,2012-07-16
+javaee-api,6.0,-,2013-06-11
+javaee-api,6.0,-,2014-07-29
+activity,1.0.0-SNAPSHOT,-,2012-07-16
+activity,1.0.0.20120716-M1,-,2012-07-16
+activity,1.0.0-SNAPSHOT,-,2012-07-06
+cdi-api,1.0,-,2012-07-16

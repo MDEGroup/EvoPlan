@@ -1,0 +1,10 @@
+library,version,sign,date
+hibernate-validator,5.0.1.Final,+,2013-05-31
+validation-api,1.0.0.GA,-,2013-05-31
+validation-api,1.1.0.Final,+,2013-05-31
+datanucleus-api-jdo,3.1.3,+,2013-06-03
+datanucleus-appengine,2.1.1,+,2013-05-31
+datanucleus-appengine,2.1.1,-,2013-06-03
+datanucleus-appengine,2.1.2,+,2013-06-03
+gwt-gae-channel,2.0.0,+,2013-05-29
+gwt-maps,3.8.0,+,2013-06-07

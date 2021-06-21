@@ -1,0 +1,14 @@
+library,version,sign,date
+rome,0.9,-,2009-08-19
+rome,0.9,+,2009-08-10
+rome,0.9,+,2009-08-19
+rome,0.9,-,2009-08-10
+commons-lang,2.4,-,2009-08-10
+commons-lang,2.4,+,2009-08-19
+commons-lang,2.4,-,2009-08-19
+commons-lang,2.4,+,2009-08-10
+servlet-api,2.4,-,2009-08-10
+servlet-api,2.4,+,2009-08-19
+servlet-api,2.5,+,2009-08-19
+servlet-api,2.4,-,2009-08-19
+servlet-api,2.4,+,2009-08-10

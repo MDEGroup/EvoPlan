@@ -1,0 +1,5 @@
+library,version,sign,date
+logback-classic,1.0.6,-,2012-08-30
+spring-tx,3.1.2.RELEASE,-,2012-08-30
+hbase,0.92.1,+,2012-08-30
+hbase,0.92.1,-,2012-08-30

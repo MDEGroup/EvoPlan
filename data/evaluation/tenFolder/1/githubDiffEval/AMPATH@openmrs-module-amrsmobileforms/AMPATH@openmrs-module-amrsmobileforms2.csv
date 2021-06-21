@@ -1,0 +1,6 @@
+library,version,sign,date
+xforms,3.9.5,+,2012-02-02
+household-api,1.0.0,+,2012-02-02
+jackson-mapper-asl,1.5.0,+,2012-02-02
+jzlib,1.1.1,+,2012-10-03
+jzlib,1.1.1,+,2012-02-02

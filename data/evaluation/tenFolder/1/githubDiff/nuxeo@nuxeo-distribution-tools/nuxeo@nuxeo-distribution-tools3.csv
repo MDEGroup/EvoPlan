@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.11,+,2013-12-06
+junit,4.8.1,-,2013-12-06
+maven-project,2.2.1,-,2013-12-06

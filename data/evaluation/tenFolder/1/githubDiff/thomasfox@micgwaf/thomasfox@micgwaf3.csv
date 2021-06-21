@@ -1,0 +1,6 @@
+library,version,sign,date
+maven-plugin-api,2.0.10,-,2014-04-03
+maven-plugin-api,3.0,-,2013-12-12
+maven-project,2.0.10,+,2013-12-12
+servlet-api,2.5,+,2013-12-12
+micgwaf-core,0.1.0-SNAPSHOT,+,2014-01-15

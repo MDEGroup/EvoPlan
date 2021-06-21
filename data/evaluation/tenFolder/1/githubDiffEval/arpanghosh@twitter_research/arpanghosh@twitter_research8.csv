@@ -1,0 +1,10 @@
+library,version,sign,date
+core,1.0-SNAPSHOT,-,2013-03-06
+core,1.0-SNAPSHOT,+,2013-03-06
+core,1.0-SNAPSHOT,+,2013-03-14
+twitter4j-core,[3.0,),+,2013-03-06
+twitter4j-core,[3.0,),-,2013-03-14
+twitter4j-core,[3.0,),-,2013-03-06
+twitter4j-core,3.0.4-SNAPSHOT,+,2013-03-14
+twitter4j-stream,[3.0,),-,2013-03-14
+twitter4j-stream,3.0.4-SNAPSHOT,+,2013-03-14

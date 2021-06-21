@@ -1,0 +1,16 @@
+library,version,sign,date
+GeographicMapLibrary,1,-,2012-01-16
+LoggingJ2MEAll,1,-,2012-01-16
+junit,3.8.1,-,2012-01-16
+junit,3.8.1,-,2013-08-16
+junit,3.8.1,+,2012-01-16
+junit,3.8.1,+,2013-08-16
+DamageGameJavaLibrary,1,-,2012-01-16
+microemu-midp,3.0.0-SNAPSHOT,+,2013-08-16
+microemu-midp,3.0.0-SNAPSHOT,+,2012-01-16
+microemu-midp,3.0.0-SNAPSHOT,-,2013-08-16
+microemu-midp,3.0.0-SNAPSHOT,-,2012-01-16
+FrictionJavaLibrary,1,-,2012-01-16
+OpenGLNoneJavaLibrary,1,-,2012-01-16
+GeographicPathFindingLibrary,1,-,2012-01-16
+AllBinaryGameClientBaseNullJavaLibrary,1,-,2012-01-16

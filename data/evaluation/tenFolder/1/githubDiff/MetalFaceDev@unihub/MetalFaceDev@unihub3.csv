@@ -1,0 +1,12 @@
+library,version,sign,date
+unihub,0.0.1-SNAPSHOT,-,2013-04-05
+mysql-connector-java,5.1.24,+,2013-04-28
+mysql-connector-java,5.1.6,+,2013-04-26
+mysql-connector-java,5.1.6,+,2013-04-28
+mysql-connector-java,5.1.6,-,2013-04-28
+mysql-connector-java,5.1.6,+,2013-04-08
+mysql-connector-java,5.1.6,-,2013-04-26
+unihub-ejb,0.0.1-SNAPSHOT,-,2013-04-28
+unihub-ejb,0.0.1-SNAPSHOT,+,2013-04-28
+unihub-ejb,0.0.1-SNAPSHOT,+,2013-04-05
+unihub-ejb,0.0.1-SNAPSHOT,-,2013-04-05

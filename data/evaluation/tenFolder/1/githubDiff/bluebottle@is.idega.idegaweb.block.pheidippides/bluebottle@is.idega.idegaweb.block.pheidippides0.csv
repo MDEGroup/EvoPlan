@@ -1,0 +1,6 @@
+library,version,sign,date
+jersey-servlet,1.12,+,2012-12-19
+commons-codec,1.7,+,2012-02-27
+jcors,1.1,+,2012-12-19
+jersey-server,1.12,+,2012-12-19
+jersey-json,1.12,+,2012-12-19

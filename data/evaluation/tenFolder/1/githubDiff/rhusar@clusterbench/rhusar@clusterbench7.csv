@@ -1,0 +1,17 @@
+library,version,sign,date
+clusterbench-ee7-web,1.1.0-SNAPSHOT,-,2014-08-01
+clusterbench-ee7-web,3.0.0.Alpha1-SNAPSHOT,-,2019-02-14
+clusterbench-ee7-web,2.1.0.Final,-,2018-06-25
+clusterbench-ee7-web,1.0.2-SNAPSHOT,-,2013-11-03
+clusterbench-ee7-web,3.0.0.Final,-,2019-06-05
+clusterbench-ee7-web,2.0.1.Final-SNAPSHOT,-,2018-02-05
+clusterbench-ee7-web,3.0.1.Final-SNAPSHOT,-,2019-06-05
+clusterbench-ee7-web,2.0.0.Final,-,2015-06-19
+clusterbench-ee7-ejb,1.1.0-SNAPSHOT,-,2014-08-01
+clusterbench-ee7-ejb,2.0.1.Final-SNAPSHOT,-,2018-02-05
+clusterbench-ee7-ejb,3.0.0.Alpha1-SNAPSHOT,-,2019-02-14
+clusterbench-ee7-ejb,2.1.0.Final,-,2018-06-25
+clusterbench-ee7-ejb,3.0.1.Final-SNAPSHOT,-,2019-06-05
+clusterbench-ee7-ejb,2.0.0.Final,-,2015-06-19
+clusterbench-ee7-ejb,1.0.2-SNAPSHOT,-,2013-11-03
+clusterbench-ee7-ejb,3.0.0.Final,-,2019-06-05

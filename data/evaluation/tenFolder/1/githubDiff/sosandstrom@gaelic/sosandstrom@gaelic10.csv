@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.8.1,+,2013-06-01
+slf4j-log4j12,1.6.1,+,2013-06-01
+servlet-api,2.5,+,2013-06-01

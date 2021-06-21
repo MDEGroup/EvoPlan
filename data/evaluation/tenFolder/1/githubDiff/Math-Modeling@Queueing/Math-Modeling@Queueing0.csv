@@ -1,0 +1,14 @@
+library,version,sign,date
+reflections,0.9.9-RC1,+,2013-10-20
+commons-io,2.4,-,2013-11-07
+commons-io,2.4,+,2013-10-23
+commons-io,2.4,+,2013-11-02
+commons-io,2.4,+,2013-11-07
+commons-io,2.4,-,2013-10-31
+Java-Utility-Library,4.0.0,-,2013-11-07
+Java-Utility-Library,4.0.0,+,2013-11-07
+Java-Utility-Library,3.0.0,-,2013-11-07
+Java-Utility-Library,3.0.0,+,2013-10-31
+commons-csv,1.0-SNAPSHOT,+,2013-11-07
+commons-csv,1.0-SNAPSHOT,+,2013-10-09
+commons-csv,1.0-SNAPSHOT,-,2013-11-07

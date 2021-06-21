@@ -1,0 +1,5 @@
+library,version,sign,date
+org.promasi.sdsystem,2.0.0-SNAPSHOT,-,2014-05-25
+org.promasi.sdsystem,2.0.0-SNAPSHOT,+,2014-05-25
+org.promasi.game.model,2.0.0-SNAPSHOT,-,2014-05-25
+org.promasi.game.model,2.0.0-SNAPSHOT,+,2014-05-25

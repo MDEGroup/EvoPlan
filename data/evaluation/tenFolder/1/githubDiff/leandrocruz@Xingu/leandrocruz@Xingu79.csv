@@ -1,0 +1,5 @@
+library,version,sign,date
+avalon-framework-api,4.2.0,+,2014-11-19
+avalon-framework-api,4.2.0,+,2014-08-28
+commons-exec,1.1,-,2014-09-04
+commons-exec,1.0.1,-,2012-12-12

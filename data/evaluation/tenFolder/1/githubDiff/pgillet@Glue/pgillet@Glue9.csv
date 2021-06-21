@@ -1,0 +1,10 @@
+library,version,sign,date
+solr,4.10.3,+,2014-06-15
+solr,4.5.1,+,2013-11-06
+solr,4.7.0,-,2014-06-15
+solr,4.5.1,-,2013-11-18
+solr,4.4.0,-,2013-11-06
+solr,4.7.0,+,2013-11-18
+solr-dataimporthandler,4.4.0,-,2013-11-06
+solr-dataimporthandler,4.4.0,+,2013-09-30
+log4j,1.2.17,+,2013-10-02

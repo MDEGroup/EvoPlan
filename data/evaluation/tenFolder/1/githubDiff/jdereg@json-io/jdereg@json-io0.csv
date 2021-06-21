@@ -1,0 +1,5 @@
+library,version,sign,date
+java-util,1.4.0,-,2013-11-25
+java-util,1.4.0,+,2013-11-12
+gson,2.2.4,-,2014-09-03
+gson,2.2.4,+,2013-12-23

@@ -1,0 +1,14 @@
+library,version,sign,date
+org.apache.felix.framework,[4,5),-,2014-03-03
+org.apache.felix.framework,[4.2.0],+,2012-05-06
+org.apache.felix.framework,[4,5),+,2013-04-05
+org.apache.felix.framework,4.0.2.jdk7,+,2012-04-03
+org.apache.felix.framework,4.0.2.jdk7,-,2012-04-03
+org.apache.felix.framework,4.0.2.jdk7,-,2012-05-06
+org.apache.felix.framework,[4.2.0],-,2013-04-05
+bndlib,[2.1.0,3),+,2013-04-05
+bndlib,1.50.0,-,2012-05-06
+bndlib,[2.1.0,3),-,2014-03-03
+bndlib,1.50.0,+,2012-04-03
+bndlib,[1.50.0],-,2013-04-05
+bndlib,[1.50.0],+,2012-05-06

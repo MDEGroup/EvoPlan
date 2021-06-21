@@ -1,0 +1,4 @@
+library,version,sign,date
+validation-api,1.0.0.GA,+,2012-06-19
+validation-api,1.0.0.GA,+,2012-06-11
+com.conx.logistics.kernel.persistence.services,1.0.0,+,2012-06-11

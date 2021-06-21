@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.12,+,2019-10-29
+junit,4.12,-,2019-10-29
+junit,3.8.1,+,2019-10-29
+junit,4.12,-,2019-11-15
+maven-plugin-testing-harness,2.1,+,2019-10-29
+mockito-core,3.1.0,-,2019-11-15
+mockito-core,3.1.0,-,2019-10-29
+mockito-core,3.1.0,+,2019-10-29
+mockito-core,3.2.4,-,2020-01-13

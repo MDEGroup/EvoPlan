@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.12,+,2014-01-06
+junit,4.11,-,2014-01-06
+junit,4.5,-,2010-02-23
+junit,4.11,+,2010-02-23
+jboss-security-spi,2.0.1.GA,-,2014-01-06
+jboss-security-spi,2.0.1.GA,+,2014-01-06
+juddi-core,3.2.0-SNAPSHOT,-,2014-01-06
+juddi-core,3.2.0-SNAPSHOT,+,2010-02-23
+juddi-core,3.3.4-SNAPSHOT,+,2014-01-06
+jboss-jaspi-api,1.0.0.GA,+,2014-01-06
+jboss-jaspi-api,1.0.0.GA,-,2014-01-06

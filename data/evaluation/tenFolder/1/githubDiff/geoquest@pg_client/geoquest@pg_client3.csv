@@ -1,0 +1,7 @@
+library,version,sign,date
+cordova,2.0.0,+,2012-09-05
+android,2.3.3,+,2012-09-05
+android,2.3.3,+,2012-09-06
+CaptureActivity,3.61.1-SNAPSHOT,+,2012-09-06
+CaptureActivity,3.61.1-SNAPSHOT,-,2012-09-13
+CaptureActivity,3.61.1-SNAPSHOT,+,2012-09-13

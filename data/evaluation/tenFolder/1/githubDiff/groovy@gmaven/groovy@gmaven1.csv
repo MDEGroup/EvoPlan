@@ -1,0 +1,15 @@
+library,version,sign,date
+groovy-all,2.1.4,-,2013-06-13
+groovy-all,2.0.6,+,2013-06-13
+ant-launcher,1.8.4,-,2018-07-18
+gmaven-adapter-api,2.1.1-SNAPSHOT,-,2019-08-04
+gmaven-adapter-api,2.2-SNAPSHOT,-,2018-08-15
+gmaven-adapter-api,2.1-SNAPSHOT,-,2018-07-08
+gmaven-adapter-api,2.0,-,2013-09-20
+gmaven-adapter-api,2.1,-,2018-07-18
+gmaven-adapter-api,2.0-SNAPSHOT,-,2013-06-14
+gmaven-adapter-api,2.1.1,-,2019-08-04
+litmus-testsupport,1.6,-,2018-07-08
+ant,1.8.4,-,2018-07-18
+jline,1.0,-,2018-08-15
+jline,1.0,+,2013-06-12

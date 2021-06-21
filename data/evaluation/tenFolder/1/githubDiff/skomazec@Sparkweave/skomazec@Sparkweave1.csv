@@ -1,0 +1,6 @@
+library,version,sign,date
+spark-grammar,1.0-SNAPSHOT,-,2012-07-04
+spark-grammar,1.0-SNAPSHOT,+,2012-06-13
+spark-grammar,1.0-SNAPSHOT,+,2012-07-04
+spark-core,1.0-SNAPSHOT,-,2012-07-04
+spark-core,1.0-SNAPSHOT,+,2012-07-04

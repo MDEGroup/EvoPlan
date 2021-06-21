@@ -1,0 +1,5 @@
+library,version,sign,date
+kundera-mongo,2.4,-,2013-05-07
+kundera-mongo,2.4,+,2013-05-07
+kundera-core,2.4,-,2013-05-07
+kundera-core,2.4,+,2013-05-07

@@ -1,0 +1,13 @@
+library,version,sign,date
+commons-codec,1.7,-,2013-05-24
+commons-codec,1.2,-,2013-05-16
+commons-codec,1.2,+,2013-05-01
+commons-codec,[1.6,2-SNAPSHOT),-,2014-01-06
+commons-codec,[1.6,2-SNAPSHOT),+,2013-06-04
+commons-codec,[1.6,2),-,2013-06-03
+barchart-util-test,[3,4-SNAPSHOT),+,2013-06-04
+barchart-util-test,[3,4),-,2013-06-03
+barchart-util-test,[2,3),-,2013-05-17
+barchart-util-test,[3,4-SNAPSHOT),-,2014-01-06
+barchart-util-test,[2,3),+,2013-05-16
+barchart-util-test,[3,4),+,2013-05-17

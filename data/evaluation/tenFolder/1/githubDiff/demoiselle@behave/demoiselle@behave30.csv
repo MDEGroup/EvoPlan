@@ -1,0 +1,7 @@
+library,version,sign,date
+demoiselle-behave-core,1.2.0-SNAPSHOT,-,2013-08-14
+demoiselle-behave-core,1.2.0-SNAPSHOT,-,2013-08-13
+demoiselle-behave-core,1.2.0-BETA5,-,2013-08-14
+demoiselle-behave-core,1.2.0-BETA5,-,2013-08-13
+httpclient,4.2.4,-,2014-12-01
+httpclient,4.3.5,+,2014-12-01

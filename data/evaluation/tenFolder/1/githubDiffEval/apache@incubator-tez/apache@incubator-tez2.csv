@@ -1,0 +1,3 @@
+library,version,sign,date
+jsr305,2.0.3,+,2014-04-06
+commons-collections4,4.0,+,2014-01-24

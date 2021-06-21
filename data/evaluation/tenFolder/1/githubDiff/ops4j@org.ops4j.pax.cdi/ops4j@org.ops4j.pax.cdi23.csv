@@ -1,0 +1,15 @@
+library,version,sign,date
+javax.servlet-api,3.1.0,-,2014-11-24
+javax.servlet-api,3.1.0,+,2014-04-09
+javax.servlet-api,3.1.0,-,2014-11-28
+javax.servlet-api,3.1.0,-,2014-10-16
+javax.servlet-api,3.1.0,+,2014-05-22
+javax.servlet-api,3.1.0,+,2014-11-24
+javax.servlet-api,3.1.0,+,2014-05-27
+javax.servlet-api,3.1.0,-,2014-05-27
+geronimo-atinject_1.0_spec,1.0,+,2012-08-18
+geronimo-atinject_1.0_spec,1.0,-,2012-08-18
+javax.annotation-api,1.2,+,2014-11-24
+javax.annotation-api,1.2,-,2014-10-16
+javax.annotation-api,1.2,+,2014-05-22
+cdi-api,1.2,+,2014-11-24

@@ -1,0 +1,14 @@
+library,version,sign,date
+java-support,1.4-SNAPSHOT,-,2013-02-10
+java-support,1.2,-,2013-01-02
+java-support,1.4,-,2013-03-16
+java-support,1.5,-,2013-07-08
+java-support,1.6,-,2013-11-22
+java-support,1.7,-,2014-08-23
+java-support,1.7-SNAPSHOT,-,2014-01-07
+java-compression,1.1,-,2015-09-06
+java-compression,1.0,-,2013-03-16
+irc-api,1.0,-,2012-06-16
+wicket-rest-api,0.3.1,-,2013-02-10
+wicket-rest-api,0.4,-,2013-04-23
+wicket-rest-api,0.3.1,+,2013-01-02

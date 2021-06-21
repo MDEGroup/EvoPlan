@@ -1,0 +1,6 @@
+library,version,sign,date
+arquillian-warp,1.0.0.Alpha3,-,2013-09-10
+arquillian-warp,1.0.0.Alpha2,+,2012-11-27
+arquillian-warp,{version_project},+,2016-10-11
+arquillian-warp,1.0.0.Alpha4,-,2016-10-11
+arquillian-warp,1.0.0.Alpha2,-,2013-06-20

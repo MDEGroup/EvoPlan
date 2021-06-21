@@ -1,0 +1,6 @@
+library,version,sign,date
+nanohttpd,2.3.1,+,2018-05-22
+nanohttpd,2.3.1,-,2018-05-22
+gson,2.8.2,+,2018-05-22
+gson,2.2.4,+,2018-05-22
+gson,2.8.2,-,2018-05-22

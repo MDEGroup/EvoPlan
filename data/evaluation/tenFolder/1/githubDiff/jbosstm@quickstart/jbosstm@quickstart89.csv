@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.8.1,-,2018-07-05
+junit,4.8.2,-,2018-07-05
+junit,4.6,-,2018-07-05
+postgresql,42.1.4.jre7,-,2017-12-20
+postgresql,42.1.4.jre7,+,2017-12-20
+jboss-logging,3.1.0.GA,+,2018-10-19
+jboss-logging,3.1.0.GA,-,2018-07-05
+jboss-logging,3.1.0.GA,-,2019-08-07

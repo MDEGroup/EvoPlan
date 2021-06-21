@@ -1,0 +1,7 @@
+library,version,sign,date
+android-database-sqlcipher,2.2.0,+,2013-07-11
+libstlport_shared,2.2.0,+,2013-07-11
+libsqlcipher_android,2.2.0,+,2013-07-11
+libdatabase_sqlcipher,2.2.0,+,2013-07-11
+google-play-services,8,+,2013-07-11
+google-play-services,7,-,2013-07-11

@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.8.1,-,2018-07-05
+junit,3.8.1,+,2016-04-01
+junit,4.6,+,2012-04-02
+junit,3.8.1,-,2012-04-02
+junit,4.8.1,-,2017-10-19
+junit,4.6,-,2018-07-05
+junit,4.8.2,-,2018-09-20
+junit,4.8.1,+,2012-09-26
+junit,3.8.1,+,2012-04-02
+jboss-transaction-api_1.1_spec,1.0.0.Final,+,2014-12-11
+jboss-transaction-api_1.1_spec,1.0.0.Final,-,2012-09-26
+jboss-transaction-api_1.1_spec,1.0.0.Final,+,2012-04-02
+jboss-transaction-api_1.1_spec,1.0.0.Final,-,2012-08-29
+jboss-transaction-api_1.1_spec,1.0.0.Final,+,2017-10-19
+jboss-transaction-api_1.1_spec,1.0.0.Final,+,2012-04-20

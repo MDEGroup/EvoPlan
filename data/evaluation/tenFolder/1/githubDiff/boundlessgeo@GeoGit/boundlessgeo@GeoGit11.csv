@@ -1,0 +1,4 @@
+library,version,sign,date
+gson,2.2.2,+,2013-04-13
+gson,2.2.2,+,2013-09-16
+gson,2.2.2,-,2013-09-16

@@ -1,0 +1,14 @@
+library,version,sign,date
+cglib-nodep,[2.1_3,),-,2011-10-27
+cglib-nodep,[2.1_3,),+,2010-09-02
+cglib-nodep,[2.1_3,),+,2010-09-01
+cglib-nodep,[2.1_3,),+,2010-05-10
+cglib-nodep,[2.1_3,),-,2010-09-02
+cglib-nodep,[2.1_3,),-,2010-09-01
+proxytoys,1.0,+,2010-09-01
+proxytoys,1.0,+,2010-09-02
+proxytoys,1.0,-,2010-09-02
+proxytoys,1.0,-,2010-09-01
+proxytoys,1.0,-,2010-07-22
+proxytoys,1.0,+,2010-05-10
+proxytoys,1.0,+,2010-07-22

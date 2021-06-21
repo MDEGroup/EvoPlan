@@ -1,0 +1,4 @@
+library,version,sign,date
+camel-spring,2.4.0,-,2013-03-22
+camel-core,2.10.2,+,2013-04-09
+gson,2.2.2,+,2013-03-22

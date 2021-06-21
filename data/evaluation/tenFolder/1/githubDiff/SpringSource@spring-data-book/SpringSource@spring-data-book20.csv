@@ -1,0 +1,9 @@
+library,version,sign,date
+spring-test,3.1.2.RELEASE,-,2012-08-27
+logback-classic,1.0.6,-,2012-08-27
+groovy,1.8.5,+,2013-04-07
+groovy,1.8.5,+,2012-10-08
+groovy,1.8.5,-,2013-04-07
+groovy,1.8.5,+,2012-10-05
+groovy,1.8.5,-,2012-10-08
+spring-tx,3.1.2.RELEASE,-,2012-08-27

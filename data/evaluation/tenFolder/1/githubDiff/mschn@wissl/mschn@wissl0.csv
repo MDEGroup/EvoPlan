@@ -1,0 +1,4 @@
+library,version,sign,date
+resteasy-multipart-provider,2.3.4.Final,+,2012-08-03
+jetty-server,8.1.4.v20120524,-,2012-10-09
+jetty-webapp,8.1.4.v20120524,-,2012-10-09

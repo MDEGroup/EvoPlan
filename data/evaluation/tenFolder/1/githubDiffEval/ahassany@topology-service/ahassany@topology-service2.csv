@@ -1,0 +1,4 @@
+library,version,sign,date
+jaxb2-basics-runtime,0.6.4,+,2013-06-20
+commons-io,2.4,+,2013-06-21
+jaxb-visitor,1.13,+,2013-06-21

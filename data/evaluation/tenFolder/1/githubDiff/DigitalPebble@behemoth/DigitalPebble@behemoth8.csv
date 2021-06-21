@@ -1,0 +1,12 @@
+library,version,sign,date
+uimaj-core,2.3.1,+,2012-01-19
+uimaj-core,2.3.1,-,2012-01-19
+behemoth-core,1.1-SNAPSHOT,-,2012-11-09
+behemoth-core,1.0-SNAPSHOT,+,2012-01-18
+behemoth-core,1.0-SNAPSHOT,+,2012-01-19
+behemoth-core,1.0-SNAPSHOT,-,2012-11-06
+behemoth-core,1.1,-,2014-02-10
+behemoth-core,1.0,-,2012-11-09
+behemoth-core,1.0-SNAPSHOT,-,2012-01-19
+uimaj-tools,2.3.1,+,2012-01-19
+uimaj-tools,2.3.1,-,2012-01-19

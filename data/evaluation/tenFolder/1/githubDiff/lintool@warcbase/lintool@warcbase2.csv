@@ -1,0 +1,6 @@
+library,version,sign,date
+warc-hadoop-indexer,2.2.0-BETA-5,+,2016-06-16
+warc-hadoop-indexer,2.2.0-BETA-5,-,2016-06-16
+warcbase-core,0.1.0-SNAPSHOT,+,2016-06-16
+selenium-java,2.42.2,+,2016-06-16
+selenium-java,2.42.2,-,2016-06-16

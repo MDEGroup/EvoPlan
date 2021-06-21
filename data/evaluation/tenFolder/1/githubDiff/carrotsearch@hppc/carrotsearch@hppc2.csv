@@ -1,0 +1,4 @@
+library,version,sign,date
+randomizedtesting-runner,2.1.11,+,2015-03-12
+randomizedtesting-runner,2.1.11,-,2015-05-06
+hppc-template-processor,0.7.0-SNAPSHOT,-,2015-03-05

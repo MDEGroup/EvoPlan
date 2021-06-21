@@ -1,0 +1,10 @@
+library,version,sign,date
+hamcrest-core,1.2.1,+,2015-11-18
+hamcrest-core,1.2.1,+,2017-05-29
+hamcrest-core,1.2.1,-,2017-05-29
+junit,1.19,+,2017-05-29
+cloudbees-folder,5.18,+,2017-08-18
+mockito-core,1.10.19,+,2015-11-18
+mockito-core,1.10.19,+,2017-05-29
+mockito-core,1.10.19,-,2017-05-29
+antisamy-markup-formatter,1.2,+,2017-05-30

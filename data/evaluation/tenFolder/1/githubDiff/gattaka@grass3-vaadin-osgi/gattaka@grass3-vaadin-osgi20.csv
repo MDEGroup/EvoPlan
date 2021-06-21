@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.8.1,+,2013-01-03
+lucene-highlighter,3.6.0,+,2013-01-03
+lucene-memory,3.6.0,+,2013-01-03
+lucene-regex,3.0.3,+,2013-01-03
+lucene-analyzers,3.5.0,+,2013-01-02

@@ -1,0 +1,4 @@
+library,version,sign,date
+gson,2.2.2,+,2013-05-03
+org.flowframe.thirdparty.stripe-java,1.2.2,+,2013-05-03
+flexjson,2.1,+,2013-05-03

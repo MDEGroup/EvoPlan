@@ -1,0 +1,4 @@
+library,version,sign,date
+jta,1.1,+,2011-10-25
+persistence-api,1.0,+,2011-10-25
+jsr250-api,1.0,+,2011-10-25

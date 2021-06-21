@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.10,+,2012-04-09
+junit,4.10,+,2012-04-24
+junit,4.10,-,2012-04-24

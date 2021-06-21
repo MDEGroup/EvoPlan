@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,3.8.1,+,2009-08-17
+junit,3.8.1,-,2010-01-24
+junit,3.8.1,+,2011-10-13
+coral-api,1.0.0-SNAPSHOT,-,2008-03-05
+jmock-cglib,1.0.0.RC1,-,2012-10-09
+jmock-cglib,1.0.0.RC1,+,2009-08-17
+jmock-cglib,1.0.0.RC1,+,2012-09-25
+jmock-cglib,1.0.0.RC1,-,2012-09-25
+cglib-full,2.0.2,+,2012-09-25
+cglib-full,2.0.2,-,2012-10-09
+cglib-full,2.0.2,-,2012-09-25
+cglib-full,2.0.2,+,2009-08-17
+jmock,1.0.0.RC1,-,2012-10-09
+jmock,1.0.0.RC1,+,2009-08-17
+jmock,1.0.0.RC1,+,2012-09-25
+jmock,1.0.0.RC1,-,2012-09-25

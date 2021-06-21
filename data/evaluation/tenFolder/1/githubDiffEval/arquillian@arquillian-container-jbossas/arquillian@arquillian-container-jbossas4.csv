@@ -1,0 +1,5 @@
+library,version,sign,date
+jboss-as-client,5.1.0.GA,-,2011-03-27
+jboss-as-client,5.0.1.GA,-,2011-03-27
+jboss-server-manager,1.0.3.GA,-,2011-03-27
+jboss-ejb3-api,3.1.0,-,2011-03-27

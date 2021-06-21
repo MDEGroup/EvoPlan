@@ -1,0 +1,7 @@
+library,version,sign,date
+mockito-all,1.9.5,-,2015-09-15
+junit,4.11,-,2015-09-15
+jfreechart,1.0.12,-,2015-09-15
+commons-math3,3.2,-,2015-09-15
+commons-math3,3.2,+,2015-08-11
+xmlunit,1.4,-,2015-09-15

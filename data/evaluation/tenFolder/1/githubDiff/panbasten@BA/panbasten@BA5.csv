@@ -1,0 +1,13 @@
+library,version,sign,date
+spring,2.5.4,+,2013-10-25
+spring,2.5.4,+,2013-08-15
+spring,2.5.4,+,2013-10-29
+spring,2.5.4,-,2013-10-29
+wink-spring-support,1.2.0-incubating,-,2013-05-05
+wink-spring-support,1.2.0-incubating,+,2013-05-05
+commons-fileupload,1.2.2,-,2013-10-29
+commons-fileupload,1.2.2,+,2013-08-15
+commons-fileupload,1.2.2,+,2013-10-29
+commons-fileupload,1.2.2,+,2013-10-25
+wink-server,1.2.0-incubating,-,2013-05-05
+wink-server,1.2.0-incubating,+,2013-05-05

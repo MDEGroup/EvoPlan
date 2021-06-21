@@ -1,0 +1,8 @@
+library,version,sign,date
+com.springsource.com.mysql.jdbc,5.1.6,+,2013-07-01
+com.springsource.com.mysql.jdbc,5.1.6,+,2013-12-17
+com.springsource.com.mysql.jdbc,5.1.6,+,2013-07-08
+com.springsource.com.mysql.jdbc,5.1.6,-,2013-09-10
+com.springsource.com.mysql.jdbc,5.1.6,-,2013-12-17
+com.springsource.com.mysql.jdbc,5.1.6,-,2013-07-08
+com.springsource.com.mysql.jdbc,5.1.6,+,2013-09-10

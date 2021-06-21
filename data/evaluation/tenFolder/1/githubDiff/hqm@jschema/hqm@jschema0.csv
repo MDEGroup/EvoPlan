@@ -1,0 +1,4 @@
+library,version,sign,date
+slf4j-api,1.7.5,+,2013-06-07
+slf4j-log4j12,1.7.5,+,2013-06-07
+trove4j,3.0.1,-,2013-04-13

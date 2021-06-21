@@ -1,0 +1,11 @@
+library,version,sign,date
+org.sakaiproject.nakamura.doc,1.2-SNAPSHOT,-,2012-01-31
+org.sakaiproject.nakamura.doc,1.1-SNAPSHOT,-,2011-12-13
+org.sakaiproject.nakamura.doc,1.1,-,2012-01-26
+guava,r09,-,2012-01-31
+org.sakaiproject.nakamura.jetty-config,1.2-SNAPSHOT,-,2012-01-31
+org.sakaiproject.nakamura.jetty-config,1.1-SNAPSHOT,-,2011-12-13
+org.sakaiproject.nakamura.jetty-config,1.1,-,2012-01-26
+org.sakaiproject.nakamura.solr,1.3-20111212,+,2011-11-28
+org.sakaiproject.nakamura.solr,1.3-20120112,-,2012-01-31
+org.sakaiproject.nakamura.solr,1.3-20111212,-,2011-12-13

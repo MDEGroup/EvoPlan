@@ -1,0 +1,4 @@
+library,version,sign,date
+caliper,1.0-SNAPSHOT,+,2011-01-25
+gson,1.6,-,2011-02-24
+gson,1.7-SNAPSHOT,-,2011-02-24

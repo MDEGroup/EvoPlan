@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.11,-,2014-12-25
+dbunit,2.5.0,-,2019-06-12
+HikariCP,3.4.1,+,2019-06-12

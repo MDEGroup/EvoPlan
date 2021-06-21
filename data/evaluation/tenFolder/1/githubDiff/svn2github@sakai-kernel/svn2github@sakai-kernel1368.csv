@@ -1,0 +1,15 @@
+library,version,sign,date
+spring,2.0.6,-,2009-06-29
+spring,2.0.6,+,2009-06-29
+ehcache,1.3.0,+,2009-06-29
+ehcache,1.3.0,-,2009-06-29
+sakai-component-manager,1.0RC2-SNAPSHOT,+,2009-06-29
+sakai-component-manager,1.0.10-SNAPSHOT,-,2009-06-29
+sakai-component-manager,1.0.10,-,2009-06-29
+sakai-component-manager,1.0.10,+,2009-06-29
+sakai-kernel-api,1.0RC2-SNAPSHOT,+,2009-06-29
+sakai-kernel-api,1.0.10-SNAPSHOT,-,2009-06-29
+sakai-kernel-api,1.0.10,-,2009-06-29
+sakai-kernel-api,1.0.10,+,2009-06-29
+hibernate,3.2.5.ga,+,2009-06-29
+hibernate,3.2.5.ga,-,2009-06-29

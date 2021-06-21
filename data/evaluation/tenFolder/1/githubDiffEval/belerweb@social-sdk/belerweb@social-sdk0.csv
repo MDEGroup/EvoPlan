@@ -1,0 +1,6 @@
+library,version,sign,date
+slf4j-api,1.7.5,+,2014-08-29
+junit,4.11,+,2013-10-11
+logback-classic,1.0.13,+,2014-01-17
+commons-net,3.3,+,2014-01-20
+jsoup,1.7.3,+,2013-11-27

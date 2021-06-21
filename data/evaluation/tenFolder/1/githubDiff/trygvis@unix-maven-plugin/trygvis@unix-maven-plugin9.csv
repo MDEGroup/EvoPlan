@@ -1,0 +1,11 @@
+library,version,sign,date
+joda-time,1.6,+,2008-12-19
+joda-time,1.6,-,2011-08-01
+joda-time,1.6,+,2011-08-01
+plexus-utils,1.5.6,-,2011-08-01
+plexus-utils,1.5.6,+,2008-12-19
+plexus-utils,1.5.6,-,2008-12-19
+functionaljava,3.0,+,2011-07-07
+functionaljava,3.0,-,2012-09-18
+functionaljava,2.19,-,2011-07-07
+functionaljava,2.19,+,2009-04-29

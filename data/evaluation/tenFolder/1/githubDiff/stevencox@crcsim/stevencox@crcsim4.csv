@@ -1,0 +1,9 @@
+library,version,sign,date
+javacsv,2.0,+,2013-02-28
+javacsv,2.0,-,2013-02-28
+javacsv,2.0,+,2012-08-31
+jython-standalone,2.5.2,-,2013-02-28
+jython-standalone,2.5.2,+,2013-02-28
+jython-standalone,2.5.2,+,2012-11-27
+guava,14.0.1,+,2013-07-09
+commons-math3,3.0,+,2013-02-28

@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.8.2,+,2012-05-14
+junit,4.8.2,-,2014-12-15
+junit,4.8.2,-,2012-05-14
+junit,4.11,-,2015-02-15
+equalsverifier,2.3.2,+,2017-10-14

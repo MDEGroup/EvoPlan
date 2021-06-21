@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,3.8.1,+,2013-03-24
+framework,1.6.1,-,2013-02-21
+framework,1.6.2-SNAPSHOT,-,2013-02-22
+framework,1.6.1-SNAPSHOT,-,2013-03-17
+framework,1.5.1-SNAPSHOT,-,2012-04-23
+framework,1.6.1-SNAPSHOT,-,2012-12-10
+framework,1.6.0,-,2012-05-03
+util,1.6.1,-,2013-02-21
+util,1.6.2-SNAPSHOT,-,2013-02-22
+util,1.6.1-SNAPSHOT,-,2013-03-17
+util,1.6.1-SNAPSHOT,-,2012-12-10
+model-bpel,1.6.1,-,2013-02-21
+model-bpel,1.6.2-SNAPSHOT,-,2013-02-22
+model-bpel,1.6.1-SNAPSHOT,-,2013-03-17
+model-bpel,1.6.1-SNAPSHOT,-,2012-12-10

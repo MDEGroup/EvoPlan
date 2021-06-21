@@ -1,0 +1,14 @@
+library,version,sign,date
+commons-configuration,1.6,+,2013-07-17
+xbean-spring,3.12,+,2013-07-17
+commons-validator,1.4.0,+,2013-07-17
+commons-httpclient,3.1,+,2013-07-17
+commons-httpclient,20020423,-,2012-11-08
+jsp-api,2.2,+,2013-08-26
+commons-digester,2.1,+,2013-07-17
+commons-logging,1.1.3,+,2013-07-17
+commons-beanutils,1.8.3,+,2013-07-17
+commons-beanutils,20030211.134440,-,2012-11-08
+sitemesh,2.4.2,+,2013-09-06
+hermes-common,0.0.1-SNAPSHOT,-,2012-11-08
+servlet-api,2.5,+,2012-11-08

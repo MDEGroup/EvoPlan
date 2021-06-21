@@ -1,0 +1,10 @@
+library,version,sign,date
+geronimo-jpa_3.0_spec,1.0,+,2014-01-09
+ojdbc6,11.1.0.7,+,2014-01-09
+geronimo-annotation_1.0_spec,1.0,+,2014-01-09
+geronimo-interceptor_3.0_spec,1.0,+,2014-01-09
+geronimo-jta_1.1_spec,1.0,+,2014-01-09
+s2-tiger,2.4.47,+,2014-01-09
+geronimo-ejb_3.0_spec,1.0,+,2014-01-09
+s2-extension,2.4.47,+,2014-01-09
+s2-framework,2.4.47,+,2014-01-09

@@ -1,0 +1,14 @@
+library,version,sign,date
+commons-configuration,1.8,-,2012-03-08
+commons-configuration,1.8,+,2012-03-11
+commons-configuration,1.8,-,2013-04-07
+junit,3.8.1,-,2013-04-07
+junit,4.7,-,2012-03-11
+junit,3.8.1,+,2012-03-11
+junit,3.8.1,-,2012-03-08
+editor-common-client,1.0-SNAPSHOT,-,2012-04-30
+editor-common-client,0.0.1-SNAPSHOT,-,2012-03-08
+guice,3.0,+,2012-03-11
+guice,3.0,-,2012-03-08
+log4j,1.2.12,-,2012-03-08
+log4j,1.2.12,+,2012-03-11

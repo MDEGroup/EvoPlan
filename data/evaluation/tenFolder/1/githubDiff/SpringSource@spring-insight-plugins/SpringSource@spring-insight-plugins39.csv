@@ -1,0 +1,6 @@
+library,version,sign,date
+jstl,1.2,-,2012-09-05
+javax.servlet-api,3.0.1,+,2014-09-29
+javax.servlet-api,3.0.1,-,2014-09-29
+javax.servlet-api,3.0.1,+,2014-02-08
+jetty,6.1.9,-,2012-05-07

@@ -1,0 +1,6 @@
+library,version,sign,date
+commons-cli,1.2,+,2013-12-03
+joda-time,2.3,+,2013-12-03
+joda-time,2.3,-,2013-12-03
+jersey-media-moxy,2.4.1,+,2013-12-09
+jersey-client,2.4.1,+,2013-12-03

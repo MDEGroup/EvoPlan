@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.7,-,2014-10-06
+junit,4.8.1,-,2011-06-16
+gwt-user,2.1.0,-,2011-06-10
+gwt-user,@gwt.version@,+,2011-06-16
+gwt-servlet,2.1.0,-,2011-06-10
+gwt-servlet,@gwt.version@,+,2011-06-16

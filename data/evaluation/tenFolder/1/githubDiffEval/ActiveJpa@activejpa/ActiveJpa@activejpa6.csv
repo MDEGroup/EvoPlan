@@ -1,0 +1,16 @@
+library,version,sign,date
+hibernate-jpa-2.1-api,1.0.0.Final,+,2014-04-29
+hibernate-jpa-2.1-api,1.0.0.Final,-,2019-04-19
+hibernate-jpa-2.1-api,1.0.0.Final,-,2014-06-30
+hibernate-jpa-2.1-api,1.0.0.Final,+,2014-06-30
+testng,6.11,+,2017-11-12
+testng,6.8.1,-,2014-09-26
+testng,6.9.10,-,2017-11-12
+testng,6.8.5,-,2014-09-26
+testng,6.8.8,+,2013-12-06
+testng,6.9.10,+,2016-08-23
+testng,6.9.4,-,2016-08-23
+testng,6.8.8,-,2014-09-26
+testng,6.14.3,+,2017-11-14
+testng,6.11,-,2017-11-14
+testng,6.8.1,-,2013-08-16

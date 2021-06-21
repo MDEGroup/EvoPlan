@@ -1,0 +1,5 @@
+library,version,sign,date
+hibernate-jpa-2.0-api,1.0.1.Final,+,2013-07-17
+junit,4.11,+,2013-07-17
+javaee-api,6.0,+,2013-07-17
+hibernate-entitymanager,4.1.5.Final,+,2013-07-17

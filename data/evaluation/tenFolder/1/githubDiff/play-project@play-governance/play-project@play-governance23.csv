@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,3.8.1,-,2013-03-05
+junit,3.8.1,-,2013-03-06
+junit,3.8.1,-,2013-01-23
+junit,3.8.1,+,2013-01-23
+junit,4.10,+,2013-03-05
+junit,4.10,+,2013-01-23
+junit,3.8.1,+,2013-03-05
+commons-logging,1.1.1,+,2013-01-23
+governance-metadata-api,1.0-SNAPSHOT,-,2013-03-05
+governance-metadata-api,1.0-SNAPSHOT,+,2013-01-23
+governance-metadata-json,1.0-SNAPSHOT,-,2013-03-05
+guava,13.0.1,-,2013-01-23
+guava,13.0.1,+,2013-01-23
+guava,13.0.1,+,2013-03-05
+guava,13.0.1,-,2013-03-05

@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.7,+,2012-11-20
+junit,4.4,+,2012-05-27
+junit,3.8.1,-,2012-11-20
+junit,3.8.1,+,2012-05-27
+junit,4.7,+,2012-05-27
+thrdNetty3,0.0.2,+,2012-05-27
+thrdNetty3,0.0.3RC,+,2012-05-27
+thrdNetty3,0.0.3RC,-,2012-11-20
+thrdNetty3,0.0.4-SNAPSHOT,-,2012-11-20

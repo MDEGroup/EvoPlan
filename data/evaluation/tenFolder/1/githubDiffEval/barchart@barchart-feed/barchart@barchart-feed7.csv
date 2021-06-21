@@ -1,0 +1,9 @@
+library,version,sign,date
+barchart-feed-series,[1.0,1.1-SNAPSHOT),+,2014-09-26
+barchart-feed-api,[2.3,2.4-SNAPSHOT),+,2014-09-26
+openfeed,[2.1.4, 2.2-SNAPSHOT),-,2014-09-29
+openfeed,[2.2-SNAPSHOT, 2.3-SNAPSHOT),-,2015-01-09
+openfeed,[2.1.6-SNAPSHOT,3-SNAPSHOT),-,2015-01-09
+openfeed,[2.1.6-SNAPSHOT,2.2-SNAPSHOT),-,2014-09-29
+openfeed,[2.1.4, 3-SNAPSHOT),-,2015-01-09
+openfeed,[2-SNAPSHOT, 3-SNAPSHOT),-,2014-12-11

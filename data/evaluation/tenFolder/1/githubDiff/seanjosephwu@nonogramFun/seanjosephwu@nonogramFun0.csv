@@ -1,0 +1,9 @@
+library,version,sign,date
+postgresql,9.1-901.jdbc4,+,2013-05-03
+postgresql,9.1-901.jdbc4,+,2013-04-24
+postgresql,9.1-901.jdbc4,-,2013-05-03
+android,2.3.3,+,2013-05-03
+json,20090211,-,2013-05-03
+json,20090211,+,2013-05-03
+json,20090211,+,2013-04-24
+gson,2.2.2,+,2013-04-24

@@ -1,0 +1,12 @@
+library,version,sign,date
+slf4j-api,1.5.8,-,2013-03-17
+junit,4.11,-,2013-07-09
+junit,4.7,-,2013-06-29
+junit,4.11,+,2013-07-09
+jackson-core-asl,1.9.2,+,2013-12-29
+javaee-api,6.0,-,2013-07-09
+javaee-api,6.0,+,2010-08-07
+javaee-api,6.0,+,2013-07-09
+javaee-api,6.0,-,2012-09-09
+javaee-api,6.0,-,2010-08-07
+mockito-core,1.9.5,+,2013-10-23

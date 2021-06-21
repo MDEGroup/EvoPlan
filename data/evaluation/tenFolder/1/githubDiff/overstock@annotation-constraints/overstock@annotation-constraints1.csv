@@ -1,0 +1,6 @@
+library,version,sign,date
+annotation-constraints,0.1-SNAPSHOT,-,2013-02-20
+jsr311-api,1.1.1,+,2013-02-13
+persistence-api,1.0,+,2013-02-08
+persistence-api,1.0,-,2013-02-13
+persistence-api,1.0,+,2013-02-13

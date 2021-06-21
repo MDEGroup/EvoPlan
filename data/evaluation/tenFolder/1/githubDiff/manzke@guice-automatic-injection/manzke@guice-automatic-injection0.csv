@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.8.1,+,2010-09-06
+guice-multibindings,2.0,-,2011-04-03
+guice-multibindings,3.0-SNAPSHOT,-,2010-09-22
+guice-multibindings,2.0,-,2010-09-18
+guice-multibindings,2.0,+,2010-09-06
+javax.inject,1,-,2010-09-06
+javax.inject,1,+,2010-09-06
+guice,2.0,-,2011-04-03
+guice,3.0-SNAPSHOT,-,2010-09-22
+guice,2.0,-,2010-09-18
+guice,3.0-SNAPSHOT,+,2010-09-21

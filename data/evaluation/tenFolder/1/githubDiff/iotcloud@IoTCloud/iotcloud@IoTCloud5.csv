@@ -1,0 +1,11 @@
+library,version,sign,date
+httpcore-nio,4.2-beta1,-,2012-03-08
+httpcore-nio,4.2-beta1,+,2012-03-08
+httpcore-nio,4.2-beta1,+,2012-02-14
+httpcore,4.2-beta1,-,2012-03-08
+httpcore,4.2-beta1,+,2012-03-08
+httpcore,4.2-beta1,+,2012-02-14
+netty,4.0.0.Alpha1-SNAPSHOT,-,2012-03-08
+netty,4.0.0.Alpha1.errai.r1,+,2012-03-08
+log4j,1.2.14,-,2012-03-08
+log4j,1.2.14,+,2012-03-08

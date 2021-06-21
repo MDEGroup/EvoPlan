@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.8.2,-,2013-06-30
+junit,4.12-beta-2,-,2015-03-29
+junit,4.11,-,2013-09-13
+jackson-databind,2.3.3,+,2013-09-13
+jackson-databind,2.5.1,-,2015-03-22
+jackson-databind,2.3.3,-,2015-03-20
+jackson-databind,2.5.1,-,2015-03-29
+jackson-databind,2.5.1,+,2015-03-22
+commons-collections,20040616,-,2015-03-29
+commons-collections,3.2.1,-,2013-06-30
+commons-collections,3.2.1,+,2013-05-01
+lombok,0.11.6,-,2013-06-30
+lombok,1.14.8,-,2015-03-29
+lombok,0.12.0,-,2013-09-13
+lombok,1.16.6,+,2015-03-29

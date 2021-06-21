@@ -1,0 +1,5 @@
+library,version,sign,date
+twitter4j-core,2.2.3,-,2011-07-30
+gson,1.7.1,+,2011-06-28
+servlet-api,2.3,+,2011-06-28
+servlet-api,2.3,+,2011-06-29

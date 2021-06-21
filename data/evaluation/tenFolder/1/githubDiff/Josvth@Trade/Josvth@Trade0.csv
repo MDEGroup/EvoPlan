@@ -1,0 +1,12 @@
+library,version,sign,date
+ExtendibleBukkitConfig,1.1.5-SNAPSHOT,-,2013-12-11
+ExtendibleBukkitConfig,1.1.3,-,2013-11-11
+ExtendibleBukkitConfig,1.1.3,+,2013-10-21
+bukkit,1.6.4-R0.1-SNAPSHOT,-,2013-11-13
+bukkit,1.6.2-R0.1,-,2013-09-09
+bukkitformatlibrary,1.4-SNAPSHOT,-,2013-12-10
+bukkitformatlibrary,1.6-SNAPSHOT,-,2014-01-25
+bukkitformatlibrary,1.0-SNAPSHOT,-,2013-11-07
+bukkitformatlibrary,1.2-SNAPSHOT,-,2013-11-08
+Vault,1.2.27-SNAPSHOT,+,2014-01-22
+Vault,1.2.27-SNAPSHOT,-,2014-01-31

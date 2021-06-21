@@ -1,0 +1,14 @@
+library,version,sign,date
+junit,4.10,+,2012-06-14
+junit,3.8.1,+,2012-06-07
+junit,3.8.1,-,2012-06-07
+junit,4.10,-,2012-07-03
+opennlp-tools,1.5.2-incubating,-,2013-04-26
+common-java,2.0.1,-,2012-06-07
+reverb-models,1.4.0-SNAPSHOT,-,2012-06-08
+reverb-models,1.4.0-SNAPSHOT,-,2012-06-07
+reverb-models,1.1.2-SNAPSHOT,-,2012-06-07
+openregex,1.0.1,-,2012-06-07
+openregex,1.0.2,-,2012-12-19
+morpha-stemmer,1.0.2,-,2012-06-07
+morpha-stemmer,1.0.3,-,2012-07-03

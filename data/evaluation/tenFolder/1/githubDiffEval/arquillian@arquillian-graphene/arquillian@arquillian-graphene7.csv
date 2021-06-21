@@ -1,0 +1,13 @@
+library,version,sign,date
+mockito-all,1.8.5,+,2011-02-08
+mockito-all,1.8.5,-,2012-04-11
+mockito-all,1.8.5,+,2011-05-12
+mockito-all,1.8.5,-,2011-02-18
+mockito-all,1.8.5,+,2011-02-18
+mockito-all,1.8.5,-,2011-05-12
+arquillian-core-impl-base,1.0.3.Final,-,2013-09-04
+arquillian-core-impl-base,1.0.3.Final,+,2012-04-11
+junit,4.8.2,-,2011-05-12
+junit,4.8.2,+,2011-05-12
+junit,4.8.2,+,2011-05-01
+junit,4.8.2,-,2012-04-11

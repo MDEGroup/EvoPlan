@@ -1,0 +1,72 @@
+library,version,sign,date
+geronimo-ejb_3.1_spec,1.0.0-SNAPSHOT,-,2010-02-03
+geronimo-ejb_3.1_spec,1.0.0-SNAPSHOT,+,2010-01-05
+xbean-finder-shaded,3.14,-,2014-01-28
+xbean-finder-shaded,3.13,-,2013-05-19
+xbean-finder-shaded,3.13-SNAPSHOT,+,2013-01-21
+xbean-finder-shaded,3.13-SNAPSHOT,-,2013-02-20
+openwebbeans-spi,1.1.2,-,2011-10-17
+openwebbeans-spi, 1.1.0-SNAPSHOT,-,2011-01-09
+openwebbeans-spi,1.1.5-SNAPSHOT,-,2012-04-05
+openwebbeans-spi,1.1.2-SNAPSHOT,-,2011-08-31
+openwebbeans-spi,2.0.15,+,2020-01-11
+openwebbeans-spi,1.1.5-SNAPSHOT,-,2012-04-04
+openwebbeans-spi,1.1.1,-,2011-08-31
+openwebbeans-spi,1.1.4,-,2012-04-05
+openwebbeans-spi,1.1.4,-,2012-04-04
+openwebbeans-spi, 1.0.0-alpha-2,-,2010-08-30
+openwebbeans-spi, 1.0.0-SNAPSHOT,-,2010-07-06
+openwebbeans-spi,1.1.4-SNAPSHOT,-,2012-04-05
+openwebbeans-spi,1.1.3,-,2011-12-03
+openwebbeans-spi, 1.0.0-SNAPSHOT,-,2010-09-28
+openwebbeans-spi, 1.1.2-SNAPSHOT,-,2011-08-31
+openwebbeans-spi,@project.version@,+,2019-01-09
+openwebbeans-spi,1.1.3-SNAPSHOT,-,2011-10-17
+openwebbeans-spi,1.0.0-SNAPSHOT,-,2010-02-03
+openwebbeans-spi, 1.0.0-SNAPSHOT,+,2010-06-14
+openwebbeans-spi,1.1.4-SNAPSHOT,-,2012-03-24
+openwebbeans-spi, 1.1.0,-,2011-03-25
+openwebbeans-spi, 1.1.1-SNAPSHOT,-,2011-04-10
+openwebbeans-spi, 1.0.0-alpha-1,-,2010-07-06
+openwebbeans-spi,1.0.0-SNAPSHOT,+,2010-01-05
+openwebbeans-spi, 1.1.1,-,2011-08-29
+openwebbeans-ejb, 1.0.0-SNAPSHOT,-,2010-08-30
+openwebbeans-ejb,1.0.0-SNAPSHOT,-,2010-02-24
+openwebbeans-ejb,1.1.2,-,2011-10-17
+openwebbeans-ejb,1.0.0-incubating-SNAPSHOT,-,2009-08-02
+openwebbeans-ejb, 1.1.0-SNAPSHOT,-,2011-01-09
+openwebbeans-ejb,1.1.5-SNAPSHOT,-,2012-04-05
+openwebbeans-ejb,1.1.2-SNAPSHOT,-,2011-08-31
+openwebbeans-ejb,1.1.5-SNAPSHOT,-,2012-04-04
+openwebbeans-ejb, 1.0.0-SNAPSHOT,+,2010-08-30
+openwebbeans-ejb,1.1.1,-,2011-08-31
+openwebbeans-ejb,1.1.4,-,2012-04-05
+openwebbeans-ejb,1.1.4,-,2012-04-04
+openwebbeans-ejb, 1.0.0-alpha-2,-,2010-08-30
+openwebbeans-ejb, 1.0.0-SNAPSHOT,-,2010-07-06
+openwebbeans-ejb,1.1.4-SNAPSHOT,-,2012-04-05
+openwebbeans-ejb,1.1.3,-,2011-12-03
+openwebbeans-ejb, 1.0.0-SNAPSHOT,-,2010-09-28
+openwebbeans-ejb, 1.1.2-SNAPSHOT,-,2011-08-31
+openwebbeans-ejb,1.1.3-SNAPSHOT,-,2011-10-17
+openwebbeans-ejb, 1.0.0-SNAPSHOT,+,2010-06-14
+openwebbeans-ejb,1.1.4-SNAPSHOT,-,2012-03-24
+openwebbeans-ejb,1.0.0-SNAPSHOT,+,2010-02-03
+openwebbeans-ejb, 1.1.0,-,2011-03-25
+openwebbeans-ejb,1.0.0-incubating-SNAPSHOT,+,2009-06-01
+openwebbeans-ejb, 1.1.1-SNAPSHOT,-,2011-04-10
+openwebbeans-ejb, 1.0.0-alpha-1,-,2010-07-06
+openwebbeans-ejb, 1.1.1,-,2011-08-29
+testng,5.8,-,2009-10-26
+testng,5.8,-,2014-01-26
+testng,5.8,+,2009-11-30
+testng,5.8,-,2009-11-30
+testng,6.3,-,2014-01-28
+testng,5.8,+,2009-10-26
+geronimo-interceptor_1.2_spec,1.0,-,2019-11-19
+geronimo-interceptor_1.2_spec,1.0,+,2016-02-16
+geronimo-interceptor_1.2_spec,1.2,+,2020-01-11
+geronimo-interceptor_1.2_spec,1.0,+,2019-05-26
+geronimo-interceptor_1.2_spec,1.0,+,2019-01-09
+geronimo-jcdi_2.0_spec,1.2,+,2020-01-11
+geronimo-jcdi_2.0_spec,1.0,+,2019-01-09

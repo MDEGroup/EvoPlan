@@ -1,0 +1,6 @@
+library,version,sign,date
+maven-plugin-api,2.0,+,2008-07-08
+resin,@VERSION@,+,2008-07-08
+resin,SNAPSHOT-3.1,-,2008-07-08
+resin,@VERSION@,-,2008-07-08
+typica,1.6,+,2008-07-08

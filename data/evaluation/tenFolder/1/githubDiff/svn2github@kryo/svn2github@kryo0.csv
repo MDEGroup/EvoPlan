@@ -1,0 +1,11 @@
+library,version,sign,date
+reflectasm,1.01,-,2012-06-01
+reflectasm,0.8,-,2010-04-05
+reflectasm,1.04,-,2012-06-15
+reflectasm,1.03,-,2012-06-12
+reflectasm,1.06,-,2012-06-18
+reflectasm,1.01,+,2010-04-05
+reflectasm,1.05,-,2012-06-18
+junit,4.7,-,2010-04-05
+junit,4.7,+,2010-04-05
+objenesis,1.2,+,2012-04-01

@@ -1,0 +1,5 @@
+library,version,sign,date
+h2,1.4.180,+,2014-07-14
+mariadb-java-client,1.1.5,+,2014-01-15
+mariadb-java-client,1.1.7,+,2014-07-14
+mariadb-java-client,1.1.5,-,2014-07-14

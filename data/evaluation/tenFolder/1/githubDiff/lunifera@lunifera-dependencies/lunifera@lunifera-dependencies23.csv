@@ -1,0 +1,4 @@
+library,version,sign,date
+asm,4.1,+,2013-10-22
+org.lunifera.dependencies.feature.logback,1.0.13,-,2013-10-16
+org.lunifera.dependencies.feature.logback,1.0.13,+,2014-08-28

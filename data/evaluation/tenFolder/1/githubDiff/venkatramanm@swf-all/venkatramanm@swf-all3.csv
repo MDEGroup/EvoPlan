@@ -1,0 +1,6 @@
+library,version,sign,date
+swf-db,2.1-SNAPSHOT,-,2014-01-30
+junit,LATEST,+,2015-08-02
+junit,4.10,-,2014-03-10
+reflection,[1.12,),+,2015-08-02
+reflection,[1.11,),-,2014-01-30

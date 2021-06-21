@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-dbutils,1.6,+,2016-04-27
+commons-dbutils,1.6,-,2016-04-27
+jaas,1.0.01,+,2016-04-27
+jaas,1.0.01,-,2016-04-27

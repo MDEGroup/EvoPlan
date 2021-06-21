@@ -1,0 +1,6 @@
+library,version,sign,date
+robolectric,1.1,+,2012-09-06
+robolectric,1.1,-,2012-09-06
+junit,4.8.2,-,2012-09-06
+cordova,2.0.0,+,2012-09-05
+android,2.3.3,+,2012-09-06

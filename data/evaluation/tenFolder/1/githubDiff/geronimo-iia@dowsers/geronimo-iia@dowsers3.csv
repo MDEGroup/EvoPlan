@@ -1,0 +1,6 @@
+library,version,sign,date
+jackson-datatype-guava,2.1.0,+,2012-10-18
+guava,13.0.1,-,2012-10-18
+guava,13.0.1,+,2012-10-04
+guava,11.0.2,-,2012-10-04
+kryo,1.04,-,2012-10-18

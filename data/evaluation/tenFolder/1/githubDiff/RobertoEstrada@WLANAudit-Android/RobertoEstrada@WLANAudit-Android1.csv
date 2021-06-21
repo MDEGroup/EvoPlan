@@ -1,0 +1,6 @@
+library,version,sign,date
+library,2.4.0,-,2013-01-23
+library,2.4.0,+,2013-01-23
+android,4.0.1.2,+,2013-01-23
+android,4.0.1.2,-,2013-01-23
+annotations,4.1.1.4,+,2013-01-23

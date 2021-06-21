@@ -1,0 +1,6 @@
+library,version,sign,date
+easymock,2.5.2,+,2011-10-05
+easymock,2.4,-,2011-10-05
+easymock,2.5.2,-,2012-01-05
+easymock,3.1,+,2012-01-05
+org.osgi.core,4.2.0,+,2011-11-22

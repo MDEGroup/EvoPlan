@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.8.2,+,2013-05-09
+junit,3.8.1,-,2013-05-09
+junit,4.8.2,+,2013-05-16
+junit,3.8.1,+,2013-05-09
+android,1.6_r2,+,2013-05-09
+android,1.6_r2,-,2013-05-12
+android,4.1.1.4,+,2013-05-16
+android,1.6_r2,-,2013-10-31
+android,1.6_r2,-,2013-05-09
+support-v4,r7,+,2013-10-31
+fest-android,1.0.1,-,2013-10-31
+fest-android,1.0.1,+,2013-06-17
+fest-android,1.0.4,-,2013-05-16
+fest-android,1.0.4,+,2013-05-09

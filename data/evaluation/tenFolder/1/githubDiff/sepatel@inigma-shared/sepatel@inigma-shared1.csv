@@ -1,0 +1,5 @@
+library,version,sign,date
+mongo-java-driver,2.10.1,-,2013-03-24
+mongo-java-driver,2.9.2,-,2012-11-16
+spring-data-mongodb,1.1.1.RELEASE,-,2013-03-24
+servlet-api,2.5,+,2013-10-28

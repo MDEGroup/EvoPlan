@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-configuration,1.9,+,2013-10-18
+pressgang-ccms-utils,1.0-SNAPSHOT,-,2013-01-14
+imgscalr-lib,4.2,-,2013-07-04
+imgscalr-lib,4.2,+,2013-06-03

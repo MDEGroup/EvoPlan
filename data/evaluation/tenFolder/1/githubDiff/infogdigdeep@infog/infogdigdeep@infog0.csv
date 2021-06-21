@@ -1,0 +1,17 @@
+library,version,sign,date
+cglib,2.2,+,2012-03-25
+twitter4j-core,[2.2,),+,2012-03-28
+jcl-over-slf4j,1.6.4,+,2012-04-02
+aspectjrt,1.6.6,+,2012-03-25
+primefaces,2.2,-,2012-03-30
+shrinkwrap-resolver-impl-maven,2.0.0-alpha-1,+,2012-05-10
+gson,2.1,+,2012-04-24
+jackson-mapper-asl,1.7.9,+,2012-07-25
+commons-io,1.3.2,+,2012-05-10
+jasperreports,2.0.5,-,2012-07-25
+jasperreports,2.0.5,+,2012-07-08
+guava,12.0.1,-,2012-08-26
+guava,13.0.1,+,2012-08-26
+guava,12.0.1,+,2012-07-26
+jettison,1.3.2,+,2012-12-29
+aspectjweaver,1.6.6,+,2012-03-25

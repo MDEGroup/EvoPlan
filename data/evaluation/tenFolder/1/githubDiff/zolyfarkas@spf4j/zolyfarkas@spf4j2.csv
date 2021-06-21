@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.12,+,2020-03-06
+junit,4.12,+,2019-10-30
+joda-time,2.9.9,-,2019-05-31

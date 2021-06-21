@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.11,+,2013-05-15
+junit,4.11,-,2013-05-15
+jama,1.0.2,+,2013-05-15
+glia-core,1.2.7-SNAPSHOT,-,2013-05-15
+glia-core,1.2.7-SNAPSHOT,+,2013-05-15

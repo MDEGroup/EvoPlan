@@ -1,0 +1,12 @@
+library,version,sign,date
+slf4j-log4j12,1.5.6,+,2013-04-04
+biojava3-genome,3.0.2-SNAPSHOT,-,2013-01-08
+samtools,1.92,+,2013-10-05
+samtools,1.78,-,2013-10-05
+samtools,1.78,-,2013-06-05
+scalatest_2.10,1.9.1,+,2013-01-08
+aws-java-sdk,1.4.1,+,2013-03-22
+aws-java-sdk,1.4.1,-,2014-01-28
+whirr-hadoop,0.8.1,+,2013-03-22
+whirr-hadoop,0.8.1,-,2013-04-04
+biojava3-core,3.0.2-SNAPSHOT,-,2013-01-08

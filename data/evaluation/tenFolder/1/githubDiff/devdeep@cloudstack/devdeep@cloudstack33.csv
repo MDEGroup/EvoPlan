@@ -1,0 +1,8 @@
+library,version,sign,date
+cglib-nodep,2.2,+,2013-08-01
+cglib-nodep,2.2,+,2013-02-20
+cglib-nodep,2.2,-,2013-07-25
+cglib-nodep,2.2,-,2013-10-30
+spock-core,0.7-groovy-2.0,+,2013-02-20
+spock-core,0.7-groovy-2.0,+,2013-08-01
+spock-core,0.7-groovy-2.0,-,2013-07-25

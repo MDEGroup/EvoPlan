@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,3.8.1,-,2012-06-21
+junit,4.8.2,-,2012-06-21
+junit,4.9,+,2012-06-22
+servlet-api,2.4,+,2012-06-22
+servlet-api,2.3,-,2012-06-21

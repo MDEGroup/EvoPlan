@@ -1,0 +1,6 @@
+library,version,sign,date
+spring-data-neo4j-rest,2.0.2.RELEASE,-,2012-10-28
+spring-data-neo4j-rest,2.0.2.RELEASE,-,2014-02-08
+spring-data-neo4j-rest,2.0.2.RELEASE,+,2012-10-28
+validation-api,1.0.0.GA,+,2014-10-13
+spring-data-neo4j,2.0.2.RELEASE,-,2014-02-08

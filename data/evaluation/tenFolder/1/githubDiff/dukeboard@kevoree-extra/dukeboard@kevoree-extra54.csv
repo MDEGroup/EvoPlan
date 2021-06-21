@@ -1,0 +1,8 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2011-07-18
+slf4j-api,1.6.1,-,2011-07-18
+slf4j-api,1.6.2,+,2011-08-18
+RXTXComm,2.2.pre2,-,2011-07-18
+RXTXComm,2.2.pre2,+,2011-07-18
+scala-library,2.9.0-1,-,2011-08-18
+scala-library,2.9.0-1,+,2011-07-18

@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-digester,1.8,+,2011-02-03
+commons-digester,1.8,-,2011-02-03
+commons-digester,1.8,-,2010-02-27
+commons-digester,1.8,+,2010-02-27

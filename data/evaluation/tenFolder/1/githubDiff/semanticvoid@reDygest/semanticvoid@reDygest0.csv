@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,3.8.1,+,2012-02-20
+langdetect,1.0,+,2012-02-11
+json-lib,2.3,-,2012-02-20
+json-lib,2.3,+,2012-04-03
+json-lib,2.3,+,2012-02-20
+stanford-corenlp,1.3.0,+,2012-02-11
+stanford-corenlp,1.3.0,-,2012-02-11
+jsonic,1.2.10,+,2012-02-11

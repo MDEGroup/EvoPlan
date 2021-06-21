@@ -1,0 +1,7 @@
+library,version,sign,date
+serialization.xstream-omod,0.2.7,-,2013-03-03
+serialization.xstream-omod,0.2.7,+,2013-03-03
+json-simple,1.1.1,-,2013-03-03
+json-simple,1.1.1,+,2013-03-03
+htmlwidgets-omod,1.6.4,-,2013-03-03
+htmlwidgets-omod,1.6.4,+,2013-03-03

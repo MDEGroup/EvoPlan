@@ -1,0 +1,7 @@
+library,version,sign,date
+easymock,3.4,+,2016-08-28
+junit,4.12,+,2016-08-17
+junit,4.12,-,2016-08-17
+jopt-simple,4.3,-,2016-08-17
+jopt-simple,4.3,+,2016-08-17
+commons-lang3,3.5,+,2016-08-28

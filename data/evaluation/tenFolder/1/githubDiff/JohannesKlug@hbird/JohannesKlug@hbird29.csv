@@ -1,0 +1,14 @@
+library,version,sign,date
+mockito-all,1.9.0,-,2012-09-16
+space-system-model,0.0.1-SNAPSHOT,-,2012-09-26
+space-system-model,0.0.1-SNAPSHOT,+,2012-09-26
+xtce,0.0.1-SNAPSHOT,-,2012-09-26
+xtce,0.0.1-SNAPSHOT,+,2012-09-26
+joda-time,2.1,-,2012-09-26
+joda-time,2.1,+,2012-09-26
+org.apache.felix.configadmin,1.2.8,+,2012-09-26
+org.apache.felix.configadmin,1.2.8,-,2012-09-26
+space-system-publisher,0.0.1-SNAPSHOT,-,2012-09-26
+space-system-publisher,0.0.1-SNAPSHOT,+,2012-09-26
+commons,0.0.1-SNAPSHOT,-,2012-09-26
+commons,0.0.1-SNAPSHOT,+,2012-09-26

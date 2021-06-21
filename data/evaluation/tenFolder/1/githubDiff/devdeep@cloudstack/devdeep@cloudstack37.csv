@@ -1,0 +1,4 @@
+library,version,sign,date
+spring-security-saml2-core,1.0.0.RELEASE,+,2014-08-05
+opensaml,2.6.1,+,2014-08-08
+opensaml,2.6.1,-,2014-08-12

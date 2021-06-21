@@ -1,0 +1,11 @@
+library,version,sign,date
+maven-eclipse-plugin,2.9,+,2013-01-23
+junit,4.8.1,-,2011-10-17
+junit,4.8.1,-,2012-12-01
+junit,3.8.2,-,2012-12-01
+junit,4.8.1,+,2012-12-01
+junit,3.8.2,+,2012-12-01
+junit,4.8.1,-,2011-01-12
+junit,4.8.1,+,2011-01-12
+junit,4.8.1,+,2011-10-17
+maven-inherit-plugin,1.5,+,2013-01-23

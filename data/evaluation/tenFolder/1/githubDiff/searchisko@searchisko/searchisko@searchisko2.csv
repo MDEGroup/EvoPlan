@@ -1,0 +1,12 @@
+library,version,sign,date
+rest-assured,2.3.1,-,2014-10-16
+rest-assured,2.3.1,+,2014-10-16
+rest-assured,1.8.1,-,2014-06-03
+rest-assured,1.8.1,+,2013-10-16
+rest-assured,2.3.1,+,2014-06-03
+commons-io,2.1,+,2014-02-21
+commons-io,2.4,-,2014-05-02
+commons-io,2.1,-,2014-04-11
+commons-io,2.1,-,2014-02-21
+commons-io,2.4,+,2014-04-11
+commons-io,2.4,+,2014-05-02

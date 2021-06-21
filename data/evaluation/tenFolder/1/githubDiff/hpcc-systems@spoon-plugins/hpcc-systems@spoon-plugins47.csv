@@ -1,0 +1,5 @@
+library,version,sign,date
+eclgui,0.1.0,+,2012-12-19
+javaecl,0.1-SNAPSHOT,+,2012-12-19
+javaecl,0.1-SNAPSHOT,-,2012-12-19
+javaecl,0.1-SNAPSHOT,-,2013-03-28

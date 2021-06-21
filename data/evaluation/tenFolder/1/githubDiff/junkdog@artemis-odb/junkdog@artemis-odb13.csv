@@ -1,0 +1,13 @@
+library,version,sign,date
+artemis-fluid-maven-integration-test-components,3.0.0-SNAPSHOT,-,2018-07-16
+artemis-fluid-maven-integration-test-components,2.2.0-SNAPSHOT,-,2019-01-05
+artemis-fluid-maven-integration-test-components,2.2.0-SNAPSHOT,-,2016-12-09
+artemis-fluid-maven-integration-test-components,2.1.0,-,2016-12-09
+artemis-fluid-maven-integration-test-components,2.3.0,-,2019-11-09
+artemis-fluid-maven-integration-test-components,2.3.0-SNAPSHOT,-,2019-01-06
+artemis-fluid-maven-integration-test-components,2.2.0,-,2019-01-06
+artemis-fluid-maven-integration-test-components,2.1.0-SNAPSHOT,-,2016-09-18
+artemis-odb,3.0.0-SNAPSHOT,-,2018-07-16
+artemis-odb,2.2.0-SNAPSHOT,-,2019-01-05
+artemis-odb,2.1.0,-,2016-12-09
+artemis-odb,2.0.0,-,2016-09-18

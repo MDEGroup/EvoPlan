@@ -1,0 +1,13 @@
+library,version,sign,date
+weld-api,1.1.Final,+,2012-02-19
+mockito-all,1.8.5,+,2012-02-19
+mockito-all,1.9.0,+,2012-02-19
+weld-core,1.1.1.Final,+,2012-02-19
+junit,4.10,+,2012-03-16
+junit,3.8.1,-,2012-03-16
+junit,3.8.1,+,2012-04-13
+fest-assert,1.4,-,2012-02-19
+fest-assert,1.4,+,2012-02-19
+gson,1.5,+,2012-02-19
+guava,11.0,+,2012-02-19
+guice,3.0,+,2012-02-19

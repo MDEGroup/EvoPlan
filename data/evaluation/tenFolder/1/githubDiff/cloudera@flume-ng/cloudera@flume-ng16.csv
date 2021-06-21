@@ -1,0 +1,7 @@
+library,version,sign,date
+flume-ng-sdk,1.1.0-cdh4.0.0-SNAPSHOT,-,2012-05-09
+flume-ng-sdk,1.1.0-cdh4b2-SNAPSHOT,-,2012-04-17
+flume-ng-core,1.1.0-cdh4.0.0-SNAPSHOT,-,2012-05-09
+flume-ng-core,1.1.0-cdh4b2-SNAPSHOT,-,2012-04-17
+flume-ng-configuration,1.1.0-cdh4.0.0-SNAPSHOT,-,2012-05-09
+flume-ng-configuration,1.1.0-cdh4.0.0-SNAPSHOT,+,2012-04-17

@@ -1,0 +1,11 @@
+library,version,sign,date
+skysail.server,[0.3.2-SNAPSHOT, 1.0),-,2013-10-03
+skysail.server,[0.3.1, 1.0),-,2013-09-11
+skysail.server,[0.3.2-SNAPSHOT, 1.0),+,2013-09-11
+skysail.server,[0.3.3, 1.0),+,2013-10-03
+skysail.server,[0.3.3-SNAPSHOT, 1.0),+,2013-10-03
+skysail.server,[0.3.2, 1.0),-,2013-10-03
+skysail.server,[0.3.2, 1.0),+,2013-10-03
+skysail.server,[0.3.1-SNAPSHOT, 1.0),-,2013-09-11
+derby,10.8.2.2,-,2013-10-03
+derby,10.8.2.2,+,2013-10-03

@@ -1,0 +1,11 @@
+library,version,sign,date
+org.eclipse.uml2.uml,4.1.1.v20130902-0826,+,2014-01-21
+org.eclipse.uml2.uml,4.1.1.v20130902-0826,+,2012-06-08
+org.eclipse.uml2.common,1.8.1.v20130902-0826,+,2012-06-08
+org.eclipse.uml2.common,1.8.1.v20130902-0826,+,2014-01-21
+org.eclipse.acceleo.engine,3.3.0.qualifier,-,2012-06-08
+org.eclipse.acceleo.engine,3.5.0-SNAPSHOT,+,2014-01-21
+org.eclipse.acceleo.engine,3.5.0-SNAPSHOT,+,2012-06-08
+org.eclipse.uml2.types,1.1.0.v20130902-0826,+,2014-01-21
+org.eclipse.acceleo.maven,3.5.0-SNAPSHOT,+,2014-01-21
+org.eclipse.acceleo.maven,3.5.0-SNAPSHOT,+,2012-06-08

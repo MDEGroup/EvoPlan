@@ -1,0 +1,5 @@
+library,version,sign,date
+fenix-framework-core,1.0.0,+,2012-03-26
+fenix-framework-core,1.0,-,2012-03-26
+dml-maven-plugin,1.0.0,+,2012-03-26
+dml-maven-plugin,1.0,-,2012-03-26

@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.0,+,2012-04-14
+commons-codec,1.5,+,2012-05-15
+android,2.2.1,+,2012-03-28
+android,2.2.1,-,2012-03-28
+android-integration,2.0,+,2012-05-18
+android-integration,2.0,-,2012-05-25
+jbcrypt,0.3m,+,2012-05-14

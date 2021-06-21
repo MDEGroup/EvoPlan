@@ -1,0 +1,7 @@
+library,version,sign,date
+javax.faces,2.1.5,-,2012-03-21
+javax.faces,2.1.5,+,2012-03-16
+javax.faces,2.1.6,+,2012-08-08
+plexus-utils,1.0.3,-,2012-03-21
+generator,4.3.0-SNAPSHOT,-,2012-03-21
+jcommander,1.20,-,2012-03-21

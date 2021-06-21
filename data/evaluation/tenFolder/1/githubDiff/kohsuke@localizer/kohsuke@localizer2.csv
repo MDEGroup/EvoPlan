@@ -1,0 +1,6 @@
+library,version,sign,date
+access-modifier-annotation,1.4,+,2015-02-03
+codemodel,2.0,-,2008-01-21
+codemodel,2.1,-,2012-08-27
+localizer,1.0,+,2007-12-26
+commons-lang3,3.1,+,2014-04-19

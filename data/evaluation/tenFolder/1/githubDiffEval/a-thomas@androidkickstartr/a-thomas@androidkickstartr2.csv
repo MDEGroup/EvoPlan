@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.10,+,2012-10-21
+freemarker,2.3.19,+,2012-10-21
+freemarker,2.3.19,-,2012-10-21
+maven-invoker,2.0.11,+,2012-10-22
+codemodel,2.6,-,2012-10-21
+codemodel,2.6,+,2012-10-21
+commons-compress,1.4.1,+,2012-10-21
+commons-compress,1.4.1,-,2012-10-21
+commons-io,2.4,-,2012-10-21
+commons-io,2.4,+,2012-10-21

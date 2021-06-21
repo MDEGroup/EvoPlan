@@ -1,0 +1,7 @@
+library,version,sign,date
+org.eclipse.osgi,3.6.2.R36x_v20110210,-,2015-01-25
+org.eclipse.osgi,3.6.2.R36x_v20110210,-,2017-04-08
+geronimo-atinject_1.0_spec,1.0,-,2017-04-08
+org.osgi.core,4.0.0,-,2015-01-25
+org.ops4j.pax.tipi.junit,4.11.0.1,-,2017-04-08
+org.ops4j.pax.tipi.hamcrest.core,1.3.0.1,-,2017-04-08

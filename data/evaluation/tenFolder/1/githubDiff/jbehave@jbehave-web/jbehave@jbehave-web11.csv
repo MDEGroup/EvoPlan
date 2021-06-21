@@ -1,0 +1,12 @@
+library,version,sign,date
+junit-dep,4.8.2,+,2012-04-10
+hamcrest-all,1.1,+,2012-04-10
+fluent-selenium,1.6.3,-,2013-02-12
+fluent-selenium,1.5.1,-,2012-04-10
+fluent-selenium,1.5.1,-,2012-04-29
+fluent-selenium,1.10,-,2013-08-04
+fluent-selenium,1.0,-,2012-03-14
+fluent-selenium,1.11.1,-,2013-08-08
+fluent-selenium,1.0-beta-4,-,2012-01-17
+fluent-selenium,1.0,+,2012-01-17
+fluent-selenium,1.11,-,2013-08-04

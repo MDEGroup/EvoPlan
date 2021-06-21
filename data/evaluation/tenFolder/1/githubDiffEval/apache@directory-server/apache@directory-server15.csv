@@ -1,0 +1,16 @@
+library,version,sign,date
+apacheds-protocol-ldap,0.9.4-SNAPSHOT,-,2006-02-07
+apacheds-protocol-shared,0.7.1-SNAPSHOT,+,2006-02-07
+apacheds-protocol-shared,0.7.1-SNAPSHOT,-,2006-02-07
+apacheds-i18n,1.5.6-SNAPSHOT,-,2010-01-26
+apacheds-i18n,1.5.6-SNAPSHOT,+,2010-01-10
+apacheds-core,0.9.4-SNAPSHOT,+,2006-01-13
+apacheds-core,0.9.3-SNAPSHOT,+,2006-01-13
+apacheds-core,0.9.4-SNAPSHOT,-,2006-02-07
+apacheds-core,0.9.4-SNAPSHOT,-,2006-02-24
+apacheds-core,0.9.4-SNAPSHOT,-,2006-01-13
+apacheds-core,1.1.0-SNAPSHOT,-,2006-10-12
+apacheds-core,1.1.0-SNAPSHOT,+,2006-02-24
+apacheds-core,1.0-RC1-SNAPSHOT,-,2006-02-07
+apacheds-core,0.9.3-SNAPSHOT,-,2006-02-24
+apacheds-core,0.9.3-SNAPSHOT,-,2006-01-13

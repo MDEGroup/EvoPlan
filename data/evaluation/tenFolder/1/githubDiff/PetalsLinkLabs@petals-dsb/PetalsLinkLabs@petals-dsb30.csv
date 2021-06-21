@@ -1,0 +1,7 @@
+library,version,sign,date
+cxf-bundle-minimal,2.2.2,-,2011-07-13
+junit,3.8.1,-,2011-07-13
+junit,3.8.1,+,2011-07-13
+junit,3.8.1,-,2012-05-03
+junit,3.8.1,+,2012-05-03
+dsb-monitoring-api,1.0-SNAPSHOT,-,2011-07-13

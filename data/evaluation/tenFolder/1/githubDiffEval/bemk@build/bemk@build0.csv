@@ -1,0 +1,4 @@
+library,version,sign,date
+properties-maven-plugin,1.0-alpha-2,+,2013-08-15
+jline,2.12,+,2013-08-16
+json,20090211,+,2013-08-15

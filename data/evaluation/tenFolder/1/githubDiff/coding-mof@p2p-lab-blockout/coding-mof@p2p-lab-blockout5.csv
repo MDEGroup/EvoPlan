@@ -1,0 +1,4 @@
+library,version,sign,date
+org.blockout.common,1.0.0-SNAPSHOT,-,2012-04-26
+netty,3.2.7.Final,-,2012-04-26
+netty,3.2.7,-,2012-04-26

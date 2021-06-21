@@ -1,0 +1,6 @@
+library,version,sign,date
+bungeecord-api,1.6.2-SNAPSHOT,-,2013-10-11
+bungeecord-api,1.6.2-SNAPSHOT,+,2013-10-11
+bungeecord-api,1.6.2-SNAPSHOT,-,2013-10-12
+commons-lang,2.3,+,2013-10-11
+commons-lang,2.3,-,2013-10-11

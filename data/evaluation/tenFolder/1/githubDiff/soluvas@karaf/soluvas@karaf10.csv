@@ -1,0 +1,4 @@
+library,version,sign,date
+slf4j-api,1.6.0,-,2012-01-08
+bndlib,1.50.0,-,2012-01-08
+bndlib,1.50.0,+,2012-01-08

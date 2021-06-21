@@ -1,0 +1,4 @@
+library,version,sign,date
+javax.batch-api,1.0.1,-,2019-11-25
+javax.batch-api,1.0.1,+,2019-05-03
+javax.batch-api,1.0.1,+,2019-11-25

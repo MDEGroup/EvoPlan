@@ -1,0 +1,6 @@
+library,version,sign,date
+hbase-book-common,2.0,+,2015-01-22
+json-simple,1.1,-,2015-02-17
+json-simple,1.1.1,+,2011-04-27
+json-simple,1.1,+,2011-04-27
+hadoop-mapreduce-client-core,2.6.0,+,2015-02-17

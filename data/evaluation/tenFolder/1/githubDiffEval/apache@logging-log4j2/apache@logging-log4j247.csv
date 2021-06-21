@@ -1,0 +1,8 @@
+library,version,sign,date
+log4j-slf4j-impl,{Log4jReleaseVersion},+,2018-02-18
+junit,4.12,-,2018-02-18
+junit,4.11,-,2017-11-19
+junit,4.12,+,2018-02-18
+log4j-core,{Log4jReleaseVersion},+,2018-02-18
+lightcouch,0.0.6,+,2018-02-18
+lightcouch,0.0.6,-,2018-02-18

@@ -1,0 +1,7 @@
+library,version,sign,date
+log4j-slf4j-impl,@log4j.version@,+,2019-06-14
+junit,4.13,+,2019-08-12
+junit,@junit.version@,-,2019-08-12
+junit,4.12,-,2019-08-12
+log4j-jul,@log4j.version@,+,2019-06-14
+assertj-core,@assertj.version@,-,2019-08-12

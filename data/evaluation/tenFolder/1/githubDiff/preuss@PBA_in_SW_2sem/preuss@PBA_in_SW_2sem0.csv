@@ -1,0 +1,8 @@
+library,version,sign,date
+simple-xml,2.7.1,+,2013-12-02
+json,20090211,+,2013-12-03
+webservices-rt,2.3,+,2013-12-09
+javaee-web-api,6.0,-,2013-12-02
+javaee-web-api,6.0,+,2013-12-02
+amqp-client,3.1.4,-,2013-12-02
+amqp-client,3.1.4,+,2013-12-02

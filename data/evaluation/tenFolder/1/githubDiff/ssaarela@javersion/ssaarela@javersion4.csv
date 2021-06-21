@@ -1,0 +1,7 @@
+library,version,sign,date
+clojure,1.7.0,+,2015-11-07
+javersion-object,0.11.1-SNAPSHOT,-,2016-01-26
+javersion-object,0.11.1-SNAPSHOT,+,2015-11-29
+javersion-core,0.9.1-SNAPSHOT,-,2015-11-29
+javersion-core,0.11.1-SNAPSHOT,-,2016-01-26
+javersion-core,0.9-SNAPSHOT,-,2015-11-07

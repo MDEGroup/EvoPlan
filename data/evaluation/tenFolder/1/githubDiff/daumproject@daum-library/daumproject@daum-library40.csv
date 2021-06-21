@@ -1,0 +1,6 @@
+library,version,sign,date
+org.kevoree.extra.marshalling,1.1,+,2013-02-14
+slf4j-api,1.6.4,-,2013-02-14
+junit,4.8.2,-,2013-02-14
+org.kevoree.library.javase.webserver.api,2.0.0-SNAPSHOT,-,2013-07-30
+org.daum.extra.jdbm3.android.root,1.0,-,2013-02-14

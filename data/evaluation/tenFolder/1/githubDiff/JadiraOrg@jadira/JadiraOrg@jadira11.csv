@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.11,-,2014-04-23
+aspectjrt,1.7.2,+,2013-06-03
+aspectjrt,1.7.2,-,2013-11-26
+oval,1.84,-,2016-09-13
+oval,1.81,-,2013-11-26

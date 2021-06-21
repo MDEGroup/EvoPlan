@@ -1,0 +1,4 @@
+library,version,sign,date
+xbean-spring,3.7,+,2010-08-30
+slf4j-log4j12,1.6.1,+,2010-08-31
+slf4j-log4j12,1.6.1,-,2010-09-02

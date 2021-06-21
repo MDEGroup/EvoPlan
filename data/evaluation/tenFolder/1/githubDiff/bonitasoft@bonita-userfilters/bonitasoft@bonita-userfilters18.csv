@@ -1,0 +1,17 @@
+library,version,sign,date
+bonita-userfilter-user-manager-impl,1.0.0-SNAPSHOT,-,2016-05-17
+bonita-userfilter-user-manager-impl,1.0.0-SNAPSHOT,+,2016-05-17
+bonita-userfilter-custom-user-info-impl,1.0.0-SNAPSHOT,-,2014-05-23
+bonita-userfilter-custom-user-info-impl,1.0.0-SNAPSHOT,+,2014-05-21
+bonita-userfilter-custom-user-info-impl,1.0.0-SNAPSHOT,+,2014-10-16
+bonita-userfilter-custom-user-info-impl,1.0.0-SNAPSHOT,+,2014-05-27
+bonita-userfilter-custom-user-info-impl,1.0.0-SNAPSHOT,-,2014-10-16
+bonita-userfilter-same-task-user-impl,1.0.0-SNAPSHOT,-,2014-09-24
+bonita-userfilter-same-task-user-impl,1.0.2,+,2016-05-17
+bonita-userfilter-same-task-user-impl,1.0.1-SNAPSHOT,-,2016-06-27
+bonita-userfilter-same-task-user-impl,1.0.1-SNAPSHOT,-,2014-10-16
+bonita-userfilter-same-task-user-impl,1.0.1-SNAPSHOT,-,2016-05-17
+bonita-userfilter-initiator-manager-impl,1.0.0-SNAPSHOT,-,2016-05-17
+bonita-userfilter-initiator-manager-impl,1.0.0-SNAPSHOT,+,2016-05-17
+bonita-userfilter-single-user-impl,1.0.0-SNAPSHOT,-,2016-05-17
+bonita-userfilter-single-user-impl,1.0.0-SNAPSHOT,+,2016-05-17

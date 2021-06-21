@@ -1,0 +1,7 @@
+library,version,sign,date
+when.java,3.0.1,-,2015-02-03
+when.java,3.1.0,+,2015-02-03
+guice,4.0,-,2016-05-20
+guice,3.0,-,2015-09-23
+guice,4.0,+,2015-09-23
+guice,4.1.0,+,2016-05-20

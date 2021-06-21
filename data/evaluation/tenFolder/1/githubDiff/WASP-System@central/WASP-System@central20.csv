@@ -1,0 +1,6 @@
+library,version,sign,date
+variantCalling,0.1.0-SNAPSHOT,+,2013-12-02
+testng,6.8,-,2013-12-02
+mockito-core,1.9.0,-,2013-12-02
+picard,0.0.1-SNAPSHOT,-,2014-04-16
+spring-boot-starter-jetty,1.0.0.RELEASE,+,2014-05-13

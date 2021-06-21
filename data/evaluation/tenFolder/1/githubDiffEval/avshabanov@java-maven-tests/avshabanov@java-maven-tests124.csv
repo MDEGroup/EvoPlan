@@ -1,0 +1,6 @@
+library,version,sign,date
+easymock,3.0,+,2011-09-10
+junit,4.8.2,+,2011-09-10
+clojure,1.2.0,+,2011-09-10
+clojure,1.3.0,+,2011-09-10
+clojure,1.2.0,-,2011-09-10

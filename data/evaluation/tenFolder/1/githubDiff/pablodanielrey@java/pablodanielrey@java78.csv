@@ -1,0 +1,4 @@
+library,version,sign,date
+postgresql,1.0-SNAPSHOT,+,2013-12-21
+personEntities,1.0-SNAPSHOT,+,2013-12-21
+javax.inject,1,+,2013-12-21

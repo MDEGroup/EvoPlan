@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.11,+,2013-01-23
+junit,4.8.2,-,2013-01-23
+javaee-api,6.0,+,2013-01-23
+javaee-api,6.0,-,2013-01-23
+javaee-api,7.0,+,2013-01-23

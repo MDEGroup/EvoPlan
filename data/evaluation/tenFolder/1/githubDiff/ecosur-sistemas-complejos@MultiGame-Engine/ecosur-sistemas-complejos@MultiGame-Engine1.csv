@@ -1,0 +1,4 @@
+library,version,sign,date
+hibernate-jpa-2.0-api,1.0.0.Final,+,2012-08-18
+javaee-api,6.0-SNAPSHOT,+,2011-03-17
+javaee-api,6.0-SNAPSHOT,-,2012-01-27

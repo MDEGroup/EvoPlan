@@ -1,0 +1,7 @@
+library,version,sign,date
+spymemcached,2.6,-,2012-03-07
+spymemcached,2.9.1,-,2019-03-13
+spymemcached,2.6,+,2012-03-07
+spymemcached,2.6,+,2011-09-11
+spymemcached,2.6,-,2013-06-20
+spymemcached,2.6,-,2011-09-11

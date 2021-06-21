@@ -1,0 +1,7 @@
+library,version,sign,date
+velocity-tools,2.0,+,2014-06-06
+jackson-databind,2.4.1,+,2014-06-06
+jackson-core,2.4.1,+,2014-06-06
+tiles-extras,3.0.3,+,2014-06-06
+velocity,1.7,+,2014-06-06
+spring-context,3.0.5.RELEASE,-,2014-06-06

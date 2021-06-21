@@ -1,0 +1,16 @@
+library,version,sign,date
+tomcat-embed-jasper,7.0.27,+,2012-06-18
+tomcat-embed-jasper,7.0.27,-,2013-03-14
+tomcat-catalina,7.0.27,+,2012-06-18
+tomcat-catalina,7.0.27,-,2013-03-14
+jetty-webapp,8.1.4.v20120524,-,2013-03-14
+jetty-webapp,8.1.4.v20120524,+,2012-06-18
+jetty-webapp,9.4.10.v20180503,+,2013-03-14
+spring-web,3.0.6.RELEASE,-,2012-06-18
+spring-web,3.0.6.RELEASE,+,2012-06-18
+spring-web,3.0.6.RELEASE,-,2013-03-14
+spring-web,5.0.5.RELEASE,+,2013-03-14
+spring-web,3.0.7.RELEASE,-,2013-03-14
+tomcat-embed-core,7.0.27,+,2012-06-18
+tomcat-embed-core,7.0.27,-,2013-03-14
+spring-context,5.0.5.RELEASE,+,2018-05-06

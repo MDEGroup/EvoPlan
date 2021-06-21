@@ -1,0 +1,14 @@
+library,version,sign,date
+osm4j-pbf,0.1.1,+,2019-02-23
+protobuf-java,3.6.1,+,2019-07-15
+protobuf-java,3.6.1,-,2019-08-04
+jts-core,1.16.1,+,2019-07-14
+earcut4j,2.1.1,-,2019-08-11
+earcut4j,2.1.1,+,2018-09-30
+earcut4j,2.1.1,+,2019-07-27
+jewelcli,0.6,-,2019-07-14
+osm4j-core,0.1.0,+,2019-02-23
+batik-rasterizer,1.11,+,2019-08-06
+osm4j-xml,0.1.2,+,2019-02-23
+guava,r08,-,2019-07-14
+batik-transcoder,1.11,+,2019-08-06

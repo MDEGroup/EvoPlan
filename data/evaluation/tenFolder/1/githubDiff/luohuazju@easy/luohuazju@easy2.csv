@@ -1,0 +1,7 @@
+library,version,sign,date
+cometd-java-annotations,2.4.3,-,2012-06-16
+cometd-websocket-jetty,2.4.3,-,2012-06-16
+cometd-java-server,2.4.3,-,2012-06-16
+cometd-javascript-jquery,2.4.3,-,2012-06-16
+spring-web,3.1.1.RELEASE,-,2012-06-16
+bayeux-api,2.4.3,-,2012-06-16

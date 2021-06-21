@@ -1,0 +1,4 @@
+library,version,sign,date
+cloud-engine-storage,4.2.0-SNAPSHOT,+,2013-04-11
+cloud-engine-storage,4.3.0-SNAPSHOT,-,2013-08-01
+cloud-engine-storage,4.2.0-SNAPSHOT,-,2013-07-29

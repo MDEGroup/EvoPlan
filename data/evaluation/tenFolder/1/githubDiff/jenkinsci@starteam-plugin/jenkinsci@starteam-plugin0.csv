@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.4,+,2008-06-25
+junit,4.4,-,2013-02-15
+objenesis,1.1,+,2008-06-25
+jmock-junit4,2.4.0,+,2008-06-25
+jmock-cglib,1.2.0,+,2008-06-25
+starteam110,11,+,2013-05-22

@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.8.2,-,2012-08-12
+junit,4.8.2,+,2012-08-12
+javaee-api,6.0,-,2012-08-12
+javaee-api,6.0,+,2012-08-12
+persistence-ejb,1.0-SNAPSHOT,+,2012-08-12
+persistence-ejb,1.0-SNAPSHOT,-,2012-08-12
+persistence-ejb,1.0-SNAPSHOT,+,2011-10-18
+primefaces,3.0.1,-,2012-02-03
+primefaces,2.2.1,+,2011-10-18
+primefaces,3.3.1,-,2012-08-12
+primefaces,3.0.1,+,2011-10-22
+primefaces,2.2.1,-,2011-10-22
+primefaces,3.3.1,+,2012-02-03
+primefaces,3.3.1,+,2012-08-12

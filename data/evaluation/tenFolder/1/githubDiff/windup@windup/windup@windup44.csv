@@ -1,0 +1,14 @@
+library,version,sign,date
+wicket-core,6.11.0,+,2017-06-06
+wicket-core,6.11.0,+,2014-09-10
+wicket-core,6.11.0,-,2014-09-10
+wicket-core,6.11.0,-,2017-06-07
+wicket-core,6.11.0,+,2015-04-06
+decompiler-api,4.0.0.Beta2.1,+,2017-06-06
+decompiler-api,4.0.0-20170606.150758-36,+,2017-06-06
+decompiler-api,4.0.0.Beta2.1,-,2017-06-07
+decompiler-api,4.0.0-20170606.150758-36,-,2017-06-07
+windup-utils,4.0.0.Beta2.1,+,2017-06-06
+windup-utils,4.0.0.Beta2.1,-,2017-06-07
+windup-utils,4.0.0-20170606.145808-36,+,2017-06-06
+windup-utils,4.0.0-20170606.145808-36,-,2017-06-07

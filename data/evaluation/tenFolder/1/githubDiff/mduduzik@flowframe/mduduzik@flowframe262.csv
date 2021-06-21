@@ -1,0 +1,15 @@
+library,version,sign,date
+mockito-all,1.9.5,-,2013-07-30
+mockito-all,1.9.5,+,2013-07-31
+mockito-all,1.9.5,+,2013-07-30
+ibatis-sqlmap,3.0-beta-10,+,2013-07-30
+ibatis-sqlmap,3.0-beta-10,+,2013-07-31
+ibatis-sqlmap,3.0-beta-10,-,2013-07-30
+dbunit,2.4.3,+,2013-07-31
+dbunit,2.4.3,-,2013-07-30
+dbunit,2.4.3,+,2013-07-30
+spring-core,2.0.6,+,2013-07-31
+yuicompressor,2.4.2,-,2013-07-30
+yuicompressor,2.4.2,-,2013-07-31
+yuicompressor,2.4.7,-,2013-07-31
+json,20090211,+,2013-07-30

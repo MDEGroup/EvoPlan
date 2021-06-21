@@ -1,0 +1,5 @@
+library,version,sign,date
+jain-slee,1.1,-,2012-08-08
+junit,4.10,+,2016-11-16
+junit,4.10,-,2012-08-08
+jboss-logging,3.1.2.GA,+,2016-11-16

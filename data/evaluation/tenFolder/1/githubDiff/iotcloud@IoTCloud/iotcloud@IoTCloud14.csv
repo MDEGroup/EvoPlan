@@ -1,0 +1,10 @@
+library,version,sign,date
+axis2-kernel,1.6.1,-,2012-05-27
+iotcloud-core,1.0-SNAPSHOT,-,2012-05-27
+iotcloud-core,1.0-SNAPSHOT,+,2012-05-27
+httpclient,4.2-beta1,+,2012-02-14
+httpclient,4.2-beta1,-,2012-05-27
+httpclient,4.2-beta1,+,2012-05-27
+httpclient,4.2-beta1,+,2012-05-16
+log4j,1.2.14,+,2012-05-27
+log4j,1.2.14,-,2012-05-27

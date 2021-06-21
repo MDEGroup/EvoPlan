@@ -1,0 +1,9 @@
+library,version,sign,date
+droid-core-interfaces,6.5,-,2020-04-29
+droid-core-interfaces,6.5-SNAPSHOT,+,2019-11-13
+droid-core-interfaces,6.5-SNAPSHOT,-,2020-01-29
+commons-cli,1.4,+,2019-11-11
+droid-container,6.5,-,2020-04-29
+droid-container,6.5-SNAPSHOT,-,2020-01-29
+droid-core,6.5,-,2020-04-29
+droid-core,6.5-SNAPSHOT,-,2020-01-29

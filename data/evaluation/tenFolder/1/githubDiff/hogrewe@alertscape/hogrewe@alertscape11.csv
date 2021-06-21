@@ -1,0 +1,17 @@
+library,version,sign,date
+junit,3.8.1,-,2009-04-02
+junit,3.8.1,+,2009-04-02
+junit,3.8.1,-,2009-02-17
+junit,3.8.1,+,2009-02-17
+commons-dbcp,1.2.2,-,2009-04-02
+commons-dbcp,1.2.2,+,2009-01-03
+commons-dbcp,1.2.2,+,2009-04-02
+commons-dbcp,1.2.2,+,2009-02-17
+commons-dbcp,1.2.2,+,2008-08-19
+commons-dbcp,1.2.2,-,2009-02-17
+commons-dbcp,1.2.2,-,2009-01-03
+castor,1.2,+,2009-02-17
+castor,1.2,+,2009-01-05
+castor,1.2,+,2009-04-02
+castor,1.2,-,2009-02-17
+castor,1.2,-,2009-04-02

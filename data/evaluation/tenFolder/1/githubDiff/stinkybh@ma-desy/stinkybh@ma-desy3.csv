@@ -1,0 +1,13 @@
+library,version,sign,date
+standard,1.1.2,+,2013-11-08
+jstl,1.2,+,2013-11-08
+jstl,1.2,+,2013-11-12
+maps-widget,1.0-SNAPSHOT,+,2013-11-14
+commons-beanutils-core,1.8.3,+,2013-11-08
+model,1.0-SNAPSHOT,+,2013-11-08
+model,1.0-SNAPSHOT,-,2013-11-08
+model,1.0-SNAPSHOT,+,2013-11-11
+model,1.0-SNAPSHOT,-,2013-11-11
+model,1.0-SNAPSHOT,-,2013-11-12
+workers,1.0-SNAPSHOT,+,2013-11-11
+workers,1.0-SNAPSHOT,-,2013-11-12

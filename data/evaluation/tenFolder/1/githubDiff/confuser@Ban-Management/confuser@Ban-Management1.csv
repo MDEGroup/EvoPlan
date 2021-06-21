@@ -1,0 +1,6 @@
+library,version,sign,date
+ipaddress,5.2.1,+,2020-02-01
+maxmind-db-gson,2.0.3,+,2020-03-04
+commons-compress,1.19,+,2019-10-20
+h2,1.4.200,+,2020-02-08
+h2,1.4.200,-,2020-02-24

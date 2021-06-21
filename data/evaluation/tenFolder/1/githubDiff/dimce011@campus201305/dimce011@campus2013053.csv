@@ -1,0 +1,7 @@
+library,version,sign,date
+freemarker,2.3.19,+,2013-05-17
+freemarker,2.3.19,+,2013-05-20
+resteasy-jackson-provider,2.2.1.GA,+,2013-05-17
+jcr,2.0,-,2013-05-17
+resteasy-jaxrs,2.2.1.GA,+,2013-05-17
+jsoup,1.7.2,+,2013-05-21

@@ -1,0 +1,9 @@
+library,version,sign,date
+org.eclipse.persistence.nosql,2.5.0,+,2013-10-18
+org.eclipse.persistence.nosql,2.5.0,-,2013-11-08
+mongo-java-driver,2.11.3,+,2013-10-18
+javaee-api,7.0,+,2013-10-18
+gear-mongo,1.2.0-SNAPSHOT,+,2013-10-18
+gear-mongo,1.2.0-SNAPSHOT,-,2013-11-08
+eclipselink,2.5.0,+,2013-10-18
+eclipselink,2.5.0,-,2013-11-08

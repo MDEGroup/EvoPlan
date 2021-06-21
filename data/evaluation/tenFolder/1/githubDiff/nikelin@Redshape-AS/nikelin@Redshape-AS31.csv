@@ -1,0 +1,16 @@
+library,version,sign,date
+jsoup,1.3.3,-,2012-09-28
+jsoup,1.3.3,+,2012-09-28
+fetchers-parent,3.1.4,-,2012-09-28
+fetchers-parent,3.1.2-SNAPSHOT,-,2012-09-28
+fetchers-parent,3.1.5-SNAPSHOT,-,2012-09-28
+fetchers-parent,3.1.1-SNAPSHOT,-,2012-09-28
+fetchers-parent,3.1.0,-,2012-09-03
+fetchers-parent,3.1.0,-,2012-09-28
+fetchers-parent,3.1.6-SNAPSHOT,-,2012-09-28
+fetchers-parent,3.1.2,-,2012-09-28
+fetchers-parent,3.1.4-SNAPSHOT,-,2012-09-28
+fetchers-parent,3.1.2-SNAPSHOT,+,2012-09-28
+fetchers-parent,3.1.3-SNAPSHOT,-,2012-09-28
+fetchers-parent,3.1.5,-,2012-09-28
+fetchers-parent,3.1.3,-,2012-09-28

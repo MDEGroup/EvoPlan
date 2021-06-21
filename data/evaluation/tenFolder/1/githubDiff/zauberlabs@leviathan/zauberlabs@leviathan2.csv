@@ -1,0 +1,6 @@
+library,version,sign,date
+juniversalchardet,1.0.3,+,2010-05-03
+commons-lang,2.4,-,2010-03-01
+commons-lang,2.4,+,2009-12-12
+httpclient,4.1,+,2011-03-11
+httpcore,4.1,+,2011-03-11

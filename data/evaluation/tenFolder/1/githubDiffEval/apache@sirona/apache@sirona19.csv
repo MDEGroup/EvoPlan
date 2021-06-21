@@ -1,0 +1,17 @@
+library,version,sign,date
+geronimo-json_1.0_spec,1.0-alpha-1,+,2015-01-21
+cxf-rt-frontend-jaxrs,3.0.1,+,2014-08-06
+cxf-rt-frontend-jaxrs,3.0.1,-,2014-08-06
+jul-to-slf4j,1.7.7,-,2015-11-03
+jul-to-slf4j,1.7.7,-,2016-07-05
+jul-to-slf4j,1.7.7,+,2014-08-06
+jul-to-slf4j,1.7.7,+,2015-01-21
+jul-to-slf4j,1.7.7,+,2016-07-05
+jul-to-slf4j,1.7.7,+,2015-11-03
+johnzon-jaxrs,0.9.2-incubating,+,2015-01-21
+johnzon-jaxrs,0.9.2-incubating,-,2016-07-05
+johnzon-jaxrs,0.9.2-incubating,+,2016-07-05
+johnzon-jaxrs,0.9.2-incubating,-,2015-11-03
+johnzon-jaxrs,0.9.2-incubating,+,2015-11-03
+spring-web,4.0.6.RELEASE,-,2014-08-06
+spring-web,4.0.6.RELEASE,+,2014-08-06

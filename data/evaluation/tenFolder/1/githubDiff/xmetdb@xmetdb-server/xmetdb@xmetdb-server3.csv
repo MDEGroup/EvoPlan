@@ -1,0 +1,16 @@
+library,version,sign,date
+xmet-beans,0.0.3-SNAPSHOT,-,2013-06-23
+xmet-beans,0.0.5-SNAPSHOT,-,2015-03-03
+xmet-beans,0.0.4,-,2013-06-26
+xmet-beans,0.0.3,-,2013-06-24
+xmet-beans,0.0.2-SNAPSHOT,-,2013-04-25
+xmet-beans,0.0.2,-,2013-06-03
+xmet-beans,0.0.1-SNAPSHOT,-,2013-01-23
+xmet-beans,0.0.4-SNAPSHOT,-,2013-06-25
+dbunit,2.4.8,-,2015-03-23
+dbunit,2.4.8,+,2013-01-23
+dbunit,2.4.8,+,2015-03-23
+dbunit,2.4.8,-,2013-01-23
+commons-fileupload,1.2.1,+,2015-03-23
+commons-fileupload,1.2.1,-,2015-03-23
+commons-fileupload,1.2.1,-,2015-03-24

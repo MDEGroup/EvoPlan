@@ -1,0 +1,7 @@
+library,version,sign,date
+commons-collections,3.2.1,+,2011-09-26
+scala-library,2.9.0-1,+,2011-09-18
+scala-library,2.9.0-1,-,2011-08-17
+scala-library,2.9.1,+,2011-09-26
+scala-library,2.9.0-1,-,2011-09-26
+org.kevoree.extra.googleguava,1.0,+,2011-09-26

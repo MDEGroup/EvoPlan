@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,3.8.2,-,2009-11-20
+junit,3.8.2,+,2006-08-10
+junit,4.10,+,2009-11-20
+freehep-graphicsio-tests,2.0-SNAPSHOT,+,2005-11-26
+freehep-graphicsio-tests,2.0-SNAPSHOT,-,2005-12-05
+freehep-graphicsio,2.0-SNAPSHOT,+,2005-11-26
+freehep-graphicsio,2.0-SNAPSHOT,-,2005-12-05

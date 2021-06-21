@@ -1,0 +1,12 @@
+library,version,sign,date
+abbot,1.0.2,+,2011-04-26
+junit,4.8,-,2012-10-02
+junit,4.8.1,+,2011-04-26
+mail,1.4.1,+,2011-04-26
+mail,1.4.1,-,2011-04-26
+swing-worker,1.1,-,2011-04-26
+swing-worker,1.1,+,2011-04-26
+xhtmlrenderer,1.0,+,2011-04-26
+commons-lang,2.5,-,2011-04-26
+commons-lang,2.5,+,2011-04-26
+passwordcache,1.0,+,2011-04-26

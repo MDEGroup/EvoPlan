@@ -1,0 +1,12 @@
+library,version,sign,date
+xercesImpl,2.9.1,-,2018-12-09
+xercesImpl,2.9.1,+,2016-07-21
+javax.servlet-api,3.0.1,+,2015-10-06
+junit,4.11,+,2016-10-18
+junit,4.11,-,2015-07-01
+junit,4.11,-,2015-12-28
+junit,4.11,+,2014-08-22
+junit,4.11,+,2015-12-28
+junit,4.11,-,2016-10-18
+junit,4.11,+,2015-07-01
+java-hamcrest,2.0.0.0,+,2015-10-06

@@ -1,0 +1,7 @@
+library,version,sign,date
+lib-core-slh,3.0.0,+,2014-06-21
+android,4.4.2_r3,-,2014-04-21
+android,4.4.2_r3,+,2013-04-13
+android,4.4.2_r3,+,2014-04-21
+android,4.1.1.4,-,2013-04-13
+lib-manipulation,3.0.0,+,2014-06-21

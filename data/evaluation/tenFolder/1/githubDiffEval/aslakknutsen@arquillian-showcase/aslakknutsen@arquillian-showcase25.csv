@@ -1,0 +1,7 @@
+library,version,sign,date
+junit,4.8.1,-,2011-07-19
+junit,4.8.1,+,2011-07-17
+infinispan-core,4.2.1.FINAL,-,2011-11-28
+shrinkwrap-resolver-impl-maven,1.0.0-beta-3,-,2011-07-19
+shrinkwrap-resolver-impl-maven,1.0.0-beta-3,+,2011-07-17
+shrinkwrap-resolver-impl-maven,1.0.0-beta-3,+,2011-07-18

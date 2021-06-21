@@ -1,0 +1,3 @@
+library,version,sign,date
+org.talend.libraries.sdi,7.3.2-SNAPSHOT,-,2020-05-19
+org.talend.libraries.sdi,7.3.2-SNAPSHOT,+,2019-01-25

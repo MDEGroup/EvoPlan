@@ -1,0 +1,8 @@
+library,version,sign,date
+mockito-all,1.9.0,-,2013-03-25
+junit,4.10,-,2013-03-25
+hamcrest-all,1.1,-,2013-03-25
+jsoup,1.6.1,-,2012-10-14
+jsoup,1.7.1,-,2013-03-25
+httpclient,4.1.2,-,2012-08-22
+httpclient,4.2.1,-,2012-10-14

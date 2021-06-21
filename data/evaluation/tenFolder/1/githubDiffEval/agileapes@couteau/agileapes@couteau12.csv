@@ -1,0 +1,8 @@
+library,version,sign,date
+couteau-basics,1.0,-,2013-09-18
+couteau-concurrency,1.0,-,2013-09-18
+couteau-concurrency,1.0,+,2013-08-03
+couteau-reflection,1.0,-,2013-09-18
+couteau-reflection,1.0,+,2013-08-15
+couteau-graph,1.0,-,2013-09-18
+spring-context,3.2.3.RELEASE,+,2013-09-18

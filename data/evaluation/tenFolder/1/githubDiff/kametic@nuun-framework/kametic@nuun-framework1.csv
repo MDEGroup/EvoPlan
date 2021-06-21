@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.10,-,2013-04-13
+junit,4.11,+,2013-04-13
+junit,4.11,-,2013-04-13
+junit,4.10,+,2013-04-13
+fest-assert,1.4,+,2013-04-13
+fest-assert,1.4,-,2013-04-13
+mockito-core,1.8.5,+,2013-04-13
+mockito-core,1.8.5,-,2013-04-13

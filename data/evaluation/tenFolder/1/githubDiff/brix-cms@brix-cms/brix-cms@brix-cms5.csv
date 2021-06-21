@@ -1,0 +1,17 @@
+library,version,sign,date
+modeshape-connector-filesystem,2.5.0.Beta2,-,2017-01-03
+modeshape-connector-filesystem,2.4.0.Final,-,2011-04-24
+modeshape-jcr,2.5.0.Beta2,-,2017-01-03
+modeshape-jcr,2.4.0.Final,-,2011-04-24
+jcr,2.0,-,2011-03-16
+jcr,2.0,-,2012-06-26
+jcr,2.0,+,2011-03-16
+jcr,2.0,+,2012-06-26
+brix-core,1.2.3-SNAPSHOT,-,2011-03-16
+brix-core,6.0-SNAPSHOT,-,2012-06-26
+brix-core,8.0-SNAPSHOT,-,2017-01-20
+brix-core,1.3.0-SNAPSHOT,+,2011-03-16
+brix-core,8.0-SNAPSHOT,+,2012-06-26
+brix-core,1.3.0-SNAPSHOT,-,2011-05-11
+modeshape-sequencer-cnd,2.5.0.Beta2,-,2017-01-03
+modeshape-sequencer-cnd,2.4.0.Final,-,2011-04-24

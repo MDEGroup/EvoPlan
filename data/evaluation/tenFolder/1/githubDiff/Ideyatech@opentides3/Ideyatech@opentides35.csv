@@ -1,0 +1,12 @@
+library,version,sign,date
+core,3.1.0,-,2015-02-02
+core,3.0.1-SNAPSHOT,-,2015-01-16
+core,3.0.1-SNAPSHOT,-,2015-02-02
+core,3.1.0,+,2015-02-02
+gson,1.7.1,-,2015-05-08
+gson,1.7.1,+,2015-05-07
+gson,1.7.1,+,2015-05-08
+servlet-api,2.5,-,2015-02-02
+servlet-api,2.5,-,2015-05-07
+servlet-api,2.5,+,2015-02-02
+servlet-api,2.5,-,2015-05-08

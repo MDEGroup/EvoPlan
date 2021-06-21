@@ -1,0 +1,4 @@
+library,version,sign,date
+pan,%%{project.version}%%,-,2012-02-19
+pan,9.2-SNAPSHOT,-,2012-02-20
+pan,9.3-SNAPSHOT,-,2012-11-07

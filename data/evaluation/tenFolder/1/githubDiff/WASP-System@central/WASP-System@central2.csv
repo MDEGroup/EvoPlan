@@ -1,0 +1,5 @@
+library,version,sign,date
+xml-apis,1.4.01,+,2013-06-10
+exec-maven-plugin,1.2.1,+,2013-06-07
+selenium-htmlunit-driver,2.35.0,+,2013-10-10
+poi-ooxml,3.9,+,2013-06-10

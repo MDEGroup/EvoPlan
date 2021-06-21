@@ -1,0 +1,15 @@
+library,version,sign,date
+codegen,0.1,+,2010-07-29
+codegen,0.1,+,2010-06-18
+C2bip,0.1,+,2010-07-29
+C2bip,0.1,+,2010-06-18
+metamodel,0.1,+,2010-07-29
+metamodel,0.1,+,2010-06-18
+metamodel,1.0.0,-,2010-05-03
+metamodel,1.0.0,-,2010-06-04
+parser,0.1,+,2010-07-29
+parser,0.1,+,2010-06-18
+BIP-bip2src-backend,0.1,+,2010-07-29
+BIP-common-backend,0.1,+,2010-07-29
+ecore,2.5.0,-,2010-06-04
+ecore,2.5.0,+,2010-07-29

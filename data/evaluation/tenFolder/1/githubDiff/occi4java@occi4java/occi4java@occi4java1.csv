@@ -1,0 +1,15 @@
+library,version,sign,date
+occi4java.infrastructure,0.2,-,2012-04-16
+occi4java.core,0.2,-,2012-04-16
+antlr,3.5.1,+,2013-01-17
+antlr,3.4,-,2013-01-17
+antlr,3.3,-,2011-11-07
+antlr,3.4,+,2013-01-17
+org.restlet,2.1-SNAPSHOT,+,2012-04-26
+org.restlet,2.0.0,-,2013-01-17
+org.restlet,2.0.10,-,2011-11-07
+org.restlet,2.0.0,+,2013-01-17
+org.restlet,2.0.7,-,2011-05-31
+org.restlet,2.0.11,-,2012-04-15
+org.restlet,2.1-SNAPSHOT,-,2013-01-16
+org.restlet,2.0.5,-,2011-04-27

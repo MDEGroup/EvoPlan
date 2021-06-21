@@ -1,0 +1,8 @@
+library,version,sign,date
+urlrewritefilter,4.0.3,-,2017-05-12
+urlrewritefilter,4.0.3,+,2016-05-20
+weasis-i18n-dist,1.1.0-SNAPSHOT,-,2014-03-31
+weasis-i18n-dist,2.0.0-SNAPSHOT,-,2018-12-20
+weasis-i18n-dist,2.0.0-SNAPSHOT,+,2018-12-20
+weasis-i18n-dist,2.0.0-SNAPSHOT,+,2019-08-10
+weasis-i18n-dist,1.1.0-SNAPSHOT,+,2012-02-15

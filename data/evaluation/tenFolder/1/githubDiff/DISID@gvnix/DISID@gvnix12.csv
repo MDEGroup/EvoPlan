@@ -1,0 +1,9 @@
+library,version,sign,date
+easymock,3.0,+,2015-04-14
+easymock,3.0,+,2015-05-06
+easymock,3.0,-,2015-05-06
+org.osgi.core,4.2.0,-,2015-04-14
+commons-logging,1.1.1,-,2015-04-14
+commons-logging,1.1.1,-,2015-05-06
+commons-logging,1.1.1,+,2015-04-14
+commons-logging,1.1.1,+,2015-05-06

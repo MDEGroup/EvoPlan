@@ -1,0 +1,10 @@
+library,version,sign,date
+spring-test,4.0.2.RELEASE,-,2015-03-15
+spring-test,3.2.3.RELEASE,-,2014-03-31
+cassandra-unit,2.1.3.2-SNAPSHOT,+,2015-03-15
+cassandra-unit,2.1.3.2-SNAPSHOT,-,2015-07-22
+cassandra-unit,2.2.2.0,-,2015-12-16
+cassandra-unit,2.2.2.1-SNAPSHOT,-,2015-12-16
+cassandra-unit,2.2.2.0-SNAPSHOT,-,2015-10-19
+spring-context,4.0.2.RELEASE,-,2015-03-15
+spring-context,3.2.3.RELEASE,-,2014-03-31

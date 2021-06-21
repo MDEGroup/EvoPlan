@@ -1,0 +1,11 @@
+library,version,sign,date
+jcommon,1.0.15,+,2012-10-09
+jfreechart,1.0.12,-,2012-10-09
+jfreechart,1.0.12,-,2012-04-08
+jfreechart,1.0.12,+,2012-04-08
+jxl,2.6.10,+,2012-10-09
+servlet-api,2.4,-,2013-06-07
+servlet-api,2.4,+,2012-04-08
+servlet-api,2.5,+,2012-04-08
+servlet-api,2.5,-,2012-04-08
+servlet-api,2.4,-,2012-04-08

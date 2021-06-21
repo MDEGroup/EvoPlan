@@ -1,0 +1,12 @@
+library,version,sign,date
+mythicdropsapi-lib,1.0.0-SNAPSHOT,+,2014-04-11
+bukkit,LATEST,+,2013-07-03
+bukkit,LATEST,-,2013-10-20
+bukkit,LATEST,-,2014-04-13
+bukkit,LATEST,+,2013-10-20
+bukkit,LATEST,-,2013-07-03
+metrics,R7,+,2013-07-03
+metrics,R7,+,2013-06-01
+metrics,R7,-,2013-10-20
+metrics,R7,-,2013-07-03
+metrics,R7,+,2013-10-20

@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.10,+,2012-04-19
+junit,4.10,-,2012-04-19
+junit,4.10,+,2012-04-12
+junit,4.10,-,2012-04-12
+spring-context,3.0.5.RELEASE,+,2012-04-12
+spring-context,3.0.5.RELEASE,-,2012-04-19
+spring-context,3.0.5.RELEASE,+,2012-04-19
+spring-context,3.0.5.RELEASE,-,2012-04-12

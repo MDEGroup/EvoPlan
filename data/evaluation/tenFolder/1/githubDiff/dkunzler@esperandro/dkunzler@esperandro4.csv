@@ -1,0 +1,15 @@
+library,version,sign,date
+robolectric,2.2,-,2015-03-23
+junit,4.8.2,-,2015-03-23
+bintest,1.0-SNAPSHOT,-,2013-12-10
+bintest,1.1,+,2013-12-15
+bintest,1.1-SNAPSHOT,+,2013-12-10
+bintest,1.1-SNAPSHOT,-,2013-12-11
+bintest,1.0-SNAPSHOT,+,2013-11-15
+mockito-core,2.11.0,+,2017-07-20
+esperandro-api,1.0,+,2013-12-15
+esperandro-api,1.0,+,2013-11-15
+esperandro-api,1.0,+,2013-12-10
+esperandro-api,1.0,-,2013-12-11
+esperandro-api,1.0,-,2014-03-06
+esperandro-api,1.0,-,2013-12-10

@@ -1,0 +1,9 @@
+library,version,sign,date
+OkiOSID,2.0,-,2007-07-11
+OkiOSID,2.0,-,2007-07-12
+OkiOSID,2.0,+,2007-03-15
+OkiOSID,2.0,+,2007-07-24
+OkiOSID,2.0,-,2007-03-15
+OkiOSID,2.0,-,2007-03-16
+servlet-api,2.4,+,2007-03-15
+servlet-api,2.4,-,2007-03-16

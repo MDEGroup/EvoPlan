@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,3.8.1,-,2012-11-01
+junit,4.8.2,-,2012-01-09
+commons-collections,3.2.1,+,2012-11-01
+itext,2.1.7,+,2012-01-09

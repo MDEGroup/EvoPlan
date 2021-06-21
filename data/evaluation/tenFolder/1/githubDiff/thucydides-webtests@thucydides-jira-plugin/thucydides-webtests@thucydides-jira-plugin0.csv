@@ -1,0 +1,12 @@
+library,version,sign,date
+thucydides-core,0.4.2-SNAPSHOT,-,2011-09-18
+junit,4.8.2,+,2012-01-16
+junit,4.8.2,-,2013-10-20
+junit,4.8.2,-,2011-11-10
+fest-assert,1.4,+,2013-01-30
+spock-core,0.5-groovy-1.8,-,2013-02-27
+spock-core,0.5-groovy-1.8,+,2011-09-20
+poi,3.9,+,2013-12-04
+jersey-client,1.17.1,-,2013-07-17
+jersey-client,1.17.1,+,2013-05-06
+jersey-client,2.2,-,2013-10-20

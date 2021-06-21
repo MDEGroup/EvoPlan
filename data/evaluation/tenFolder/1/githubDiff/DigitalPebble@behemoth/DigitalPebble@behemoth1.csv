@@ -1,0 +1,12 @@
+library,version,sign,date
+commons-cli,2.0-mahout,-,2012-04-25
+commons-cli,2.0-mahout,+,2012-04-25
+langdetect,1.1-20120112,-,2012-04-25
+langdetect,1.1-20120112,+,2012-04-25
+commons-io,2.2,+,2012-04-25
+behemoth-core,1.0-SNAPSHOT,-,2012-04-25
+behemoth-core,1.1-SNAPSHOT,-,2012-11-09
+behemoth-core,1.0-SNAPSHOT,-,2012-11-06
+behemoth-core,1.1,-,2014-02-10
+behemoth-core,1.0-SNAPSHOT,+,2012-04-25
+behemoth-core,1.0,-,2012-11-09

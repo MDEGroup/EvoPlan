@@ -1,0 +1,5 @@
+library,version,sign,date
+org-openide-util-lookup,RELEASE73,-,2013-04-24
+junit,4.10,-,2013-04-24
+grscript-gui-util-eventbus,1.0-SNAPSHOT,+,2013-04-25
+grscript-gui-util-notification,1.0-SNAPSHOT,+,2013-04-25

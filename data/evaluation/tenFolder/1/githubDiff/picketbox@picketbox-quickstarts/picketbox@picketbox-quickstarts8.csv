@@ -1,0 +1,9 @@
+library,version,sign,date
+picketbox-core,5.0.0-SNAPSHOT,+,2012-07-12
+picketbox-core,5.0.0-SNAPSHOT,-,2012-08-02
+jboss-servlet-api_3.0_spec,1.0.1.Final,+,2012-07-12
+jboss-servlet-api_3.0_spec,1.0.1.Final,+,2012-08-19
+jboss-servlet-api_3.0_spec,1.0.1.Final,-,2012-08-24
+jboss-servlet-api_3.0_spec,1.0.1.Final,-,2012-08-02
+picketbox-http,5.0.0-SNAPSHOT,+,2012-07-12
+picketbox-http,5.0.0-SNAPSHOT,-,2012-08-02

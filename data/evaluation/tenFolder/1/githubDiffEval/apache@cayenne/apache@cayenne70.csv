@@ -1,0 +1,15 @@
+library,version,sign,date
+junit,4.11,-,2017-06-05
+slf4j-simple,1.7.25,+,2017-10-06
+hsqldb,2.3.5,-,2018-07-11
+hsqldb,2.3.6,-,2019-05-21
+hsqldb,2.3.4,-,2017-06-05
+cayenne-server,4.1.B2,-,2019-05-21
+cayenne-server,4.0.RC1,-,2018-07-11
+cayenne-server,4.0.RC1,+,2018-01-26
+cayenne-server,4.1.M2,-,2018-12-26
+cayenne-server,{version},+,2017-10-06
+mockito-core,2.23.4,-,2019-05-21
+mockito-core,2.8.9,-,2018-01-26
+mockito-core,2.8.9,+,2017-06-05
+mockito-core,2.18.3,-,2018-07-11

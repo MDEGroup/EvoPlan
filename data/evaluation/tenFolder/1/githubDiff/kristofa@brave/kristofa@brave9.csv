@@ -1,0 +1,8 @@
+library,version,sign,date
+javax.servlet-api,3.0.1,-,2017-05-06
+javax.servlet-api,3.0.1,-,2020-02-13
+javax.servlet-api,3.0.1,+,2017-05-06
+javax.servlet-api,3.0.1,-,2018-01-25
+jetty-servlet,@jetty-servlet25.version@,+,2017-12-05
+brave-instrumentation-http-tests,@project.version@,+,2020-02-25
+brave-instrumentation-http-tests,@project.version@,+,2020-01-22

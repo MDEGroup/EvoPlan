@@ -1,0 +1,4 @@
+library,version,sign,date
+import-common,0.0.1-SNAPSHOT,-,2014-01-23
+jackcess,1.2.10,-,2014-01-23
+commands-update,0.0.1-SNAPSHOT,-,2014-01-23

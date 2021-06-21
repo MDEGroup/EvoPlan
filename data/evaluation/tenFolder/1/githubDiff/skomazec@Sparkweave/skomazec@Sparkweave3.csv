@@ -1,0 +1,14 @@
+library,version,sign,date
+spark-grammar,1.0-SNAPSHOT,-,2012-06-25
+spark-grammar,1.0-SNAPSHOT,+,2012-06-25
+spark-grammar,1.0-SNAPSHOT,+,2012-05-09
+spark-core,1.0-SNAPSHOT,-,2012-06-25
+spark-core,1.0-SNAPSHOT,+,2012-02-14
+spark-core,1.0-SNAPSHOT,+,2012-06-25
+spark-core,1.0-SNAPSHOT,-,2012-05-09
+spark-core,1.0-SNAPSHOT,+,2012-02-22
+spark-core,1.0-SNAPSHOT,-,2012-02-14
+spark-core,1.0-SNAPSHOT,+,2012-05-09
+commons-lang3,3.1,+,2012-02-22
+jena,2.6.3,+,2012-02-14
+jena,2.6.3,-,2012-02-14

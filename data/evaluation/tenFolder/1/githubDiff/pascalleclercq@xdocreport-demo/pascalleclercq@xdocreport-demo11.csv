@@ -1,0 +1,4 @@
+library,version,sign,date
+org.apache.poi.xwpf.converter.xhtml,1.0.0-SNAPSHOT,-,2012-10-19
+org.apache.poi.xwpf.converter.xhtml,1.0.0-SNAPSHOT,+,2012-09-24
+org.apache.poi.xwpf.converter.pdf,1.0.0-SNAPSHOT,-,2012-10-19

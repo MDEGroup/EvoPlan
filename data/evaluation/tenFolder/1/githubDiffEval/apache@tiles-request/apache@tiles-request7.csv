@@ -1,0 +1,10 @@
+library,version,sign,date
+tiles-request-mustache,1.0-SNAPSHOT,-,2012-05-04
+tiles-request-mustache,1.1-SNAPSHOT,-,2012-07-11
+tiles-request-portlet,1.0-SNAPSHOT,-,2012-05-04
+tiles-request-api,1.0-SNAPSHOT,-,2012-05-04
+tiles-request-freemarker,1.0-SNAPSHOT,-,2012-05-04
+tiles-request-velocity,1.0-SNAPSHOT,-,2012-05-04
+tiles-request-servlet,1.0-SNAPSHOT,-,2012-05-04
+tiles-request-portlet-wildcard,1.0-SNAPSHOT,-,2012-05-04
+tiles-request-jsp,1.0-SNAPSHOT,-,2012-05-04

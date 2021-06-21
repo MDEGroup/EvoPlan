@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,3.8.1,-,2012-05-03
+junit,3.8.1,-,2012-02-15
+junit,3.8.1,+,2012-02-15
+junit,3.8.1,+,2012-05-03
+dsb-kernel,1.0-SNAPSHOT,+,2012-02-15
+dsb-kernel,1.0-SNAPSHOT,-,2012-05-03
+dsb-kernel,1.0-SNAPSHOT,-,2012-02-15
+edelweiss-core,1.0-SNAPSHOT,-,2012-05-03
+edelweiss-api,1.0-SNAPSHOT,-,2012-05-03

@@ -1,0 +1,14 @@
+library,version,sign,date
+apache-mime4j-dom,0.8.0-SNAPSHOT,+,2013-11-25
+apache-mime4j-dom,0.8.0-SNAPSHOT,+,2013-09-06
+slf4j-api,1.6.4,-,2013-11-25
+slf4j-api,1.7.5,+,2013-11-25
+slf4j-api,1.6.2,+,2013-11-25
+server,0.1.0-SNAPSHOT,+,2013-11-25
+server,0.1.0-SNAPSHOT,+,2013-11-12
+junit,4.11,+,2013-11-25
+jaxws-api,2.2.11,-,2013-09-19
+jaxws-api,2.2.11,+,2013-09-09
+org.apache.sling.commons.testing,2.0.14,+,2013-12-23
+apache-mime4j-storage,0.8.0-SNAPSHOT,+,2013-12-23
+apache-mime4j-storage,0.8.0-SNAPSHOT,+,2013-11-25

@@ -1,0 +1,11 @@
+library,version,sign,date
+slf4j-api,1.6.1,-,2012-06-18
+commons-configuration,1.9,+,2012-08-16
+org.eclipse.persistence.asm,2.3.2,-,2012-06-26
+org.eclipse.persistence.jpa,2.3.2,-,2012-06-26
+org.apache.felix.scr,1.6.0,+,2012-07-03
+org.apache.felix.scr,1.6.0,-,2015-01-01
+org.eclipse.persistence.antlr,2.3.2,-,2012-06-26
+org.eclipse.persistence.core,2.3.2,-,2012-06-26
+jguiraffe,1.2-SNAPSHOT,-,2012-09-29
+jguiraffe,1.1,-,2012-06-16

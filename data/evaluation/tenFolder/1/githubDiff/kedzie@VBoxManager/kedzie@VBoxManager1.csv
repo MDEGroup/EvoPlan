@@ -1,0 +1,6 @@
+library,version,sign,date
+javapoet,1.1.0,+,2014-09-20
+javawriter,2.5.0,+,2014-09-20
+auto-service,1.0-rc1,+,2014-09-20
+android,4.4_r1,-,2014-09-20
+android,6.0_r1,+,2014-09-20

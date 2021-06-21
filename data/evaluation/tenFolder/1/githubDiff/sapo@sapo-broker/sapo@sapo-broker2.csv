@@ -1,0 +1,4 @@
+library,version,sign,date
+junit,4.11,+,2014-08-06
+junit,4.11,-,2014-08-06
+sapo-broker-agent,4.0.50.Alpha4,+,2014-08-06

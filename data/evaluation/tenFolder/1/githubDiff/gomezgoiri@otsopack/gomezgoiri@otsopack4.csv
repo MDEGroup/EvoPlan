@@ -1,0 +1,14 @@
+library,version,sign,date
+easymock,3.0,-,2012-10-22
+easymock,3.0,+,2012-10-19
+easymock,3.0,-,2012-10-19
+otsoRestletCommons,1.1.1,+,2012-10-19
+otsoRestletCommons,1.1.1,-,2012-10-19
+otsoRestletCommons,1.1.1,-,2012-10-22
+junit,4.10,-,2012-10-19
+junit,3.8.1,+,2012-10-19
+junit,4.10,+,2012-10-19
+junit,4.10,-,2012-10-22
+junit,3.8.1,-,2012-10-19
+commons-io,1.4,+,2012-10-19
+commons-io,1.4,-,2012-10-19

@@ -1,0 +1,4 @@
+library,version,sign,date
+javax.jms-api,2.0,+,2013-09-25
+activemq-all,5.8.0,+,2013-09-25
+swows,0.0.1-SNAPSHOT,+,2013-09-25

@@ -1,0 +1,4 @@
+library,version,sign,date
+utils-dataunit,1.1.2,-,2014-12-19
+utils-dataunit-files,1.1.1,-,2014-12-19
+commons-io,2.4,+,2014-12-19

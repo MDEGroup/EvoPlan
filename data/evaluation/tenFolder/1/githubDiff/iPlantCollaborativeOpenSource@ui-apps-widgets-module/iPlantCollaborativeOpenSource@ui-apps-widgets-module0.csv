@@ -1,0 +1,7 @@
+library,version,sign,date
+ui-applications,gxt3Sandbox-SNAPSHOT,-,2013-04-10
+ui-applications,gxt3Sandbox-SNAPSHOT,+,2013-04-09
+ui-diskresource,gxt3Sandbox-SNAPSHOT,-,2013-04-10
+ui-diskresource,gxt3Sandbox-SNAPSHOT,+,2013-04-09
+gwtmockito,1.1.2,+,2014-02-25
+de-common,dev-SNAPSHOT,-,2012-03-20

@@ -1,0 +1,6 @@
+library,version,sign,date
+slf4j-log4j12,1.6.6,-,2013-07-04
+slf4j-log4j12,1.6.6,+,2013-07-04
+dma-commons-app,0.1-SNAPSHOT,+,2013-07-04
+dma-commons-app,0.1-SNAPSHOT,-,2013-11-19
+dma-commons-app,0.1,-,2014-08-29

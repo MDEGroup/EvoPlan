@@ -1,0 +1,15 @@
+library,version,sign,date
+cglib,2.2.2,+,2011-09-28
+jsf-impl,2.0.3,-,2011-09-26
+jsf-impl,2.0.3,+,2011-09-26
+hibernate-validator,4.2.0.Final,+,2012-01-11
+hibernate-validator,4.0.2.GA,+,2011-09-26
+hibernate-validator,4.0.2.GA,-,2011-09-26
+persistence-api,1.0,+,2011-09-26
+persistence-api,1.0,+,2011-10-30
+persistence-api,1.0,-,2012-01-11
+persistence-api,1.0,-,2011-09-26
+servlet-api,2.5,+,2011-09-26
+servlet-api,2.5,-,2011-09-26
+jsf-api,2.0.3,-,2011-09-26
+jsf-api,2.0.3,+,2011-09-26

@@ -1,0 +1,12 @@
+library,version,sign,date
+junit,4.8,-,2014-09-09
+junit,4.8,+,2014-09-09
+stream,2.4.0-SNAPSHOT,-,2013-07-10
+stream,2.3.0,-,2014-09-09
+stream,2.3.0,+,2014-09-09
+stream,2.4.0-SNAPSHOT,+,2013-05-22
+joda-time,2.1,+,2014-09-09
+joda-time,2.1,-,2014-09-09
+guava,11.0.1,-,2013-12-26
+guava,18.0,-,2014-09-09
+guava,18.0,+,2014-09-09

@@ -1,0 +1,5 @@
+library,version,sign,date
+spring-core,3.1.1.RELEASE,+,2012-03-23
+tagsoup,1.2.1,-,2012-03-23
+tagsoup,1.2.1,+,2012-02-14
+tagsoup,1.2.1,+,2012-03-23

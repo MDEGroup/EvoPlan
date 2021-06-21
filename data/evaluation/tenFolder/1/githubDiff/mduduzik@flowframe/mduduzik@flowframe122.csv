@@ -1,0 +1,4 @@
+library,version,sign,date
+vaadin,6.8.6,+,2013-05-28
+org.flowframe.uilegacy.component.domain,0.0.1,+,2013-05-28
+org.flowframe.kernel.common.mdm.domain,0.0.1,-,2013-06-03

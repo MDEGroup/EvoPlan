@@ -1,0 +1,6 @@
+library,version,sign,date
+maven-plugin-api,2.0,-,2013-05-05
+junit,3.8.1,+,2013-08-07
+junit,4.11,+,2013-08-07
+maven-plugin-annotations,3.2,+,2013-05-05
+maven-plugin-annotations,3.2,-,2013-05-05

@@ -1,0 +1,5 @@
+library,version,sign,date
+slf4j-api,1.6.3,+,2011-11-04
+org.kevoree.extra.jna,3.2.7,-,2011-11-07
+org.kevoree.extra.jna,3.2.7,+,2011-11-06
+org.osgi.core,4.2.0,+,2011-11-04

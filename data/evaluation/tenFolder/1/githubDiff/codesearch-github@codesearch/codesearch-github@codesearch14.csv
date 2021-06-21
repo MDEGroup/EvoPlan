@@ -1,0 +1,8 @@
+library,version,sign,date
+junit,4.8.2,-,2011-12-06
+junit,3.8.1,+,2011-12-06
+junit,4.8.2,+,2011-12-06
+codesearch-commons,0.1-RC1,-,2011-12-06
+codesearch-commons,0.1-RC2,-,2012-02-20
+commons-io,2.0.1,+,2011-12-06
+commons-io,2.0.1,-,2011-12-06

@@ -1,0 +1,4 @@
+library,version,sign,date
+avro,1.8.1,+,2016-06-01
+avro,1.8.1,+,2015-06-17
+avro,1.7.7,-,2015-06-17

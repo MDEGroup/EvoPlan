@@ -1,0 +1,15 @@
+library,version,sign,date
+slf4j-api,1.6.1,+,2011-08-04
+junit,4.8.2,-,2011-08-04
+junit,4.7,-,2011-09-21
+junit,4.8.2,-,2012-08-14
+junit,4.8.2,-,2011-09-21
+logback-classic,0.9.28,+,2011-09-21
+commons-gdx-core,0.0.5,-,2011-09-21
+commons-gdx-core,0.0.4-SNAPSHOT,-,2011-08-04
+commons-gdx-core,0.0.6-SNAPSHOT,-,2011-09-21
+commons-gdx-core,0.0.9-SNAPSHOT,-,2012-04-03
+commons-gdx-core,0.0.5-SNAPSHOT,-,2011-09-16
+commons-gdx-core,0.0.7,-,2011-12-31
+commons-gdx-core,0.0.8-SNAPSHOT,-,2011-12-31
+commons-gdx-core,0.0.7-SNAPSHOT,-,2011-11-25

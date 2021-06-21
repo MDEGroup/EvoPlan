@@ -1,0 +1,11 @@
+library,version,sign,date
+jackson-annotations,2.1.4,-,2013-10-18
+async,1.4.0,-,2013-10-18
+junit,4.11,-,2013-10-18
+lucene-core,3.6.2,+,2013-10-18
+high-scale-lib,1.1.4,-,2013-10-18
+disruptor,3.2.0,-,2013-10-18
+asynchbase,1.4.1,-,2013-10-18
+guava,13.0.1,-,2013-10-18
+opentsdb,2.0.0,-,2013-10-18
+javassist,3.18.0-GA,-,2013-10-18

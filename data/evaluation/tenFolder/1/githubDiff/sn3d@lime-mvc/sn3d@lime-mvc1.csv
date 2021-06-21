@@ -1,0 +1,16 @@
+library,version,sign,date
+easymock,3.0,-,2012-12-23
+easymock,3.0,+,2012-12-23
+guice-servlet,3.0,-,2012-12-23
+guice-multibindings,3.0,-,2012-12-23
+commons-httpclient,3.1,+,2012-12-23
+commons-httpclient,3.1,-,2012-12-23
+jsp-api,2.1,-,2012-12-23
+jsp-api,2.1,+,2012-12-23
+testng,6.1.1,+,2012-12-23
+testng,6.1.1,-,2012-12-23
+servlet-api,2.5,-,2012-12-23
+servlet-api,2.5,+,2012-12-23
+guice,3.0,-,2012-12-23
+javax.inject,1,-,2012-12-23
+javax.inject,1,+,2012-12-23

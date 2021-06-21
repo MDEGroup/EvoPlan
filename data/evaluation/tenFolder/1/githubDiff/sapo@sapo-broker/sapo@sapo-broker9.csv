@@ -1,0 +1,6 @@
+library,version,sign,date
+libthrift,0.9.1,+,2015-01-23
+libthrift,0.9.1,-,2015-01-23
+libthrift,0.8.0,-,2014-04-29
+libthrift,0.8.0,-,2014-01-31
+libthrift,0.9.1,-,2014-04-15

@@ -1,0 +1,9 @@
+library,version,sign,date
+windup-utils,4.0.0.Beta2.1,+,2017-06-06
+windup-utils,4.0.0.Beta2.1,-,2017-06-07
+windup-utils,4.0.0-20170606.145808-36,+,2017-06-06
+windup-utils,4.0.0-20170606.145808-36,-,2017-06-07
+cdi-api,2.25.4.Final,-,2017-06-07
+cdi-api,1.2,+,2017-06-06
+cdi-api,1.2,-,2017-06-07
+cdi-api,2.25.4.Final,+,2017-06-06

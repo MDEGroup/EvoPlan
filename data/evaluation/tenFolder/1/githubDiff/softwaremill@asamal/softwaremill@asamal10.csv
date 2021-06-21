@@ -1,0 +1,7 @@
+library,version,sign,date
+jsoup-ASAMAL,1.6.2,+,2012-04-17
+core-renderer,R8,+,2012-03-18
+commons-lang,2.5,+,2012-04-16
+asamal-extension-api,1-SNAPSHOT,+,2012-04-16
+cdi-api,1.0-SP4,+,2012-02-16
+asamal-velocity,1-SNAPSHOT,+,2012-04-16

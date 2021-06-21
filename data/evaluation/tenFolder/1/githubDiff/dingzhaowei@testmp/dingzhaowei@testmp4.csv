@@ -1,0 +1,13 @@
+library,version,sign,date
+datastore-client,1.0.0,+,2013-10-28
+datastore-client,1.0.1,+,2013-07-25
+datastore-client,1.0.0,-,2013-07-25
+datastore-client,1.0.0,+,2013-07-20
+datastore-client,1.0.1,-,2013-10-28
+smartgwt,3.1,-,2013-10-28
+smartgwt,4.0,+,2013-10-28
+testsync,1.0.2,+,2014-05-13
+testsync,1.0.1,+,2013-07-25
+testsync,1.0.0,-,2013-07-25
+testsync,1.0.0,+,2013-07-20
+testsync,1.0.1,-,2014-05-13

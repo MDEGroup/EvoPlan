@@ -1,0 +1,16 @@
+library,version,sign,date
+jackson-annotations,2.1.1,-,2014-11-09
+jackson-annotations,2.1.1,-,2015-01-03
+jackson-annotations,2.1.1,-,2014-11-30
+jackson-annotations,2.1.1,+,2014-11-30
+jackson-annotations,2.1.1,+,2014-11-09
+jackson-databind,2.1.1,-,2014-11-09
+jackson-databind,2.1.1,-,2015-01-03
+jackson-databind,2.1.1,-,2014-11-30
+jackson-databind,2.1.1,+,2014-11-30
+jackson-databind,2.1.1,+,2014-11-09
+jackson-core,2.1.1,-,2014-11-09
+jackson-core,2.1.1,-,2015-01-03
+jackson-core,2.1.1,-,2014-11-30
+jackson-core,2.1.1,+,2014-11-30
+jackson-core,2.1.1,+,2014-11-09

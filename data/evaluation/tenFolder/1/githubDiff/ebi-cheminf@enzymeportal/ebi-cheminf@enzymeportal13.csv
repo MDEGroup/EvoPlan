@@ -1,0 +1,15 @@
+library,version,sign,date
+chebiWS-client,2.3.2,-,2019-09-11
+chebiWS-client,2.0,-,2019-09-11
+chebiWS-client,2.3.2,-,2019-08-28
+junit-jupiter,5.4.2,-,2020-02-28
+junit-jupiter,5.4.2,+,2019-09-11
+lombok,1.18.12,-,2020-02-28
+lombok,1.18.6,+,2019-09-11
+lombok,1.18.4,-,2019-09-11
+lombok,1.18.6,-,2020-02-28
+lombok,1.18.6,-,2019-09-11
+lombok,1.16.14,-,2019-09-11
+lombok,1.16.18,-,2019-09-11
+lombok,1.18.12,+,2019-09-11
+jakarta.xml.ws-api,2.3.3,+,2020-02-28

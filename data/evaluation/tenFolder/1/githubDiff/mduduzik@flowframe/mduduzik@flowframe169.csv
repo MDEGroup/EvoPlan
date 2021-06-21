@@ -1,0 +1,17 @@
+library,version,sign,date
+jsp-api,2.0,+,2013-05-03
+org.flowframe.kernel.common.mdm.domain,0.0.1,+,2013-05-03
+httpcore-osgi,4.2.1,+,2013-05-03
+org.flowframe.erp.app.mdm.domain,0.0.1,+,2013-05-03
+org.flowframe.erp.app.contractmanagement.dao.services,0.0.1,+,2013-05-03
+cxf-rt-frontend-jaxws,2.5.2,+,2013-05-03
+gson,2.2.2,+,2013-05-03
+org.flowframe.erp.integration.adaptors.stripe.webhooks.soap.client,0.0.1,+,2013-05-03
+portlet-api,2.0,+,2013-05-03
+httpclient-osgi,4.2.1,+,2013-05-03
+testng,6.5.2,+,2013-05-03
+cxf-rt-transports-http,2.5.2,+,2013-05-03
+org.flowframe.thirdparty.stripe-java,1.2.2,+,2013-05-03
+flexjson,2.1,+,2013-05-03
+cxf-api,2.5.2,+,2013-05-03
+org.flowframe.kernel.common.mdm.dao.services,0.0.1,+,2013-05-03

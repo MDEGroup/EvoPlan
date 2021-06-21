@@ -1,0 +1,10 @@
+library,version,sign,date
+staxnav.core,0.9.1,-,2011-06-22
+staxnav.core,0.9.0,-,2011-04-11
+staxnav.core,1.1-SNAPSHOT,-,2011-04-03
+staxnav.core,0.9.1-SNAPSHOT,-,2011-04-11
+staxnav.core,0.9.2-SNAPSHOT,-,2011-06-22
+staxnav.core,0.9.2,-,2011-06-24
+staxnav.core,0.9.3-SNAPSHOT,-,2011-06-24
+staxnav.core,0.9.3,-,2011-06-24
+woodstox-core-asl,4.1.1,+,2011-03-08

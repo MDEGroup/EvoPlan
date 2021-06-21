@@ -1,0 +1,8 @@
+library,version,sign,date
+aspectjtools,1.7.2,+,2013-05-15
+persistence-api,1.0,+,2013-05-15
+dozer,5.4.0,+,2013-05-17
+poi-scratchpad,3.8,+,2013-05-20
+commons-dbcp,1.4,+,2013-05-15
+poi,3.8,+,2013-05-20
+poi-ooxml,3.8,+,2013-05-20

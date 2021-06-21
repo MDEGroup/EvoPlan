@@ -1,0 +1,9 @@
+library,version,sign,date
+org.eclipse.osgi,3.8.1.v20120830-144521,-,2012-10-15
+org.eclipse.osgi,3.8.0.v20120430-1750,-,2012-05-27
+org.eclipse.osgi,3.8.0.v20120123-1419,-,2012-02-06
+org.eclipse.osgi,3.9.1.v20130814-1242,-,2014-03-07
+org.eclipse.osgi,3.8.0.v20120123-1419,+,2011-11-29
+org.eclipse.osgi,3.9.0.v20130305-2200,-,2013-05-08
+org.eclipse.sisu.plexus,0.3.3,+,2019-03-22
+org.eclipse.sisu.plexus,0.3.3,-,2019-10-08

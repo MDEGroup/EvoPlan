@@ -1,0 +1,6 @@
+library,version,sign,date
+gedcomx-rt-support,0.3.0.BUILD-SNAPSHOT,-,2011-07-29
+mail,1.4.1,+,2011-07-29
+mail,1.4.1,-,2016-10-07
+mail,1.4.1,-,2011-07-26
+jersey-client,1.5,-,2011-07-26

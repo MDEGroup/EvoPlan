@@ -1,0 +1,6 @@
+library,version,sign,date
+bukkit,RELEASE,+,2012-11-07
+VanishNoPacket,3.2,-,2012-02-19
+VanishNoPacket,[3.7,),-,2012-04-25
+VanishNoPacket,[3.11-SNAPSHOT,),-,2012-11-07
+VanishNoPacket,3.0-SNAPSHOT,-,2012-04-15

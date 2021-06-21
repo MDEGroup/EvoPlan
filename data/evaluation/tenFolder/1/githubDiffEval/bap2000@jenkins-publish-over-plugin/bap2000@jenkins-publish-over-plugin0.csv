@@ -1,0 +1,11 @@
+library,version,sign,date
+easymock,2.4,+,2011-02-21
+easymock,2.4,-,2011-02-21
+junit,4.8.1,+,2011-02-21
+junit,4.8.1,-,2011-02-21
+commons-codec,1.4,-,2011-02-21
+commons-codec,1.4,+,2011-02-21
+easymockclassextension,2.4,+,2011-02-21
+easymockclassextension,2.4,-,2011-02-21
+mockito-core,1.8.5,+,2011-02-21
+mockito-core,1.8.5,-,2011-02-21

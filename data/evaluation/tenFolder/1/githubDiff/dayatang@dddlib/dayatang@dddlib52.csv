@@ -1,0 +1,4 @@
+library,version,sign,date
+assertj-core,3.1.0,+,2015-06-06
+assertj-core,3.5.2,+,2015-09-29
+assertj-core,3.1.0,-,2015-09-29

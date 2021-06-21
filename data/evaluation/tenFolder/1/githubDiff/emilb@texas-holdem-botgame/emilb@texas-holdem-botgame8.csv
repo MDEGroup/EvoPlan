@@ -1,0 +1,5 @@
+library,version,sign,date
+netty,3.5.4.Final,+,2012-07-02
+netty,3.5.7.Final,-,2013-03-05
+netty,3.2.5.Final,-,2011-10-05
+netty,3.5.4.Final,-,2012-09-14

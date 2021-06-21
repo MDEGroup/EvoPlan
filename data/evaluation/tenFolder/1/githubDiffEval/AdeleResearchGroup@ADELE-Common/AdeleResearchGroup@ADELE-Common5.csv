@@ -1,0 +1,16 @@
+library,version,sign,date
+json-service-json.org,0.4.0,+,2013-10-31
+distribution.minimal.base,1.0.4-SNAPSHOT,-,2013-02-13
+distribution.minimal.base,1.0.2,-,2013-02-08
+distribution.minimal.base,1.0.4,-,2013-02-13
+distribution.minimal.base,1.0.1-SNAPSHOT,-,2013-02-08
+distribution.minimal.base,1.0.3-SNAPSHOT,-,2013-02-08
+distribution.minimal.base,1.0.0-SNAPSHOT,-,2012-12-12
+distribution.minimal.base,1.0.1,-,2013-02-08
+distribution.minimal.base,1.0.3,-,2013-02-08
+distribution.minimal.base,1.0.2-SNAPSHOT,-,2013-02-08
+org.apache.felix.ipojo.handler.extender,1.4.0,-,2013-02-08
+org.apache.felix.prefs,1.0.4,+,2013-02-08
+org.apache.felix.prefs,1.0.4,-,2014-01-07
+org.apache.felix.prefs,1.0.6,+,2014-01-07
+org.apache.felix.prefs,1.0.4,-,2013-02-08

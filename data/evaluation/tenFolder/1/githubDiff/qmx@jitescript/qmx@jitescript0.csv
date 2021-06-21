@@ -1,0 +1,7 @@
+library,version,sign,date
+asm-all,4.0,+,2011-09-25
+asm-all,4.1,-,2013-11-02
+asm-all,4.0_RC1,-,2011-09-13
+asm-all,5.0_BETA,-,2014-04-07
+asm-all,4.0,-,2013-03-19
+fest-assert,1.4,+,2011-09-13

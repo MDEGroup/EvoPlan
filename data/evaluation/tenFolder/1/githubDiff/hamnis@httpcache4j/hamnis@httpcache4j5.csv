@@ -1,0 +1,13 @@
+library,version,sign,date
+async-http-client,2.0.10,-,2016-09-21
+async-http-client,1.7.21,-,2014-09-09
+async-http-client,1.7.5,-,2013-09-21
+async-http-client,1.0.0,-,2010-06-29
+async-http-client,2.0.31,-,2017-04-25
+async-http-client,1.3.3,-,2010-11-12
+async-http-client,1.9.8,-,2016-02-12
+mockito-core,1.10.19,-,2016-09-21
+mockito-core,1.7,-,2010-06-29
+mockito-core,2.7.22,-,2017-04-25
+mockito-core,1.9.5,-,2014-09-09
+mockito-core,1.7,-,2013-09-21

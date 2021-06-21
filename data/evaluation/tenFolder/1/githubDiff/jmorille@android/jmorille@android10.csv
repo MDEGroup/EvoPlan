@@ -1,0 +1,9 @@
+library,version,sign,date
+android,4.2.2_r2,-,2013-07-19
+android,4.3_r1,+,2013-07-19
+compatibility-v13,18,+,2013-07-19
+compatibility-v13,13,-,2013-07-19
+google-play-services,8,-,2013-07-19
+google-play-services,7,-,2013-07-09
+google-play-services,9,+,2013-07-19
+google-play-services,8,+,2013-07-09

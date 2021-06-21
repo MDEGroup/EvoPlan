@@ -1,0 +1,9 @@
+library,version,sign,date
+mvvmfx,1.8.0-SNAPSHOT,-,2018-10-09
+mvvmfx,1.9.0-SNAPSHOT,+,2018-10-09
+mvvmfx,1.7.0,+,2018-09-27
+mvvmfx,1.8.0-SNAPSHOT,+,2018-09-27
+mvvmfx,1.7.1-SNAPSHOT,-,2018-10-09
+mvvmfx,1.7.0,-,2018-10-09
+mvvmfx,1.7.0,-,2018-09-27
+mvvmfx,${mvvmfx.version},+,2018-10-09

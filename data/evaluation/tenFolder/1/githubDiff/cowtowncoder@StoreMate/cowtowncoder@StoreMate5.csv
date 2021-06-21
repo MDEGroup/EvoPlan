@@ -1,0 +1,8 @@
+library,version,sign,date
+compress-lzf,0.9.4,-,2012-08-24
+compress-lzf,0.9.4,+,2012-08-24
+compress-lzf,0.9.4,-,2012-09-07
+compress-lzf,0.9.8,+,2013-03-12
+compress-lzf,0.9.8,-,2013-03-12
+compress-lzf,0.9.8,-,2013-06-05
+compress-lzf,0.9.6,-,2013-03-05

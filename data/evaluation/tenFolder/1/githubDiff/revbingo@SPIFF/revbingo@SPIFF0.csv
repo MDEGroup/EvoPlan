@@ -1,0 +1,5 @@
+library,version,sign,date
+kotlin-reflect,1.0.0,+,2016-02-21
+kotlin-reflect,1.0.0,-,2016-02-27
+kotlin-stdlib,1.0.0,+,2016-02-21
+kotlin-stdlib,1.0.0,-,2016-02-27

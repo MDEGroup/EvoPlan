@@ -1,0 +1,4 @@
+library,version,sign,date
+selenium-server,2.25.0,+,2012-11-30
+selenium-server,2.25.0,-,2013-02-17
+jbehave-junit-runner,1.0.1,+,2013-02-08

@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,4.8.1,-,2010-09-01
+junit,4.8.1,+,2010-10-09
+junit,4.8.1,+,2010-09-01
+junit,4.8.1,-,2010-10-09
+mongo-java-driver,2.3,-,2011-11-25
+mongo-java-driver,2.5,-,2011-03-20
+mongo-java-driver,2.1,-,2010-10-07
+mongo-java-driver,2.1,+,2010-09-01
+mongo-java-driver,[2.7,),-,2011-11-25
+mongo-java-driver,2.2,-,2010-10-09
+mongo-java-driver,2.2,+,2010-10-09
+mongo-java-driver,2.3,+,2010-12-19
+mongo-java-driver,2.1,-,2010-09-01
+mongo-java-driver,2.2,-,2010-11-13
+mongo-java-driver,2.3,-,2011-03-20

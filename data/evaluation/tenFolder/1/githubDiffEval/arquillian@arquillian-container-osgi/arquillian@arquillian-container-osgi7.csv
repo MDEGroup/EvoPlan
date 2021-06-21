@@ -1,0 +1,7 @@
+library,version,sign,date
+slf4j-api,1.7.12,-,2017-05-22
+slf4j-api,1.7.12,+,2016-10-18
+org.osgi.core,4.3.0,-,2013-10-15
+org.osgi.core,4.3.0,+,2013-06-10
+jbosgi-metadata,4.0.0.CR1,+,2016-10-18
+com.liferay.shrinkwrap.osgi,1.0.0,+,2016-10-18

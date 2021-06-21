@@ -1,0 +1,17 @@
+library,version,sign,date
+stringtemplate,3.1-b1,-,2009-04-12
+spring-beans,2.5.2,-,2009-09-14
+spring-beans,2.5.2,+,2009-09-14
+junit,3.8.1,-,2009-04-03
+junit,3.8.2,-,2009-09-14
+junit,4.1,+,2008-12-02
+junit,4.7,+,2009-09-14
+spring-core,2.5.2,-,2009-09-14
+spring-core,2.5.2,+,2009-09-14
+qdox,1.6.3,-,2008-12-02
+commons-io,1.4,+,2009-04-03
+commons-lang,2.4,+,2009-03-07
+commons-lang,2.4,-,2009-05-15
+spring-context,2.5.2,+,2009-04-03
+spring-context,2.5.2,-,2009-09-14
+spring-context,2.5.2,+,2009-09-14

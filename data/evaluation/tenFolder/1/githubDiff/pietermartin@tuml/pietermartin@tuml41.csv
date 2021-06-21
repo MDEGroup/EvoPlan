@@ -1,0 +1,7 @@
+library,version,sign,date
+runtime-uml,0.0.1-SNAPSHOT,+,2014-01-04
+runtime-uml,0.0.1-SNAPSHOT,-,2014-03-21
+java-generation,0.0.1-SNAPSHOT,-,2014-03-21
+java-generation,0.0.1-SNAPSHOT,+,2014-01-04
+java-generation,0.0.1-SNAPSHOT,+,2013-06-15
+runtime-groovy,0.0.1-SNAPSHOT,-,2014-03-21

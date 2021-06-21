@@ -1,0 +1,7 @@
+library,version,sign,date
+annotations,0.3-alpha-1-SNAPSHOT,-,2010-06-15
+annotations,0.3-alpha-1-SNAPSHOT,+,2010-06-15
+annotations,0.3-alpha-1-SNAPSHOT,+,2010-05-03
+target-descriptor,2.1.0,+,2010-05-03
+target-descriptor,2.1.0,+,2010-06-15
+target-descriptor,2.1.0,-,2010-06-15

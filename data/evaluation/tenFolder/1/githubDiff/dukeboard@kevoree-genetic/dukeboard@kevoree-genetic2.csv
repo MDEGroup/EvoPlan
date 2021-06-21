@@ -1,0 +1,6 @@
+library,version,sign,date
+commons-math,2.2,+,2013-09-06
+commons-math,2.2,-,2013-09-06
+commons-lang3,3.1,-,2013-09-06
+commons-lang3,3.1,+,2013-09-06
+commons-math3,3.2,+,2013-09-19

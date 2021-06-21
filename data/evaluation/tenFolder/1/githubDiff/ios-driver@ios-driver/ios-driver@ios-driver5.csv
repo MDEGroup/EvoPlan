@@ -1,0 +1,11 @@
+library,version,sign,date
+ios-common,1.0.0-SNAPSHOT,-,2012-11-25
+testng,6.1.1,-,2012-05-20
+testng,6.1.1,+,2012-05-19
+testng,6.1.1,-,2012-11-25
+testng,6.8,-,2013-09-27
+testng,6.8,-,2012-12-02
+testng,6.8,-,2012-12-08
+testng,6.8.5,-,2014-01-17
+testng,6.1.1,+,2012-05-20
+testng,6.8,+,2012-12-08

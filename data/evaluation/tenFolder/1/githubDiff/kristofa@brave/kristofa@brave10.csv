@@ -1,0 +1,16 @@
+library,version,sign,date
+junit,@junit.version@,+,2017-05-06
+junit,@junit.version@,+,2018-08-27
+junit,@junit.version@,-,2017-09-23
+junit,@junit.version@,+,2017-09-23
+junit,@junit.version@,+,2017-05-13
+assertj-core,@assertj.version@,+,2017-05-06
+assertj-core,@assertj.version@,+,2018-08-27
+assertj-core,@assertj.version@,-,2017-09-23
+assertj-core,@assertj.version@,+,2017-09-23
+assertj-core,@assertj.version@,+,2017-05-13
+jetty-servlet,@jetty-servlet25.version@,+,2017-09-23
+servlet-api,2.5,-,2017-05-10
+servlet-api,2.5,+,2017-09-23
+servlet-api,2.5,+,2017-05-10
+servlet-api,2.5,-,2017-09-23

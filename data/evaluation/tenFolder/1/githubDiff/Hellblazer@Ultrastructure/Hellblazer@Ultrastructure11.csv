@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.11,-,2016-04-04
+junit,4.11,+,2016-04-04
+maven-plugin-api,3.0.4,+,2016-04-04
+maven-plugin-api,3.0.4,-,2016-04-04
+logback-classic,1.2.1,+,2016-04-04
+logback-classic,1.1.2,-,2016-04-04
+logback-classic,1.1.1,-,2015-09-13
+mockito-core,1.9.5,-,2016-04-04
+mockito-core,1.9.5,+,2016-04-04

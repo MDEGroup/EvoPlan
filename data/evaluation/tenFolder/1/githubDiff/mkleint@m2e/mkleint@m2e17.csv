@@ -1,0 +1,11 @@
+library,version,sign,date
+sisu-guice,2.9.1,-,2011-02-02
+sisu-guice,2.9.4,+,2011-02-02
+wagon-ahc,1.1.0,-,2011-03-09
+wagon-ahc,1.0.0,-,2011-02-02
+wagon-ahc,1.2.0,+,2011-03-09
+wagon-ahc,1.1.0,+,2011-02-02
+plexus-build-api,0.0.6,-,2011-02-02
+plexus-build-api,0.0.7-SNAPSHOT,-,2011-02-10
+plexus-build-api,0.0.7-SNAPSHOT,+,2011-02-02
+plexus-build-api,0.0.7,+,2011-02-10

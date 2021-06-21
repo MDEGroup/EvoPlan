@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.12,-,2015-02-12
+junit,4.12,+,2015-02-12
+lombok,1.16.0,+,2015-02-12
+lombok,1.16.0,-,2015-02-12

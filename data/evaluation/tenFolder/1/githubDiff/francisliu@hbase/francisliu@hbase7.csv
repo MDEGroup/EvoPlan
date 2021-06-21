@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.13,+,2019-05-21
+junit,4.12,-,2019-05-21
+htrace-core4,4.0.1-incubating,+,2016-10-16
+htrace-core4,4.0.1-incubating,-,2017-07-07

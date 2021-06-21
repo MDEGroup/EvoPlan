@@ -1,0 +1,5 @@
+library,version,sign,date
+craftbukkit,1.6.2-R0.1-SNAPSHOT,+,2013-08-01
+craftbukkit,1.6.2-R0.1-SNAPSHOT,-,2013-08-01
+bukkit,1.6.2-R0.1-SNAPSHOT,+,2013-08-01
+BKCommonLib,1.54-SNAPSHOT,+,2013-08-01

@@ -1,0 +1,15 @@
+library,version,sign,date
+jersey-json,1.8-SNAPSHOT,-,2011-11-02
+jersey-json,1.8-SNAPSHOT,+,2011-06-24
+jersey-client,1.8-SNAPSHOT,-,2011-11-02
+jersey-client,1.19,-,2015-02-11
+jersey-client,1.20-SNAPSHOT,-,2016-08-24
+jersey-client,1.14-SNAPSHOT,-,2012-06-25
+jersey-client,1.18-SNAPSHOT,-,2013-11-18
+jersey-client,1.16-SNAPSHOT,-,2012-10-29
+jersey-client,1.18,-,2013-11-21
+jersey-client,1.17-SNAPSHOT,-,2012-11-27
+jersey-client,1.14-SNAPSHOT,+,2012-02-16
+jersey-client,1.8-SNAPSHOT,+,2011-06-24
+jersey-client,1.19-SNAPSHOT,-,2015-02-05
+jersey-client,1.15-SNAPSHOT,-,2012-09-07

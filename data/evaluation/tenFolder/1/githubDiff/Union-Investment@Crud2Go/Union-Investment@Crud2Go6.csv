@@ -1,0 +1,10 @@
+library,version,sign,date
+groovy-all,1.8.4,-,2014-07-24
+groovy-all,1.8.4,-,2014-07-28
+groovy-all,2.3.4,-,2014-07-24
+spock-core,0.7-groovy-2.0,-,2014-07-24
+spock-core,0.7-groovy-1.8,-,2014-07-24
+spock-core,0.7-groovy-1.8,-,2014-07-28
+transaction-api,1.1,+,2014-07-28
+transaction-api,1.1,-,2014-07-24
+transaction-api,1.1,+,2014-07-24

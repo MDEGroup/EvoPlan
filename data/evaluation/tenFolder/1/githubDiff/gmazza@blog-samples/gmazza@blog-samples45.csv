@@ -1,0 +1,9 @@
+library,version,sign,date
+cxf-x509-profile-service,1.0-SNAPSHOT,-,2012-05-18
+cxf-x509-profile-service,1.0-SNAPSHOT,+,2012-10-30
+spring-web,3.0.6.RELEASE,+,2012-05-18
+spring-web,3.0.6.RELEASE,-,2012-10-30
+spring-web,3.0.6.RELEASE,-,2013-03-14
+spring-web,5.0.5.RELEASE,+,2013-03-14
+spring-web,3.0.7.RELEASE,-,2013-03-14
+spring-context,5.0.5.RELEASE,+,2013-03-14

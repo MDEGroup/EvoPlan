@@ -1,0 +1,14 @@
+library,version,sign,date
+commons-cli,1.2,-,2013-04-24
+commons-cli,1.2,+,2013-01-31
+commons-cli,1.2,+,2013-06-11
+commons-cli,1.2,+,2013-03-19
+commons-io,2.1,+,2013-03-19
+commons-io,1.4,-,2013-03-19
+commons-io,1.4,+,2013-03-19
+commons-exec,1.1,+,2013-04-15
+commons-exec,1.1,+,2013-03-19
+snakeyaml,1.6,-,2013-08-15
+snakeyaml,1.12,+,2013-04-24
+snakeyaml,1.10,-,2013-04-15
+snakeyaml,1.12,-,2013-05-10

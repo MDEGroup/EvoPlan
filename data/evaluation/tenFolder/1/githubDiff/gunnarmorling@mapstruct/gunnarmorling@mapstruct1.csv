@@ -1,0 +1,10 @@
+library,version,sign,date
+junit,4.11,+,2014-04-02
+junit,4.11,-,2014-11-30
+junit,4.12,+,2015-11-25
+junit,4.12,+,2017-01-05
+junit,4.11,-,2014-04-02
+junit,4.11,+,2014-03-19
+maven-verifier,1.5,+,2014-09-14
+maven-verifier,1.5,+,2014-06-27
+maven-verifier,1.5,-,2014-09-14

@@ -1,0 +1,5 @@
+library,version,sign,date
+junit,4.10,-,2013-08-18
+junit,4.11,+,2013-07-04
+junit,4.11,+,2013-08-18
+build-test-producer,0.4-SNAPSHOT,-,2013-07-04

@@ -1,0 +1,17 @@
+library,version,sign,date
+mongo-java-driver,2.6,+,2011-07-15
+mongo-java-driver,2.6,-,2011-07-15
+elasticsearch,0.20.4,-,2013-02-19
+elasticsearch,0.20.5,-,2013-03-27
+elasticsearch,0.20.5,+,2013-03-27
+elasticsearch,0.20.4,+,2012-10-17
+mail,1.4,+,2011-08-13
+mail,1.4,-,2013-06-26
+jedis,2.0.0,+,2013-04-15
+jedis,2.0.0,-,2013-04-24
+apns,0.1.6,+,2011-08-18
+gson,1.7.1,+,2013-08-20
+imgscalr-lib,4.2,+,2014-06-25
+hector-core,0.8.0-1,-,2013-06-15
+hector-core,1.0-5,+,2013-06-15
+netty,3.2.7.Final,+,2011-09-22

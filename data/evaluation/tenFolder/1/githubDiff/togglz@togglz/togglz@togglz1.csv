@@ -1,0 +1,6 @@
+library,version,sign,date
+junit,4.10,-,2018-06-30
+junit,4.10,+,2018-06-30
+guava,19.0,-,2018-06-30
+mockito-core,1.9.5,-,2018-06-30
+mockito-core,1.9.5,+,2018-06-30

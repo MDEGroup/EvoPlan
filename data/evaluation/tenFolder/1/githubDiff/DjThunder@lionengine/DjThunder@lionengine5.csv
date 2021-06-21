@@ -1,0 +1,8 @@
+library,version,sign,date
+lionengine-core,6.0.0-SNAPSHOT,+,2013-10-18
+lionengine-core,6.0.0-SNAPSHOT,-,2013-11-29
+lionengine-core,6.0.0-SNAPSHOT,-,2013-10-18
+lionengine-core,6.2.0-SNAPSHOT,+,2014-04-07
+lionengine-core,6.1.0-SNAPSHOT,-,2014-03-30
+lionengine-core,6.2.0-SNAPSHOT,-,2014-04-08
+lionengine-core-awt,6.2.0-SNAPSHOT,-,2014-04-08

@@ -1,0 +1,5 @@
+library,version,sign,date
+commons-compress,1.7,-,2017-05-09
+commons-compress,1.7,-,2017-02-06
+commons-compress,1.7,+,2014-03-07
+commons-compress,1.11,-,2017-04-14

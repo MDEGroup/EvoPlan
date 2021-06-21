@@ -1,0 +1,4 @@
+library,version,sign,date
+rubyzip2,2.0.1,+,2011-01-26
+rubyzip2,2.0.1,-,2015-03-30
+rubyzip2,2.0.1,+,2010-12-06

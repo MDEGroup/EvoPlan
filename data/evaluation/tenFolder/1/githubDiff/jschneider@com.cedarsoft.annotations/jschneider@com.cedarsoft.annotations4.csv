@@ -1,0 +1,9 @@
+library,version,sign,date
+test-utils,5.1.2,-,2013-12-01
+test-utils,5.1.7,-,2013-03-18
+test-utils,5.1.2,-,2012-11-24
+jsr305,2.0.1,-,2013-04-03
+jsr305,2.0.1,+,2012-10-17
+fest-reflect,1.4,+,2013-12-01
+fest-reflect,1.4,+,2013-10-29
+fest-reflect,1.4,-,2014-10-02

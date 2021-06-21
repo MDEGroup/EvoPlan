@@ -1,0 +1,6 @@
+library,version,sign,date
+protocol,0.1.0_RC1,-,2012-07-21
+protocol,0.2.1,-,2013-08-06
+protocol,0.2.1,+,2013-03-27
+database,0.2.1,-,2013-08-06
+database,0.2.1,+,2013-03-27

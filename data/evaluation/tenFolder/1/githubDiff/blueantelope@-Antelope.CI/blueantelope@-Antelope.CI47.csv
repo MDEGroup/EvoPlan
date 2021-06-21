@@ -1,0 +1,6 @@
+library,version,sign,date
+slf4j-api,1.7.5,+,2013-07-30
+slf4j-nop,1.7.5,+,2013-07-30
+sshd-pam,0.8.0,+,2013-07-30
+sshd-core,0.8.0,+,2013-07-30
+log4j,1.2.16,+,2013-07-30

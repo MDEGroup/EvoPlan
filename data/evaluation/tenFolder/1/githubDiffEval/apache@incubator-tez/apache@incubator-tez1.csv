@@ -1,0 +1,16 @@
+library,version,sign,date
+hadoop-mapreduce-client-common,3.0.0-SNAPSHOT,-,2013-04-22
+tez-common,0.3.0-SNAPSHOT,+,2013-10-09
+tez-common,0.3.0-SNAPSHOT,-,2013-11-26
+protobuf-java,2.4.0a,+,2013-05-03
+protobuf-java,2.4.0a,-,2013-06-07
+tez-runtime-library,0.3.0-SNAPSHOT,+,2013-10-09
+tez-runtime-library,0.3.0-SNAPSHOT,-,2013-11-26
+hadoop-yarn-server-tests,3.0.0-SNAPSHOT,-,2013-04-22
+hadoop-mapreduce-client-shuffle,3.0.0-SNAPSHOT,-,2013-04-22
+hadoop-common,3.0.0-SNAPSHOT,-,2013-04-22
+hadoop-mapreduce-client-core,3.0.0-SNAPSHOT,-,2013-04-22
+tez-runtime-internals,0.3.0-SNAPSHOT,+,2013-10-09
+tez-runtime-internals,0.3.0-SNAPSHOT,-,2013-11-26
+tez-api,0.3.0-SNAPSHOT,+,2013-10-09
+tez-api,0.3.0-SNAPSHOT,-,2013-11-26

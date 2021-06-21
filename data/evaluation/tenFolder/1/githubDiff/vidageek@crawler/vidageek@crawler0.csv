@@ -1,0 +1,9 @@
+library,version,sign,date
+docopt,0.6.0-SNAPSHOT,+,2011-05-19
+icu4j,4.6,+,2010-10-19
+jmock,2.4.0,+,2008-06-18
+httpclient,4.0.3,-,2019-01-20
+httpclient,4.0.3,+,2010-10-19
+httpclient,4.0,-,2010-10-19
+httpclient,4.0,+,2009-11-06
+log4j,1.2.14,+,2008-07-14

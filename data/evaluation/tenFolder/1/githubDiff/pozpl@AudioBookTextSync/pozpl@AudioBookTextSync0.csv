@@ -1,0 +1,8 @@
+library,version,sign,date
+commons-cli,1.2,+,2012-07-22
+jmock-junit4,2.6.0,+,2012-11-17
+js,4.0,+,2012-06-09
+jsapi,4.0,+,2012-06-09
+sphinx4,1.0-beta6,+,2012-07-17
+sphinx4,4.0,+,2012-06-09
+tags,4.0,+,2012-06-09

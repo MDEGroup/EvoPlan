@@ -1,0 +1,4 @@
+library,version,sign,date
+jetty-server,8.1.0.RC5,-,2012-03-17
+jetty-server,8.0.0.M2,-,2011-05-27
+jetty-server,8.0.0.M2,+,2011-05-27

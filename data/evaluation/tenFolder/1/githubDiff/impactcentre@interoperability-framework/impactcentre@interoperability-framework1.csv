@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.11,-,2014-12-17
+junit,4.11,+,2014-12-17
+taverna-server-rest-api,0.2.0,+,2014-11-25
+commons-io,2.4,-,2014-12-17
+commons-io,2.4,-,2014-11-25
+commons-io,2.4,+,2014-12-17
+taverna-server-client,0.9.0,+,2014-11-25
+servlet-api,2.5,-,2014-11-25

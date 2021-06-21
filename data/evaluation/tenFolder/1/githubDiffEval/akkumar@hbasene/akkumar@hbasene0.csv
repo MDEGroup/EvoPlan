@@ -1,0 +1,9 @@
+library,version,sign,date
+junit,4.5,+,2010-04-18
+commons-logging,1.1.1,+,2010-02-11
+hbase-core,0.21.0-SNAPSHOT,-,2010-04-18
+hbase-core,0.20.4,-,2010-04-23
+hbase-core,0.20.5-SNAPSHOT,+,2010-04-27
+commons-io,1.4,+,2010-02-12
+google-collections,1.0,+,2010-04-02
+jsr166y,1.7.0-20100501,+,2010-04-30

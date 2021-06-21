@@ -1,0 +1,10 @@
+library,version,sign,date
+mockito-core,2.2.5,-,2016-11-24
+mockito-core,2.0.2-beta,-,2016-10-18
+mockito-core,1.8.5,-,2013-08-08
+mockito-core,2.0.2-beta,+,2013-08-08
+netty,3.2.6.Final,-,2013-08-08
+netty,3.10.6.Final,+,2016-10-18
+netty,3.10.6.Final,-,2016-10-20
+netty,3.2.6.Final,-,2016-10-18
+netty,3.2.6.Final,+,2013-08-08

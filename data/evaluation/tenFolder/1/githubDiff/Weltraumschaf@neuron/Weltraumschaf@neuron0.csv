@@ -1,0 +1,8 @@
+library,version,sign,date
+mockito-all,1.9.5,+,2012-11-11
+jline,2.9,+,2012-11-25
+commons-io,2.4,+,2012-11-18
+commons,0.2.5,+,2012-11-10
+commons,0.2.6-SNAPSHOT,-,2012-11-21
+commons,0.2.6,-,2012-11-22
+commons,0.2.5,-,2012-11-18

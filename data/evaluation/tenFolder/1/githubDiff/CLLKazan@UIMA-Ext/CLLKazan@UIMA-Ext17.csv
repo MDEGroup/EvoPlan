@@ -1,0 +1,13 @@
+library,version,sign,date
+uimafit-core,2.1.0,+,2014-11-06
+junit,4.10,-,2013-02-05
+mysql-connector-java,5.1.21,+,2012-09-28
+mysql-connector-java,5.1.21,-,2013-02-05
+mysql-connector-java,5.1.21,+,2013-02-05
+spring-jdbc,3.1.2.RELEASE,-,2013-02-05
+jcommander,1.32,+,2013-02-05
+jcommander,1.32,-,2014-11-06
+commons-dbcp,1.4,-,2013-02-05
+commons-dbcp,1.4,+,2013-02-05
+guava,12.0,-,2013-02-05
+guava,14.0.1,-,2014-11-06

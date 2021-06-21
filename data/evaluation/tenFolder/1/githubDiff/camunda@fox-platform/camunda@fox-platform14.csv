@@ -1,0 +1,11 @@
+library,version,sign,date
+junit,4.8.2,+,2012-03-22
+junit,4.8.2,+,2012-07-05
+junit,4.8.2,+,2012-04-02
+junit,4.8.2,-,2012-07-05
+junit,4.8.2,-,2012-04-02
+arquillian-junit-container,1.0.0.CR7,+,2012-03-22
+arquillian-junit-container,1.0.0.CR7,-,2012-05-03
+arquillian-junit-container,1.0.0.CR7,-,2012-04-02
+arquillian-junit-container,1.0.0.CR7,-,2012-07-05
+arquillian-junit-container,1.0.0.CR7,+,2012-04-04

@@ -1,0 +1,12 @@
+library,version,sign,date
+jline,3.4.0,+,2017-08-28
+jline,3.3.0,-,2017-08-28
+spring-shell-table,2.0.1.RELEASE,-,2018-04-25
+spring-shell-table,2.0.0.M1,-,2017-09-14
+spring-shell-table,2.0.0.M2,-,2017-10-04
+spring-shell-table,2.0.1.BUILD-SNAPSHOT,-,2018-01-16
+spring-shell-table,2.0.0.BUILD-SNAPSHOT,-,2017-09-14
+spring-shell-table,2.0.2.BUILD-SNAPSHOT,-,2018-04-25
+spring-shell-table,2.0.0.RELEASE,-,2018-01-16
+spring-shell-table,2.0.0.BUILD-SNAPSHOT,-,2017-10-04
+spring-shell-table,3.0.0.BUILD-SNAPSHOT,+,2018-11-14
